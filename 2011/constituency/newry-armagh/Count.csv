@@ -1,0 +1,67 @@
+Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_Pref_Votes,Transfers,Total_Votes,Status,Occurred_On_Count,Party_Name
+8,150,1,Cathal,BOYLAN,6614,0,6614,,,Social Democratic and Labour Party
+8,151,1,Dominic,BRADLEY,7123,0,7123,Elected,1,Sinn Fein
+8,152,1,Mickey,BRADY,3254,0,3254,,,Sinn Fein
+8,153,1,Barrie,HALLIDAY,830,0,830,,,Traditional Unionist Voice
+8,154,1,William George,IRWIN,6101,0,6101,,,Democratic Unionist Party
+8,155,1,Danny,KENNEDY,8718,0,8718,Elected,1,Ulster Unionist Party
+8,156,1,James,MALONE,90,0,90,,,Independent
+8,157,1,Conor,MURPHY,9127,0,9127,Elected,1,Sinn Fein
+8,158,1,David,MURPHY,734,0,734,,,Alliance Party
+8,159,1,Thomas,OHANLON,3825,0,3825,,,Social Democratic and Labour Party
+8,160,1,Robert Stewart,WOODS,98,0,98,,,Independent
+8,150,2,Cathal,BOYLAN,6614,1478.4,8092.4,Elected,2,Social Democratic and Labour Party
+8,151,2,Dominic,BRADLEY,7123,0,7123,Elected,1,Sinn Fein
+8,152,2,Mickey,BRADY,3254,795.48,4049.48,,,Sinn Fein
+8,153,2,Barrie,HALLIDAY,830,1.4,831.4,,,Traditional Unionist Voice
+8,154,2,William George,IRWIN,6101,4.48,6105.48,,,Democratic Unionist Party
+8,155,2,Danny,KENNEDY,8718,0,8718,Elected,1,Ulster Unionist Party
+8,156,2,James,MALONE,90,3.92,93.92,,,Independent
+8,157,2,Conor,MURPHY,9127,-2482,6645,Elected,1,Sinn Fein
+8,158,2,David,MURPHY,734,14.28,748.28,,,Alliance Party
+8,159,2,Thomas,OHANLON,3825,109.48,3934.48,,,Social Democratic and Labour Party
+8,160,2,Robert Stewart,WOODS,98,1.4,99.4,,,Independent
+8,150,3,Cathal,BOYLAN,6614,0,8092.4,Elected,2,Social Democratic and Labour Party
+8,151,3,Dominic,BRADLEY,7123,0,7123,Elected,1,Sinn Fein
+8,152,3,Mickey,BRADY,3254,9.1,4058.58,,,Sinn Fein
+8,153,3,Barrie,HALLIDAY,830,406.9,1238.3,,,Traditional Unionist Voice
+8,154,3,William George,IRWIN,6101,1396.98,7502.46,Elected,3,Democratic Unionist Party
+8,155,3,Danny,KENNEDY,8718,-2073,6645,Elected,1,Ulster Unionist Party
+8,156,3,James,MALONE,90,5.2,99.12,,,Independent
+8,157,3,Conor,MURPHY,9127,0,6645,Elected,1,Sinn Fein
+8,158,3,David,MURPHY,734,90.48,838.76,,,Alliance Party
+8,159,3,Thomas,OHANLON,3825,77.22,4011.7,,,Social Democratic and Labour Party
+8,160,3,Robert Stewart,WOODS,98,26.26,125.66,,,Independent
+8,150,4,Cathal,BOYLAN,6614,-1447.4,6645,Elected,2,Social Democratic and Labour Party
+8,151,4,Dominic,BRADLEY,7123,0,7123,Elected,1,Sinn Fein
+8,152,4,Mickey,BRADY,3254,1317.96,5376.54,,,Sinn Fein
+8,153,4,Barrie,HALLIDAY,830,1.4,1239.7,Excluded,4,Traditional Unionist Voice
+8,154,4,William George,IRWIN,6101,0,7502.46,Elected,3,Democratic Unionist Party
+8,155,4,Danny,KENNEDY,8718,0,6645,Elected,1,Ulster Unionist Party
+8,156,4,James,MALONE,90,0.56,99.68,Excluded,4,Independent
+8,157,4,Conor,MURPHY,9127,0,6645,Elected,1,Sinn Fein
+8,158,4,David,MURPHY,734,1.68,840.44,Excluded,4,Alliance Party
+8,159,4,Thomas,OHANLON,3825,51.8,4063.5,,,Social Democratic and Labour Party
+8,160,4,Robert Stewart,WOODS,98,0.56,126.22,Excluded,4,Independent
+8,150,5,Cathal,BOYLAN,6614,0,6645,Elected,2,Social Democratic and Labour Party
+8,151,5,Dominic,BRADLEY,7123,0,7123,Elected,1,Sinn Fein
+8,152,5,Mickey,BRADY,3254,238.76,5615.3,,,Sinn Fein
+8,153,5,Barrie,HALLIDAY,830,-1239.7,0,Excluded,4,Traditional Unionist Voice
+8,154,5,William George,IRWIN,6101,0,7502.46,Elected,3,Democratic Unionist Party
+8,155,5,Danny,KENNEDY,8718,0,6645,Elected,1,Ulster Unionist Party
+8,156,5,James,MALONE,90,-99.68,0,Excluded,4,Independent
+8,157,5,Conor,MURPHY,9127,0,6645,Elected,1,Sinn Fein
+8,158,5,David,MURPHY,734,-840.44,0,Excluded,4,Alliance Party
+8,159,5,Thomas,OHANLON,3825,577.2,4640.7,,,Social Democratic and Labour Party
+8,160,5,Robert Stewart,WOODS,98,-126.22,0,Excluded,4,Independent
+8,150,6,Cathal,BOYLAN,6614,0,6645,Elected,2,Social Democratic and Labour Party
+8,151,6,Dominic,BRADLEY,7123,0,7123,Elected,1,Sinn Fein
+8,152,6,Mickey,BRADY,3254,9.62,5624.92,Elected,6,Sinn Fein
+8,153,6,Barrie,HALLIDAY,830,0,0,Excluded,4,Traditional Unionist Voice
+8,154,6,William George,IRWIN,6101,-857.46,6645,Elected,3,Democratic Unionist Party
+8,155,6,Danny,KENNEDY,8718,0,6645,Elected,1,Ulster Unionist Party
+8,156,6,James,MALONE,90,0,0,Excluded,4,Independent
+8,157,6,Conor,MURPHY,9127,0,6645,Elected,1,Sinn Fein
+8,158,6,David,MURPHY,734,0,0,Excluded,4,Alliance Party
+8,159,6,Thomas,OHANLON,3825,373.36,5014.06,Excluded,6,Social Democratic and Labour Party
+8,160,6,Robert Stewart,WOODS,98,0,0,Excluded,4,Independent

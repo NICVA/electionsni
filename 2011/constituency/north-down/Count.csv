@@ -1,0 +1,144 @@
+Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_Pref_Votes,Transfers,Total_Votes,Status,Occurred_On_Count,Party_Name
+11,172,1,Steven,AGNEW,2207,0,2207,,,Green Party
+11,173,1,Colin,BREEN,1343,0,1343,,,Ulster Unionist Party
+11,174,1,Alan,CHAMBERS,1765,0,1765,,,Independent
+11,175,1,Leslie,CREE,1585,0,1585,,,Ulster Unionist Party
+11,176,1,Gordon,DUNNE,3741,0,3741,,,Democratic Unionist Party
+11,177,1,Alex,EASTON,5175,0,5175,Elected,1,Democratic Unionist Party
+11,178,1,Stephen,FARRY,3131,0,3131,,,Alliance Party
+11,179,1,Conor,KEENAN,293,0,293,,,Sinn Fein
+11,180,1,Liam,LOGAN,768,0,768,,,Ulster Unionist Party
+11,181,1,Alan,MCFARLAND,1879,0,1879,,,Independent
+11,182,1,Fred,MCGLADE,615,0,615,,,UK Independence Party
+11,183,1,Peter,WEIR,3496,0,3496,,,Democratic Unionist Party
+11,184,1,Anne,WILSON,2100,0,2100,,,Alliance Party
+11,172,2,Steven,AGNEW,2207,13.34,2220.34,,,Green Party
+11,173,2,Colin,BREEN,1343,15.64,1358.64,,,Ulster Unionist Party
+11,174,2,Alan,CHAMBERS,1765,30.13,1795.13,,,Independent
+11,175,2,Leslie,CREE,1585,24.38,1609.38,,,Ulster Unionist Party
+11,176,2,Gordon,DUNNE,3741,379.96,4120.96,Elected,2,Democratic Unionist Party
+11,177,2,Alex,EASTON,5175,-1160,4015,Elected,1,Democratic Unionist Party
+11,178,2,Stephen,FARRY,3131,21.62,3152.62,,,Alliance Party
+11,179,2,Conor,KEENAN,293,1.61,294.61,Excluded,2,Sinn Fein
+11,180,2,Liam,LOGAN,768,3.91,771.91,,,Ulster Unionist Party
+11,181,2,Alan,MCFARLAND,1879,26.45,1905.45,,,Independent
+11,182,2,Fred,MCGLADE,615,8.97,623.97,,,UK Independence Party
+11,183,2,Peter,WEIR,3496,605.36,4101.36,Elected,2,Democratic Unionist Party
+11,184,2,Anne,WILSON,2100,15.18,2115.18,,,Alliance Party
+11,172,3,Steven,AGNEW,2207,41.23,2261.57,,,Green Party
+11,173,3,Colin,BREEN,1343,1,1359.64,,,Ulster Unionist Party
+11,174,3,Alan,CHAMBERS,1765,1,1796.13,,,Independent
+11,175,3,Leslie,CREE,1585,1,1610.38,,,Ulster Unionist Party
+11,176,3,Gordon,DUNNE,3741,0,4120.96,Elected,2,Democratic Unionist Party
+11,177,3,Alex,EASTON,5175,0,4015,Elected,1,Democratic Unionist Party
+11,178,3,Stephen,FARRY,3131,20.69,3173.31,,,Alliance Party
+11,179,3,Conor,KEENAN,293,-294.61,0,Excluded,2,Sinn Fein
+11,180,3,Liam,LOGAN,768,181,952.91,,,Ulster Unionist Party
+11,181,3,Alan,MCFARLAND,1879,5.23,1910.68,,,Independent
+11,182,3,Fred,MCGLADE,615,0,623.97,Excluded,3,UK Independence Party
+11,183,3,Peter,WEIR,3496,0,4101.36,Elected,2,Democratic Unionist Party
+11,184,3,Anne,WILSON,2100,19.23,2134.41,,,Alliance Party
+11,172,4,Steven,AGNEW,2207,53,2314.57,,,Green Party
+11,173,4,Colin,BREEN,1343,73.61,1433.25,,,Ulster Unionist Party
+11,174,4,Alan,CHAMBERS,1765,66.23,1862.36,,,Independent
+11,175,4,Leslie,CREE,1585,67.92,1678.3,,,Ulster Unionist Party
+11,176,4,Gordon,DUNNE,3741,0,4120.96,Elected,2,Democratic Unionist Party
+11,177,4,Alex,EASTON,5175,0,4015,Elected,1,Democratic Unionist Party
+11,178,4,Stephen,FARRY,3131,45,3218.31,,,Alliance Party
+11,179,4,Conor,KEENAN,293,0,0,Excluded,2,Sinn Fein
+11,180,4,Liam,LOGAN,768,8,960.91,Excluded,4,Ulster Unionist Party
+11,181,4,Alan,MCFARLAND,1879,101.61,2012.29,,,Independent
+11,182,4,Fred,MCGLADE,615,-623.97,0,Excluded,3,UK Independence Party
+11,183,4,Peter,WEIR,3496,0,4101.36,Elected,2,Democratic Unionist Party
+11,184,4,Anne,WILSON,2100,37.23,2171.64,,,Alliance Party
+11,172,5,Steven,AGNEW,2207,238.23,2552.8,,,Green Party
+11,173,5,Colin,BREEN,1343,15.92,1449.17,Excluded,5,Ulster Unionist Party
+11,174,5,Alan,CHAMBERS,1765,31.23,1893.59,,,Independent
+11,175,5,Leslie,CREE,1585,13.23,1691.53,,,Ulster Unionist Party
+11,176,5,Gordon,DUNNE,3741,0,4120.96,Elected,2,Democratic Unionist Party
+11,177,5,Alex,EASTON,5175,0,4015,Elected,1,Democratic Unionist Party
+11,178,5,Stephen,FARRY,3131,267.69,3486,,,Alliance Party
+11,179,5,Conor,KEENAN,293,0,0,Excluded,2,Sinn Fein
+11,180,5,Liam,LOGAN,768,-960.91,0,Excluded,4,Ulster Unionist Party
+11,181,5,Alan,MCFARLAND,1879,36,2048.29,,,Independent
+11,182,5,Fred,MCGLADE,615,0,0,Excluded,3,UK Independence Party
+11,183,5,Peter,WEIR,3496,0,4101.36,Elected,2,Democratic Unionist Party
+11,184,5,Anne,WILSON,2100,276,2447.64,,,Alliance Party
+11,172,6,Steven,AGNEW,2207,52.38,2605.18,,,Green Party
+11,173,6,Colin,BREEN,1343,-1449.17,0,Excluded,5,Ulster Unionist Party
+11,174,6,Alan,CHAMBERS,1765,86.46,1980.05,,,Independent
+11,175,6,Leslie,CREE,1585,1104.28,2795.81,,,Ulster Unionist Party
+11,176,6,Gordon,DUNNE,3741,0,4120.96,Elected,2,Democratic Unionist Party
+11,177,6,Alex,EASTON,5175,0,4015,Elected,1,Democratic Unionist Party
+11,178,6,Stephen,FARRY,3131,28.92,3514.92,,,Alliance Party
+11,179,6,Conor,KEENAN,293,0,0,Excluded,2,Sinn Fein
+11,180,6,Liam,LOGAN,768,0,0,Excluded,4,Ulster Unionist Party
+11,181,6,Alan,MCFARLAND,1879,35.15,2083.44,,,Independent
+11,182,6,Fred,MCGLADE,615,0,0,Excluded,3,UK Independence Party
+11,183,6,Peter,WEIR,3496,0,4101.36,Elected,2,Democratic Unionist Party
+11,184,6,Anne,WILSON,2100,35.15,2482.79,,,Alliance Party
+11,172,7,Steven,AGNEW,2207,9.46,2614.64,,,Green Party
+11,173,7,Colin,BREEN,1343,,0,Excluded,5,Ulster Unionist Party
+11,174,7,Alan,CHAMBERS,1765,9.24,1989.29,Excluded,7,Independent
+11,175,7,Leslie,CREE,1585,57.53,2853.34,,,Ulster Unionist Party
+11,176,7,Gordon,DUNNE,3741,-105.96,4015,Elected,2,Democratic Unionist Party
+11,177,7,Alex,EASTON,5175,0,4015,Elected,1,Democratic Unionist Party
+11,178,7,Stephen,FARRY,3131,6.6,3521.52,,,Alliance Party
+11,179,7,Conor,KEENAN,293,0,0,Excluded,2,Sinn Fein
+11,180,7,Liam,LOGAN,768,0,0,Excluded,4,Ulster Unionist Party
+11,181,7,Alan,MCFARLAND,1879,11.44,2094.88,,,Independent
+11,182,7,Fred,MCGLADE,615,0,0,Excluded,3,UK Independence Party
+11,183,7,Peter,WEIR,3496,0,4101.36,Elected,2,Democratic Unionist Party
+11,184,7,Anne,WILSON,2100,9.57,2492.36,,,Alliance Party
+11,172,8,Steven,AGNEW,2207,197.18,2811.82,,,Green Party
+11,173,8,Colin,BREEN,1343,0,0,Excluded,5,Ulster Unionist Party
+11,174,8,Alan,CHAMBERS,1765,-1989.29,0,Excluded,7,Independent
+11,175,8,Leslie,CREE,1585,457,3310.34,,,Ulster Unionist Party
+11,176,8,Gordon,DUNNE,3741,0,4015,Elected,2,Democratic Unionist Party
+11,177,8,Alex,EASTON,5175,0,4015,Elected,1,Democratic Unionist Party
+11,178,8,Stephen,FARRY,3131,217.07,3738.59,,,Alliance Party
+11,179,8,Conor,KEENAN,293,0,0,Excluded,2,Sinn Fein
+11,180,8,Liam,LOGAN,768,0,0,Excluded,4,Ulster Unionist Party
+11,181,8,Alan,MCFARLAND,1879,509.51,2604.39,,,Independent
+11,182,8,Fred,MCGLADE,615,0,0,Excluded,3,UK Independence Party
+11,183,8,Peter,WEIR,3496,0,4101.36,Elected,2,Democratic Unionist Party
+11,184,8,Anne,WILSON,2100,166.29,2658.65,,,Alliance Party
+11,172,9,Steven,AGNEW,2207,7.98,2819.8,,,Green Party
+11,173,9,Colin,BREEN,1343,0,0,Excluded,5,Ulster Unionist Party
+11,174,9,Alan,CHAMBERS,1765,0,0,Excluded,7,Independent
+11,175,9,Leslie,CREE,1585,50.68,3361.02,,,Ulster Unionist Party
+11,176,9,Gordon,DUNNE,3741,0,4015,Elected,2,Democratic Unionist Party
+11,177,9,Alex,EASTON,5175,0,4015,Elected,1,Democratic Unionist Party
+11,178,9,Stephen,FARRY,3131,6.3,3744.89,,,Alliance Party
+11,179,9,Conor,KEENAN,293,0,0,Excluded,2,Sinn Fein
+11,180,9,Liam,LOGAN,768,0,0,Excluded,4,Ulster Unionist Party
+11,181,9,Alan,MCFARLAND,1879,14.77,2619.16,Excluded,9,Independent
+11,182,9,Fred,MCGLADE,615,0,0,Excluded,3,UK Independence Party
+11,183,9,Peter,WEIR,3496,-86.36,4015,Elected,2,Democratic Unionist Party
+11,184,9,Anne,WILSON,2100,5.67,2664.32,,,Alliance Party
+11,172,10,Steven,AGNEW,2207,373.57,3193.37,,,Green Party
+11,173,10,Colin,BREEN,1343,0,0,Excluded,5,Ulster Unionist Party
+11,174,10,Alan,CHAMBERS,1765,0,0,Excluded,7,Independent
+11,175,10,Leslie,CREE,1585,749,4110.02,Elected,10,Ulster Unionist Party
+11,176,10,Gordon,DUNNE,3741,0,4015,Elected,2,Democratic Unionist Party
+11,177,10,Alex,EASTON,5175,0,4015,Elected,1,Democratic Unionist Party
+11,178,10,Stephen,FARRY,3131,333,4077.89,,,Alliance Party
+11,179,10,Conor,KEENAN,293,0,0,Excluded,2,Sinn Fein
+11,180,10,Liam,LOGAN,768,0,0,Excluded,4,Ulster Unionist Party
+11,181,10,Alan,MCFARLAND,1879,-2619.16,0,Excluded,9,Independent
+11,182,10,Fred,MCGLADE,615,0,0,Excluded,3,UK Independence Party
+11,183,10,Peter,WEIR,3496,0,4015,Elected,2,Democratic Unionist Party
+11,184,10,Anne,WILSON,2100,413.71,3078.03,,,Alliance Party
+11,172,11,Steven,AGNEW,2207,36,3229.37,Elected,11,Green Party
+11,173,11,Colin,BREEN,1343,0,0,Excluded,5,Ulster Unionist Party
+11,174,11,Alan,CHAMBERS,1765,0,0,Excluded,7,Independent
+11,175,11,Leslie,CREE,1585,-95.02,4015,Elected,10,Ulster Unionist Party
+11,176,11,Gordon,DUNNE,3741,0,4015,Elected,2,Democratic Unionist Party
+11,177,11,Alex,EASTON,5175,0,4015,Elected,1,Democratic Unionist Party
+11,178,11,Stephen,FARRY,3131,0,4077.89,Elected,11,Alliance Party
+11,179,11,Conor,KEENAN,293,0,0,Excluded,2,Sinn Fein
+11,180,11,Liam,LOGAN,768,0,0,Excluded,4,Ulster Unionist Party
+11,181,11,Alan,MCFARLAND,1879,0,0,Excluded,9,Independent
+11,182,11,Fred,MCGLADE,615,0,0,Excluded,3,UK Independence Party
+11,183,11,Peter,WEIR,3496,0,4015,Elected,2,Democratic Unionist Party
+11,184,11,Anne,WILSON,2100,52,3130.03,Excluded,11,Alliance Party

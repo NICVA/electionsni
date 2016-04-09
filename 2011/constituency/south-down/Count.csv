@@ -1,0 +1,100 @@
+Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_Pref_Votes,Transfers,Total_Votes,Status,Occurred_On_Count,Party_Name
+14,185,1,Naomi,BAILIE ,3050,0,3050,,,Sinn Fein
+14,186,1,Willie,CLARKE ,3882,0,3882,,,Sinn Fein
+14,187,1,Cadogan,ENRIGHT ,1107,0,1107,,,Green Party
+14,188,1,David,GRIFFIN ,864,0,864,,,Alliance Party
+14,189,1,John,MCCALLISTER ,4409,0,4409,,,Ulster Unionist Party
+14,190,1,Karen,MCKEVITT ,3758,0,3758,,,Social Democratic and Labour Party
+14,191,1,Eamonn,ONEILL ,2663,0,2663,,,Social Democratic and Labour Party
+14,192,1,Henry,REILLY ,2332,0,2332,,,UK Independence Party
+14,193,1,Margaret,RITCHIE ,8506,0,8506,Elected,1,Social Democratic and Labour Party
+14,194,1,Caitriona,RUANE ,5955,0,5955,,,Sinn Fein
+14,195,1,Jim,WELLS ,5200,0,5200,,,Democratic Unionist Party
+14,185,2,Naomi,BAILIE ,3050,100.44,3150.44,,,Sinn Fein
+14,186,2,Willie,CLARKE ,3882,75.95,3957.95,,,Sinn Fein
+14,187,2,Cadogan,ENRIGHT ,1107,120.28,1227.28,,,Green Party
+14,188,2,David,GRIFFIN ,864,51.15,915.15,Excluded,2,Alliance Party
+14,189,2,John,MCCALLISTER ,4409,71.92,4480.92,,,Ulster Unionist Party
+14,190,2,Karen,MCKEVITT ,3758,560.79,4318.79,,,Social Democratic and Labour Party
+14,191,2,Eamonn,ONEILL ,2663,1181.72,3844.72,,,Social Democratic and Labour Party
+14,192,2,Henry,REILLY ,2332,21.39,2353.39,,,UK Independence Party
+14,193,2,Margaret,RITCHIE ,8506,-2545,5961,Elected,1,Social Democratic and Labour Party
+14,194,2,Caitriona,RUANE ,5955,237.15,6192.15,Elected,2,Sinn Fein
+14,195,2,Jim,WELLS ,5200,81.84,5281.84,,,Democratic Unionist Party
+14,185,3,Naomi,BAILIE ,3050,10.62,3161.06,,,Sinn Fein
+14,186,3,Willie,CLARKE ,3882,34.55,3992.5,,,Sinn Fein
+14,187,3,Cadogan,ENRIGHT ,1107,11.47,1238.75,Excluded,3,Green Party
+14,188,3,David,GRIFFIN ,864,-915.15,0,Excluded,2,Alliance Party
+14,189,3,John,MCCALLISTER ,4409,143.96,4624.88,,,Ulster Unionist Party
+14,190,3,Karen,MCKEVITT ,3758,113.92,4432.71,,,Social Democratic and Labour Party
+14,191,3,Eamonn,ONEILL ,2663,113.47,3958.19,,,Social Democratic and Labour Party
+14,192,3,Henry,REILLY ,2332,20.31,2373.7,,,UK Independence Party
+14,193,3,Margaret,RITCHIE ,8506,0,5961,Elected,1,Social Democratic and Labour Party
+14,194,3,Caitriona,RUANE ,5955,0,6192.15,Elected,2,Sinn Fein
+14,195,3,Jim,WELLS ,5200,72.72,5354.56,,,Democratic Unionist Party
+14,185,4,Naomi,BAILIE ,3050,144.4,3305.46,,,Sinn Fein
+14,186,4,Willie,CLARKE ,3882,101.65,4094.15,,,Sinn Fein
+14,187,4,Cadogan,ENRIGHT ,1107,-1238.75,0,Excluded,3,Green Party
+14,188,4,David,GRIFFIN ,864,0,0,Excluded,2,Alliance Party
+14,189,4,John,MCCALLISTER ,4409,86.89,4711.77,,,Ulster Unionist Party
+14,190,4,Karen,MCKEVITT ,3758,242.62,4675.33,,,Social Democratic and Labour Party
+14,191,4,Eamonn,ONEILL ,2663,264.58,4222.77,,,Social Democratic and Labour Party
+14,192,4,Henry,REILLY ,2332,25.24,2398.94,Excluded,4,UK Independence Party
+14,193,4,Margaret,RITCHIE ,8506,0,5961,Elected,1,Social Democratic and Labour Party
+14,194,4,Caitriona,RUANE ,5955,0,6192.15,Elected,2,Sinn Fein
+14,195,4,Jim,WELLS ,5200,49.72,5404.28,,,Democratic Unionist Party
+14,185,5,Naomi,BAILIE ,3050,1.31,3306.77,,,Sinn Fein
+14,186,5,Willie,CLARKE ,3882,7.31,4101.46,,,Sinn Fein
+14,187,5,Cadogan,ENRIGHT ,1107,0,0,Excluded,3,Green Party
+14,188,5,David,GRIFFIN ,864,0,0,Excluded,2,Alliance Party
+14,189,5,John,MCCALLISTER ,4409,968.13,5679.9,,,Ulster Unionist Party
+14,190,5,Karen,MCKEVITT ,3758,27.1,4702.43,,,Social Democratic and Labour Party
+14,191,5,Eamonn,ONEILL ,2663,28.58,4251.35,,,Social Democratic and Labour Party
+14,192,5,Henry,REILLY ,2332,-2398.94,0,Excluded,4,UK Independence Party
+14,193,5,Margaret,RITCHIE ,8506,0,5961,,,Social Democratic and Labour Party
+14,194,5,Caitriona,RUANE ,5955,0,6192.15,,,Sinn Fein
+14,195,5,Jim,WELLS ,5200,1139,6543.28,Elected,5,Democratic Unionist Party
+14,185,6,Naomi,BAILIE ,3050,1.74,3308.51,Excluded,6,Sinn Fein
+14,186,6,Willie,CLARKE ,3882,1.74,4103.2,,,Sinn Fein
+14,187,6,Cadogan,ENRIGHT ,1107,0,0,Excluded,3,Green Party
+14,188,6,David,GRIFFIN ,864,0,0,Excluded,2,Alliance Party
+14,189,6,John,MCCALLISTER ,4409,559.7,6239.6,Elected,6,Ulster Unionist Party
+14,190,6,Karen,MCKEVITT ,3758,4.64,4707.07,,,Social Democratic and Labour Party
+14,191,6,Eamonn,ONEILL ,2663,8.12,4259.47,,,Social Democratic and Labour Party
+14,192,6,Henry,REILLY ,2332,0,0,Excluded,4,UK Independence Party
+14,193,6,Margaret,RITCHIE ,8506,0,5961,Elected,1,Social Democratic and Labour Party
+14,194,6,Caitriona,RUANE ,5955,0,6192.15,Elected,2,Sinn Fein
+14,195,6,Jim,WELLS ,5200,-582.28,5961,Elected,5,Democratic Unionist Party
+14,185,7,Naomi,BAILIE ,3050,-3308.51,0,Excluded,6,Sinn Fein
+14,186,7,Willie,CLARKE ,3882,2674,6777.2,,,Sinn Fein
+14,187,7,Cadogan,ENRIGHT ,1107,0,0,Excluded,3,Green Party
+14,188,7,David,GRIFFIN ,864,0,0,Excluded,2,Alliance Party
+14,189,7,John,MCCALLISTER ,4409,0,6239.6,Elected,6,Ulster Unionist Party
+14,190,7,Karen,MCKEVITT ,3758,135.86,4842.93,,,Social Democratic and Labour Party
+14,191,7,Eamonn,ONEILL ,2663,189.99,4449.46,,,Social Democratic and Labour Party
+14,192,7,Henry,REILLY ,2332,0,0,Excluded,4,UK Independence Party
+14,193,7,Margaret,RITCHIE ,8506,0,5961,Elected,1,Social Democratic and Labour Party
+14,194,7,Caitriona,RUANE ,5955,0,6192.15,Elected,2,Sinn Fein
+14,195,7,Jim,WELLS ,5200,0,5961,Elected,5,Democratic Unionist Party
+14,185,8,Naomi,BAILIE ,3050,0,0,Excluded,6,Sinn Fein
+14,186,8,Willie,CLARKE ,3882,-816.2,5961,Elected,7,Sinn Fein
+14,187,8,Cadogan,ENRIGHT ,1107,0,0,Excluded,3,Green Party
+14,188,8,David,GRIFFIN ,864,0,0,Excluded,2,Alliance Party
+14,189,8,John,MCCALLISTER ,4409,0,6239.6,Elected,6,Ulster Unionist Party
+14,190,8,Karen,MCKEVITT ,3758,434.35,5277.28,,,Social Democratic and Labour Party
+14,191,8,Eamonn,ONEILL ,2663,376.68,4826.14,,,Social Democratic and Labour Party
+14,192,8,Henry,REILLY ,2332,0,0,Excluded,4,UK Independence Party
+14,193,8,Margaret,RITCHIE ,8506,0,5961,Elected,1,Social Democratic and Labour Party
+14,194,8,Caitriona,RUANE ,5955,0,6192.15,Elected,2,Sinn Fein
+14,195,8,Jim,WELLS ,5200,0,5961,Elected,5,Democratic Unionist Party
+14,185,9,Naomi,BAILIE ,3050,0,0,Excluded,6,Sinn Fein
+14,186,9,Willie,CLARKE ,3882,0,5961,Elected,7,Sinn Fein
+14,187,9,Cadogan,ENRIGHT ,1107,0,0,Excluded,3,Green Party
+14,188,9,David,GRIFFIN ,864,0,0,Excluded,2,Alliance Party
+14,189,9,John,MCCALLISTER ,4409,-278.6,5961,Elected,6,Ulster Unionist Party
+14,190,9,Karen,MCKEVITT ,3758,70.18,5347.46,Elected,9,Social Democratic and Labour Party
+14,191,9,Eamonn,ONEILL ,2663,56.84,4882.98,Excluded,9,Social Democratic and Labour Party
+14,192,9,Henry,REILLY ,2332,0,0,Excluded,4,UK Independence Party
+14,193,9,Margaret,RITCHIE ,8506,0,5961,Elected,1,Social Democratic and Labour Party
+14,194,9,Caitriona,RUANE ,5955,0,6192.15,Elected,2,Sinn Fein
+14,195,9,Jim,WELLS ,5200,0,5961,Elected,5,Democratic Unionist Party

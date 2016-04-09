@@ -1,0 +1,56 @@
+Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_Pref_Votes,Transfers,Total_Votes,Status,Occurred_On_Count,Party_Name
+18,103,1,Michaela,BOYLE,5053,0,5053,,,Sinn Fein
+18,104,1,Allan,BRESLAND,4059,0,4059,,,Democratic Unionist Party
+18,105,1,Thomas,BUCHANAN,5027,0,5027,,,Democratic Unionist Party
+18,106,1,Eric Herbert Anton,BULLICK,852,0,852,,,Alliance Party
+18,107,1,Joe,BYRNE,3353,0,3353,,,Social Democratic and Labour Party
+18,108,1,Pat,DOHERTY,5630,0,5630,Elected,1,Sinn Fein
+18,109,1,Ross,HUSSEY,4072,0,4072,,,Ulster Unionist Party
+18,110,1,Declan,MCALEER,3008,0,3008,,,Sinn Fein
+18,111,1,Barry,MCELDUFF,6008,0,6008,Elected,1,Sinn Fein
+18,112,1,Paddy,MCGOWAN,1145,0,1145,,,Independent
+18,113,1,Eugene,MCMENAMIN,1096,0,1096,,,Independent
+18,103,2,Michaela,BOYLE,5053,36.3,5089.3,,,Sinn Fein
+18,104,2,Allan,BRESLAND,4059,0.18,4059.18,,,Democratic Unionist Party
+18,105,2,Thomas,BUCHANAN,5027,0.42,5027.42,,,Democratic Unionist Party
+18,106,2,Eric Herbert Anton,BULLICK,852,2.04,854.04,Excluded,2,Alliance Party
+18,107,2,Joe,BYRNE,3353,19.08,3372.08,,,Social Democratic and Labour Party
+18,108,2,Pat,DOHERTY,5630,0,5630,Elected,1,Sinn Fein
+18,109,2,Ross,HUSSEY,4072,1.08,4073.08,,,Ulster Unionist Party
+18,110,2,Declan,MCALEER,3008,264.9,3272.9,,,Sinn Fein
+18,111,2,Barry,MCELDUFF,6008,-393,5615,Elected,1,Sinn Fein
+18,112,2,Paddy,MCGOWAN,1145,13.92,1158.92,Excluded,2,Independent
+18,113,2,Eugene,MCMENAMIN,1096,3.18,1099.18,Excluded,2,Independent
+18,103,3,Michaela,BOYLE,5053,356.64,5445.94,,,Sinn Fein
+18,104,3,Allan,BRESLAND,4059,56,4115.18,,,Democratic Unionist Party
+18,105,3,Thomas,BUCHANAN,5027,106.24,5133.66,,,Democratic Unionist Party
+18,106,3,Eric Herbert Anton,BULLICK,852,-854.04,0,Excluded,2,Alliance Party
+18,107,3,Joe,BYRNE,3353,1183.78,4555.86,,,Social Democratic and Labour Party
+18,108,3,Pat,DOHERTY,5630,0,5630,Elected,1,Sinn Fein
+18,109,3,Ross,HUSSEY,4072,292.6,4365.68,,,Ulster Unionist Party
+18,110,3,Declan,MCALEER,3008,303.5,3576.4,Excluded,3,Sinn Fein
+18,111,3,Barry,MCELDUFF,6008,0,5615,Elected,1,Sinn Fein
+18,112,3,Paddy,MCGOWAN,1145,-1158.92,0,Excluded,2,Independent
+18,113,3,Eugene,MCMENAMIN,1096,-1099.18,0,Excluded,2,Independent
+18,103,4,Michaela,BOYLE,5053,2346,7791.94,Elected,4,Sinn Fein
+18,104,4,Allan,BRESLAND,4059,1.6,4116.78,,,Democratic Unionist Party
+18,105,4,Thomas,BUCHANAN,5027,10.14,5143.8,,,Democratic Unionist Party
+18,106,4,Eric Herbert Anton,BULLICK,852,0,0,Excluded,2,Alliance Party
+18,107,4,Joe,BYRNE,3353,363.12,4918.98,,,Social Democratic and Labour Party
+18,108,4,Pat,DOHERTY,5630,0,5630,Elected,1,Sinn Fein
+18,109,4,Ross,HUSSEY,4072,29.26,4394.94,,,Ulster Unionist Party
+18,110,4,Declan,MCALEER,3008,-3576.4,0,Excluded,3,Sinn Fein
+18,111,4,Barry,MCELDUFF,6008,0,5615,Elected,1,Sinn Fein
+18,112,4,Paddy,MCGOWAN,1145,0,0,Excluded,2,Independent
+18,113,4,Eugene,MCMENAMIN,1096,0,0,Excluded,2,Independent
+18,103,5,Michaela,BOYLE,5053,-2176.94,5615,Elected,4,Sinn Fein
+18,104,5,Allan,BRESLAND,4059,7,4123.78,Excluded,5,Democratic Unionist Party
+18,105,5,Thomas,BUCHANAN,5027,19,5162.8,Elected,5,Democratic Unionist Party
+18,106,5,Eric Herbert Anton,BULLICK,852,0,0,Excluded,2,Alliance Party
+18,107,5,Joe,BYRNE,3353,402,5320.98,Elected,5,Social Democratic and Labour Party
+18,108,5,Pat,DOHERTY,5630,0,5630,Elected,1,Sinn Fein
+18,109,5,Ross,HUSSEY,4072,3,4397.94,Elected,5,Ulster Unionist Party
+18,110,5,Declan,MCALEER,3008,0,0,Excluded,3,Sinn Fein
+18,111,5,Barry,MCELDUFF,6008,0,5615,Elected,1,Sinn Fein
+18,112,5,Paddy,MCGOWAN,1145,0,0,Excluded,2,Independent
+18,113,5,Eugene,MCMENAMIN,1096,0,0,Excluded,2,Independent
