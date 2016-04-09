@@ -1,0 +1,2273 @@
+{
+"Constituencies": [
+    {
+    "Constituency_Name": "East Antrim",
+    "Constituency_Number": "1",
+    "Candidates": [
+    {
+        "Surname": "BEGGS", 
+        "Firstname": "Roy", 
+        "Constituency_Name": "East Antrim", 
+        "Constituency_Number": "1", 
+        "Party_Name": "Ulster Unionist Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "57", 
+        "Party_Id": "26"
+},
+    {
+        "Surname": "DICKSON", 
+        "Firstname": "Stewart", 
+        "Constituency_Name": "East Antrim", 
+        "Constituency_Number": "1", 
+        "Party_Name": "Alliance Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "58", 
+        "Party_Id": "19"
+},
+    {
+        "Surname": "DONNELLY", 
+        "Firstname": "Daniel", 
+        "Constituency_Name": "East Antrim", 
+        "Constituency_Number": "1", 
+        "Party_Name": "Green Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "59", 
+        "Party_Id": "111"
+},
+    {
+        "Surname": "HILDITCH", 
+        "Firstname": "David", 
+        "Constituency_Name": "East Antrim", 
+        "Constituency_Number": "1", 
+        "Party_Name": "Democratic Unionist Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "60", 
+        "Party_Id": "20"
+},
+    {
+        "Surname": "LYONS", 
+        "Firstname": "Gordon", 
+        "Constituency_Name": "East Antrim", 
+        "Constituency_Number": "1", 
+        "Party_Name": "Democratic Unionist Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "61", 
+        "Party_Id": "20"
+},
+    {
+        "Surname": "MCCAMPHILL", 
+        "Firstname": "Justin", 
+        "Constituency_Name": "East Antrim", 
+        "Constituency_Number": "1", 
+        "Party_Name": "Social Democratic and Labour Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "62", 
+        "Party_Id": "23"
+},
+    {
+        "Surname": "MCCUNE", 
+        "Firstname": "Rodney", 
+        "Constituency_Name": "East Antrim", 
+        "Constituency_Number": "1", 
+        "Party_Name": "Ulster Unionist Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "63", 
+        "Party_Id": "26"
+},
+    {
+        "Surname": "MCMULLAN", 
+        "Firstname": "Oliver", 
+        "Constituency_Name": "East Antrim", 
+        "Constituency_Number": "1", 
+        "Party_Name": "Sinn Fein", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "64", 
+        "Party_Id": "24"
+},
+    {
+        "Surname": "MOORE", 
+        "Firstname": "Steven", 
+        "Constituency_Name": "East Antrim", 
+        "Constituency_Number": "1", 
+        "Party_Name": "British Nationalist Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "65", 
+        "Party_Id": "995"
+},
+    {
+        "Surname": "MULVENNA", 
+        "Firstname": "Gerardine Marie", 
+        "Constituency_Name": "East Antrim", 
+        "Constituency_Number": "1", 
+        "Party_Name": "Alliance Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "66", 
+        "Party_Id": "19"
+},
+    {
+        "Surname": "ROSS", 
+        "Firstname": "Alastair", 
+        "Constituency_Name": "East Antrim", 
+        "Constituency_Number": "1", 
+        "Party_Name": "Democratic Unionist Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "67", 
+        "Party_Id": "20"
+},
+    {
+        "Surname": "WILSON", 
+        "Firstname": "Ruth", 
+        "Constituency_Name": "East Antrim", 
+        "Constituency_Number": "1", 
+        "Party_Name": "Traditional Unionist Voice", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "68", 
+        "Party_Id": "141"
+},
+    {
+        "Surname": "WILSON", 
+        "Firstname": "Sammy", 
+        "Constituency_Name": "East Antrim", 
+        "Constituency_Number": "1", 
+        "Party_Name": "Democratic Unionist Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "69", 
+        "Party_Id": "20"
+}
+    ]},
+    {
+    "Constituency_Name": "Belfast North",
+    "Constituency_Number": "10",
+    "Candidates": [
+    {
+        "Surname": "BRADLEY", 
+        "Firstname": "Paula", 
+        "Constituency_Name": "Belfast North", 
+        "Constituency_Number": "10", 
+        "Party_Name": "Democratic Unionist Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "1", 
+        "Party_Id": "20"
+},
+    {
+        "Surname": "COBAIN", 
+        "Firstname": "Fred", 
+        "Constituency_Name": "Belfast North", 
+        "Constituency_Number": "10", 
+        "Party_Name": "Ulster Unionist Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "2", 
+        "Party_Id": "26"
+},
+    {
+        "Surname": "HUMPHREY", 
+        "Firstname": "William", 
+        "Constituency_Name": "Belfast North", 
+        "Constituency_Number": "10", 
+        "Party_Name": "Democratic Unionist Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "3", 
+        "Party_Id": "20"
+},
+    {
+        "Surname": "KELLY", 
+        "Firstname": "Gerry", 
+        "Constituency_Name": "Belfast North", 
+        "Constituency_Number": "10", 
+        "Party_Name": "Sinn Fein", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "4", 
+        "Party_Id": "24"
+},
+    {
+        "Surname": "LAVERY", 
+        "Firstname": "John", 
+        "Constituency_Name": "Belfast North", 
+        "Constituency_Number": "10", 
+        "Party_Name": "Workers Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "5", 
+        "Party_Id": "998"
+},
+    {
+        "Surname": "MAGEE", 
+        "Firstname": "JJ", 
+        "Constituency_Name": "Belfast North", 
+        "Constituency_Number": "10", 
+        "Party_Name": "Sinn Fein", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "6", 
+        "Party_Id": "24"
+},
+    {
+        "Surname": "MAGINNESS", 
+        "Firstname": "Alban", 
+        "Constituency_Name": "Belfast North", 
+        "Constituency_Number": "10", 
+        "Party_Name": "Social Democratic and Labour Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "7", 
+        "Party_Id": "23"
+},
+    {
+        "Surname": "MCCAUSLAND", 
+        "Firstname": "Nelson", 
+        "Constituency_Name": "Belfast North", 
+        "Constituency_Number": "10", 
+        "Party_Name": "Democratic Unionist Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "8", 
+        "Party_Id": "20"
+},
+    {
+        "Surname": "MCCORD", 
+        "Firstname": "Raymond", 
+        "Constituency_Name": "Belfast North", 
+        "Constituency_Number": "10", 
+        "Party_Name": "Independent", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "9", 
+        "Party_Id": "21"
+},
+    {
+        "Surname": "NI CUILIN", 
+        "Firstname": "Caral", 
+        "Constituency_Name": "Belfast North", 
+        "Constituency_Number": "10", 
+        "Party_Name": "Sinn Fein", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "10", 
+        "Party_Id": "24"
+},
+    {
+        "Surname": "WEBB", 
+        "Firstname": "Billy", 
+        "Constituency_Name": "Belfast North", 
+        "Constituency_Number": "10", 
+        "Party_Name": "Alliance Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "11", 
+        "Party_Id": "19"
+}
+    ]},
+    {
+    "Constituency_Name": "North Down",
+    "Constituency_Number": "11",
+    "Candidates": [
+    {
+        "Surname": "AGNEW", 
+        "Firstname": "Steven", 
+        "Constituency_Name": "North Down", 
+        "Constituency_Number": "11", 
+        "Party_Name": "Green Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "172", 
+        "Party_Id": "111"
+},
+    {
+        "Surname": "BREEN", 
+        "Firstname": "Colin", 
+        "Constituency_Name": "North Down", 
+        "Constituency_Number": "11", 
+        "Party_Name": "Ulster Unionist Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "173", 
+        "Party_Id": "26"
+},
+    {
+        "Surname": "CHAMBERS", 
+        "Firstname": "Alan", 
+        "Constituency_Name": "North Down", 
+        "Constituency_Number": "11", 
+        "Party_Name": "Independent", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "174", 
+        "Party_Id": "21"
+},
+    {
+        "Surname": "CREE", 
+        "Firstname": "Leslie", 
+        "Constituency_Name": "North Down", 
+        "Constituency_Number": "11", 
+        "Party_Name": "Ulster Unionist Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "175", 
+        "Party_Id": "26"
+},
+    {
+        "Surname": "DUNNE", 
+        "Firstname": "Gordon", 
+        "Constituency_Name": "North Down", 
+        "Constituency_Number": "11", 
+        "Party_Name": "Democratic Unionist Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "176", 
+        "Party_Id": "20"
+},
+    {
+        "Surname": "EASTON", 
+        "Firstname": "Alex", 
+        "Constituency_Name": "North Down", 
+        "Constituency_Number": "11", 
+        "Party_Name": "Democratic Unionist Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "177", 
+        "Party_Id": "20"
+},
+    {
+        "Surname": "FARRY", 
+        "Firstname": "Stephen", 
+        "Constituency_Name": "North Down", 
+        "Constituency_Number": "11", 
+        "Party_Name": "Alliance Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "178", 
+        "Party_Id": "19"
+},
+    {
+        "Surname": "KEENAN", 
+        "Firstname": "Conor", 
+        "Constituency_Name": "North Down", 
+        "Constituency_Number": "11", 
+        "Party_Name": "Sinn Fein", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "179", 
+        "Party_Id": "24"
+},
+    {
+        "Surname": "LOGAN", 
+        "Firstname": "Liam", 
+        "Constituency_Name": "North Down", 
+        "Constituency_Number": "11", 
+        "Party_Name": "Ulster Unionist Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "180", 
+        "Party_Id": "26"
+},
+    {
+        "Surname": "MCFARLAND", 
+        "Firstname": "Alan", 
+        "Constituency_Name": "North Down", 
+        "Constituency_Number": "11", 
+        "Party_Name": "Independent", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "181", 
+        "Party_Id": "21"
+},
+    {
+        "Surname": "MCGLADE", 
+        "Firstname": "Fred", 
+        "Constituency_Name": "North Down", 
+        "Constituency_Number": "11", 
+        "Party_Name": "UK Independence Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "182", 
+        "Party_Id": "689"
+},
+    {
+        "Surname": "WEIR", 
+        "Firstname": "Peter", 
+        "Constituency_Name": "North Down", 
+        "Constituency_Number": "11", 
+        "Party_Name": "Democratic Unionist Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "183", 
+        "Party_Id": "20"
+},
+    {
+        "Surname": "WILSON", 
+        "Firstname": "Anne", 
+        "Constituency_Name": "North Down", 
+        "Constituency_Number": "11", 
+        "Party_Name": "Alliance Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "184", 
+        "Party_Id": "19"
+}
+    ]},
+    {
+    "Constituency_Name": "South Antrim",
+    "Constituency_Number": "12",
+    "Candidates": [
+    {
+        "Surname": "BURNS", 
+        "Firstname": "Thomas", 
+        "Constituency_Name": "South Antrim", 
+        "Constituency_Number": "12", 
+        "Party_Name": "Social Democratic and Labour Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "82", 
+        "Party_Id": "23"
+},
+    {
+        "Surname": "CLARKE", 
+        "Firstname": "Trevor", 
+        "Constituency_Name": "South Antrim", 
+        "Constituency_Number": "12", 
+        "Party_Name": "Democratic Unionist Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "83", 
+        "Party_Id": "20"
+},
+    {
+        "Surname": "COCHRANE-WATSON", 
+        "Firstname": "Adrian David", 
+        "Constituency_Name": "South Antrim", 
+        "Constituency_Number": "12", 
+        "Party_Name": "Ulster Unionist Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "84", 
+        "Party_Id": "26"
+},
+    {
+        "Surname": "FORD", 
+        "Firstname": "David RJ", 
+        "Constituency_Name": "South Antrim", 
+        "Constituency_Number": "12", 
+        "Party_Name": "Alliance Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "85", 
+        "Party_Id": "19"
+},
+    {
+        "Surname": "GIRVAN", 
+        "Firstname": "Paul", 
+        "Constituency_Name": "South Antrim", 
+        "Constituency_Number": "12", 
+        "Party_Name": "Democratic Unionist Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "86", 
+        "Party_Id": "20"
+},
+    {
+        "Surname": "KINAHAN", 
+        "Firstname": "Danny", 
+        "Constituency_Name": "South Antrim", 
+        "Constituency_Number": "12", 
+        "Party_Name": "Ulster Unionist Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "87", 
+        "Party_Id": "26"
+},
+    {
+        "Surname": "LEWIS", 
+        "Firstname": "Pam", 
+        "Constituency_Name": "South Antrim", 
+        "Constituency_Number": "12", 
+        "Party_Name": "Democratic Unionist Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "88", 
+        "Party_Id": "20"
+},
+    {
+        "Surname": "LUCAS", 
+        "Firstname": "Mel", 
+        "Constituency_Name": "South Antrim", 
+        "Constituency_Number": "12", 
+        "Party_Name": "Traditional Unionist Voice", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "89", 
+        "Party_Id": "141"
+},
+    {
+        "Surname": "MCLAUGHLIN", 
+        "Firstname": "Mitchel", 
+        "Constituency_Name": "South Antrim", 
+        "Constituency_Number": "12", 
+        "Party_Name": "Sinn Fein", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "90", 
+        "Party_Id": "24"
+},
+    {
+        "Surname": "PARKES", 
+        "Firstname": "Stephen", 
+        "Constituency_Name": "South Antrim", 
+        "Constituency_Number": "12", 
+        "Party_Name": "British Nationalist Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "91", 
+        "Party_Id": "995"
+}
+    ]},
+    {
+    "Constituency_Name": "Belfast South",
+    "Constituency_Number": "13",
+    "Candidates": [
+    {
+        "Surname": "BAILEY ", 
+        "Firstname": "Clare", 
+        "Constituency_Name": "Belfast South", 
+        "Constituency_Number": "13", 
+        "Party_Name": "Green Party ", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "12", 
+        "Party_Id": "111"
+},
+    {
+        "Surname": "FALOON ", 
+        "Firstname": "Brian", 
+        "Constituency_Name": "Belfast South", 
+        "Constituency_Number": "13", 
+        "Party_Name": "People Before Profit Alliance ", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "13", 
+        "Party_Id": "999"
+},
+    {
+        "Surname": "FINLAY ", 
+        "Firstname": "Mark", 
+        "Constituency_Name": "Belfast South", 
+        "Constituency_Number": "13", 
+        "Party_Name": "Ulster Unionist Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "14", 
+        "Party_Id": "26"
+},
+    {
+        "Surname": "LO ", 
+        "Firstname": "Anna", 
+        "Constituency_Name": "Belfast South", 
+        "Constituency_Number": "13", 
+        "Party_Name": "Alliance Party ", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "15", 
+        "Party_Id": "19"
+},
+    {
+        "Surname": "LYNN ", 
+        "Firstname": "Paddy", 
+        "Constituency_Name": "Belfast South", 
+        "Constituency_Number": "13", 
+        "Party_Name": "Workers Party ", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "16", 
+        "Party_Id": "998"
+},
+    {
+        "Surname": "MASKEY ", 
+        "Firstname": "Alex", 
+        "Constituency_Name": "Belfast South", 
+        "Constituency_Number": "13", 
+        "Party_Name": "Sinn Fein ", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "17", 
+        "Party_Id": "24"
+},
+    {
+        "Surname": "MCDEVITT ", 
+        "Firstname": "Conall Patrick", 
+        "Constituency_Name": "Belfast South", 
+        "Constituency_Number": "13", 
+        "Party_Name": "Social Democratic and Labour Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "18", 
+        "Party_Id": "23"
+},
+    {
+        "Surname": "MCDONNELL ", 
+        "Firstname": "Alasdair", 
+        "Constituency_Name": "Belfast South", 
+        "Constituency_Number": "13", 
+        "Party_Name": "Social Democratic and Labour Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "19", 
+        "Party_Id": "23"
+},
+    {
+        "Surname": "MCGIMPSEY ", 
+        "Firstname": "Michael", 
+        "Constituency_Name": "Belfast South", 
+        "Constituency_Number": "13", 
+        "Party_Name": "Ulster Unionist Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "20", 
+        "Party_Id": "26"
+},
+    {
+        "Surname": "MEEHAN ", 
+        "Firstname": "Paddy", 
+        "Constituency_Name": "Belfast South", 
+        "Constituency_Number": "13", 
+        "Party_Name": "Socialist Party ", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "21", 
+        "Party_Id": "996"
+},
+    {
+        "Surname": "PATTERSON ", 
+        "Firstname": "Ruth Frances", 
+        "Constituency_Name": "Belfast South", 
+        "Constituency_Number": "13", 
+        "Party_Name": "Democratic Unionist Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "22", 
+        "Party_Id": "20"
+},
+    {
+        "Surname": "SMYTH ", 
+        "Firstname": "Samuel Charles", 
+        "Constituency_Name": "Belfast South", 
+        "Constituency_Number": "13", 
+        "Party_Name": "Procapitalism ", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "23", 
+        "Party_Id": "997"
+},
+    {
+        "Surname": "SPRATT ", 
+        "Firstname": "Jimmy", 
+        "Constituency_Name": "Belfast South", 
+        "Constituency_Number": "13", 
+        "Party_Name": "Democratic Unionist Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "24", 
+        "Party_Id": "20"
+},
+    {
+        "Surname": "TORREGROSA ", 
+        "Firstname": "Nico", 
+        "Constituency_Name": "Belfast South", 
+        "Constituency_Number": "13", 
+        "Party_Name": "UK Independence Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "25", 
+        "Party_Id": "689"
+}
+    ]},
+    {
+    "Constituency_Name": "South Down",
+    "Constituency_Number": "14",
+    "Candidates": [
+    {
+        "Surname": "BAILIE ", 
+        "Firstname": "Naomi", 
+        "Constituency_Name": "South Down", 
+        "Constituency_Number": "14", 
+        "Party_Name": "Sinn Fein", 
+        "Outgoing_Member": "Sinn Fein ", 
+        "Candidate_Id": "185", 
+        "Party_Id": "24"
+},
+    {
+        "Surname": "CLARKE ", 
+        "Firstname": "Willie", 
+        "Constituency_Name": "South Down", 
+        "Constituency_Number": "14", 
+        "Party_Name": "Sinn Fein", 
+        "Outgoing_Member": "Sinn Fein ", 
+        "Candidate_Id": "186", 
+        "Party_Id": "24"
+},
+    {
+        "Surname": "ENRIGHT ", 
+        "Firstname": "Cadogan", 
+        "Constituency_Name": "South Down", 
+        "Constituency_Number": "14", 
+        "Party_Name": "Green Party", 
+        "Outgoing_Member": "Green Party ", 
+        "Candidate_Id": "187", 
+        "Party_Id": "111"
+},
+    {
+        "Surname": "GRIFFIN ", 
+        "Firstname": "David", 
+        "Constituency_Name": "South Down", 
+        "Constituency_Number": "14", 
+        "Party_Name": "Alliance Party", 
+        "Outgoing_Member": "Alliance Party ", 
+        "Candidate_Id": "188", 
+        "Party_Id": "19"
+},
+    {
+        "Surname": "MCCALLISTER ", 
+        "Firstname": "John", 
+        "Constituency_Name": "South Down", 
+        "Constituency_Number": "14", 
+        "Party_Name": "Ulster Unionist Party", 
+        "Outgoing_Member": "UUP ", 
+        "Candidate_Id": "189", 
+        "Party_Id": "26"
+},
+    {
+        "Surname": "MCKEVITT ", 
+        "Firstname": "Karen", 
+        "Constituency_Name": "South Down", 
+        "Constituency_Number": "14", 
+        "Party_Name": "Social Democratic and Labour Party", 
+        "Outgoing_Member": "SDLP  ", 
+        "Candidate_Id": "190", 
+        "Party_Id": "23"
+},
+    {
+        "Surname": "ONEILL ", 
+        "Firstname": "Eamonn", 
+        "Constituency_Name": "South Down", 
+        "Constituency_Number": "14", 
+        "Party_Name": "Social Democratic and Labour Party", 
+        "Outgoing_Member": "SDLP ", 
+        "Candidate_Id": "191", 
+        "Party_Id": "23"
+},
+    {
+        "Surname": "REILLY ", 
+        "Firstname": "Henry", 
+        "Constituency_Name": "South Down", 
+        "Constituency_Number": "14", 
+        "Party_Name": "UK Independence Party", 
+        "Outgoing_Member": "UKIP ", 
+        "Candidate_Id": "192", 
+        "Party_Id": "689"
+},
+    {
+        "Surname": "RITCHIE ", 
+        "Firstname": "Margaret", 
+        "Constituency_Name": "South Down", 
+        "Constituency_Number": "14", 
+        "Party_Name": "Social Democratic and Labour Party", 
+        "Outgoing_Member": "SDLP ", 
+        "Candidate_Id": "193", 
+        "Party_Id": "23"
+},
+    {
+        "Surname": "RUANE ", 
+        "Firstname": "Caitriona", 
+        "Constituency_Name": "South Down", 
+        "Constituency_Number": "14", 
+        "Party_Name": "Sinn Fein", 
+        "Outgoing_Member": "Sinn Fein ", 
+        "Candidate_Id": "194", 
+        "Party_Id": "24"
+},
+    {
+        "Surname": "WELLS ", 
+        "Firstname": "Jim", 
+        "Constituency_Name": "South Down", 
+        "Constituency_Number": "14", 
+        "Party_Name": "Democratic Unionist Party", 
+        "Outgoing_Member": "DUP ", 
+        "Candidate_Id": "195", 
+        "Party_Id": "20"
+}
+    ]},
+    {
+    "Constituency_Name": "Strangford",
+    "Constituency_Number": "15",
+    "Candidates": [
+    {
+        "Surname": "ANDREWS", 
+        "Firstname": "Cecil", 
+        "Constituency_Name": "Strangford", 
+        "Constituency_Number": "15", 
+        "Party_Name": "UK Independence Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "196", 
+        "Party_Id": "689"
+},
+    {
+        "Surname": "BELL", 
+        "Firstname": "Jonathan", 
+        "Constituency_Name": "Strangford", 
+        "Constituency_Number": "15", 
+        "Party_Name": "Democratic Unionist Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "197", 
+        "Party_Id": "20"
+},
+    {
+        "Surname": "BOYLE", 
+        "Firstname": "Joe", 
+        "Constituency_Name": "Strangford", 
+        "Constituency_Number": "15", 
+        "Party_Name": "Social Democratic and Labour Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "198", 
+        "Party_Id": "23"
+},
+    {
+        "Surname": "COOGAN", 
+        "Firstname": "Mickey", 
+        "Constituency_Name": "Strangford", 
+        "Constituency_Number": "15", 
+        "Party_Name": "Sinn Fein", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "199", 
+        "Party_Id": "24"
+},
+    {
+        "Surname": "HAMILTON", 
+        "Firstname": "Simon", 
+        "Constituency_Name": "Strangford", 
+        "Constituency_Number": "15", 
+        "Party_Name": "Democratic Unionist Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "200", 
+        "Party_Id": "20"
+},
+    {
+        "Surname": "MCCARTHY", 
+        "Firstname": "Kieran", 
+        "Constituency_Name": "Strangford", 
+        "Constituency_Number": "15", 
+        "Party_Name": "Alliance Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "201", 
+        "Party_Id": "19"
+},
+    {
+        "Surname": "MCILVEEN", 
+        "Firstname": "Michelle", 
+        "Constituency_Name": "Strangford", 
+        "Constituency_Number": "15", 
+        "Party_Name": "Democratic Unionist Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "202", 
+        "Party_Id": "20"
+},
+    {
+        "Surname": "MCNARRY", 
+        "Firstname": "David", 
+        "Constituency_Name": "Strangford", 
+        "Constituency_Number": "15", 
+        "Party_Name": "Ulster Unionist Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "203", 
+        "Party_Id": "26"
+},
+    {
+        "Surname": "NESBITT", 
+        "Firstname": "Mike", 
+        "Constituency_Name": "Strangford", 
+        "Constituency_Number": "15", 
+        "Party_Name": "Ulster Unionist Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "204", 
+        "Party_Id": "26"
+},
+    {
+        "Surname": "WALKER", 
+        "Firstname": "Billy", 
+        "Constituency_Name": "Strangford", 
+        "Constituency_Number": "15", 
+        "Party_Name": "Democratic Unionist Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "205", 
+        "Party_Id": "20"
+},
+    {
+        "Surname": "WILLIAMS", 
+        "Firstname": "Terry", 
+        "Constituency_Name": "Strangford", 
+        "Constituency_Number": "15", 
+        "Party_Name": "Traditional Unionist Voice", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "206", 
+        "Party_Id": "141"
+}
+    ]},
+    {
+    "Constituency_Name": "Upper Bann",
+    "Constituency_Number": "16",
+    "Candidates": [
+    {
+        "Surname": "ANDERSON", 
+        "Firstname": "Sydney Alexander", 
+        "Constituency_Name": "Upper Bann", 
+        "Constituency_Number": "16", 
+        "Party_Name": "Democratic Unionist Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "207", 
+        "Party_Id": "20"
+},
+    {
+        "Surname": "DOBSON", 
+        "Firstname": "Joanne Elizabeth", 
+        "Constituency_Name": "Upper Bann", 
+        "Constituency_Number": "16", 
+        "Party_Name": "Ulster Unionist Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "208", 
+        "Party_Id": "26"
+},
+    {
+        "Surname": "GARDINER", 
+        "Firstname": "Samuel", 
+        "Constituency_Name": "Upper Bann", 
+        "Constituency_Number": "16", 
+        "Party_Name": "Ulster Unionist Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "209", 
+        "Party_Id": "26"
+},
+    {
+        "Surname": "HAMILTON", 
+        "Firstname": "Sam", 
+        "Constituency_Name": "Upper Bann", 
+        "Constituency_Number": "16", 
+        "Party_Name": "Alliance Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "210", 
+        "Party_Id": "19"
+},
+    {
+        "Surname": "KELLY", 
+        "Firstname": "Dolores", 
+        "Constituency_Name": "Upper Bann", 
+        "Constituency_Number": "16", 
+        "Party_Name": "Social Democratic and Labour Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "211", 
+        "Party_Id": "23"
+},
+    {
+        "Surname": "MCCUSKER", 
+        "Firstname": "Colin Craig", 
+        "Constituency_Name": "Upper Bann", 
+        "Constituency_Number": "16", 
+        "Party_Name": "Ulster Unionist Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "212", 
+        "Party_Id": "26"
+},
+    {
+        "Surname": "MCGIBBON", 
+        "Firstname": "Johnny", 
+        "Constituency_Name": "Upper Bann", 
+        "Constituency_Number": "16", 
+        "Party_Name": "Sinn Fein", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "213", 
+        "Party_Id": "24"
+},
+    {
+        "Surname": "MCQUAID", 
+        "Firstname": "Sheila Mary", 
+        "Constituency_Name": "Upper Bann", 
+        "Constituency_Number": "16", 
+        "Party_Name": "Alliance Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "214", 
+        "Party_Id": "19"
+},
+    {
+        "Surname": "MOUTRAY", 
+        "Firstname": "Stephen", 
+        "Constituency_Name": "Upper Bann", 
+        "Constituency_Number": "16", 
+        "Party_Name": "Democratic Unionist Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "215", 
+        "Party_Id": "20"
+},
+    {
+        "Surname": "O'DOWD", 
+        "Firstname": "John", 
+        "Constituency_Name": "Upper Bann", 
+        "Constituency_Number": "16", 
+        "Party_Name": "Sinn Fein", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "216", 
+        "Party_Id": "24"
+},
+    {
+        "Surname": "TROTTER", 
+        "Firstname": "Barbara", 
+        "Constituency_Name": "Upper Bann", 
+        "Constituency_Number": "16", 
+        "Party_Name": "UK Independence Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "217", 
+        "Party_Id": "689"
+},
+    {
+        "Surname": "VANCE", 
+        "Firstname": "David", 
+        "Constituency_Name": "Upper Bann", 
+        "Constituency_Number": "16", 
+        "Party_Name": "Traditional Unionist Voice", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "218", 
+        "Party_Id": "141"
+}
+    ]},
+    {
+    "Constituency_Name": "Belfast West",
+    "Constituency_Number": "17",
+    "Candidates": [
+    {
+        "Surname": "ATTWOOD", 
+        "Firstname": "Alex", 
+        "Constituency_Name": "Belfast West", 
+        "Constituency_Number": "17", 
+        "Party_Name": "Social Democratic and Labour Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "26", 
+        "Party_Id": "23"
+},
+    {
+        "Surname": "CARROLL", 
+        "Firstname": "Gerry", 
+        "Constituency_Name": "Belfast West", 
+        "Constituency_Number": "17", 
+        "Party_Name": "People Before Profit Alliance", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "27", 
+        "Party_Id": "999"
+},
+    {
+        "Surname": "KEENAN", 
+        "Firstname": "Colin", 
+        "Constituency_Name": "Belfast West", 
+        "Constituency_Number": "17", 
+        "Party_Name": "Social Democratic and Labour Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "28", 
+        "Party_Id": "23"
+},
+    {
+        "Surname": "KINGSTON", 
+        "Firstname": "Brian", 
+        "Constituency_Name": "Belfast West", 
+        "Constituency_Number": "17", 
+        "Party_Name": "Democratic Unionist Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "29", 
+        "Party_Id": "20"
+},
+    {
+        "Surname": "LAWLOR", 
+        "Firstname": "Pat", 
+        "Constituency_Name": "Belfast West", 
+        "Constituency_Number": "17", 
+        "Party_Name": "Socialist Party (NI)", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "30", 
+        "Party_Id": "996"
+},
+    {
+        "Surname": "LOWRY", 
+        "Firstname": "John Terence", 
+        "Constituency_Name": "Belfast West", 
+        "Constituency_Number": "17", 
+        "Party_Name": "Workers Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "31", 
+        "Party_Id": "998"
+},
+    {
+        "Surname": "MANWARING", 
+        "Firstname": "Bill", 
+        "Constituency_Name": "Belfast West", 
+        "Constituency_Number": "17", 
+        "Party_Name": "Ulster Unionist Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "32", 
+        "Party_Id": "26"
+},
+    {
+        "Surname": "MASKEY", 
+        "Firstname": "Paul", 
+        "Constituency_Name": "Belfast West", 
+        "Constituency_Number": "17", 
+        "Party_Name": "Sinn Fein", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "33", 
+        "Party_Id": "24"
+},
+    {
+        "Surname": "MCCANN", 
+        "Firstname": "Fra", 
+        "Constituency_Name": "Belfast West", 
+        "Constituency_Number": "17", 
+        "Party_Name": "Sinn Fein", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "34", 
+        "Party_Id": "24"
+},
+    {
+        "Surname": "MCCANN", 
+        "Firstname": "Jennifer", 
+        "Constituency_Name": "Belfast West", 
+        "Constituency_Number": "17", 
+        "Party_Name": "Sinn Fein", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "35", 
+        "Party_Id": "24"
+},
+    {
+        "Surname": "MCGUINNESS", 
+        "Firstname": "Dan", 
+        "Constituency_Name": "Belfast West", 
+        "Constituency_Number": "17", 
+        "Party_Name": "Alliance Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "36", 
+        "Party_Id": "19"
+},
+    {
+        "Surname": "PELAN", 
+        "Firstname": "Brian", 
+        "Constituency_Name": "Belfast West", 
+        "Constituency_Number": "17", 
+        "Party_Name": "Independent", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "37", 
+        "Party_Id": "21"
+},
+    {
+        "Surname": "RAMSEY", 
+        "Firstname": "Sue", 
+        "Constituency_Name": "Belfast West", 
+        "Constituency_Number": "17", 
+        "Party_Name": "Sinn Fein", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "38", 
+        "Party_Id": "24"
+},
+    {
+        "Surname": "SHEEHAN", 
+        "Firstname": "Pat", 
+        "Constituency_Name": "Belfast West", 
+        "Constituency_Number": "17", 
+        "Party_Name": "Sinn Fein", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "39", 
+        "Party_Id": "24"
+}
+    ]},
+    {
+    "Constituency_Name": "West Tyrone",
+    "Constituency_Number": "18",
+    "Candidates": [
+    {
+        "Surname": "BOYLE", 
+        "Firstname": "Michaela", 
+        "Constituency_Name": "West Tyrone", 
+        "Constituency_Number": "18", 
+        "Party_Name": "Sinn Fein", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "103", 
+        "Party_Id": "24"
+},
+    {
+        "Surname": "BRESLAND", 
+        "Firstname": "Allan", 
+        "Constituency_Name": "West Tyrone", 
+        "Constituency_Number": "18", 
+        "Party_Name": "Democratic Unionist Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "104", 
+        "Party_Id": "20"
+},
+    {
+        "Surname": "BUCHANAN", 
+        "Firstname": "Thomas", 
+        "Constituency_Name": "West Tyrone", 
+        "Constituency_Number": "18", 
+        "Party_Name": "Democratic Unionist Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "105", 
+        "Party_Id": "20"
+},
+    {
+        "Surname": "BULLICK", 
+        "Firstname": "Eric Herbert Anton", 
+        "Constituency_Name": "West Tyrone", 
+        "Constituency_Number": "18", 
+        "Party_Name": "Alliance Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "106", 
+        "Party_Id": "19"
+},
+    {
+        "Surname": "BYRNE", 
+        "Firstname": "Joe", 
+        "Constituency_Name": "West Tyrone", 
+        "Constituency_Number": "18", 
+        "Party_Name": "Social Democratic and Labour Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "107", 
+        "Party_Id": "23"
+},
+    {
+        "Surname": "DOHERTY", 
+        "Firstname": "Pat", 
+        "Constituency_Name": "West Tyrone", 
+        "Constituency_Number": "18", 
+        "Party_Name": "Sinn Fein", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "108", 
+        "Party_Id": "24"
+},
+    {
+        "Surname": "HUSSEY", 
+        "Firstname": "Ross", 
+        "Constituency_Name": "West Tyrone", 
+        "Constituency_Number": "18", 
+        "Party_Name": "Ulster Unionist Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "109", 
+        "Party_Id": "26"
+},
+    {
+        "Surname": "MCALEER", 
+        "Firstname": "Declan", 
+        "Constituency_Name": "West Tyrone", 
+        "Constituency_Number": "18", 
+        "Party_Name": "Sinn Fein", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "110", 
+        "Party_Id": "24"
+},
+    {
+        "Surname": "MCELDUFF", 
+        "Firstname": "Barry", 
+        "Constituency_Name": "West Tyrone", 
+        "Constituency_Number": "18", 
+        "Party_Name": "Sinn Fein", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "111", 
+        "Party_Id": "24"
+},
+    {
+        "Surname": "MCGOWAN", 
+        "Firstname": "Paddy", 
+        "Constituency_Name": "West Tyrone", 
+        "Constituency_Number": "18", 
+        "Party_Name": "Independent", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "112", 
+        "Party_Id": "21"
+},
+    {
+        "Surname": "MCMENAMIN", 
+        "Firstname": "Eugene", 
+        "Constituency_Name": "West Tyrone", 
+        "Constituency_Number": "18", 
+        "Party_Name": "Independent", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "113", 
+        "Party_Id": "21"
+}
+    ]},
+    {
+    "Constituency_Name": "Belfast East",
+    "Constituency_Number": "2",
+    "Candidates": [
+    {
+        "Surname": "BLACK", 
+        "Firstname": "Tommy", 
+        "Constituency_Name": "Belfast East", 
+        "Constituency_Number": "2", 
+        "Party_Name": "Socialist Party (NI)", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "40", 
+        "Party_Id": "996"
+},
+    {
+        "Surname": "COCHRANE", 
+        "Firstname": "Judith", 
+        "Constituency_Name": "Belfast East", 
+        "Constituency_Number": "2", 
+        "Party_Name": "Alliance Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "41", 
+        "Party_Id": "19"
+},
+    {
+        "Surname": "COOPER", 
+        "Firstname": "Ann", 
+        "Constituency_Name": "Belfast East", 
+        "Constituency_Number": "2", 
+        "Party_Name": "British Nationalist Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "42", 
+        "Party_Id": "995"
+},
+    {
+        "Surname": "COPELAND", 
+        "Firstname": "Michael", 
+        "Constituency_Name": "Belfast East", 
+        "Constituency_Number": "2", 
+        "Party_Name": "Ulster Unionist Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "43", 
+        "Party_Id": "26"
+},
+    {
+        "Surname": "DOUGLAS", 
+        "Firstname": "Sammy", 
+        "Constituency_Name": "Belfast East", 
+        "Constituency_Number": "2", 
+        "Party_Name": "Democratic Unionist Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "44", 
+        "Party_Id": "20"
+},
+    {
+        "Surname": "ERVINE", 
+        "Firstname": "Brian", 
+        "Constituency_Name": "Belfast East", 
+        "Constituency_Number": "2", 
+        "Party_Name": "Progressive Unionist Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "45", 
+        "Party_Id": "994"
+},
+    {
+        "Surname": "GREGG", 
+        "Firstname": "Martin", 
+        "Constituency_Name": "Belfast East", 
+        "Constituency_Number": "2", 
+        "Party_Name": "Green Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "46", 
+        "Party_Id": "111"
+},
+    {
+        "Surname": "LYTTLE", 
+        "Firstname": "Chris", 
+        "Constituency_Name": "Belfast East", 
+        "Constituency_Number": "2", 
+        "Party_Name": "Alliance Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "47", 
+        "Party_Id": "19"
+},
+    {
+        "Surname": "MCNALLY", 
+        "Firstname": "Kevin", 
+        "Constituency_Name": "Belfast East", 
+        "Constituency_Number": "2", 
+        "Party_Name": "Workers Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "48", 
+        "Party_Id": "998"
+},
+    {
+        "Surname": "NEWTON", 
+        "Firstname": "Robin", 
+        "Constituency_Name": "Belfast East", 
+        "Constituency_Number": "2", 
+        "Party_Name": "Democratic Unionist Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "49", 
+        "Party_Id": "20"
+},
+    {
+        "Surname": "O DONNGHAILE", 
+        "Firstname": "Niall", 
+        "Constituency_Name": "Belfast East", 
+        "Constituency_Number": "2", 
+        "Party_Name": "Sinn Fein", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "50", 
+        "Party_Id": "24"
+},
+    {
+        "Surname": "PURVIS", 
+        "Firstname": "Dawn", 
+        "Constituency_Name": "Belfast East", 
+        "Constituency_Number": "2", 
+        "Party_Name": "Independent", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "51", 
+        "Party_Id": "21"
+},
+    {
+        "Surname": "ROBINSON", 
+        "Firstname": "Peter", 
+        "Constituency_Name": "Belfast East", 
+        "Constituency_Number": "2", 
+        "Party_Name": "Democratic Unionist Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "52", 
+        "Party_Id": "20"
+},
+    {
+        "Surname": "ROBINSON", 
+        "Firstname": "Philip", 
+        "Constituency_Name": "Belfast East", 
+        "Constituency_Number": "2", 
+        "Party_Name": "Ulster Unionist Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "53", 
+        "Party_Id": "26"
+},
+    {
+        "Surname": "STEWART", 
+        "Firstname": "Stephen", 
+        "Constituency_Name": "Belfast East", 
+        "Constituency_Number": "2", 
+        "Party_Name": "Independent", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "54", 
+        "Party_Id": "21"
+},
+    {
+        "Surname": "TOAN", 
+        "Firstname": "Harry", 
+        "Constituency_Name": "Belfast East", 
+        "Constituency_Number": "2", 
+        "Party_Name": "Traditional Unionist Voice", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "55", 
+        "Party_Id": "141"
+},
+    {
+        "Surname": "WOLSKA", 
+        "Firstname": "Magdalena", 
+        "Constituency_Name": "Belfast East", 
+        "Constituency_Number": "2", 
+        "Party_Name": "Social Democratic and Labour Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "56", 
+        "Party_Id": "23"
+}
+    ]},
+    {
+    "Constituency_Name": "East Londonderry",
+    "Constituency_Number": "3",
+    "Candidates": [
+    {
+        "Surname": "ARCHIBALD", 
+        "Firstname": "Bernadette", 
+        "Constituency_Name": "East Londonderry", 
+        "Constituency_Number": "3", 
+        "Party_Name": "Sinn Fein", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "70", 
+        "Party_Id": "24"
+},
+    {
+        "Surname": "CAMPBELL", 
+        "Firstname": "Gregory", 
+        "Constituency_Name": "East Londonderry", 
+        "Constituency_Number": "3", 
+        "Party_Name": "Democratic Unionist Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "71", 
+        "Party_Id": "20"
+},
+    {
+        "Surname": "CONWAY", 
+        "Firstname": "Thomas Joseph", 
+        "Constituency_Name": "East Londonderry", 
+        "Constituency_Number": "3", 
+        "Party_Name": "Social Democratic and Labour Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "72", 
+        "Party_Id": "23"
+},
+    {
+        "Surname": "DALLAT", 
+        "Firstname": "John", 
+        "Constituency_Name": "East Londonderry", 
+        "Constituency_Number": "3", 
+        "Party_Name": "Social Democratic and Labour Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "73", 
+        "Party_Id": "23"
+},
+    {
+        "Surname": "BOYD", 
+        "Firstname": "Douglas", 
+        "Constituency_Name": "East Londonderry", 
+        "Constituency_Number": "3", 
+        "Party_Name": "Traditional Unionist Voice", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "74", 
+        "Party_Id": "141"
+},
+    {
+        "Surname": "FITZPATRICK", 
+        "Firstname": "Barry", 
+        "Constituency_Name": "East Londonderry", 
+        "Constituency_Number": "3", 
+        "Party_Name": "Alliance Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "75", 
+        "Party_Id": "19"
+},
+    {
+        "Surname": "HARDING", 
+        "Firstname": "David", 
+        "Constituency_Name": "East Londonderry", 
+        "Constituency_Number": "3", 
+        "Party_Name": "Ulster Unionist Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "76", 
+        "Party_Id": "26"
+},
+    {
+        "Surname": "MACAULAY", 
+        "Firstname": "Lesley", 
+        "Constituency_Name": "East Londonderry", 
+        "Constituency_Number": "3", 
+        "Party_Name": "Ulster Unionist Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "77", 
+        "Party_Id": "26"
+},
+    {
+        "Surname": "MCCLARTY", 
+        "Firstname": "David", 
+        "Constituency_Name": "East Londonderry", 
+        "Constituency_Number": "3", 
+        "Party_Name": "Independent", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "78", 
+        "Party_Id": "21"
+},
+    {
+        "Surname": "MCQUILLAN", 
+        "Firstname": "Adrian", 
+        "Constituency_Name": "East Londonderry", 
+        "Constituency_Number": "3", 
+        "Party_Name": "Democratic Unionist Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "79", 
+        "Party_Id": "20"
+},
+    {
+        "Surname": "O HOISIN", 
+        "Firstname": "Cathal", 
+        "Constituency_Name": "East Londonderry", 
+        "Constituency_Number": "3", 
+        "Party_Name": "Sinn Fein", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "80", 
+        "Party_Id": "24"
+},
+    {
+        "Surname": "ROBINSON", 
+        "Firstname": "George", 
+        "Constituency_Name": "East Londonderry", 
+        "Constituency_Number": "3", 
+        "Party_Name": "Democratic Unionist Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "81", 
+        "Party_Id": "20"
+}
+    ]},
+    {
+    "Constituency_Name": "Fermanagh and South Tyrone",
+    "Constituency_Number": "4",
+    "Candidates": [
+    {
+        "Surname": "COX", 
+        "Firstname": "Pat", 
+        "Constituency_Name": "Fermanagh and South Tyrone", 
+        "Constituency_Number": "4", 
+        "Party_Name": "Independent", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "92", 
+        "Party_Id": "21"
+},
+    {
+        "Surname": "DONALDSON", 
+        "Firstname": "Kenny", 
+        "Constituency_Name": "Fermanagh and South Tyrone", 
+        "Constituency_Number": "4", 
+        "Party_Name": "Ulster Unionist Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "93", 
+        "Party_Id": "26"
+},
+    {
+        "Surname": "ELLIOTT", 
+        "Firstname": "Alex", 
+        "Constituency_Name": "Fermanagh and South Tyrone", 
+        "Constituency_Number": "4", 
+        "Party_Name": "Traditional Unionist Voice", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "94", 
+        "Party_Id": "141"
+},
+    {
+        "Surname": "ELLIOTT", 
+        "Firstname": "Tom", 
+        "Constituency_Name": "Fermanagh and South Tyrone", 
+        "Constituency_Number": "4", 
+        "Party_Name": "Ulster Unionist Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "95", 
+        "Party_Id": "26"
+},
+    {
+        "Surname": "FLANAGAN", 
+        "Firstname": "Phil", 
+        "Constituency_Name": "Fermanagh and South Tyrone", 
+        "Constituency_Number": "4", 
+        "Party_Name": "Sinn Fein", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "96", 
+        "Party_Id": "24"
+},
+    {
+        "Surname": "FOSTER", 
+        "Firstname": "Arlene", 
+        "Constituency_Name": "Fermanagh and South Tyrone", 
+        "Constituency_Number": "4", 
+        "Party_Name": "Democratic Unionist Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "97", 
+        "Party_Id": "20"
+},
+    {
+        "Surname": "GALLAGHER", 
+        "Firstname": "Tommy", 
+        "Constituency_Name": "Fermanagh and South Tyrone", 
+        "Constituency_Number": "4", 
+        "Party_Name": "Social Democratic and Labour Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "98", 
+        "Party_Id": "23"
+},
+    {
+        "Surname": "GILDERNEW", 
+        "Firstname": "Michelle", 
+        "Constituency_Name": "Fermanagh and South Tyrone", 
+        "Constituency_Number": "4", 
+        "Party_Name": "Sinn Fein", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "99", 
+        "Party_Id": "24"
+},
+    {
+        "Surname": "LYNCH", 
+        "Firstname": "Sean", 
+        "Constituency_Name": "Fermanagh and South Tyrone", 
+        "Constituency_Number": "4", 
+        "Party_Name": "Sinn Fein", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "100", 
+        "Party_Id": "24"
+},
+    {
+        "Surname": "MORROW", 
+        "Firstname": "Maurice", 
+        "Constituency_Name": "Fermanagh and South Tyrone", 
+        "Constituency_Number": "4", 
+        "Party_Name": "Democratic Unionist Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "101", 
+        "Party_Id": "20"
+},
+    {
+        "Surname": "SU", 
+        "Firstname": "Hannah", 
+        "Constituency_Name": "Fermanagh and South Tyrone", 
+        "Constituency_Number": "4", 
+        "Party_Name": "Alliance Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "102", 
+        "Party_Id": "19"
+}
+    ]},
+    {
+    "Constituency_Name": "Foyle",
+    "Constituency_Number": "5",
+    "Candidates": [
+    {
+        "Surname": "ANDERSON", 
+        "Firstname": "Martina", 
+        "Constituency_Name": "Foyle", 
+        "Constituency_Number": "5", 
+        "Party_Name": "Sinn Fein", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "114", 
+        "Party_Id": "24"
+},
+    {
+        "Surname": "CALLAGHAN", 
+        "Firstname": "Pol", 
+        "Constituency_Name": "Foyle", 
+        "Constituency_Number": "5", 
+        "Party_Name": "Social Democratic and Labour Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "115", 
+        "Party_Id": "23"
+},
+    {
+        "Surname": "DOHERTY", 
+        "Firstname": "Terry", 
+        "Constituency_Name": "Foyle", 
+        "Constituency_Number": "5", 
+        "Party_Name": "Independent", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "116", 
+        "Party_Id": "21"
+},
+    {
+        "Surname": "DURKAN", 
+        "Firstname": "Mark H", 
+        "Constituency_Name": "Foyle", 
+        "Constituency_Number": "5", 
+        "Party_Name": "Social Democratic and Labour Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "117", 
+        "Party_Id": "23"
+},
+    {
+        "Surname": "EASTWOOD", 
+        "Firstname": "Colum", 
+        "Constituency_Name": "Foyle", 
+        "Constituency_Number": "5", 
+        "Party_Name": "Social Democratic and Labour Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "118", 
+        "Party_Id": "23"
+},
+    {
+        "Surname": "FLEMING", 
+        "Firstname": "Paul", 
+        "Constituency_Name": "Foyle", 
+        "Constituency_Number": "5", 
+        "Party_Name": "Sinn Fein", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "119", 
+        "Party_Id": "24"
+},
+    {
+        "Surname": "HAY", 
+        "Firstname": "William", 
+        "Constituency_Name": "Foyle", 
+        "Constituency_Number": "5", 
+        "Party_Name": "Democratic Unionist Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "120", 
+        "Party_Id": "20"
+},
+    {
+        "Surname": "MCCANN", 
+        "Firstname": "Eamonn", 
+        "Constituency_Name": "Foyle", 
+        "Constituency_Number": "5", 
+        "Party_Name": "People Before Profit Alliance", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "121", 
+        "Party_Id": "999"
+},
+    {
+        "Surname": "MCCARTNEY", 
+        "Firstname": "Raymond", 
+        "Constituency_Name": "Foyle", 
+        "Constituency_Number": "5", 
+        "Party_Name": "Sinn Fein", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "122", 
+        "Party_Id": "24"
+},
+    {
+        "Surname": "MCFADDEN", 
+        "Firstname": "Paul", 
+        "Constituency_Name": "Foyle", 
+        "Constituency_Number": "5", 
+        "Party_Name": "Independent", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "123", 
+        "Party_Id": "21"
+},
+    {
+        "Surname": "MCGRELLIS", 
+        "Firstname": "Keith", 
+        "Constituency_Name": "Foyle", 
+        "Constituency_Number": "5", 
+        "Party_Name": "Alliance Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "124", 
+        "Party_Id": "19"
+},
+    {
+        "Surname": "RAMSEY", 
+        "Firstname": "Pat", 
+        "Constituency_Name": "Foyle", 
+        "Constituency_Number": "5", 
+        "Party_Name": "Social Democratic and Labour Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "125", 
+        "Party_Id": "23"
+}
+    ]},
+    {
+    "Constituency_Name": "Lagan Valley",
+    "Constituency_Number": "6",
+    "Candidates": [
+    {
+        "Surname": "CATNEY", 
+        "Firstname": "Pat", 
+        "Constituency_Name": "Lagan Valley", 
+        "Constituency_Number": "6", 
+        "Party_Name": "Social Democratic and Labour Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "126", 
+        "Party_Id": "23"
+},
+    {
+        "Surname": "CRAIG", 
+        "Firstname": "Jonathan", 
+        "Constituency_Name": "Lagan Valley", 
+        "Constituency_Number": "6", 
+        "Party_Name": "Democratic Unionist Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "127", 
+        "Party_Id": "20"
+},
+    {
+        "Surname": "GIVAN", 
+        "Firstname": "Paul", 
+        "Constituency_Name": "Lagan Valley", 
+        "Constituency_Number": "6", 
+        "Party_Name": "Democratic Unionist Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "128", 
+        "Party_Id": "20"
+},
+    {
+        "Surname": "HALE", 
+        "Firstname": "Brenda", 
+        "Constituency_Name": "Lagan Valley", 
+        "Constituency_Number": "6", 
+        "Party_Name": "Democratic Unionist Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "129", 
+        "Party_Id": "20"
+},
+    {
+        "Surname": "HILL", 
+        "Firstname": "Mark", 
+        "Constituency_Name": "Lagan Valley", 
+        "Constituency_Number": "6", 
+        "Party_Name": "Ulster Unionist Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "130", 
+        "Party_Id": "26"
+},
+    {
+        "Surname": "LUNN", 
+        "Firstname": "Trevor", 
+        "Constituency_Name": "Lagan Valley", 
+        "Constituency_Number": "6", 
+        "Party_Name": "Alliance Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "131", 
+        "Party_Id": "19"
+},
+    {
+        "Surname": "MCCREA", 
+        "Firstname": "Basil", 
+        "Constituency_Name": "Lagan Valley", 
+        "Constituency_Number": "6", 
+        "Party_Name": "Ulster Unionist Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "132", 
+        "Party_Id": "26"
+},
+    {
+        "Surname": "POOTS", 
+        "Firstname": "Edwin", 
+        "Constituency_Name": "Lagan Valley", 
+        "Constituency_Number": "6", 
+        "Party_Name": "Democratic Unionist Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "133", 
+        "Party_Id": "20"
+},
+    {
+        "Surname": "QUINN", 
+        "Firstname": "Conor", 
+        "Constituency_Name": "Lagan Valley", 
+        "Constituency_Number": "6", 
+        "Party_Name": "Green Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "134", 
+        "Party_Id": "111"
+},
+    {
+        "Surname": "QUINN", 
+        "Firstname": "Mary-Kate", 
+        "Constituency_Name": "Lagan Valley", 
+        "Constituency_Number": "6", 
+        "Party_Name": "Sinn Fein", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "135", 
+        "Party_Id": "24"
+},
+    {
+        "Surname": "REA", 
+        "Firstname": "Lyle", 
+        "Constituency_Name": "Lagan Valley", 
+        "Constituency_Number": "6", 
+        "Party_Name": "Traditional Unionist Voice", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "136", 
+        "Party_Id": "141"
+}
+    ]},
+    {
+    "Constituency_Name": "Mid Ulster",
+    "Constituency_Number": "7",
+    "Candidates": [
+    {
+        "Surname": "HUTCHINSON", 
+        "Firstname": "Harry", 
+        "Constituency_Name": "Mid Ulster", 
+        "Constituency_Number": "7", 
+        "Party_Name": "People Before Profit Alliance", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "137", 
+        "Party_Id": "999"
+},
+    {
+        "Surname": "KELLY", 
+        "Firstname": "Austin", 
+        "Constituency_Name": "Mid Ulster", 
+        "Constituency_Number": "7", 
+        "Party_Name": "Social Democratic and Labour Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "138", 
+        "Party_Id": "23"
+},
+    {
+        "Surname": "MCCANN", 
+        "Firstname": "Gary", 
+        "Constituency_Name": "Mid Ulster", 
+        "Constituency_Number": "7", 
+        "Party_Name": "Independent", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "139", 
+        "Party_Id": "21"
+},
+    {
+        "Surname": "MCCLOY", 
+        "Firstname": "Hugh", 
+        "Constituency_Name": "Mid Ulster", 
+        "Constituency_Number": "7", 
+        "Party_Name": "Independent", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "140", 
+        "Party_Id": "21"
+},
+    {
+        "Surname": "MCCREA", 
+        "Firstname": "Ian", 
+        "Constituency_Name": "Mid Ulster", 
+        "Constituency_Number": "7", 
+        "Party_Name": "Democratic Unionist Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "141", 
+        "Party_Id": "20"
+},
+    {
+        "Surname": "MCDONALD", 
+        "Firstname": "Michael", 
+        "Constituency_Name": "Mid Ulster", 
+        "Constituency_Number": "7", 
+        "Party_Name": "Alliance Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "142", 
+        "Party_Id": "19"
+},
+    {
+        "Surname": "MCGLONE", 
+        "Firstname": "Patsy", 
+        "Constituency_Name": "Mid Ulster", 
+        "Constituency_Number": "7", 
+        "Party_Name": "Social Democratic and Labour Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "143", 
+        "Party_Id": "23"
+},
+    {
+        "Surname": "MCGUINNESS", 
+        "Firstname": "Martin", 
+        "Constituency_Name": "Mid Ulster", 
+        "Constituency_Number": "7", 
+        "Party_Name": "Sinn Fein", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "144", 
+        "Party_Id": "24"
+},
+    {
+        "Surname": "MILLAR", 
+        "Firstname": "Walter", 
+        "Constituency_Name": "Mid Ulster", 
+        "Constituency_Number": "7", 
+        "Party_Name": "Traditional Unionist Voice", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "145", 
+        "Party_Id": "141"
+},
+    {
+        "Surname": "MILNE", 
+        "Firstname": "Ian Patrick", 
+        "Constituency_Name": "Mid Ulster", 
+        "Constituency_Number": "7", 
+        "Party_Name": "Sinn Fein", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "146", 
+        "Party_Id": "24"
+},
+    {
+        "Surname": "MOLLOY", 
+        "Firstname": "Francie", 
+        "Constituency_Name": "Mid Ulster", 
+        "Constituency_Number": "7", 
+        "Party_Name": "Sinn Fein", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "147", 
+        "Party_Id": "24"
+},
+    {
+        "Surname": "ONEILL", 
+        "Firstname": "Michelle", 
+        "Constituency_Name": "Mid Ulster", 
+        "Constituency_Number": "7", 
+        "Party_Name": "Sinn Fein", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "148", 
+        "Party_Id": "24"
+},
+    {
+        "Surname": "OVEREND", 
+        "Firstname": "Sandra", 
+        "Constituency_Name": "Mid Ulster", 
+        "Constituency_Number": "7", 
+        "Party_Name": "Ulster Unionist Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "149", 
+        "Party_Id": "26"
+}
+    ]},
+    {
+    "Constituency_Name": "Newry and Armagh",
+    "Constituency_Number": "8",
+    "Candidates": [
+    {
+        "Surname": "BOYLAN", 
+        "Firstname": "Cathal", 
+        "Constituency_Name": "Newry and Armagh", 
+        "Constituency_Number": "8", 
+        "Party_Name": "Social Democratic and Labour Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "150", 
+        "Party_Id": "24"
+},
+    {
+        "Surname": "BRADLEY", 
+        "Firstname": "Dominic", 
+        "Constituency_Name": "Newry and Armagh", 
+        "Constituency_Number": "8", 
+        "Party_Name": "Sinn Fein", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "151", 
+        "Party_Id": "23"
+},
+    {
+        "Surname": "BRADY", 
+        "Firstname": "Mickey", 
+        "Constituency_Name": "Newry and Armagh", 
+        "Constituency_Number": "8", 
+        "Party_Name": "Sinn Fein", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "152", 
+        "Party_Id": "23"
+},
+    {
+        "Surname": "HALLIDAY", 
+        "Firstname": "Barrie", 
+        "Constituency_Name": "Newry and Armagh", 
+        "Constituency_Number": "8", 
+        "Party_Name": "Traditional Unionist Voice", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "153", 
+        "Party_Id": "141"
+},
+    {
+        "Surname": "IRWIN", 
+        "Firstname": "William George", 
+        "Constituency_Name": "Newry and Armagh", 
+        "Constituency_Number": "8", 
+        "Party_Name": "Democratic Unionist Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "154", 
+        "Party_Id": "20"
+},
+    {
+        "Surname": "KENNEDY", 
+        "Firstname": "Danny", 
+        "Constituency_Name": "Newry and Armagh", 
+        "Constituency_Number": "8", 
+        "Party_Name": "Ulster Unionist Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "155", 
+        "Party_Id": "26"
+},
+    {
+        "Surname": "MALONE", 
+        "Firstname": "James", 
+        "Constituency_Name": "Newry and Armagh", 
+        "Constituency_Number": "8", 
+        "Party_Name": "Independent", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "156", 
+        "Party_Id": "21"
+},
+    {
+        "Surname": "MURPHY", 
+        "Firstname": "Conor", 
+        "Constituency_Name": "Newry and Armagh", 
+        "Constituency_Number": "8", 
+        "Party_Name": "Sinn Fein", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "157", 
+        "Party_Id": "23"
+},
+    {
+        "Surname": "MURPHY", 
+        "Firstname": "David", 
+        "Constituency_Name": "Newry and Armagh", 
+        "Constituency_Number": "8", 
+        "Party_Name": "Alliance Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "158", 
+        "Party_Id": "19"
+},
+    {
+        "Surname": "OHANLON", 
+        "Firstname": "Thomas", 
+        "Constituency_Name": "Newry and Armagh", 
+        "Constituency_Number": "8", 
+        "Party_Name": "Social Democratic and Labour Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "159", 
+        "Party_Id": "23"
+},
+    {
+        "Surname": "WOODS", 
+        "Firstname": "Robert Stewart", 
+        "Constituency_Name": "Newry and Armagh", 
+        "Constituency_Number": "8", 
+        "Party_Name": "Independent", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "160", 
+        "Party_Id": "21"
+}
+    ]},
+    {
+    "Constituency_Name": "North Antrim",
+    "Constituency_Number": "9",
+    "Candidates": [
+    {
+        "Surname": "ALLISTER", 
+        "Firstname": "Jim", 
+        "Constituency_Name": "North Antrim", 
+        "Constituency_Number": "9", 
+        "Party_Name": "Traditional Unionist Voice", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "161", 
+        "Party_Id": "141"
+},
+    {
+        "Surname": "DUNLOP", 
+        "Firstname": "Jayne", 
+        "Constituency_Name": "North Antrim", 
+        "Constituency_Number": "9", 
+        "Party_Name": "Alliance Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "162", 
+        "Party_Id": "19"
+},
+    {
+        "Surname": "FREW", 
+        "Firstname": "Paul", 
+        "Constituency_Name": "North Antrim", 
+        "Constituency_Number": "9", 
+        "Party_Name": "Democratic Unionist Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "163", 
+        "Party_Id": "20"
+},
+    {
+        "Surname": "KENNEDY", 
+        "Firstname": "Bill", 
+        "Constituency_Name": "North Antrim", 
+        "Constituency_Number": "9", 
+        "Party_Name": "Ulster Unionist Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "164", 
+        "Party_Id": "26"
+},
+    {
+        "Surname": "MCILVEEN", 
+        "Firstname": "David", 
+        "Constituency_Name": "North Antrim", 
+        "Constituency_Number": "9", 
+        "Party_Name": "Democratic Unionist Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "165", 
+        "Party_Id": "20"
+},
+    {
+        "Surname": "MCKAY", 
+        "Firstname": "Daithi", 
+        "Constituency_Name": "North Antrim", 
+        "Constituency_Number": "9", 
+        "Party_Name": "Sinn Fein", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "166", 
+        "Party_Id": "24"
+},
+    {
+        "Surname": "OLOAN", 
+        "Firstname": "Declan", 
+        "Constituency_Name": "North Antrim", 
+        "Constituency_Number": "9", 
+        "Party_Name": "Social Democratic and Labour Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "167", 
+        "Party_Id": "23"
+},
+    {
+        "Surname": "PATTERSON", 
+        "Firstname": "Audrey", 
+        "Constituency_Name": "North Antrim", 
+        "Constituency_Number": "9", 
+        "Party_Name": "Traditional Unionist Voice", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "168", 
+        "Party_Id": "141"
+},
+    {
+        "Surname": "ROBINSON", 
+        "Firstname": "Evelyne", 
+        "Constituency_Name": "North Antrim", 
+        "Constituency_Number": "9", 
+        "Party_Name": "Democratic Unionist Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "169", 
+        "Party_Id": "20"
+},
+    {
+        "Surname": "STOREY", 
+        "Firstname": "Mervyn", 
+        "Constituency_Name": "North Antrim", 
+        "Constituency_Number": "9", 
+        "Party_Name": "Democratic Unionist Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "170", 
+        "Party_Id": "20"
+},
+    {
+        "Surname": "SWANN", 
+        "Firstname": "Robin", 
+        "Constituency_Name": "North Antrim", 
+        "Constituency_Number": "9", 
+        "Party_Name": "Ulster Unionist Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "171", 
+        "Party_Id": "26"
+}
+    ]}
+]}
