@@ -3,11 +3,14 @@ body {
 	margin: 0 0 0 0px;
 }
 header {
-    background: lightblue;
+    background: blue;
 	color: white;
     text-align: center;
-	border-bottom: 4px solid darkblue;
+	border-bottom: 5px solid darkblue;
 	padding: 5px 0 0 0;
+}
+#year{
+	margin: 5px 0 0 0;
 }
 #map{
 	height: 400px;
@@ -94,7 +97,7 @@ header {
     position: relative;
     display: inline-block;
     border-bottom: 0.5px dotted black;
-    padding: 5px 0 0 0;
+    padding: 5px 0 0 25px;
 }
 
 .tooltip .tooltiptext {

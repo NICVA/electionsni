@@ -1,14 +1,25 @@
 body {
 	font-family: Arial, Helvetica, sans-serif;
+	margin: 0 0 0 0px;
+}
+header {
+    background: blue;
+	color: white;
+    text-align: center;
+	border-bottom: 5px solid darkblue;
+	padding: 5px 0 0 0;
 }
 #map{
-	height: 400px;
-	width: 60%;
-	margin: auto;
+	float: left;
+	height: 500px;
+	width: 900px;
+	max-width: 60%;
+	margin: 0 20px 20px 0;
 }
 #candidates {
+	float: left;
 	margin: auto;
-	width: 60%;
+	width: 300px;
 }
 .candidate {
 	padding: 4px;
@@ -85,7 +96,7 @@ body {
     position: relative;
     display: inline-block;
     border-bottom: 0.5px dotted black;
-    padding: 5px 0 0 0;
+    padding: 5px 0 0 25px;
 }
 
 .tooltip .tooltiptext {
