@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Northern Ireland Elections Open Data</title>
+    <meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<script src="http://cdn.leafletjs.com/leaflet-0.7/leaflet.js"></script>
+	<script src="http://cdn.rawgit.com/calvinmetcalf/leaflet-ajax/gh-pages/dist/leaflet.ajax.min.js"></script>
+    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7/leaflet.css"/>
+	<link rel="stylesheet" type="text/css" href="./website/css/style.css" media="screen, handheld" />
+	<link rel="stylesheet" type="text/css" href="./website/css/enhanced.css" media="screen  and (min-width: 60.5em)" />
+		<!--[if (lt IE 9)&(!IEMobile)]>
+		<link rel="stylesheet" type="text/css" href="enhanced.css" />
+		<![endif]-->
+</head>
+<style>
+
+</style>
+<body>
+
+	<header> 
+		<h1 align="center">Northern Ireland Elections Open Data</h1>
+		<p align="center">Open data for the Assembly Elections<p>
+	</header>
+	<div id="map"></div>
+	<div align="center">
+		<form id="year">
+			<input type="radio" name="year" value="2016" checked onClick="changeyear(2016);findcandidates(2016);"/> 2016
+			<input type="radio" name="year" value="2011" onClick="changeyear(2011);findcandidates(2011);"/> 2011<br>
+			<input type="hidden" name="sum" value="" id="selected_year" />
+		</form>
+	</div>
+	<div id="candidates">Select a constituency above</div>
+	<script src="website/js/script.js"></script>
+ 
+</body>
+</html>

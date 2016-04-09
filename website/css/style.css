@@ -1,0 +1,190 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	margin: 0 0 0 0px;
+}
+header {
+    background: lightblue;
+	color: white;
+    text-align: center;
+	border-bottom: 4px solid darkblue;
+	padding: 5px 0 0 0;
+}
+#map{
+	height: 400px;
+	margin: auto;
+	width: 100%;
+	padding-top: 10px;
+}
+#candidates {
+	margin: auto;
+	width: 60%;
+}
+.candidate {
+	padding: 4px;
+}
+.info {
+    padding: 6px 8px;
+    font: 14px/16px Arial, Helvetica, sans-serif;
+    background: white;
+    background: rgba(255,255,255,0.8);
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+    border-radius: 5px;
+}
+.info h4 {
+    margin: 0 0 5px;
+    color: #777;
+}
+
+.Alliance-Party_label:after{
+	 content: " (Alliance)";
+}
+.Social-Democratic-and-Labour-Party_label:after{
+     content: " (SDLP)";
+}
+.Ulster-Unionist-Party_label:after {
+     content: " (UUP)";
+}
+.Sinn-Fein_label:after {
+     content: " (SF)";
+}
+.Green-Party_label:after{
+     content: " (Greens)";
+}
+.Democratic-Unionist-Party_label:after{
+     content: " (DUP)";
+}
+.Traditional-Unionist-Voice_label:after{
+     content: " (TUV)";
+}
+.Workers-Party_label:after{
+	 content: " (Workers)";
+}
+.UK-Independence-Party_label:after{
+	 content: " (UKIP)";
+}
+.Progressive-Unionist-Party_label:after{
+	 content: " (PUP)";
+}
+.Socialist-Party_label:after{
+	 content: " (SP)";
+}
+.NI21_label:after{
+	 content: " (NI21)";
+}
+.Procapitalism_label:after{
+	 content: " (CAP)";
+}
+.NI-Conservatives_label:after{
+	 content: " (CON)";
+}
+.British-Nationalist-Party_label:after{
+	 content: " (BNP)";
+}
+.People-Before-Profit-Alliance_label:after{
+	 content: " (PBP)";
+}
+.Independent_label:after{
+	 content: " (Ind)";
+}
+.Cannabis-Is-Safer-Than-Alcohol_label:after{
+	 content: " (CISTA)";
+}
+
+.tooltip {
+    position: relative;
+    display: inline-block;
+    border-bottom: 0.5px dotted black;
+    padding: 5px 0 0 0;
+}
+
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 200px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+}
+
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+}
+	
+.votes{
+    height:25px;
+    width:0px;
+    position:absolute;
+    fill:#669999; background:#669999; color:#fff  // Default colours for independents, non-specified parties
+    overflow:hidden;
+    white-space: nowrap;
+    text-overflow:ellipsis;
+    color:white;
+    padding-top:3px;
+    box-sizing:border-box;
+}
+
+.candidateLabel{
+    height:25px;
+    width:200px;
+    position:absolute;
+    overflow:hidden;
+    white-space: nowrap;
+    text-overflow:ellipsis;
+}
+
+.Elected{
+	font-weight:bold;
+}
+
+.votes:before{content: " ";}
+
+.Social-Democratic-and-Labour-Party{fill:#cc3300!important; background:#cc3300!important; color:#fff}
+.Traditional-Unionist-Voice{fill:#0000e6!important; background:#0000e6!important; color:#fff}
+.Green-Party{fill:#33ff33!important; background:#33ff33!important; color:#fff}
+.Sinn-Fein{fill:#009900!important; background:#009900!important; color:#fff}
+.Ulster-Unionist-Party{fill:#62cae7!important; background:#62cae7!important; color:#fff}
+.Alliance-Party{fill:#ffe600!important; background:#ffe600!important; color:#fff}
+.Democratic-Unionist-Party{fill:#ff8000!important; background:#ff8000!important; color:#fff}
+.Workers-Party{fill:#ff0000!important; background:#ff0000!important; color:#fff}
+.Independent{fill:#669999!important; background:#669999!important; color:#fff}
+.Socialist-Party{fill:#e60000!important; background:#e60000!important; color:#fff}
+.UK-Independence-Party{fill:#cc00cc!important; background:#cc00cc!important; color:#fff}
+.People-Before-Profit-Alliance{fill:#ff3399!important; background:#ff3399!important; color:#fff}
+.Independent{fill:#669999!important; background:#669999!important; color:#fff}
+.Progressive-Unionist-Party{fill:#1e0082!important; background:#1e0082!important; color:#fff}
+.NI21{fill:#581845!important; background:#581845!important; color:#fff}
+.Procapitalism{fill:#f633ff!important; background:#f633ff!important; color:#fff}
+.NI-Conservatives{fill:#362da7!important; background:#362da7!important; color:#fff}
+
+#thepost{
+    width:2px;
+    background-color:black;
+    position:absolute;
+    top:40px;
+    left:810px;
+    height:0px;
+}
+
+#theline{
+    height:2px;
+    background-color:black;
+    position:absolute;
+    top:0px;
+    width:803px;
+}
+
+#constituency{
+    position:absolute;
+	margin-left:600px;
+	top:10px;
+}
+
+#controls{
+    display:inline-block;
+    margin-left:250px;
+}
