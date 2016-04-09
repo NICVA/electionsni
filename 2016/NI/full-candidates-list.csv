@@ -1,0 +1,249 @@
+Constituency_Name,Constituency_Number,Candidate_Id,Firstname,Surname,Outgoing_Member,Party_Id,Party_Name,Photo_URL,Directory,Gender
+Belfast East,2,1,Andy,ALLEN,1,26,Ulster Unionist Party,,belfast-east,M
+Belfast East,2,2,Ross,BROWN,0,111,Green Party,,belfast-east,M
+Belfast East,2,3,Joanne,BUNTING,0,20,Democratic Unionist Party,,belfast-east,F
+Belfast East,2,4,Amy,DOHERTY,0,23,Social Democratic and Labour Party,,belfast-east,F
+Belfast East,2,5,Sammy,DOUGLAS,1,20,Democratic Unionist Party,,belfast-east,M
+Belfast East,2,6,Andrew,GIRVIN,0,141,Traditional Unionist Voice,,belfast-east,M
+Belfast East,2,7,Maggie,HUTTON,0,21,Independent,,belfast-east,F
+Belfast East,2,8,John,KYLE,0,994,Progressive Unionist Party,,belfast-east,M
+Belfast East,2,9,Jonny,LAVERY,0,689,UK Independence Party,,belfast-east,M
+Belfast East,2,10,Naomi,LONG,0,19,Alliance Party,,belfast-east,F
+Belfast East,2,11,Chris,LYTTLE,1,19,Alliance Party,,belfast-east,M
+Belfast East,2,12,Chris,MCGIMPSEY,0,26,Ulster Unionist Party,,belfast-east,M
+Belfast East,2,13,Tim,MORROW,0,19,Alliance Party,,belfast-east,M
+Belfast East,2,14,Robin,NEWTON,1,20,Democratic Unionist Party,,belfast-east,M
+Belfast East,2,15,Niall,O DONNGHAILE,0,24,Sinn Fein,,belfast-east,M
+Belfast East,2,16,Courtney,ROBINSON,0,992,Labour Alternative,,belfast-east,F
+Belfast East,2,17,Neil,WILSON,0,991,NI Conservatives,,belfast-east,M
+Belfast North,10,18,Ken,BOYLE,0,689,UK Independence Party,,belfast-north,M
+Belfast North,10,19,Paula,BRADLEY,1,20,Democratic Unionist Party,,belfast-north,F
+Belfast North,10,20,Lesley,CARROLL,0,26,Ulster Unionist Party,,belfast-north,F
+Belfast North,10,21,Fiona,FERGUSON,0,999,People Before Profit Alliance,,belfast-north,F
+Belfast North,10,22,William,HUMPHREY,1,20,Democratic Unionist Party,,belfast-north,M
+Belfast North,10,23,Billy,HUTCHINSON,0,994,Progressive Unionist Party,,belfast-north,M
+Belfast North,10,24,Gerry,KELLY,1,24,Sinn Fein,,belfast-north,M
+Belfast North,10,25,Nichola,MALLON,0,23,Social Democratic and Labour Party,,belfast-north,F
+Belfast North,10,26,Nuala,MCALLISTER,0,19,Alliance Party,,belfast-north,F
+Belfast North,10,27,Nelson,MCCAUSLAND,1,20,Democratic Unionist Party,,belfast-north,M
+Belfast North,10,28,John,MILLER,0,141,Traditional Unionist Voice,,belfast-north,M
+Belfast North,10,29,Caral,NI CHUILIN,1,24,Sinn Fein,,belfast-north,M
+Belfast North,10,30,Malachai,OHARA,0,111,Green Party,,belfast-north,M
+Belfast North,10,31,Gemma,WEIR,0,998,Workers Party,,belfast-north,F
+Belfast South,13,32,Clare,BAILEY,0,111,Green Party,,belfast-south,F
+Belfast South,13,33,Paula,BRADSHAW,0,19,Alliance Party,,belfast-south,F
+Belfast South,13,34,Sean,BURNS,0,992,Labour Alternative,,belfast-south,M
+Belfast South,13,35,Claire,HANNA,1,23,Social Democratic and Labour Party,,belfast-south,F
+Belfast South,13,36,John,HIDDLESTON,0,141,Traditional Unionist Voice,,belfast-south,M
+Belfast South,13,37,Lily,KERR,0,998,Workers Party,,belfast-south,F
+Belfast South,13,38,Ben,MANTON,0,991,NI Conservatives,,belfast-south,M
+Belfast South,13,39,Rodney,MCCUNE,0,26,Ulster Unionist Party,,belfast-south,M
+Belfast South,13,40,Fearghal,MCKINNEY,1,23,Social Democratic and Labour Party,,belfast-south,M
+Belfast South,13,41,Duncan,MORROW,0,19,Alliance Party,,belfast-south,M
+Belfast South,13,42,Mairtin,O MUILLEOIR,1,24,Sinn Fein,,belfast-south,M
+Belfast South,13,43,Ruth,PATTERSON,0,21,Independent,,belfast-south,F
+Belfast South,13,44,Emma,PENGELLY,1,20,Democratic Unionist Party,,belfast-south,F
+Belfast South,13,45,Ian,SHANKS,0,994,Progressive Unionist Party,,belfast-south,M
+Belfast South,13,46,Christopher,STALFORD,0,20,Democratic Unionist Party,,belfast-south,M
+Belfast South,13,47,Bob,STOKER,0,689,UK Independence Party,,belfast-south,M
+Belfast West,17,48,Alex,ATTWOOD,1,23,Social Democratic and Labour Party,,belfast-west,M
+Belfast West,17,49,Gerry,CARROLL,0,999,People Before Profit Alliance,,belfast-west,M
+Belfast West,17,50,Jemima,HIGGINS,0,19,Alliance Party,,belfast-west,F
+Belfast West,17,51,Gareth,MARTIN,0,26,Ulster Unionist Party,,belfast-west,M
+Belfast West,17,52,Alex,MASKEY,1,24,Sinn Fein,,belfast-west,M
+Belfast West,17,53,Fra,MCCANN,1,24,Sinn Fein,,belfast-west,M
+Belfast West,17,54,Jennifer,MCCANN,1,24,Sinn Fein,,belfast-west,F
+Belfast West,17,55,Rosie,MCCORLEY,1,24,Sinn Fein,,belfast-west,F
+Belfast West,17,56,Frank,MCCOUBREY,0,20,Democratic Unionist Party,,belfast-west,M
+Belfast West,17,57,Ellen,MURRAY,0,111,Green Party,,belfast-west,F
+Belfast West,17,58,Pat,SHEEHAN,1,24,Sinn Fein,,belfast-west,M
+East Antrim,1,59,Roy,BEGGS,1,26,Ulster Unionist Party,,east-antrim,M
+East Antrim,1,60,Stewart,DICKSON,1,19,Alliance Party,,east-antrim,M
+East Antrim,1,61,Danny,DONNELLY,0,19,Alliance Party,,east-antrim,M
+East Antrim,1,62,David,HILDITCH,1,20,Democratic Unionist Party,,east-antrim,M
+East Antrim,1,63,Noel,JORDAN,0,689,UK Independence Party,,east-antrim,M
+East Antrim,1,64,Gordon,LYONS,1,20,Democratic Unionist Party,,east-antrim,M
+East Antrim,1,65,Jim,MCCAW,0,994,Progressive Unionist Party,,east-antrim,M
+East Antrim,1,66,Margaret Anne,MCKILLOP,0,23,Social Democratic and Labour Party,,east-antrim,F
+East Antrim,1,67,Oliver,MCMULLAN,0,24,Sinn Fein,,east-antrim,M
+East Antrim,1,68,Maureen,MORROW,0,26,Ulster Unionist Party,,east-antrim,F
+East Antrim,1,69,Dawn,PATTERSON,0,111,Green Party,,east-antrim,F
+East Antrim,1,70,Alastair,ROSS,1,20,Democratic Unionist Party,,east-antrim,M
+East Antrim,1,71,John,STEWART,0,26,Ulster Unionist Party,,east-antrim,M
+East Antrim,1,72,Ruth,WILSON,0,141,Traditional Unionist Voice,,east-antrim,F
+East Londonderry,3,73,Caoimhe,ARCHIBALD,0,24,Sinn Fein,,east-londonderry,F
+East Londonderry,3,74,Jordan,ARMSTRONG,0,141,Traditional Unionist Voice,,east-londonderry,M
+East Londonderry,3,75,Yvonne,BOYLE,0,19,Alliance Party,,east-londonderry,F
+East Londonderry,3,76,Maurice,BRADLEY,0,20,Democratic Unionist Party,,east-londonderry,M
+East Londonderry,3,77,Aaron,CALLAN,0,26,Ulster Unionist Party,,east-londonderry,M
+East Londonderry,3,78,Stuart,CANNING,0,991,NI Conservatives,,east-londonderry,M
+East Londonderry,3,79,Amber,HAMMILL,0,111,Green Party,,east-londonderry,F
+East Londonderry,3,80,William,MCCANDLESS,0,26,Ulster Unionist Party,,east-londonderry,M
+East Londonderry,3,81,Adrian,MCQUILLAN,1,20,Democratic Unionist Party,,east-londonderry,M
+East Londonderry,3,82,Gerry,MULLAN,0,23,Social Democratic and Labour Party,,east-londonderry,M
+East Londonderry,3,83,Cathal,O HOISIN,1,24,Sinn Fein,,east-londonderry,M
+East Londonderry,3,84,Steven,PARKHILL,0,689,UK Independence Party,,east-londonderry,M
+East Londonderry,3,85,George,ROBINSON,1,20,Democratic Unionist Party,,east-londonderry,M
+East Londonderry,3,86,Claire,SUGDEN,1,21,Independent,,east-londonderry,F
+East Londonderry,3,87,Russell,WATTON,0,994,Progressive Unionist Party,,east-londonderry,M
+Fermanagh and South Tyrone,4,88,Rosemary,BARTON,0,26,Ulster Unionist Party,,fermanagh-south-tyrone,F
+Fermanagh and South Tyrone,4,89,Kerri,BLYBERG,0,19,Alliance Party,,fermanagh-south-tyrone,F
+Fermanagh and South Tyrone,4,90,Donald,CRAWFORD,0,141,Traditional Unionist Voice,,fermanagh-south-tyrone,M
+Fermanagh and South Tyrone,4,91,John,FEELEY,0,24,Sinn Fein,,fermanagh-south-tyrone,M
+Fermanagh and South Tyrone,4,92,Phil,FLANAGAN,1,24,Sinn Fein,,fermanagh-south-tyrone,M
+Fermanagh and South Tyrone,4,93,Arlene,FOSTER,1,20,Democratic Unionist Party,,fermanagh-south-tyrone,F
+Fermanagh and South Tyrone,4,94,Michelle,GILDERNEW,0,24,Sinn Fein,,fermanagh-south-tyrone,F
+Fermanagh and South Tyrone,4,95,Tanya,JONES,0,111,Green Party,,fermanagh-south-tyrone,F
+Fermanagh and South Tyrone,4,96,Sean,LYNCH,1,24,Sinn Fein,,fermanagh-south-tyrone,M
+Fermanagh and South Tyrone,4,97,Richie,MCPHILLIPS,0,23,Social Democratic and Labour Party,,fermanagh-south-tyrone,F
+Fermanagh and South Tyrone,4,98,Maurice,MORROW,1,20,Democratic Unionist Party,,fermanagh-south-tyrone,M
+Fermanagh and South Tyrone,4,99,Alastair,PATTERSON,1,26,Ulster Unionist Party,,fermanagh-south-tyrone,M
+Fermanagh and South Tyrone,4,100,Damien,HARRIS,0,21,Independent,,fermanagh-south-tyrone,M
+Foyle,5,101,Maurice,DEVENNEY,0,21,Independent,,foyle,M
+Foyle,5,102,Gerard,DIVER,1,23,Social Democratic and Labour Party,,foyle,M
+Foyle,5,103,Mark H,DURKAN,1,23,Social Democratic and Labour Party,,foyle,M
+Foyle,5,104,Colum,EASTWOOD,1,23,Social Democratic and Labour Party,,foyle,M
+Foyle,5,105,Mary,HASSAN,0,111,Green Party,,foyle,F
+Foyle,5,106,Julia,KEE,0,26,Ulster Unionist Party,,foyle,F
+Foyle,5,107,John,LINDSAY,0,993,Cannabis Is Safer Than Alcohol,,foyle,M
+Foyle,5,108,Eamonn,MCCANN,0,999,People Before Profit Alliance,,foyle,M
+Foyle,5,109,Raymond,MCCARTNEY,1,24,Sinn Fein,,foyle,M
+Foyle,5,110,Chris,MCCAW,0,19,Alliance Party,,foyle,M
+Foyle,5,111,Ann,MCCLOSKEY,0,21,Independent,,foyle,F
+Foyle,5,112,Martin,MCGUINNESS,1,24,Sinn Fein,,foyle,M
+Foyle,5,113,Maeve,MCLOUGHLIN,1,24,Sinn Fein,,foyle,F
+Foyle,5,114,Gary,MIDDLETON,1,20,Democratic Unionist Party,,foyle,M
+Lagan Valley,6,115,Daniel,BARRIOS-ONEIL,0,111,Green Party,,lagan-valley,M
+Lagan Valley,6,116,Robbie,BUTLER,0,26,Ulster Unionist Party,,lagan-valley,M
+Lagan Valley,6,117,Pat,CATNEY,0,23,Social Democratic and Labour Party,,lagan-valley,M
+Lagan Valley,6,118,Jonathan,CRAIG,1,20,Democratic Unionist Party,,lagan-valley,M
+Lagan Valley,6,119,Paul,GIVAN,1,20,Democratic Unionist Party,,lagan-valley,M
+Lagan Valley,6,120,Brenda,HALE,1,20,Democratic Unionist Party,,lagan-valley,F
+Lagan Valley,6,121,Brian,HIGGINSON,0,689,UK Independence Party,,lagan-valley,M
+Lagan Valley,6,122,Jack,IRWIN,0,991,NI Conservatives,,lagan-valley,M
+Lagan Valley,6,123,Trevor,LUNN,1,19,Alliance Party,,lagan-valley,M
+Lagan Valley,6,124,Jenny,PALMER,0,26,Ulster Unionist Party,,lagan-valley,F
+Lagan Valley,6,125,Edwin,POOTS,1,20,Democratic Unionist Party,,lagan-valley,M
+Lagan Valley,6,126,Lyle,REA,0,141,Traditional Unionist Voice,,lagan-valley,M
+Mid Ulster,7,127,Keith,BUCHANAN,0,20,Democratic Unionist Party,,mid-ulster,M
+Mid Ulster,7,128,Alan,DAY,0,689,UK Independence Party,,mid-ulster,M
+Mid Ulster,7,129,Linda,DILLON,0,24,Sinn Fein,,mid-ulster,F
+Mid Ulster,7,130,Neidin,HENDRON,0,19,Alliance Party,,mid-ulster,F
+Mid Ulster,7,131,Hannah,LOUGHRIN,0,141,Traditional Unionist Voice,,mid-ulster,F
+Mid Ulster,7,132,Ian,MCCREA,1,20,Democratic Unionist Party,,mid-ulster,M
+Mid Ulster,7,133,Patsy,MCGLONE,1,23,Social Democratic and Labour Party,,mid-ulster,M
+Mid Ulster,7,134,Ian,MILNE,1,24,Sinn Fein,,mid-ulster,M
+Mid Ulster,7,135,Michelle,ONEILL,1,24,Sinn Fein,,mid-ulster,F
+Mid Ulster,7,136,Sandra,OVEREND,1,26,Ulster Unionist Party,,mid-ulster,F
+Mid Ulster,7,137,Hugh,SCULLION,0,998,Workers Party,,mid-ulster,M
+Mid Ulster,7,138,Stefan,TAYLOR,0,111,Green Party,,mid-ulster,M
+Newry and Armagh,8,139,Paul,BERRY ,0,21,Independent,,newry-armagh,M
+Newry and Armagh,8,140,Cathal,BOYLAN,1,24,Sinn Fein,,newry-armagh,M
+Newry and Armagh,8,141,Emmet,CROSSAN,0,993,Cannabis Is Safer Than Alcohol,,newry-armagh,M
+Newry and Armagh,8,142,Megan,FEARON,1,24,Sinn Fein,,newry-armagh,F
+Newry and Armagh,8,143,William,IRWIN,1,20,Democratic Unionist Party,,newry-armagh,M
+Newry and Armagh,8,144,Danny,KENNEDY,1,26,Ulster Unionist Party,,newry-armagh,M
+Newry and Armagh,8,145,Alan,LOVE,0,689,UK Independence Party,,newry-armagh,M
+Newry and Armagh,8,146,Karen,MCKEVITT,1,23,Social Democratic and Labour Party,,newry-armagh,F
+Newry and Armagh,8,147,Justin,MCNULTY,0,23,Social Democratic and Labour Party,,newry-armagh,M
+Newry and Armagh,8,148,Conor,MURPHY,1,24,Sinn Fein,,newry-armagh,M
+Newry and Armagh,8,149,Sam,NICHOLSON,0,26,Ulster Unionist Party,,newry-armagh,M
+Newry and Armagh,8,150,Michael,WATTERS,0,111,Green Party,,newry-armagh,M
+Newry and Armagh,8,151,Craig,WEIR,0,19,Alliance Party,,newry-armagh,M
+North Antrim,9,152,Jim,ALLISTER,1,141,Traditional Unionist Voice,,north-antrim,M
+North Antrim,9,153,Donna,ANDERSON,0,689,UK Independence Party,,north-antrim,F
+North Antrim,9,154,Jenny,BRESLIN,0,111,Green Party,,north-antrim,F
+North Antrim,9,155,Connor,DUNCAN,0,23,Social Democratic and Labour Party,,north-antrim,M
+North Antrim,9,156,Paul,FREW,1,20,Democratic Unionist Party,,north-antrim,M
+North Antrim,9,157,Timothy,GASTON,0,141,Traditional Unionist Voice,,north-antrim,M
+North Antrim,9,158,Phillip,LOGAN,0,20,Democratic Unionist Party,,north-antrim,M
+North Antrim,9,159,Stephen,MCFARLAND,0,19,Alliance Party,,north-antrim,M
+North Antrim,9,160,David,MCILVEEN,1,20,Democratic Unionist Party,,north-antrim,M
+North Antrim,9,161,Daithi,MCKAY,1,24,Sinn Fein,,north-antrim,M
+North Antrim,9,162,James,SIMPSON,0,991,NI Conservatives,,north-antrim,M
+North Antrim,9,163,Mervyn,STOREY,1,20,Democratic Unionist Party,,north-antrim,M
+North Antrim,9,164,Robin,SWANN,1,26,Ulster Unionist Party,,north-antrim,M
+North Antrim,9,165,Andrew,WRIGHT,0,26,Ulster Unionist Party,,north-antrim,M
+North Down,11,166,Steven,AGNEW,1,111,Green Party,,north-down,M
+North Down,11,167,John,BRENNAN,0,141,Traditional Unionist Voice,,north-down,M
+North Down,11,168,Conal,BROWNE,0,23,Social Democratic and Labour Party,,north-down,M
+North Down,11,169,Alan,CHAMBERS,0,26,Ulster Unionist Party,,north-down,M
+North Down,11,170,Gordon,DUNNE,1,20,Democratic Unionist Party,,north-down,M
+North Down,11,171,Alex,EASTON,1,20,Democratic Unionist Party,,north-down,M
+North Down,11,172,Chris,EISENSTADT,0,26,Ulster Unionist Party,,north-down,M
+North Down,11,173,Stephen,FARRY,1,19,Alliance Party,,north-down,M
+North Down,11,174,Carl,MCCLEAN,0,26,Ulster Unionist Party,,north-down,M
+North Down,11,175,Andrew,MUIR,0,19,Alliance Party,,north-down,M
+North Down,11,176,Bill,PIPER,0,689,UK Independence Party,,north-down,M
+North Down,11,177,Frank,SHIVERS,0,991,NI Conservatives,,north-down,M
+North Down,11,178,Peter,WEIR,1,20,Democratic Unionist Party,,north-down,M
+North Down,11,179,Brian,WILSON,0,21,Independent,,north-down,M
+South Antrim,12,180,Steve,AIKEN,0,26,Ulster Unionist Party,,south-antrim,M
+South Antrim,12,181,Richard,CAIRNS,0,141,Traditional Unionist Voice,,south-antrim,M
+South Antrim,12,182,Pam,CAMERON,1,20,Democratic Unionist Party,,south-antrim,F
+South Antrim,12,183,Trevor,CLARKE,1,20,Democratic Unionist Party,,south-antrim,M
+South Antrim,12,184,Adrian,COCHRANE-WATSON,1,26,Ulster Unionist Party,,south-antrim,M
+South Antrim,12,185,Helen,FARLEY,0,111,Green Party,,south-antrim,F
+South Antrim,12,186,David,FORD,1,19,Alliance Party,,south-antrim,M
+South Antrim,12,187,Paul,GIRVAN,1,20,Democratic Unionist Party,,south-antrim,M
+South Antrim,12,188,Robert,HILL,0,689,UK Independence Party,,south-antrim,M
+South Antrim,12,189,Declan,KEARNEY,0,24,Sinn Fein,,south-antrim,M
+South Antrim,12,190,Roisin,LYNCH,0,23,Social Democratic and Labour Party,,south-antrim,F
+South Antrim,12,191,David,MCMASTER,0,21,Independent,,south-antrim,M
+South Antrim,12,192,Paul,MICHAEL,0,26,Ulster Unionist Party,,south-antrim,M
+South Antrim,12,193,Mark,YOUNG,0,991,NI Conservatives,,south-antrim,M
+South Down,14,194,Sinead,BRADLEY,0,23,Social Democratic and Labour Party,,south-down,F
+South Down,14,195,Patrick,BROWN,0,19,Alliance Party,,south-down,M
+South Down,14,196,Michael,GRAY-SLOAN,0,24,Sinn Fein,,south-down,M
+South Down,14,197,John,HARDY,0,111,Green Party,,south-down,M
+South Down,14,198,Chris,HAZZARD,1,24,Sinn Fein,,south-down,M
+South Down,14,199,John,MCCALLISTER,1,21,Independent,,south-down,M
+South Down,14,200,Colin,MCGRATH,0,23,Social Democratic and Labour Party,,south-down,M
+South Down,14,201,Harold,MCKEE,0,26,Ulster Unionist Party,,south-down,M
+South Down,14,202,Henry,REILLY,0,141,Traditional Unionist Voice,,south-down,M
+South Down,14,203,Sean,ROGERS,1,23,Social Democratic and Labour Party,,south-down,M
+South Down,14,204,Caitriona,RUANE,1,24,Sinn Fein,,south-down,F
+South Down,14,205,Jim,WELLS,1,20,Democratic Unionist Party,,south-down,M
+Strangford,15,206,Kellie,ARMSTRONG,0,19,Alliance Party,,strangford,F
+Strangford,15,207,Jonathan,BELL,1,20,Democratic Unionist Party,,strangford,M
+Strangford,15,208,Joe,BOYLE,0,23,Social Democratic and Labour Party,,strangford,M
+Strangford,15,209,Stephen,COOPER,0,141,Traditional Unionist Voice,,strangford,M
+Strangford,15,210,Stephen,CROSBY,0,689,UK Independence Party,,strangford,M
+Strangford,15,211,Georgia,GRAINGER,0,111,Green Party,,strangford,F
+Strangford,15,212,Simon,HAMILTON,1,20,Democratic Unionist Party,,strangford,M
+Strangford,15,213,Harry,HARVEY,0,20,Democratic Unionist Party,,strangford,M
+Strangford,15,214,Michelle,MCILVEEN,1,20,Democratic Unionist Party,,strangford,F
+Strangford,15,215,Bill,MCKENDRY,0,991,NI Conservatives,,strangford,M
+Strangford,15,216,Mike,NESBITT,1,26,Ulster Unionist Party,,strangford,M
+Strangford,15,217,Philip,SMITH,0,26,Ulster Unionist Party,,strangford,M
+Upper Bann,16,218,Sydney,ANDERSON,1,20,Democratic Unionist Party,,upper-bann,M
+Upper Bann,16,219,Doug,BEATTIE,0,26,Ulster Unionist Party,,upper-bann,M
+Upper Bann,16,220,Joanne,DOBSON,1,26,Ulster Unionist Party,,upper-bann,F
+Upper Bann,16,221,Roy,FERGUSON,0,141,Traditional Unionist Voice,,upper-bann,M
+Upper Bann,16,222,Harry,HAMILTON,0,19,Alliance Party,,upper-bann,M
+Upper Bann,16,223,David,JONES,0,689,UK Independence Party,,upper-bann,M
+Upper Bann,16,224,Dolores,KELLY,1,23,Social Democratic and Labour Party,,upper-bann,F
+Upper Bann,16,225,Martin,KELLY,0,993,Cannabis Is Safer Than Alcohol,,upper-bann,M
+Upper Bann,16,226,Simon,LEE,0,111,Green Party,,upper-bann,M
+Upper Bann,16,227,Carla,LOCKHART,0,20,Democratic Unionist Party,,upper-bann,F
+Upper Bann,16,228,Sophie,LONG,0,994,Progressive Unionist Party,,upper-bann,F
+Upper Bann,16,229,Ian,NICKELS,0,991,NI Conservatives,,upper-bann,M
+Upper Bann,16,230,John,ODOWD,1,24,Sinn Fein,,upper-bann,M
+Upper Bann,16,231,Kyle,SAVAGE,0,26,Ulster Unionist Party,,upper-bann,M
+Upper Bann,16,232,Catherine,SEELEY,0,24,Sinn Fein,,upper-bann,F
+West Tyrone,18,233,Michaela,BOYLE,1,24,Sinn Fein,,west-tyrone,F
+West Tyrone,18,234,Allan,BRESLAND,0,20,Democratic Unionist Party,,west-tyrone,M
+West Tyrone,18,235,Barry,BROWN,0,993,Cannabis Is Safer Than Alcohol,,west-tyrone,M
+West Tyrone,18,236,Tom,BUCHANAN,1,20,Democratic Unionist Party,,west-tyrone,M
+West Tyrone,18,237,Josephine,DEENAN,0,21,Independent,,west-tyrone,F
+West Tyrone,18,238,Stephen,DONNELLY,0,19,Alliance Party,,west-tyrone,M
+West Tyrone,18,239,Corey,FRENCH,0,21,Independent,,west-tyrone,M
+West Tyrone,18,240,Ross,HUSSEY,1,26,Ulster Unionist Party,,west-tyrone,M
+West Tyrone,18,241,Patsy,KELLY,0,21,Independent,,west-tyrone,M
+West Tyrone,18,242,Roger,LOMAS,0,991,NI Conservatives,,west-tyrone,M
+West Tyrone,18,243,Declan,MCALEER,1,24,Sinn Fein,,west-tyrone,M
+West Tyrone,18,244,Sorcha,MCANESPY,0,21,Independent,,west-tyrone,F
+West Tyrone,18,245,Ciaran,MCCLEAN,0,111,Green Party,,west-tyrone,M
+West Tyrone,18,246,Daniel,MCCROSSAN,1,23,Social Democratic and Labour Party,,west-tyrone,M
+West Tyrone,18,247,Grace,MCDERMOTT,0,24,Sinn Fein,,west-tyrone,F
+West Tyrone,18,248,Barry,MCELDUFF,1,24,Sinn Fein,,west-tyrone,M
