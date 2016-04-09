@@ -1,0 +1,78 @@
+Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_Pref_Votes,Transfers,Total_Votes,Status,Occurred_On_Count,Party_Name
+6,126,1,Pat,CATNEY,2165,0,2165,,,Social Democratic and Labour Party
+6,127,1,Jonathan,CRAIG,4263,0,4263,,,Democratic Unionist Party
+6,128,1,Paul,GIVAN,4352,0,4352,,,Democratic Unionist Party
+6,129,1,Brenda,HALE,2910,0,2910,,,Democratic Unionist Party
+6,130,1,Mark,HILL,1482,0,1482,,,Ulster Unionist Party
+6,131,1,Trevor,LUNN,4389,0,4389,,,Alliance Party
+6,132,1,Basil,MCCREA,5771,0,5771,Elected,1,Ulster Unionist Party
+6,133,1,Edwin,POOTS,7329,0,7329,Elected,1,Democratic Unionist Party
+6,134,1,Conor,QUINN,592,0,592,,,Green Party
+6,135,1,Mary-Kate,QUINN,1203,0,1203,,,Sinn Fein
+6,136,1,Lyle,REA,1031,0,1031,,,Traditional Unionist Voice
+6,126,2,Pat,CATNEY,2165,11.47,2176.47,,,Social Democratic and Labour Party
+6,127,2,Jonathan,CRAIG,4263,624.56,4887.56,,,Democratic Unionist Party
+6,128,2,Paul,GIVAN,4352,469.96,4821.96,,,Democratic Unionist Party
+6,129,2,Brenda,HALE,2910,906.44,3816.44,,,Democratic Unionist Party
+6,130,2,Mark,HILL,1482,80.6,1562.6,,,Ulster Unionist Party
+6,131,2,Trevor,LUNN,4389,82.46,4471.46,,,Alliance Party
+6,132,2,Basil,MCCREA,5771,0,5771,Elected,1,Ulster Unionist Party
+6,133,2,Edwin,POOTS,7329,-2259,5070,Elected,1,Democratic Unionist Party
+6,134,2,Conor,QUINN,592,7.44,599.44,,,Green Party
+6,135,2,Mary-Kate,QUINN,1203,4.03,1207.03,,,Sinn Fein
+6,136,2,Lyle,REA,1031,35.65,1066.65,,,Traditional Unionist Voice
+6,126,3,Pat,CATNEY,2165,9.48,2185.95,,,Social Democratic and Labour Party
+6,127,3,Jonathan,CRAIG,4263,43.44,4931,,,Democratic Unionist Party
+6,128,3,Paul,GIVAN,4352,36.36,4858.32,,,Democratic Unionist Party
+6,129,3,Brenda,HALE,2910,39.6,3856.04,,,Democratic Unionist Party
+6,130,3,Mark,HILL,1482,422.52,1985.12,,,Ulster Unionist Party
+6,131,3,Trevor,LUNN,4389,78.96,4550.42,,,Alliance Party
+6,132,3,Basil,MCCREA,5771,-701,5070,Elected,1,Ulster Unionist Party
+6,133,3,Edwin,POOTS,7329,0,5070,Elected,1,Democratic Unionist Party
+6,134,3,Conor,QUINN,592,6.36,605.8,Excluded,3,Green Party
+6,135,3,Mary-Kate,QUINN,1203,1.56,1208.59,,,Sinn Fein
+6,136,3,Lyle,REA,1031,28.92,1095.57,,,Traditional Unionist Voice
+6,126,4,Pat,CATNEY,2165,100.58,2286.53,,,Social Democratic and Labour Party
+6,127,4,Jonathan,CRAIG,4263,18.86,4949.86,,,Democratic Unionist Party
+6,128,4,Paul,GIVAN,4352,13.91,4872.23,,,Democratic Unionist Party
+6,129,4,Brenda,HALE,2910,18.29,3874.33,,,Democratic Unionist Party
+6,130,4,Mark,HILL,1482,29.23,2014.35,,,Ulster Unionist Party
+6,131,4,Trevor,LUNN,4389,326.75,4877.17,,,Alliance Party
+6,132,4,Basil,MCCREA,5771,0,5070,Elected,1,Ulster Unionist Party
+6,133,4,Edwin,POOTS,7329,0,5070,Elected,1,Democratic Unionist Party
+6,134,4,Conor,QUINN,592,-605.8,0,Excluded,3,Green Party
+6,135,4,Mary-Kate,QUINN,1203,28.62,1237.21,,,Sinn Fein
+6,136,4,Lyle,REA,1031,14.67,1110.24,Excluded,4,Traditional Unionist Voice
+6,126,5,Pat,CATNEY,2165,8.72,2295.25,,,Social Democratic and Labour Party
+6,127,5,Jonathan,CRAIG,4263,131,5080.86,Elected,5,Democratic Unionist Party
+6,128,5,Paul,GIVAN,4352,105.85,4978.08,,,Democratic Unionist Party
+6,129,5,Brenda,HALE,2910,181.49,4055.82,,,Democratic Unionist Party
+6,130,5,Mark,HILL,1482,411.27,2425.62,,,Ulster Unionist Party
+6,131,5,Trevor,LUNN,4389,70.28,4947.45,,,Alliance Party
+6,132,5,Basil,MCCREA,5771,0,5070,Elected,1,Ulster Unionist Party
+6,133,5,Edwin,POOTS,7329,0,5070,Elected,1,Democratic Unionist Party
+6,134,5,Conor,QUINN,592,0,0,Excluded,3,Green Party
+6,135,5,Mary-Kate,QUINN,1203,4,1241.21,Excluded,5,Sinn Fein
+6,136,5,Lyle,REA,1031,-1110.24,0,Excluded,4,Traditional Unionist Voice
+6,126,6,Pat,CATNEY,2165,899.96,3195.21,,,Social Democratic and Labour Party
+6,127,6,Jonathan,CRAIG,4263,0,5080.86,Elected,5,Democratic Unionist Party
+6,128,6,Paul,GIVAN,4352,13.62,4991.7,,,Democratic Unionist Party
+6,129,6,Brenda,HALE,2910,11.31,4067.13,,,Democratic Unionist Party
+6,130,6,Mark,HILL,1482,8.24,2433.86,Excluded,6,Ulster Unionist Party
+6,131,6,Trevor,LUNN,4389,172.55,5120,Elected,6,Alliance Party
+6,132,6,Basil,MCCREA,5771,0,5070,Elected,1,Ulster Unionist Party
+6,133,6,Edwin,POOTS,7329,0,5070,Elected,1,Democratic Unionist Party
+6,134,6,Conor,QUINN,592,0,0,Excluded,3,Green Party
+6,135,6,Mary-Kate,QUINN,1203,-1241.21,0,Excluded,5,Sinn Fein
+6,136,6,Lyle,REA,1031,0,0,Excluded,4,Traditional Unionist Voice
+6,126,7,Pat,CATNEY,2165,210.71,3405.92,Excluded,7,Social Democratic and Labour Party
+6,127,7,Jonathan,CRAIG,4263,0,5080.86,Elected,5,Democratic Unionist Party
+6,128,7,Paul,GIVAN,4352,526,5517.7,Elected,7,Democratic Unionist Party
+6,129,7,Brenda,HALE,2910,724.1,4791.23,Elected,7,Democratic Unionist Party
+6,130,7,Mark,HILL,1482,-2433.86,0,Excluded,6,Ulster Unionist Party
+6,131,7,Trevor,LUNN,4389,0,5120,Elected,6,Alliance Party
+6,132,7,Basil,MCCREA,5771,0,5070,Elected,1,Ulster Unionist Party
+6,133,7,Edwin,POOTS,7329,0,5070,Elected,1,Democratic Unionist Party
+6,134,7,Conor,QUINN,592,0,0,Excluded,3,Green Party
+6,135,7,Mary-Kate,QUINN,1203,0,0,Excluded,5,Sinn Fein
+6,136,7,Lyle,REA,1031,0,0,Excluded,4,Traditional Unionist Voice

@@ -1,0 +1,71 @@
+Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_Pref_Votes,Transfers,Total_Votes,Status,Occurred_On_Count,Party_Name
+13,12,1,Clare,BAILEY ,889,0,889,,,Green Party
+13,13,1,Brian,FALOON ,414,0,414,,,People Before Profit Alliance
+13,14,1,Mark,FINLAY ,1394,0,1394,,,Ulster Unionist Party
+13,15,1,Anna,LO ,6390,0,6390,Elected,1,Alliance Party
+13,16,1,Paddy,LYNN ,135,0,135,,,Workers Party
+13,17,1,Alex,MASKEY ,4038,0,4038,,,Sinn Fein
+13,18,1,Conall Patrick,MCDEVITT ,3191,0,3191,,,Social Democratic and Labour Party
+13,19,1,Alasdair,MCDONNELL ,4527,0,4527,,,Social Democratic and Labour Party
+13,20,1,Michael,MCGIMPSEY ,2988,0,2988,,,Ulster Unionist Party
+13,21,1,Paddy,MEEHAN ,234,0,234,,,Socialist Party
+13,22,1,Ruth Frances,PATTERSON ,3800,0,3800,,,Democratic Unionist Party
+13,23,1,Samuel Charles,SMYTH ,29,0,29,,,Procapitalism
+13,24,1,Jimmy,SPRATT ,4045,0,4045,,,Democratic Unionist Party
+13,25,1,Nico,TORREGROSA ,234,0,234,,,UK Independence Party
+13,12,2,Clare,BAILEY ,889,337.8,1226.8,,,Green Party
+13,13,2,Brian,FALOON ,414,61.8,475.8,,,People Before Profit Alliance
+13,14,2,Mark,FINLAY ,1394,160.5,1554.5,,,Ulster Unionist Party
+13,15,2,Anna,LO ,6390,-1774,4616,Elected,1,Alliance Party
+13,16,2,Paddy,LYNN ,135,20.4,155.4,,,Workers Party
+13,17,2,Alex,MASKEY ,4038,86.7,4124.7,,,Sinn Fein
+13,18,2,Conall Patrick,MCDEVITT ,3191,319.5,3510.5,,,Social Democratic and Labour Party
+13,19,2,Alasdair,MCDONNELL ,4527,389.1,4916.1,Elected,2,Social Democratic and Labour Party
+13,20,2,Michael,MCGIMPSEY ,2988,220.8,3208.8,,,Ulster Unionist Party
+13,21,2,Paddy,MEEHAN ,234,18,252,,,Socialist Party
+13,22,2,Ruth Frances,PATTERSON ,3800,87,3887,,,Democratic Unionist Party
+13,23,2,Samuel Charles,SMYTH ,29,4.5,33.5,,,Procapitalism
+13,24,2,Jimmy,SPRATT ,4045,53.7,4098.7,,,Democratic Unionist Party
+13,25,2,Nico,TORREGROSA ,234,10.5,244.5,,,UK Independence Party
+13,12,3,Clare,BAILEY ,889,36.75,1263.55,,,Green Party
+13,13,3,Brian,FALOON ,414,4.25,480.05,,,People Before Profit Alliance
+13,14,3,Mark,FINLAY ,1394,12.5,1567,,,Ulster Unionist Party
+13,15,3,Anna,LO ,6390,0,4616,Elected,1,Alliance Party
+13,16,3,Paddy,LYNN ,135,3.5,158.9,Excluded,3,Workers Party
+13,17,3,Alex,MASKEY ,4038,13.75,4138.45,,,Sinn Fein
+13,18,3,Conall Patrick,MCDEVITT ,3191,176.75,3687.25,,,Social Democratic and Labour Party
+13,19,3,Alasdair,MCDONNELL ,4527,-300.1,4616,Elected,3,Social Democratic and Labour Party
+13,20,3,Michael,MCGIMPSEY ,2988,32.25,3241.05,,,Ulster Unionist Party
+13,21,3,Paddy,MEEHAN ,234,3.7,255.7,Excluded,3,Socialist Party
+13,22,3,Ruth Frances,PATTERSON ,3800,6.75,3893.75,,,Democratic Unionist Party
+13,23,3,Samuel Charles,SMYTH ,29,0.5,34,Excluded,3,Procapitalism
+13,24,3,Jimmy,SPRATT ,4045,4.75,4103.45,,,Democratic Unionist Party
+13,25,3,Nico,TORREGROSA ,234,0.5,245,Excluded,2,UK Independence Party
+13,12,4,Clare,BAILEY ,889,392.05,1655.6,Excluded,4,Green Party
+13,13,4,Brian,FALOON ,414,-480.05,0,Excluded,4,People Before Profit Alliance
+13,14,4,Mark,FINLAY ,1394,50.7,1617.7,Excluded,4,Ulster Unionist Party
+13,15,4,Anna,LO ,6390,0,4616,Elected,1,Alliance Party
+13,16,4,Paddy,LYNN ,135,-158.9,0,Excluded,3,Workers Party
+13,17,4,Alex,MASKEY ,4038,129.7,4268.15,,,Sinn Fein
+13,18,4,Conall Patrick,MCDEVITT ,3191,164.85,3852.1,,,Social Democratic and Labour Party
+13,19,4,Alasdair,MCDONNELL ,4527,0,4616,Elected,2,Social Democratic and Labour Party
+13,20,4,Michael,MCGIMPSEY ,2988,81.9,3322.95,,,Ulster Unionist Party
+13,21,4,Paddy,MEEHAN ,234,-255,0.7,Excluded,3,Socialist Party
+13,22,4,Ruth Frances,PATTERSON ,3800,59.3,3953.05,,,Democratic Unionist Party
+13,23,4,Samuel Charles,SMYTH ,29,-33.5,0.5,Excluded,2,Procapitalism
+13,24,4,Jimmy,SPRATT ,4045,60.4,4163.85,,,Democratic Unionist Party
+13,25,4,Nico,TORREGROSA ,234,-245,0,Excluded,2,UK Independence Party
+13,12,5,Clare,BAILEY ,889,-1655.6,0,Excluded,4,Green Party
+13,13,5,Brian,FALOON ,414,0,0,Excluded,4,People Before Profit Alliance
+13,14,5,Mark,FINLAY ,1394,-1617.7,0,Excluded,4,Ulster Unionist Party
+13,15,5,Anna,LO ,6390,0,4616,Elected,1,Alliance Party
+13,16,5,Paddy,LYNN ,135,0,0,Excluded,3,Workers Party
+13,17,5,Alex,MASKEY ,4038,183.9,4452.05,Elected,5,Sinn Fein
+13,18,5,Conall Patrick,MCDEVITT ,3191,592.7,4444.8,Elected,5,Social Democratic and Labour Party
+13,19,5,Alasdair,MCDONNELL ,4527,0,4616,Elected,2,Social Democratic and Labour Party
+13,20,5,Michael,MCGIMPSEY ,2988,1299.1,4622.05,Elected,5,Ulster Unionist Party
+13,21,5,Paddy,MEEHAN ,234,0,0.7,Excluded,3,Socialist Party
+13,22,5,Ruth Frances,PATTERSON ,3800,210.35,4163.4,Excluded,5,Democratic Unionist Party
+13,23,5,Samuel Charles,SMYTH ,29,0,0.5,Excluded,2,Procapitalism
+13,24,5,Jimmy,SPRATT ,4045,117.6,4281.45,Elected,5,Democratic Unionist Party
+13,25,5,Nico,TORREGROSA ,234,0,0,Excluded,2,UK Independence Party

@@ -1,0 +1,188 @@
+Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_Pref_Votes,Transfers,Total_Votes,Status,Occurred_On_Count,Party_Name
+2,40,1,Tommy,BLACK,201,0,201,,,Socialist Party
+2,41,1,Judith,COCHRANE,4329,0,4329,,,Alliance Party
+2,42,1,Ann,COOPER,337,0,337,,,British Nationalist Party
+2,43,1,Michael,COPELAND,2194,0,2194,,,Ulster Unionist Party
+2,44,1,Sammy,DOUGLAS,2668,0,2668,,,Democratic Unionist Party
+2,45,1,Brian,ERVINE,1493,0,1493,,,Progressive Unionist Party
+2,46,1,Martin,GREGG,572,0,572,,,Green Party
+2,47,1,Chris,LYTTLE,4183,0,4183,,,Alliance Party
+2,48,1,Kevin,MCNALLY,102,0,102,,,Workers Party
+2,49,1,Robin,NEWTON,2436,0,2436,,,Democratic Unionist Party
+2,50,1,Niall,O DONNGHAILE,1030,0,1030,,,Sinn Fein
+2,51,1,Dawn,PURVIS,1702,0,1702,,,Independent
+2,52,1,Peter,ROBINSON,9149,0,9149,Elected,1,Democratic Unionist Party
+2,53,1,Philip,ROBINSON,943,0,943,,,Ulster Unionist Party
+2,54,1,Stephen,STEWART,46,0,46,,,Independent
+2,55,1,Harry,TOAN,712,0,712,,,Traditional Unionist Voice
+2,56,1,Magdalena,WOLSKA,250,0,250,,,Social Democratic and Labour Party
+2,40,2,Tommy,BLACK,201,4,205,,,Socialist Party
+2,41,2,Judith,COCHRANE,4329,103,4432,,,Alliance Party
+2,42,2,Ann,COOPER,337,17.5,354.5,,,British Nationalist Party
+2,43,2,Michael,COPELAND,2194,161,2355,,,Ulster Unionist Party
+2,44,2,Sammy,DOUGLAS,2668,1015,3683,,,Democratic Unionist Party
+2,45,2,Brian,ERVINE,1493,173.5,1666.5,,,Progressive Unionist Party
+2,46,2,Martin,GREGG,572,41.5,613.5,,,Green Party
+2,47,2,Chris,LYTTLE,4183,124,4307,,,Alliance Party
+2,48,2,Kevin,MCNALLY,102,4.5,106.5,,,Workers Party
+2,49,2,Robin,NEWTON,2436,2364.5,4800.5,Elected,2,Democratic Unionist Party
+2,50,2,Niall,O DONNGHAILE,1030,7,1037,,,Sinn Fein
+2,51,2,Dawn,PURVIS,1702,206.5,1908.5,,,Independent
+2,52,2,Peter,ROBINSON,9149,-4527,4622,Elected,1,Democratic Unionist Party
+2,53,2,Philip,ROBINSON,943,187,1130,,,Ulster Unionist Party
+2,54,2,Stephen,STEWART,46,7.5,53.5,,,Independent
+2,55,2,Harry,TOAN,712,32,744,,,Traditional Unionist Voice
+2,56,2,Magdalena,WOLSKA,250,3,253,,,Social Democratic and Labour Party
+2,40,3,Tommy,BLACK,201,0.03,205.03,,,Socialist Party
+2,41,3,Judith,COCHRANE,4329,1.71,4433.71,,,Alliance Party
+2,42,3,Ann,COOPER,337,0.36,354.86,,,British Nationalist Party
+2,43,3,Michael,COPELAND,2194,2.43,2357.43,,,Ulster Unionist Party
+2,44,3,Sammy,DOUGLAS,2668,125.94,3808.94,,,Democratic Unionist Party
+2,45,3,Brian,ERVINE,1493,3.12,1669.62,,,Progressive Unionist Party
+2,46,3,Martin,GREGG,572,0.78,614.28,,,Green Party
+2,47,3,Chris,LYTTLE,4183,1.5,4308.5,,,Alliance Party
+2,48,3,Kevin,MCNALLY,102,0,106.5,Excluded,3,Workers Party
+2,49,3,Robin,NEWTON,2436,-178.5,4622,Elected,2,Democratic Unionist Party
+2,50,3,Niall,O DONNGHAILE,1030,0.03,1037.03,,,Sinn Fein
+2,51,3,Dawn,PURVIS,1702,2.16,1910.66,,,Independent
+2,52,3,Peter,ROBINSON,9149,0,4622,Elected,1,Democratic Unionist Party
+2,53,3,Philip,ROBINSON,943,1.41,1131.41,,,Ulster Unionist Party
+2,54,3,Stephen,STEWART,46,0.27,53.77,Excluded,3,Independent
+2,55,3,Harry,TOAN,712,0.36,744.36,,,Traditional Unionist Voice
+2,56,3,Magdalena,WOLSKA,250,0.06,253.06,,,Social Democratic and Labour Party
+2,40,4,Tommy,BLACK,201,12,217.03,Excluded,4,Socialist Party
+2,41,4,Judith,COCHRANE,4329,15,4448.71,,,Alliance Party
+2,42,4,Ann,COOPER,337,3,357.86,,,British Nationalist Party
+2,43,4,Michael,COPELAND,2194,0,2357.43,,,Ulster Unionist Party
+2,44,4,Sammy,DOUGLAS,2668,10.59,3819.53,,,Democratic Unionist Party
+2,45,4,Brian,ERVINE,1493,1.5,1671.12,,,Progressive Unionist Party
+2,46,4,Martin,GREGG,572,10.03,624.31,,,Green Party
+2,47,4,Chris,LYTTLE,4183,11.5,4320,,,Alliance Party
+2,48,4,Kevin,MCNALLY,102,-106.5,0,Excluded,3,Workers Party
+2,49,4,Robin,NEWTON,2436,0,4622,Elected,2,Democratic Unionist Party
+2,50,4,Niall,O DONNGHAILE,1030,24,1061.03,,,Sinn Fein
+2,51,4,Dawn,PURVIS,1702,15.5,1926.16,,,Independent
+2,52,4,Peter,ROBINSON,9149,0,4622,Elected,1,Democratic Unionist Party
+2,53,4,Philip,ROBINSON,943,8.03,1139.44,,,Ulster Unionist Party
+2,54,4,Stephen,STEWART,46,-53.77,0,Excluded,3,Independent
+2,55,4,Harry,TOAN,712,1.53,745.89,,,Traditional Unionist Voice
+2,56,4,Magdalena,WOLSKA,250,17,270.06,,,Social Democratic and Labour Party
+2,40,5,Tommy,BLACK,201,-217.03,0,Excluded,4,Socialist Party
+2,41,5,Judith,COCHRANE,4329,49,4497.71,,,Alliance Party
+2,42,5,Ann,COOPER,337,7,364.86,Excluded,5,British Nationalist Party
+2,43,5,Michael,COPELAND,2194,25.5,2382.93,,,Ulster Unionist Party
+2,44,5,Sammy,DOUGLAS,2668,11.5,3831.03,,,Democratic Unionist Party
+2,45,5,Brian,ERVINE,1493,9.5,1680.62,,,Progressive Unionist Party
+2,46,5,Martin,GREGG,572,25,649.31,Excluded,6,Green Party
+2,47,5,Chris,LYTTLE,4183,10.5,4330.5,,,Alliance Party
+2,48,5,Kevin,MCNALLY,102,0,0,Excluded,3,Workers Party
+2,49,5,Robin,NEWTON,2436,0,4622,Elected,2,Democratic Unionist Party
+2,50,5,Niall,O DONNGHAILE,1030,9,1070.03,,,Sinn Fein
+2,51,5,Dawn,PURVIS,1702,29,1955.16,,,Independent
+2,52,5,Peter,ROBINSON,9149,0,4622,Elected,1,Democratic Unionist Party
+2,53,5,Philip,ROBINSON,943,3.03,1142.47,,,Ulster Unionist Party
+2,54,5,Stephen,STEWART,46,0,0,Excluded,3,Independent
+2,55,5,Harry,TOAN,712,7.5,753.39,,,Traditional Unionist Voice
+2,56,5,Magdalena,WOLSKA,250,5,275.06,Excluded,5,Social Democratic and Labour Party
+2,40,6,Tommy,BLACK,201,0,0,Excluded,4,Socialist Party
+2,41,6,Judith,COCHRANE,4329,74,4571.71,,,Alliance Party
+2,42,6,Ann,COOPER,337,-364.86,0,Excluded,5,British Nationalist Party
+2,43,6,Michael,COPELAND,2194,54,2436.93,,,Ulster Unionist Party
+2,44,6,Sammy,DOUGLAS,2668,61.21,3892.24,,,Democratic Unionist Party
+2,45,6,Brian,ERVINE,1493,80.5,1761.12,,,Progressive Unionist Party
+2,46,6,Martin,GREGG,572,42,691.31,Excluded,6,Green Party
+2,47,6,Chris,LYTTLE,4183,89,4419.5,,,Alliance Party
+2,48,6,Kevin,MCNALLY,102,0,0,Excluded,3,Workers Party
+2,49,6,Robin,NEWTON,2436,0,4622,Elected,2,Democratic Unionist Party
+2,50,6,Niall,O DONNGHAILE,1030,57,1127.03,,,Sinn Fein
+2,51,6,Dawn,PURVIS,1702,54.5,2009.66,,,Independent
+2,52,6,Peter,ROBINSON,9149,0,4622,Elected,1,Democratic Unionist Party
+2,53,6,Philip,ROBINSON,943,18.03,1160.5,,,Ulster Unionist Party
+2,54,6,Stephen,STEWART,46,0,0,Excluded,3,Independent
+2,55,6,Harry,TOAN,712,48,801.39,,,Traditional Unionist Voice
+2,56,6,Magdalena,WOLSKA,250,-275.06,0,Excluded,5,Social Democratic and Labour Party
+2,40,7,Tommy,BLACK,201,0,0,Excluded,4,Socialist Party
+2,41,7,Judith,COCHRANE,4329,183,4754.71,Elected,7,Alliance Party
+2,42,7,Ann,COOPER,337,0,0,Excluded,5,British Nationalist Party
+2,43,7,Michael,COPELAND,2194,39.03,2475.96,,,Ulster Unionist Party
+2,44,7,Sammy,DOUGLAS,2668,48.89,3941.13,,,Democratic Unionist Party
+2,45,7,Brian,ERVINE,1493,25.5,1786.62,,,Progressive Unionist Party
+2,46,7,Martin,GREGG,572,-691.31,0,Excluded,6,Green Party
+2,47,7,Chris,LYTTLE,4183,110.5,4530,,,Alliance Party
+2,48,7,Kevin,MCNALLY,102,0,0,Excluded,3,Workers Party
+2,49,7,Robin,NEWTON,2436,0,4622,Elected,2,Democratic Unionist Party
+2,50,7,Niall,O DONNGHAILE,1030,21,1148.03,,,Sinn Fein
+2,51,7,Dawn,PURVIS,1702,84.03,2093.69,,,Independent
+2,52,7,Peter,ROBINSON,9149,0,4622,Elected,1,Democratic Unionist Party
+2,53,7,Philip,ROBINSON,943,28,1188.5,,,Ulster Unionist Party
+2,54,7,Stephen,STEWART,46,0,0,Excluded,3,Independent
+2,55,7,Harry,TOAN,712,23,824.39,Excluded,7,Traditional Unionist Voice
+2,56,7,Magdalena,WOLSKA,250,0,0,Excluded,5,Social Democratic and Labour Party
+2,40,8,Tommy,BLACK,201,0,0,Excluded,4,Socialist Party
+2,41,8,Judith,COCHRANE,4329,0,4754.71,Elected,7,Alliance Party
+2,42,8,Ann,COOPER,337,0,0,Excluded,5,British Nationalist Party
+2,43,8,Michael,COPELAND,2194,142.03,2617.99,,,Ulster Unionist Party
+2,44,8,Sammy,DOUGLAS,2668,111.56,4052.69,,,Democratic Unionist Party
+2,45,8,Brian,ERVINE,1493,86.03,1872.65,,,Progressive Unionist Party
+2,46,8,Martin,GREGG,572,0,0,Excluded,6,Green Party
+2,47,8,Chris,LYTTLE,4183,41.5,4571.5,,,Alliance Party
+2,48,8,Kevin,MCNALLY,102,0,0,Excluded,3,Workers Party
+2,49,8,Robin,NEWTON,2436,0,4622,Elected,2,Democratic Unionist Party
+2,50,8,Niall,O DONNGHAILE,1030,0.5,1148.53,Excluded,8,Sinn Fein
+2,51,8,Dawn,PURVIS,1702,85.53,2179.22,,,Independent
+2,52,8,Peter,ROBINSON,9149,0,4622,Elected,1,Democratic Unionist Party
+2,53,8,Philip,ROBINSON,943,105.53,1294.03,,,Ulster Unionist Party
+2,54,8,Stephen,STEWART,46,0,0,Excluded,3,Independent
+2,55,8,Harry,TOAN,712,-824.39,0,Excluded,7,Traditional Unionist Voice
+2,56,8,Magdalena,WOLSKA,250,0,0,Excluded,5,Social Democratic and Labour Party
+2,40,9,Tommy,BLACK,201,0,0,Excluded,4,Socialist Party
+2,41,9,Judith,COCHRANE,4329,0,4754.71,Elected,7,Alliance Party
+2,42,9,Ann,COOPER,337,0,0,Excluded,5,British Nationalist Party
+2,43,9,Michael,COPELAND,2194,7,2624.99,,,Ulster Unionist Party
+2,44,9,Sammy,DOUGLAS,2668,25,4077.69,,,Democratic Unionist Party
+2,45,9,Brian,ERVINE,1493,11.5,1884.15,,,Progressive Unionist Party
+2,46,9,Martin,GREGG,572,0,0,Excluded,6,Green Party
+2,47,9,Chris,LYTTLE,4183,124,4695.5,,,Alliance Party
+2,48,9,Kevin,MCNALLY,102,0,0,Excluded,3,Workers Party
+2,49,9,Robin,NEWTON,2436,0,4622,Elected,2,Democratic Unionist Party
+2,50,9,Niall,O DONNGHAILE,1030,-1148.53,0,Excluded,8,Sinn Fein
+2,51,9,Dawn,PURVIS,1702,50,2229.22,,,Independent
+2,52,9,Peter,ROBINSON,9149,0,4622,Elected,1,Democratic Unionist Party
+2,53,9,Philip,ROBINSON,943,2,1296.03,Excluded,9,Ulster Unionist Party
+2,54,9,Stephen,STEWART,46,0,0,Excluded,3,Independent
+2,55,9,Harry,TOAN,712,0,0,Excluded,7,Traditional Unionist Voice
+2,56,9,Magdalena,WOLSKA,250,0,0,Excluded,5,Social Democratic and Labour Party
+2,40,10,Tommy,BLACK,201,0,0,Excluded,4,Socialist Party
+2,41,10,Judith,COCHRANE,4329,0,4754.71,Elected,7,Alliance Party
+2,42,10,Ann,COOPER,337,0,0,Excluded,5,British Nationalist Party
+2,43,10,Michael,COPELAND,2194,599.92,3224.91,,,Ulster Unionist Party
+2,44,10,Sammy,DOUGLAS,2668,377.42,4455.11,,,Democratic Unionist Party
+2,45,10,Brian,ERVINE,1493,79.15,1963.3,,,Progressive Unionist Party
+2,46,10,Martin,GREGG,572,0,0,Excluded,6,Green Party
+2,47,10,Chris,LYTTLE,4183,0,4695.5,,,Alliance Party
+2,48,10,Kevin,MCNALLY,102,0,0,Excluded,3,Workers Party
+2,49,10,Robin,NEWTON,2436,0,4622,Elected,2,Democratic Unionist Party
+2,50,10,Niall,O DONNGHAILE,1030,0,0,Excluded,8,Sinn Fein
+2,51,10,Dawn,PURVIS,1702,91.21,2320.43,,,Independent
+2,52,10,Peter,ROBINSON,9149,0,4622,Elected,1,Democratic Unionist Party
+2,53,10,Philip,ROBINSON,943,-1296.03,0,Excluded,9,Ulster Unionist Party
+2,54,10,Stephen,STEWART,46,0,0,Excluded,3,Independent
+2,55,10,Harry,TOAN,712,0,0,Excluded,7,Traditional Unionist Voice
+2,56,10,Magdalena,WOLSKA,250,0,0,Excluded,5,Social Democratic and Labour Party
+2,40,11,Tommy,BLACK,201,0,0,Excluded,4,Socialist Party
+2,41,11,Judith,COCHRANE,4329,0,4754.71,Elected,7,Alliance Party
+2,42,11,Ann,COOPER,337,0,0,Excluded,5,British Nationalist Party
+2,43,11,Michael,COPELAND,2194,498.43,3723.34,Elected,11,Ulster Unionist Party
+2,44,11,Sammy,DOUGLAS,2668,328,4783.11,Elected,11,Democratic Unionist Party
+2,45,11,Brian,ERVINE,1493,-1963.3,0,Excluded,10,Progressive Unionist Party
+2,46,11,Martin,GREGG,572,0,0,Excluded,6,Green Party
+2,47,11,Chris,LYTTLE,4183,0,4695.5,Elected,11,Alliance Party
+2,48,11,Kevin,MCNALLY,102,0,0,Excluded,3,Workers Party
+2,49,11,Robin,NEWTON,2436,0,4622,Elected,2,Democratic Unionist Party
+2,50,11,Niall,O DONNGHAILE,1030,0,0,Excluded,8,Sinn Fein
+2,51,11,Dawn,PURVIS,1702,468.86,2789.29,Excluded,11,Independent
+2,52,11,Peter,ROBINSON,9149,0,4622,Elected,1,Democratic Unionist Party
+2,53,11,Philip,ROBINSON,943,0,0,Excluded,9,Ulster Unionist Party
+2,54,11,Stephen,STEWART,46,0,0,Excluded,3,Independent
+2,55,11,Harry,TOAN,712,0,0,Excluded,7,Traditional Unionist Voice
+2,56,11,Magdalena,WOLSKA,250,0,0,Excluded,5,Social Democratic and Labour Party

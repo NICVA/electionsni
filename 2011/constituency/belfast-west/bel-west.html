@@ -1,0 +1,479 @@
+
+<!DOCTYPE HTML>
+<html>
+<head>
+ <meta charset='utf-8'>
+</head>
+<body>
+<style>
+.votes{
+    height:25px;
+    width:0px;
+    position:absolute;
+    fill:#669999; background:#669999; color:#fff  // Default colours for independents, non-specified parties
+    overflow:hidden;
+    white-space: nowrap;
+    text-overflow:ellipsis;
+    color:white;
+    padding-top:3px;
+    box-sizing:border-box;
+}
+
+.candidateLabel{
+    height:25px;
+    width:200px;
+    position:absolute;
+    overflow:hidden;
+    white-space: nowrap;
+    text-overflow:ellipsis;
+}
+
+.votes:before{content: " ";}
+
+.Social-Democratic-and-Labour-Party{fill:#cc3300!important; background:#cc3300!important; color:#fff}
+.Traditional-Unionist-Voice{fill:#0000e6!important; background:#0000e6!important; color:#fff}
+.Green-Party{fill:#33ff33!important; background:#33ff33!important; color:#fff}
+.Sinn-Fein{fill:#009900!important; background:#009900!important; color:#fff}
+.Ulster-Unionist-Party{fill:#62cae7!important; background:#62cae7!important; color:#fff}
+.Alliance-Party{fill:#ffe600!important; background:#ffe600!important; color:#fff}
+.Democratic-Unionist-Party{fill:#ff8000!important; background:#ff8000!important; color:#fff}
+.Workers-Party{fill:#ff0000!important; background:#ff0000!important; color:#fff}
+.Independent{fill:#669999!important; background:#669999!important; color:#fff}
+.Socialist-Party{fill:#e60000!important; background:#e60000!important; color:#fff}
+.UK-Independence-Party{fill:#cc00cc!important; background:#cc00cc!important; color:#fff}
+.People-Before-Profit-Alliance{fill:#ff3399!important; background:#ff3399!important; color:#fff}
+.Independent{fill:#669999!important; background:#669999!important; color:#fff}
+
+
+.Alliance-Party_label:before{
+	 content: "(Alliance) ";
+}
+.Social-Democratic-and-Labour-Party_label:before{
+     content: "(SDLP) ";
+}
+.Ulster-Unionist-Party_label:before {
+     content: "(UUP) ";
+}
+.Sinn-Fein_label:before {
+     content: "(SF) ";
+}
+.Green-Party_label:before{
+     content: "(Greens) ";
+}
+.Democratic-Unionist-Party_label:before{
+     content: "(DUP) ";
+}
+.Traditional-Unionist-Voice_label:before{
+     content: "(TUV) ";
+}
+.Workers-Party_label:before{
+	 content: "(Workers) ";
+}
+.UK-Independence-Party_label:before{
+	 content: "(UKIP) ";
+}
+.Socialist-Party_label:before{
+	 content: "(SP) ";
+}
+.People-Before-Profit-Alliance_label:before{
+	 content: "(PBP) ";
+}
+
+#thepost{
+    width:2px;
+    background-color:black;
+    position:absolute;
+    top:40px;
+    left:810px;
+    height:0px;
+}
+
+#theline{
+    height:2px;
+    background-color:black;
+    position:absolute;
+    top:0px;
+    width:803px;
+}
+
+#constituency{
+    position:absolute;
+	margin-left:600px;
+	top:10px;
+}
+
+#controls{
+    display:inline-block;
+    margin-left:250px;
+}
+
+</style>
+<a href=".">Back</a>
+<div id="controls">
+    <a href="#Pause" id="pause-replay">Pause</a> | <a href="#Next" id="step">Next</a> | <a href="#Again" id="again">Do that bit again</a>
+</div>
+<div id="thepost"></div>
+<div id="theline"></div>
+<div id="constituency"><span id="constituency-span"></span> - Quota <span id="quota-span"></span> Seats: <span id="seats-span"></span> Count: <span id="count-span">1</span></div>
+<script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+<script>
+/* This work is licensed under a Creative Commons Attribution 4.0 International License - http://creativecommons.org/licenses/by/4.0 
+ * Created for clairebyrne.ie and all thanks to data.localgov.ie
+ */
+
+//some control variables
+var speed = 1;
+var leftPadding = 10;
+var nameSpace = 200;
+var startLeft = leftPadding+nameSpace;
+var voteWidth = 600;
+var w="DBS_";
+var con=w+"countGroup";
+var running = true;
+var earlyStage = true;
+
+//data once pulled from http://data.localgov.ie/virtual/Elections/toJson.php?url=http://data.localgov.ie/DBS_constituencycount?LIST%26ID=*
+//data now pulled http://data.localgov.ie/virtual/Elections/toCsv.php?url=//ConstituencyCount.csv"
+
+var json = (function() {
+        var json = null;
+        $.ajax({
+            'async': false,
+            'global': false,
+            'url': "ResultsJson.json",
+            'dataType': "json",
+            'success': function (data) {
+                json = data;
+            }
+        });
+        return json;
+    })();
+console.log(json);
+var	constituency = json.Constituency.countInfo;
+var data = json.Constituency.countGroup;
+
+if(constituency){
+    //set the top right bit
+    var constituencyCode = constituency["Constituency_Name"];
+	var quota = parseInt(constituency["Quota"]);
+    var seats = parseInt(constituency["Number_Of_Seats"]);
+	$("#constituency-span").text(constituencyCode);
+    $("#quota-span").text(quota);
+    $("#seats-span").text(seats);
+    $("#theline").css({top:3+(seats+1)*30});
+    var qFactor = voteWidth/quota; //all actual vote counts are multiplied by this to get a div width in proportion
+
+    //This data is pulled from data.localgov.ie all thanks goes to them for making it available in an open format. 
+    //Minor issue is that only the bigish parties are marked so can't add PPP, S, IND etc before appropriate candidates.
+    //Seems to be slight issue with unicode too, javascript should handle unicode but there is some format difference betweeen what's in the json 
+    //http://data.localgov.ie/virtual/Elections/toJson.php?url=http://data.localgov.ie/DBS_count?LIST%26ID=*
+    //http://data.localgov.ie/virtual/Elections/toCsv.php?url=//Count.csv"
+    // var data = false
+	
+    /** 
+     * The data gets parsed into two dictionaries containing snippets of the following form
+     * candidate data object of the form {
+     *  id:String,     candidate's id in data 
+     *  name:String,   candidate's name 
+     *  status:String, is the candidate elected or excluded
+     *  party:String   party string suitable to use as html/css class
+     * }
+     *
+     * countData of the form {
+     *  total:Number,      the total for a candidate at specfic round of the count
+     *  status:String,     the status of the candidate at specfic round
+     *  order:Number       a candidates order at a specfic round
+     *  transfers:Boolean  does this candidate transfer in this round
+     * }
+     **/
+
+    var candidatesDict = {}; //Dictionary of candidates {} id as key
+    var candidates = [];     //Array of candidates in order first seen in data
+    var countDict = {};      //Dictionary of counts, first level key is count number, which points to a dict of countData with key candidate id
+    var transferDict={};     //Corresponding dictionary of transfers indexed by [count number][candidate id]
+    var counts = 1;
+
+    //loop through all the data and populate the various dictionaries
+    for (var i=0; i<data.length; i++) {
+        if (!(data[i]["Count_Number"] in countDict)) {
+            countDict[data[i]["Count_Number"]] = {};
+        }
+        if (!(data[i]["Count_Number"] in transferDict)) {
+            transferDict[data[i]["Count_Number"]] = {};
+        }
+        countDict[data[i]["Count_Number"]][data[i]["Candidate_Id"]] = {
+            total:parseInt(data[i]["Total_Votes"]),
+            status:(typeof(data[i]["Status"])=="string")?data[i]["Status"]:"",
+            order:0,
+            transfers:((data[i]["Status"] == "Excluded" && parseInt(data[i]["Transfers"]) < 0) ||
+                       (data[i]["Status"] == "Elected" && parseInt(data[i]["Transfers"]) < 0))
+        }
+        transferDict[data[i]["Count_Number"]][data[i]["Candidate_Id"]] = Math.max(0, parseInt(data[i]["Transfers"], 10));
+
+        if (!(data[i]["Candidate_Id"] in candidatesDict)) {
+            var party = data[i]["Party_Name"];
+            if (typeof(party)!="string"){ party = "Non-Party";}
+            party=party.replace(/\s+/g,"-");
+            candidates.push({
+                name:data[i]["Firstname"]+" "+((typeof(data[i]["Surname"])=="string")?data[i]["Surname"]:""),
+                id:data[i]["Candidate_Id"],
+                status:"",
+                party:party
+            });
+            candidatesDict[data[i]["Candidate_Id"]] = {
+                name:data[i]["Firstname"]+" "+((typeof(data[i]["Surname"])=="string")?data[i]["Surname"]:""),
+                id:data[i]["Candidate_Id"],
+                status:"",
+                party:party
+            };
+        }
+        counts = Math.max(counts, parseInt(data[i]["Count_Number"], 10));
+    }
+    
+    //once we have all the data in the countDict we can now go through each count and order it
+    //we do this in order as once a candidate is elected we store their final order in the candidatesDict and reuse it subsquent counts
+    //only sorting candidates that are not eliminated or elected
+
+    for (var k=1; k<=counts;k++){
+        if (countDict.hasOwnProperty(k)) {
+            adjustOrder(countDict[k]);
+        }
+    }
+
+    //now we have the data set up we just hook up our links to functions
+
+    $("#pause-replay").click(function(event) {
+        event.preventDefault();
+        if ($(this).text() == "Pause") {
+            $(this).text("Resume");
+            pause();
+        } else if ($(this).text() == "Resume") {
+            $(this).text("Pause");
+            resume();
+        } else {
+            $(this).text("Pause");
+            replay(1);
+        }
+    });
+
+    $("#step").click(function(event) {
+        event.preventDefault();
+        step();
+    });
+
+    $("#again").click(function(event) {
+        event.preventDefault();
+        again();
+    });
+
+    firstCount();  //run the first count
+    var countNumber = 2;  //global loop variable
+    //set the advance count function to run in a loop
+    var loop = window.setInterval(advanceCount,4000*speed);
+}else{
+    //if we didn't load a constituency var then we have no data yet
+    $("body").text("There is no data up for this constituency at present");
+}
+
+//the magic, simple enough, append some divs and animate their width's to final position 
+//then animate their top to final position and move the name div at the same time
+function firstCount(){
+    $("#thepost").height(candidates.length*30);
+    for(var j=0;j<candidates.length;j++){
+        $('<div id="cname'+candidates[j].id+'" class="candidateLabel '+candidates[j]["party"]+'_label" style="top:'+(40 + (j*30)) +'px;left:10px;">'+candidates[j]["name"]+'</div>')
+        .appendTo("body");
+        $('<div data-candidate="'+candidates[j].id+'" id="candidate'+candidates[j].id+'" class="votes '+candidates[j]["party"]+'" style="top:'+(40 + (j*30)) +'px;left:'+startLeft+'px;"></div>')
+        .appendTo("body")
+        .animate({width:countDict[1][candidates[j].id]["total"] * qFactor},1500*speed).text(countDict[1][candidates[j].id]["total"])
+        .animate({top:40+(countDict[1][candidates[j].id]["order"]*30)},{
+            duration:500*speed,
+            start:function(){
+                $("#cname"+$(this).data('candidate'))
+                .animate({top:40+(countDict[1][$(this).data('candidate')]["order"]*30)},500*speed)
+            }
+        });
+    }
+}
+
+//find the first candidate who is transferring, all transfers from the round start from here
+//append some divs with width relative to transfer number, animate them to their candidates current order 
+//then animate them accross to end of candidates vote pile, when complete remove the new div and update the candidates div width
+//finally run the reorder animation
+function advanceCount(){
+    var transfered=false;
+    if(countNumber in countDict){
+        earlyStage = true;
+        var i = countNumber;
+        $("#count-span").text(countNumber);
+        for (var j=0;j<candidates.length;j++) {
+            if (countDict[i][candidates[j].id]["transfers"]) {
+                //we have to break it down now instead
+                $("#candidate"+candidates[j].id).width(countDict[i][candidates[j].id]["total"] * qFactor);
+                var transfers = transferDict[i];
+                var left = startLeft + countDict[i][candidates[j].id]["total"] * qFactor;
+                var top = 40 + (countDict[i-1][candidates[j].id]["order"]*30);
+                if (!transfered){
+                    for (var t=0;t<candidates.length;t++) {
+                        if (countDict[i][candidates[t].id]["transfers"] == false) {
+                            var localLeft = startLeft+countDict[i-1][candidates[t].id]["total"] * qFactor;
+                            $('<div data-candidate="'+candidates[t].id+'" style="width:'+transfers[candidates[t].id] * qFactor+'px;left:'+left+'px; top:'+top+'px;" class="votes '+candidates[t]["party"]+'"></div>')
+                                .appendTo("body").delay(300*speed)
+                                .animate({top:40 + (countDict[i-1][candidates[t].id]["order"]*30), left:startLeft+voteWidth+20},900*speed, function(){
+                                    earlyStage = false;
+                                    if (transfers[$(this).data('candidate')] >0 ){
+                                        $("#candidate"+$(this).data('candidate'))
+                                        .text(countDict[i-1][$(this).data('candidate')]["total"]+" + "+transfers[$(this).data('candidate')]);
+                                    }
+                                }).delay(100*speed)
+                                .animate({left:localLeft},900*speed, function(){
+                                    $("#candidate"+$(this).data('candidate')).width(countDict[i][$(this).data('candidate')]["total"] * qFactor)
+                                    .text(countDict[i][$(this).data('candidate')]["total"])
+                                    .animate({top:40+(countDict[i][$(this).data('candidate')]["order"]*30)},{
+                                        duration:500*speed,
+                                        start:function(){
+                                            $("#cname"+$(this).data('candidate'))
+                                            .animate({top:40+(countDict[i][$(this).data('candidate')]["order"]*30)},500*speed)
+                                        }
+                                    });
+                                    //TODO:at this point we'd like to animate to new order
+                                    $(this).remove();
+                                });
+                            left = left + transfers[candidates[t].id] * qFactor;
+                        }
+                    }
+                    //could put dead votes in here                    
+                    transfered = true;
+                }
+                $("#candidate"+candidates[j].id).width(countDict[i][candidates[j].id]["total"] * qFactor).text(countDict[i][candidates[j].id]["total"]);
+            }
+        }
+    }else{
+        clearInterval(loop);
+        $("#pause-replay").text("Replay");
+    }
+    countNumber += 1;
+
+}
+
+function pause(){
+    clearInterval(loop);
+    running = false;
+}
+
+function resume(){
+    advanceCount();
+    loop = window.setInterval(advanceCount,4000*speed);
+    running = true;
+}
+
+function replay(s){
+    if (running) {
+        clearInterval(loop);
+    }
+    $("#count-span").text("1");
+    $(".candidateLabel").remove();
+    $(".votes").remove();
+    speed = s;
+    firstCount();
+    countNumber = 2;
+    loop = window.setInterval(advanceCount,4000*speed);
+    running = true;
+}
+
+function step(){
+    if (running) {
+        clearInterval(loop);
+    }
+    playStep(countNumber);
+    if (running) {
+        loop = window.setInterval(advanceCount,4000*speed);
+    }
+}
+
+function again() {
+    if (running) {
+        clearInterval(loop);
+    }
+
+    if (earlyStage && countNumber>2) {
+        countNumber-=2;
+    }else if (countNumber>1) {
+        countNumber--;
+    }
+    playStep(countNumber);
+    if (running) {
+        loop = window.setInterval(advanceCount,4000*speed);
+    }
+}
+
+function advanceStep(){
+    advanceCount();
+}
+
+function playStep(i){
+    countNumber = i;
+    if (countNumber in countDict) {
+        $('div').stop(true, true);
+        $(".candidateLabel").remove();
+        $(".votes").remove();
+        if (i>1){
+            for(var j=0;j<candidates.length;j++){
+                $('<div id="cname'+candidates[j].id+'" class="candidateLabel '+candidates[j]["party"]+'_label" style="top:'+(40 + (countDict[i-1][candidates[j].id]["order"]*30)) +'px;left:10px;">'+candidates[j]["name"]+'</div>')
+                .appendTo("body");
+                $('<div data-candidate="'+candidates[j].id+'" id="candidate'+candidates[j].id+'" class="votes '+candidates[j]["party"]+'" style="top:'+(40 + (countDict[i-1][candidates[j].id]["order"]*30)) +'px;left:'+startLeft+'px;"></div>')
+                .appendTo("body");
+                $("#candidate"+candidates[j].id).width(countDict[i-1][candidates[j].id]["total"] * qFactor).text(countDict[i-1][candidates[j].id]["total"]);
+            }
+            advanceCount();
+        } else {
+            firstCount();
+            countNumber = 2;
+        }
+    }
+}
+
+function adjustOrder(singleCountDict){
+    var copy=[];
+    var start=0;
+    var end=0;
+
+    for (var k in singleCountDict){
+        if (singleCountDict.hasOwnProperty(k)) {
+            var data = singleCountDict[k];
+            if (data["status"] == "Elected" && candidatesDict[k]["status"]) {
+                start++;
+                data["order"] = candidatesDict[k]["order"];
+            }else if (singleCountDict[k]["status"] == "Excluded" && candidatesDict[k]["status"]) {
+                end++;
+                data["order"] = candidatesDict[k]["order"];
+            }else{
+                copy.push({
+                    key: k, 
+                    count: data["total"]
+                });
+            }
+        }
+    }
+
+    copy.sort(function (a, b) {
+        if (a.count > b.count)
+          return -1;
+        if (a.count < b.count)
+          return 1;
+        // a must be equal to b
+        return 0;
+    });
+
+    //candidatesDict is global and we use it here to store state of where those people we're not ordering are elected
+    for(var i=0;i<copy.length;i++){
+        singleCountDict[copy[i]["key"]].order = i+start;
+        candidatesDict[copy[i]["key"]].order = i+start;
+        if (singleCountDict[copy[i]["key"]]["status"] != "" ) {
+            candidatesDict[copy[i]["key"]].status = singleCountDict[copy[i]["key"]]["status"];
+        }
+    }
+}
+</script>
+
+</body>
+</html>

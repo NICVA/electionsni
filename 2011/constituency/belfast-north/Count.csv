@@ -1,0 +1,78 @@
+Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_Pref_Votes,Transfers,Total_Votes,Status,Occurred_On_Count,Party_Name
+10,1,1,Paula,BRADLEY,3488,0,3488,,0,Democratic Unionist Party
+10,2,1,Fred,COBAIN,2758,0,2758,,0,Ulster Unionist Party
+10,3,1,William,HUMPHREY,3724,0,3724,,0,Democratic Unionist Party
+10,4,1,Gerry,KELLY,6674,0,6674,Elected,1,Sinn Fein
+10,5,1,John,LAVERY,332,0,332,,0,Workers Party
+10,6,1,JJ,MAGEE,998,0,998,,0,Sinn Fein
+10,7,1,Alban,MAGINNESS,4025,0,4025,,0,Social Democratic and Labour Party
+10,8,1,Nelson,MCCAUSLAND,5200,0,5200,Elected,1,Democratic Unionist Party
+10,9,1,Raymond,MCCORD,1176,0,1176,,0,Independent
+10,10,1,Caral,NI CUILIN,2999,0,2999,,0,Sinn Fein
+10,11,1,Billy,WEBB,2096,0,2096,,0,Alliance Party
+10,1,2,Paula,BRADLEY,3488,5.6,3493.6,,0,Democratic Unionist Party
+10,2,2,Fred,COBAIN,2758,2.8,2760.8,,0,Ulster Unionist Party
+10,3,2,William,HUMPHREY,3724,1.4,3725.4,,0,Democratic Unionist Party
+10,4,2,Gerry,KELLY,6674,-1892,4782,Elected,1,Sinn Fein
+10,5,2,John,LAVERY,332,31.08,363.08,Excluded,2,Workers Party
+10,6,2,JJ,MAGEE,998,573.16,1571.16,,0,Sinn Fein
+10,7,2,Alban,MAGINNESS,4025,236.6,4261.6,,0,Social Democratic and Labour Party
+10,8,2,Nelson,MCCAUSLAND,5200,0,5200,Elected,1,Democratic Unionist Party
+10,9,2,Raymond,MCCORD,1176,29.96,1205.96,,0,Independent
+10,10,2,Caral,NI CUILIN,2999,940.24,3939.24,,0,Sinn Fein
+10,11,2,Billy,WEBB,2096,17.08,2113.08,,0,Alliance Party
+10,1,3,Paula,BRADLEY,3488,7,3500.6,,0,Democratic Unionist Party
+10,2,3,Fred,COBAIN,2758,6,2766.8,,0,Ulster Unionist Party
+10,3,3,William,HUMPHREY,3724,9,3734.4,,0,Democratic Unionist Party
+10,4,3,Gerry,KELLY,6674,0,4782,Elected,1,Sinn Fein
+10,5,3,John,LAVERY,332,-363.08,0,Excluded,2,Workers Party
+10,6,3,JJ,MAGEE,998,39.52,1610.68,,0,Sinn Fein
+10,7,3,Alban,MAGINNESS,4025,95.84,4357.44,,0,Social Democratic and Labour Party
+10,8,3,Nelson,MCCAUSLAND,5200,0,5200,Elected,1,Democratic Unionist Party
+10,9,3,Raymond,MCCORD,1176,63.36,1269.32,,0,Independent
+10,10,3,Caral,NI CUILIN,2999,36.84,3976.08,,0,Sinn Fein
+10,11,3,Billy,WEBB,2096,55.28,2168.36,,0,Alliance Party
+10,1,4,Paula,BRADLEY,3488,90.64,3591.24,,0,Democratic Unionist Party
+10,2,4,Fred,COBAIN,2758,36.96,2803.76,,0,Ulster Unionist Party
+10,3,4,William,HUMPHREY,3724,264,3998.4,,0,Democratic Unionist Party
+10,4,4,Gerry,KELLY,6674,0,4782,Elected,1,Sinn Fein
+10,5,4,John,LAVERY,332,0,0,Excluded,2,Workers Party
+10,6,4,JJ,MAGEE,998,0.4,1611.08,,0,Sinn Fein
+10,7,4,Alban,MAGINNESS,4025,2.32,4359.76,,0,Social Democratic and Labour Party
+10,8,4,Nelson,MCCAUSLAND,5200,-418,4782,Elected,1,Democratic Unionist Party
+10,9,4,Raymond,MCCORD,1176,10.56,1279.88,,0,Independent
+10,10,4,Caral,NI CUILIN,2999,0.16,3976.24,Excluded,4,Sinn Fein
+10,11,4,Billy,WEBB,2096,5.12,2173.48,,0,Alliance Party
+10,1,5,Paula,BRADLEY,3488,137.16,3728.4,,0,Democratic Unionist Party
+10,2,5,Fred,COBAIN,2758,187.64,2991.4,,0,Ulster Unionist Party
+10,3,5,William,HUMPHREY,3724,160.96,4159.36,,0,Democratic Unionist Party
+10,4,5,Gerry,KELLY,6674,0,4782,Elected,1,Sinn Fein
+10,5,5,John,LAVERY,332,0,0,Excluded,2,Workers Party
+10,6,5,JJ,MAGEE,998,61.52,1672.6,Excluded,5,Sinn Fein
+10,7,5,Alban,MAGINNESS,4025,203.04,4562.8,,0,Social Democratic and Labour Party
+10,8,5,Nelson,MCCAUSLAND,5200,0,4782,Elected,1,Democratic Unionist Party
+10,9,5,Raymond,MCCORD,1176,-1279.88,0,Excluded,4,Independent
+10,10,5,Caral,NI CUILIN,2999,85.24,4061.48,,0,Sinn Fein
+10,11,5,Billy,WEBB,2096,222.12,2395.6,,0,Alliance Party
+10,1,6,Paula,BRADLEY,3488,6.64,3735.04,,0,Democratic Unionist Party
+10,2,6,Fred,COBAIN,2758,2.12,2993.52,,0,Ulster Unionist Party
+10,3,6,William,HUMPHREY,3724,6.36,4165.72,,0,Democratic Unionist Party
+10,4,6,Gerry,KELLY,6674,0,4782,Elected,1,Sinn Fein
+10,5,6,John,LAVERY,332,0,0,Excluded,2,Workers Party
+10,6,6,JJ,MAGEE,998,-1672.6,0,Excluded,5,Sinn Fein
+10,7,6,Alban,MAGINNESS,4025,441.52,5004.32,Elected,6,Social Democratic and Labour Party
+10,8,6,Nelson,MCCAUSLAND,5200,0,4782,Elected,1,Democratic Unionist Party
+10,9,6,Raymond,MCCORD,1176,0,0,Excluded,4,Independent
+10,10,6,Caral,NI CUILIN,2999,807,4868.48,,0,Sinn Fein
+10,11,6,Billy,WEBB,2096,62.56,2458.16,Excluded,6,Alliance Party
+10,1,7,Paula,BRADLEY,3488,330.16,4065.2,Elected,7,Democratic Unionist Party
+10,2,7,Fred,COBAIN,2758,629.16,3622.68,Excluded,7,Ulster Unionist Party
+10,3,7,William,HUMPHREY,3724,166.04,4331.76,Elected,7,Democratic Unionist Party
+10,4,7,Gerry,KELLY,6674,0,4782,Elected,1,Sinn Fein
+10,5,7,John,LAVERY,332,0,0,Excluded,2,Workers Party
+10,6,7,JJ,MAGEE,998,0,0,Excluded,5,Sinn Fein
+10,7,7,Alban,MAGINNESS,4025,0,5004.32,Elected,6,Social Democratic and Labour Party
+10,8,7,Nelson,MCCAUSLAND,5200,0,4782,Elected,1,Democratic Unionist Party
+10,9,7,Raymond,MCCORD,1176,0,0,Excluded,4,Independent
+10,10,7,Caral,NI CUILIN,2999,0,4868.48,Elected,7,Sinn Fein
+10,11,7,Billy,WEBB,2096,-2458.16,0,Excluded,6,Alliance Party
