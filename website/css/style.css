@@ -1,13 +1,31 @@
 body {
 	font-family: Arial, Helvetica, sans-serif;
-	margin: 0 0 0 0px;
+	margin: 0px 0 0 0;
 }
 header {
-    background: blue;
+    background: #666699;
 	color: white;
-    text-align: center;
+    text-align: left;
 	border-bottom: 5px solid darkblue;
-	padding: 5px 0 0 0;
+	padding: 1px 0 0 0;
+}
+header h1 {
+    font-size: 24px;
+    padding-left: 15px;
+    margin: 0 0 0 0px;
+}
+header a {
+    color: white;
+    text-decoration: none;
+}
+header p {
+    font-size: 12px;
+    text-align: left;
+    padding-left: 15px;
+}
+.content {
+    margin: left;
+    padding: 15px; 
 }
 #year{
 	margin: 5px 0 0 0;
@@ -20,7 +38,7 @@ header {
 }
 #candidates {
 	margin: auto;
-	width: 60%;
+	width: 80%;
 }
 .candidate {
 	padding: 4px;
@@ -190,4 +208,126 @@ header {
 #controls{
     display:inline-block;
     margin-left:250px;
+}
+
+#cssmenu {
+  background: #666699;
+  width: auto;
+  text-align: center;
+}
+#cssmenu ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  line-height: 1;
+  display: block;
+  zoom: 1;
+}
+#cssmenu ul:after {
+  content: " ";
+  display: block;
+  font-size: 0;
+  height: 0;
+  clear: both;
+  visibility: hidden;
+}
+#cssmenu ul li {
+  float: none;
+  display: block;
+  padding: 0;
+  margin: 0;
+}
+#cssmenu.align-right ul li {
+  float: right;
+}
+#cssmenu.align-center ul {
+  text-align: center;
+}
+#cssmenu ul li a {
+  width: 100%;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  color: #ffffff;
+  text-decoration: none;
+  display: block;
+  padding: 15px 25px;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 14px;
+  position: relative;
+  -webkit-transition: color .25s;
+  -moz-transition: color .25s;
+  -ms-transition: color .25s;
+  -o-transition: color .25s;
+  transition: color .25s;
+}
+#cssmenu ul li a:hover {
+  color: #333333;
+}
+#cssmenu ul li a:hover:before {
+  width: 100%;
+}
+#cssmenu ul li a:after {
+  content: "";
+  display: none;
+  position: absolute;
+  right: -3px;
+  top: 19px;
+  height: 6px;
+  width: 6px;
+  background: #ffffff;
+  opacity: .5;
+}
+#cssmenu ul li a:before {
+  content: "";
+  display: none;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  height: 3px;
+  width: 0;
+  background: #333333;
+  -webkit-transition: width .25s;
+  -moz-transition: width .25s;
+  -ms-transition: width .25s;
+  -o-transition: width .25s;
+  transition: width .25s;
+}
+#cssmenu ul li.last > a:after,
+#cssmenu ul li:last-child > a:after {
+  display: none;
+}
+#cssmenu ul li.active a {
+  color: #d3d3d3;
+}
+#cssmenu ul li.active a:before {
+  width: 100%;
+}
+#cssmenu.align-right li.last > a:after,
+#cssmenu.align-right li:last-child > a:after {
+  display: block;
+}
+#cssmenu.align-right li:first-child a:after {
+  display: none;
+}
+
+{
+  #cssmenu ul li {
+    float: none;
+    display: block;
+  }
+  #cssmenu ul li a {
+    width: 100%;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    border-bottom: 1px solid #fb998c;
+  }
+  #cssmenu ul li a:after {
+    display: none;
+  }
+  #cssmenu ul li a:before {
+    display: none;
+  }
 }

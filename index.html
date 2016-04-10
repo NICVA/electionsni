@@ -8,7 +8,7 @@
 	<script src="http://cdn.rawgit.com/calvinmetcalf/leaflet-ajax/gh-pages/dist/leaflet.ajax.min.js"></script>
     <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7/leaflet.css"/>
 	<link rel="stylesheet" type="text/css" href="./website/css/style.css" media="screen, handheld" />
-	<link rel="stylesheet" type="text/css" href="./website/css/enhanced.css" media="screen  and (min-width: 60.5em)" />
+	<link rel="stylesheet" type="text/css" href="./website/css/enhanced.css" media="screen  and (min-width: 40.5em)" />
 		<!--[if (lt IE 9)&(!IEMobile)]>
 		<link rel="stylesheet" type="text/css" href="enhanced.css" />
 		<![endif]-->
@@ -19,10 +19,21 @@
 <body>
 
 	<header> 
-		<h1 align="center">Northern Ireland Elections Open Data</h1>
-		<p align="center">Open data for the Assembly Elections<p>
+		<h1><a href = "./index.html">Elections NI</a></h1>
+		<p>Open data for the Assembly Elections<p>
 	</header>
+	
+	<div id='cssmenu'>
+		<ul>
+			<li class='active'><a href='/index.html'><span>Constituencies</span></a></li>
+			<li><a href='results.html'><span>Results</span></a></li>
+			<li><a href='candidates.html'><span>Candidates</span></a></li>
+			<li><a href='data.html'><span>Data</span></a></li>
+			<li class='last'><a href='about.html'><span>About</span></a></li>
+	</ul>
+	</div>
 	<div id="map"></div>
+	
 	<div align="center">
 		<form id="year">
 			<input type="radio" name="year" value="2016" checked onClick="changeyear(2016);findcandidates(2016);"/> 2016

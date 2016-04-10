@@ -59,7 +59,7 @@
 	var layerStyle = {
 		weight: 2,
 		color: 'blue',
-		fillOpacity: 0,
+		fillOpacity: 0.1,
 		opacity: 1
 		};
 		
@@ -118,6 +118,16 @@
             }).addTo(map);
 	
 	boundaries.addTo(map);			
+	
+	
+	// detect if user agent is a mobile device and if so disable map zooming panning etc
+	if ( /Android|webOS|iPhone|iPad|iPod|Blackberry|IEMobile|Opera Mini|Mobi/.test(navigator.userAgent)) {
+		console.log('mobile device detected');
+		map.touchZoom.disable();
+		map.dragging.disable();
+		map.doubleClickZoom.disable();
+		map.scrollWheelZoom.disable();
+	}
 	
 	var info = L.control();
 
