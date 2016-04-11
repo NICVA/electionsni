@@ -108,10 +108,15 @@
 	
 	console.log(boundaries);
 		
-    var map = L.map('map').setView([54.593346, -6.416200], 8);
-        mapLink = 
-            '<a href="http://openstreetmap.org">OpenStreetMap</a>';
-        L.tileLayer(
+    var map = L.map('map', {
+		tap: false,
+		minZoom: 7,
+		maxZoom: 16
+		}).setView([54.593346, -6.716200], 8);
+    
+	mapLink = '<a href="http://openstreetmap.org">OpenStreetMap</a>';
+    
+	L.tileLayer(
             'https://a.tiles.mapbox.com/v4/mapbox.light/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoiYm9iaGFycGVyIiwiYSI6ImQwOTg1YTg2MTQzYzk3Mzc5MWVjYzFkZDQzN2M1NTUzIn0.mA2WO4WAZzh-qwoqN4QVjg', {
             attribution: '&copy; ' + mapLink + ' | <a href=\"https://www.mapbox.com/about/maps/\" target=\"_blank\">&copy; Mapbox</a> | Boundaries: <a href="https://www.opendatani.gov.uk/dataset/osni-open-data-50k-admin-boundaries-parliamentary-constituencies-2008">LPS</a>',
             maxZoom: 18,
@@ -123,10 +128,7 @@
 	// detect if user agent is a mobile device and if so disable map zooming panning etc
 	if ( /Android|webOS|iPhone|iPad|iPod|Blackberry|IEMobile|Opera Mini|Mobi/.test(navigator.userAgent)) {
 		console.log('mobile device detected');
-		map.touchZoom.disable();
 		map.dragging.disable();
-		map.doubleClickZoom.disable();
-		map.scrollWheelZoom.disable();
 	}
 	
 	var info = L.control();

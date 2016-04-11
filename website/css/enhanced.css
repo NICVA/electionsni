@@ -3,10 +3,10 @@ body {
 	margin: 0 0 0 0px;
 }
 header {
-    background: #666699;
+    background: #34495e;
 	color: white;
     text-align: center;
-	border-bottom: 5px solid darkblue;
+	border-bottom: 2px solid lightgray;
 	padding: 5px 0 0 0;
 }
 header h1 {
@@ -16,6 +16,9 @@ header h1 {
 header a {
     color: white;
     text-decoration: none;
+}
+header a:hover {
+    color: #00FFEC;
 }
 header p {
     font-size: 18px;
@@ -209,7 +212,7 @@ header p {
 }
 
 #cssmenu {
-  background: #666699;
+  background: #34495e;
   width: auto;
   text-align: center;
 }
@@ -256,19 +259,19 @@ header p {
   transition: color .25s;
 }
 #cssmenu ul li a:hover {
-  color: #333333;
+  color: #00FFEC;
 }
 #cssmenu ul li a:hover:before {
   width: 100%;
 }
 #cssmenu ul li a:after {
-  content: "";
+  content: "/";
+  font-size: 16px;
   display: block;
   position: absolute;
   right: -3px;
-  top: 19px;
-  height: 6px;
-  width: 6px;
+  top: 13px;
+  width: 0px;
   background: #ffffff;
   opacity: .5;
 }
@@ -280,7 +283,7 @@ header p {
   bottom: 0;
   height: 3px;
   width: 0;
-  background: #333333;
+  background: #00FFEC;
   -webkit-transition: width .25s;
   -moz-transition: width .25s;
   -ms-transition: width .25s;
@@ -292,7 +295,7 @@ header p {
   display: none;
 }
 #cssmenu ul li.active a {
-  color: #d3d3d3;
+  color: #00FFEC;
 }
 #cssmenu ul li.active a:before {
   width: 100%;

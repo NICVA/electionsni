@@ -3,10 +3,10 @@ body {
 	margin: 0px 0 0 0;
 }
 header {
-    background: #666699;
+    background: #34495e;
 	color: white;
     text-align: left;
-	border-bottom: 5px solid darkblue;
+	border-bottom: 1px solid lightgray;
 	padding: 1px 0 0 0;
 }
 header h1 {
@@ -17,6 +17,9 @@ header h1 {
 header a {
     color: white;
     text-decoration: none;
+}
+header a:hover {
+    color: #00FFEC;
 }
 header p {
     font-size: 12px;
@@ -211,7 +214,7 @@ header p {
 }
 
 #cssmenu {
-  background: #666699;
+  background: #34495e;
   width: auto;
   text-align: center;
 }
@@ -251,7 +254,7 @@ header p {
   color: #ffffff;
   text-decoration: none;
   display: block;
-  padding: 15px 25px;
+  padding: 10px 20px;
   font-weight: 700;
   text-transform: uppercase;
   font-size: 14px;
@@ -263,7 +266,7 @@ header p {
   transition: color .25s;
 }
 #cssmenu ul li a:hover {
-  color: #333333;
+  color: #00FFEC;
 }
 #cssmenu ul li a:hover:before {
   width: 100%;
@@ -299,7 +302,7 @@ header p {
   display: none;
 }
 #cssmenu ul li.active a {
-  color: #d3d3d3;
+  color: #00FFEC;
 }
 #cssmenu ul li.active a:before {
   width: 100%;
@@ -310,24 +313,4 @@ header p {
 }
 #cssmenu.align-right li:first-child a:after {
   display: none;
-}
-
-{
-  #cssmenu ul li {
-    float: none;
-    display: block;
-  }
-  #cssmenu ul li a {
-    width: 100%;
-    -moz-box-sizing: border-box;
-    -webkit-box-sizing: border-box;
-    box-sizing: border-box;
-    border-bottom: 1px solid #fb998c;
-  }
-  #cssmenu ul li a:after {
-    display: none;
-  }
-  #cssmenu ul li a:before {
-    display: none;
-  }
 }
