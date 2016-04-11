@@ -1,13 +1,12 @@
-Constituency_Name,Constituency_Number,Candidate_Id,Firstname,Surname,Outgoing_Member,Party_Id,Party_Name,Photo_URL,Directory,Gender
-South Down,14,194,Sinead,BRADLEY,0,23,Social Democratic and Labour Party,,south-down,F
-South Down,14,195,Patrick,BROWN,0,19,Alliance Party,,south-down,M
-South Down,14,196,Michael,GRAY-SLOAN,0,24,Sinn Fein,,south-down,M
-South Down,14,197,John,HARDY,0,111,Green Party,,south-down,M
-South Down,14,198,Chris,HAZZARD,1,24,Sinn Fein,,south-down,M
-South Down,14,199,John,MCCALLISTER,1,21,Independent,,south-down,M
-South Down,14,200,Colin,MCGRATH,0,23,Social Democratic and Labour Party,,south-down,M
-South Down,14,201,Harold,MCKEE,0,26,Ulster Unionist Party,,south-down,M
-South Down,14,202,Henry,REILLY,0,141,Traditional Unionist Voice,,south-down,M
-South Down,14,203,Sean,ROGERS,1,23,Social Democratic and Labour Party,,south-down,M
-South Down,14,204,Caitriona,RUANE,1,24,Sinn Fein,,south-down,F
-South Down,14,205,Jim,WELLS,1,20,Democratic Unionist Party,,south-down,M
+Constituency_Number,Candidate_Id,Firstname,Surname,Outgoing_Member,Party_Id,Party_Name,Photo_URL
+14,185,Naomi,BAILIE ,Sinn Fein ,24,Sinn Fein,
+14,186,Willie,CLARKE ,Sinn Fein ,24,Sinn Fein,
+14,187,Cadogan,ENRIGHT ,Green Party ,111,Green Party,
+14,188,David,GRIFFIN ,Alliance Party ,19,Alliance Party,
+14,189,John,MCCALLISTER ,UUP ,26,Ulster Unionist Party,
+14,190,Karen,MCKEVITT ,SDLP  ,23,Social Democratic and Labour Party,
+14,191,Eamonn,ONEILL ,SDLP ,23,Social Democratic and Labour Party,
+14,192,Henry,REILLY ,UKIP ,689,UK Independence Party,
+14,193,Margaret,RITCHIE ,SDLP ,23,Social Democratic and Labour Party,
+14,194,Caitriona,RUANE ,Sinn Fein ,24,Sinn Fein,
+14,195,Jim,WELLS ,DUP ,20,Democratic Unionist Party,

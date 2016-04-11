@@ -1,14 +1,12 @@
-Constituency_Name,Constituency_Number,Candidate_Id,Firstname,Surname,Outgoing_Member,Party_Id,Party_Name,Photo_URL,Directory,Gender
-Newry and Armagh,8,139,Paul,BERRY ,0,21,Independent,,newry-armagh,M
-Newry and Armagh,8,140,Cathal,BOYLAN,1,24,Sinn Fein,,newry-armagh,M
-Newry and Armagh,8,141,Emmet,CROSSAN,0,993,Cannabis Is Safer Than Alcohol,,newry-armagh,M
-Newry and Armagh,8,142,Megan,FEARON,1,24,Sinn Fein,,newry-armagh,F
-Newry and Armagh,8,143,William,IRWIN,1,20,Democratic Unionist Party,,newry-armagh,M
-Newry and Armagh,8,144,Danny,KENNEDY,1,26,Ulster Unionist Party,,newry-armagh,M
-Newry and Armagh,8,145,Alan,LOVE,0,689,UK Independence Party,,newry-armagh,M
-Newry and Armagh,8,146,Karen,MCKEVITT,1,23,Social Democratic and Labour Party,,newry-armagh,F
-Newry and Armagh,8,147,Justin,MCNULTY,0,23,Social Democratic and Labour Party,,newry-armagh,M
-Newry and Armagh,8,148,Conor,MURPHY,1,24,Sinn Fein,,newry-armagh,M
-Newry and Armagh,8,149,Sam,NICHOLSON,0,26,Ulster Unionist Party,,newry-armagh,M
-Newry and Armagh,8,150,Michael,WATTERS,0,111,Green Party,,newry-armagh,M
-Newry and Armagh,8,151,Craig,WEIR,0,19,Alliance Party,,newry-armagh,M
+Constituency_Number,Candidate_Id,Firstname,Surname,Outgoing_Member,Party_Id,Party_Name,Photo_URL
+8,150,Cathal,BOYLAN,,24,Social Democratic and Labour Party,
+8,151,Dominic,BRADLEY,,23,Sinn Fein,
+8,152,Mickey,BRADY,,23,Sinn Fein,
+8,153,Barrie,HALLIDAY,,141,Traditional Unionist Voice,
+8,154,William George,IRWIN,,20,Democratic Unionist Party,
+8,155,Danny,KENNEDY,,26,Ulster Unionist Party,
+8,156,James,MALONE,,21,Independent,
+8,157,Conor,MURPHY,,23,Sinn Fein,
+8,158,David,MURPHY,,19,Alliance Party,
+8,159,Thomas,OHANLON,,23,Social Democratic and Labour Party,
+8,160,Robert Stewart,WOODS,,21,Independent,
