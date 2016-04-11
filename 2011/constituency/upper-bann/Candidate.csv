@@ -1,13 +1,16 @@
-Constituency_Number,Candidate_Id,Firstname,Surname,Outgoing_Member,Party_Id,Party_Name,Photo_URL
-16,207,Sydney Alexander,ANDERSON,,20,Democratic Unionist Party,
-16,208,Joanne Elizabeth,DOBSON,,26,Ulster Unionist Party,
-16,209,Samuel,GARDINER,,26,Ulster Unionist Party,
-16,210,Sam,HAMILTON,,19,Alliance Party,
-16,211,Dolores,KELLY,,23,Social Democratic and Labour Party,
-16,212,Colin Craig,MCCUSKER,,26,Ulster Unionist Party,
-16,213,Johnny,MCGIBBON,,24,Sinn Fein,
-16,214,Sheila Mary,MCQUAID,,19,Alliance Party,
-16,215,Stephen,MOUTRAY,,20,Democratic Unionist Party,
-16,216,John,O'DOWD,,24,Sinn Fein,
-16,217,Barbara,TROTTER,,689,UK Independence Party,
-16,218,David,VANCE,,141,Traditional Unionist Voice,
+Constituency_Name,Constituency_Number,Candidate_Id,Firstname,Surname,Outgoing_Member,Party_Id,Party_Name,Photo_URL,Directory,Gender
+Upper Bann,16,218,Sydney,ANDERSON,1,20,Democratic Unionist Party,,upper-bann,M
+Upper Bann,16,219,Doug,BEATTIE,0,26,Ulster Unionist Party,,upper-bann,M
+Upper Bann,16,220,Joanne,DOBSON,1,26,Ulster Unionist Party,,upper-bann,F
+Upper Bann,16,221,Roy,FERGUSON,0,141,Traditional Unionist Voice,,upper-bann,M
+Upper Bann,16,222,Harry,HAMILTON,0,19,Alliance Party,,upper-bann,M
+Upper Bann,16,223,David,JONES,0,689,UK Independence Party,,upper-bann,M
+Upper Bann,16,224,Dolores,KELLY,1,23,Social Democratic and Labour Party,,upper-bann,F
+Upper Bann,16,225,Martin,KELLY,0,993,Cannabis Is Safer Than Alcohol,,upper-bann,M
+Upper Bann,16,226,Simon,LEE,0,111,Green Party,,upper-bann,M
+Upper Bann,16,227,Carla,LOCKHART,0,20,Democratic Unionist Party,,upper-bann,F
+Upper Bann,16,228,Sophie,LONG,0,994,Progressive Unionist Party,,upper-bann,F
+Upper Bann,16,229,Ian,NICKELS,0,991,NI Conservatives,,upper-bann,M
+Upper Bann,16,230,John,ODOWD,1,24,Sinn Fein,,upper-bann,M
+Upper Bann,16,231,Kyle,SAVAGE,0,26,Ulster Unionist Party,,upper-bann,M
+Upper Bann,16,232,Catherine,SEELEY,0,24,Sinn Fein,,upper-bann,F

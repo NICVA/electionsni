@@ -1,11 +1,15 @@
-Constituency_Number,Candidate_Id,Firstname,Surname,Outgoing_Member,Party_Id,Party_Name,Photo_URL
-12,82,Thomas,BURNS,,23,Social Democratic and Labour Party,
-12,83,Trevor,CLARKE,,20,Democratic Unionist Party,
-12,84,Adrian David,COCHRANE-WATSON,,26,Ulster Unionist Party,
-12,85,David RJ,FORD,,19,Alliance Party,
-12,86,Paul,GIRVAN,,20,Democratic Unionist Party,
-12,87,Danny,KINAHAN,,26,Ulster Unionist Party,
-12,88,Pam,LEWIS,,20,Democratic Unionist Party,
-12,89,Mel,LUCAS,,141,Traditional Unionist Voice,
-12,90,Mitchel,MCLAUGHLIN,,24,Sinn Fein,
-12,91,Stephen,PARKES,,995,British Nationalist Party,
+Constituency_Name,Constituency_Number,Candidate_Id,Firstname,Surname,Outgoing_Member,Party_Id,Party_Name,Photo_URL,Directory,Gender
+South Antrim,12,180,Steve,AIKEN,0,26,Ulster Unionist Party,,south-antrim,M
+South Antrim,12,181,Richard,CAIRNS,0,141,Traditional Unionist Voice,,south-antrim,M
+South Antrim,12,182,Pam,CAMERON,1,20,Democratic Unionist Party,,south-antrim,F
+South Antrim,12,183,Trevor,CLARKE,1,20,Democratic Unionist Party,,south-antrim,M
+South Antrim,12,184,Adrian,COCHRANE-WATSON,1,26,Ulster Unionist Party,,south-antrim,M
+South Antrim,12,185,Helen,FARLEY,0,111,Green Party,,south-antrim,F
+South Antrim,12,186,David,FORD,1,19,Alliance Party,,south-antrim,M
+South Antrim,12,187,Paul,GIRVAN,1,20,Democratic Unionist Party,,south-antrim,M
+South Antrim,12,188,Robert,HILL,0,689,UK Independence Party,,south-antrim,M
+South Antrim,12,189,Declan,KEARNEY,0,24,Sinn Fein,,south-antrim,M
+South Antrim,12,190,Roisin,LYNCH,0,23,Social Democratic and Labour Party,,south-antrim,F
+South Antrim,12,191,David,MCMASTER,0,21,Independent,,south-antrim,M
+South Antrim,12,192,Paul,MICHAEL,0,26,Ulster Unionist Party,,south-antrim,M
+South Antrim,12,193,Mark,YOUNG,0,991,NI Conservatives,,south-antrim,M

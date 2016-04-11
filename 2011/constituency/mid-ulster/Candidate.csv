@@ -1,14 +1,13 @@
-Constituency_Number,Candidate_Id,Firstname,Surname,Outgoing_Member,Party_Id,Party_Name,Photo_URL
-7,137,Harry,HUTCHINSON,,999,People Before Profit Alliance,
-7,138,Austin,KELLY,,23,Social Democratic and Labour Party,
-7,139,Gary,MCCANN,,21,Independent,
-7,140,Hugh,MCCLOY,,21,Independent,
-7,141,Ian,MCCREA,,20,Democratic Unionist Party,
-7,142,Michael,MCDONALD,,19,Alliance Party,
-7,143,Patsy,MCGLONE,,23,Social Democratic and Labour Party,
-7,144,Martin,MCGUINNESS,,24,Sinn Fein,
-7,145,Walter,MILLAR,,141,Traditional Unionist Voice,
-7,146,Ian Patrick,MILNE,,24,Sinn Fein,
-7,147,Francie,MOLLOY,,24,Sinn Fein,
-7,148,Michelle,ONEILL,,24,Sinn Fein,
-7,149,Sandra,OVEREND,,26,Ulster Unionist Party,
+Constituency_Name,Constituency_Number,Candidate_Id,Firstname,Surname,Outgoing_Member,Party_Id,Party_Name,Photo_URL,Directory,Gender
+Mid Ulster,7,127,Keith,BUCHANAN,0,20,Democratic Unionist Party,,mid-ulster,M
+Mid Ulster,7,128,Alan,DAY,0,689,UK Independence Party,,mid-ulster,M
+Mid Ulster,7,129,Linda,DILLON,0,24,Sinn Fein,,mid-ulster,F
+Mid Ulster,7,130,Neidin,HENDRON,0,19,Alliance Party,,mid-ulster,F
+Mid Ulster,7,131,Hannah,LOUGHRIN,0,141,Traditional Unionist Voice,,mid-ulster,F
+Mid Ulster,7,132,Ian,MCCREA,1,20,Democratic Unionist Party,,mid-ulster,M
+Mid Ulster,7,133,Patsy,MCGLONE,1,23,Social Democratic and Labour Party,,mid-ulster,M
+Mid Ulster,7,134,Ian,MILNE,1,24,Sinn Fein,,mid-ulster,M
+Mid Ulster,7,135,Michelle,ONEILL,1,24,Sinn Fein,,mid-ulster,F
+Mid Ulster,7,136,Sandra,OVEREND,1,26,Ulster Unionist Party,,mid-ulster,F
+Mid Ulster,7,137,Hugh,SCULLION,0,998,Workers Party,,mid-ulster,M
+Mid Ulster,7,138,Stefan,TAYLOR,0,111,Green Party,,mid-ulster,M
