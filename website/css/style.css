@@ -6,7 +6,7 @@ header {
     background: #34495e;
 	color: white;
     text-align: left;
-	border-bottom: 1px solid lightgray;
+	border-bottom: 1px solid #00FFEC;
 	padding: 1px 0 0 0;
 }
 header h1 {
@@ -20,6 +20,11 @@ header a {
 }
 header a:hover {
     color: #00FFEC;
+    -webkit-transition: color .5s;
+    -moz-transition: color .5s;
+    -ms-transition: color .5s;
+    -o-transition: color .5s;
+    transition: color .5s;
 }
 header p {
     font-size: 12px;
@@ -81,7 +86,7 @@ header p {
      content: " (TUV)";
 }
 .Workers-Party_label:after{
-	 content: " (Workers)";
+	 content: " (WP)";
 }
 .UK-Independence-Party_label:after{
 	 content: " (UKIP)";
@@ -112,6 +117,12 @@ header p {
 }
 .Cannabis-Is-Safer-Than-Alcohol_label:after{
 	 content: " (CISTA)";
+}
+.Labour-Alternative_label:after{
+	 content: " (LABALT)";
+}
+.South-Belfast-Unionists_label:after{
+	 content: " (SBU)";
 }
 
 .tooltip {
@@ -184,6 +195,8 @@ header p {
 .NI21{fill:#581845!important; background:#581845!important; color:#fff}
 .Procapitalism{fill:#f633ff!important; background:#f633ff!important; color:#fff}
 .NI-Conservatives{fill:#362da7!important; background:#362da7!important; color:#fff}
+.Labour-Alternative{fill:#ca0000!important; background:#ca0000!important; color:#fff}
+.South-Belfast-Unionists{fill:#9195FF!important; background:#9195FF!important; color:#fff}
 
 #thepost{
     width:2px;

@@ -6,7 +6,7 @@ import operator as op
 
 jsonName = '../NI/all-candidates.json'
 
-candidatefile = open('../full-candidates-list.csv', 'rb')
+candidatefile = open('../NI/full-candidates-list.csv', 'rb')
 
 candidatefields = csv.reader(candidatefile).next()
 candidatereader = csv.DictReader(candidatefile, candidatefields)
