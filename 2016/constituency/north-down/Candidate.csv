@@ -1,15 +1,17 @@
-Constituency_Name,Constituency_Number,Candidate_Id,Firstname,Surname,Outgoing_Member,Party_Id,Party_Name,Photo_URL,Directory,Gender
-North Down,11,169,Steven,AGNEW,1,111,Green Party,,north-down,M
-North Down,11,170,John,BRENNAN,0,141,Traditional Unionist Voice,,north-down,M
-North Down,11,171,Conal,BROWNE,0,23,Social Democratic and Labour Party,,north-down,M
-North Down,11,172,Alan,CHAMBERS,0,26,Ulster Unionist Party,,north-down,M
-North Down,11,173,Gordon,DUNNE,1,20,Democratic Unionist Party,,north-down,M
-North Down,11,174,Alex,EASTON,1,20,Democratic Unionist Party,,north-down,M
-North Down,11,175,Chris,EISENSTADT,0,26,Ulster Unionist Party,,north-down,M
-North Down,11,176,Stephen,FARRY,1,19,Alliance Party,,north-down,M
-North Down,11,177,Carl,MCCLEAN,0,26,Ulster Unionist Party,,north-down,M
-North Down,11,178,Andrew,MUIR,0,19,Alliance Party,,north-down,M
-North Down,11,179,Bill,PIPER,0,689,UK Independence Party,,north-down,M
-North Down,11,180,Frank,SHIVERS,0,991,NI Conservatives,,north-down,M
-North Down,11,181,Peter,WEIR,1,20,Democratic Unionist Party,,north-down,M
-North Down,11,182,Brian,WILSON,0,21,Independent,,north-down,M
+Constituency_Name,Constituency_Number,Candidate_Id,Firstname,Surname,Outgoing_Member,Party_Id,Party_Name,Photo_URL,Directory,Gender,Twitter,Email
+North Down,11,185,Steven,AGNEW,1,111,Green Party,,north-down,M,@StevenAgnew,sfassembly@hotmail.com
+North Down,11,186,John,BRENNAN,0,141,Traditional Unionist Voice,,north-down,M,@JohnbrennanNI,sfassembly@hotmail.com
+North Down,11,187,Conal,BROWNE,0,23,Social Democratic and Labour Party,,north-down,M,@ConalBrowne,sfassembly@hotmail.com
+North Down,11,188,Alan,CHAMBERS,0,26,Ulster Unionist Party,,north-down,M,@alcham49,sfassembly@hotmail.com
+North Down,11,189,Gordon Mervyn,DUNNE,1,20,Democratic Unionist Party,,north-down,M,@GordonDunneMLA ,sfassembly@hotmail.com
+North Down,11,190,Alex,EASTON,1,20,Democratic Unionist Party,,north-down,M,,sfassembly@hotmail.com
+North Down,11,191,Chris,EISENSTADT,0,26,Ulster Unionist Party,,north-down,M,@ChrisEisenstadt,sfassembly@hotmail.com
+North Down,11,192,Stephen,FARRY,1,19,Alliance Party,,north-down,M,@StephenFarryMLA,sfassembly@hotmail.com
+North Down,11,193,Maria,LOURENCO,0,989,NI Labour Representation Committee,,north-down,F,@MariaLourenco74,sfassembly@hotmail.com
+North Down,11,194,Therese,MCCARTNEY,0,24,Sinn Fein,,north-down,F,@tmccartney12,sfassembly@hotmail.com
+North Down,11,195,Carl,MCCLEAN,0,26,Ulster Unionist Party,,north-down,M,@ccmccuup,sfassembly@hotmail.com
+North Down,11,196,Andrew,MUIR,0,19,Alliance Party,,north-down,M,@AndrewMuirNI,sfassembly@hotmail.com
+North Down,11,197,Bill,PIPER,0,689,UK Independence Party,,north-down,M,,sfassembly@hotmail.com
+North Down,11,198,Frank,SHIVERS,0,991,NI Conservatives,,north-down,M,@Frankshivers,sfassembly@hotmail.com
+North Down,11,199,Peter James,WEIR,1,20,Democratic Unionist Party,,north-down,M,@peterweirmla,sfassembly@hotmail.com
+North Down,11,200,Brian,WILSON,0,21,Independent,,north-down,M,,sfassembly@hotmail.com

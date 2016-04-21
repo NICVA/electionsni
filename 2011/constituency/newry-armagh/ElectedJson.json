@@ -1,0 +1,61 @@
+[
+{
+    "Candidate_First_Pref_Votes": "6614", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "2", 
+    "Surname": "BOYLAN", 
+    "Firstname": "Cathal", 
+    "Constituency_Number": "8", 
+    "Party_Name": "Social Democratic and Labour Party", 
+    "Candidate_Id": "150"
+},
+{
+    "Candidate_First_Pref_Votes": "7123", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
+    "Surname": "BRADLEY", 
+    "Firstname": "Dominic", 
+    "Constituency_Number": "8", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "151"
+},
+{
+    "Candidate_First_Pref_Votes": "3254", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "6", 
+    "Surname": "BRADY", 
+    "Firstname": "Mickey", 
+    "Constituency_Number": "8", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "152"
+},
+{
+    "Candidate_First_Pref_Votes": "6101", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "3", 
+    "Surname": "IRWIN", 
+    "Firstname": "William George", 
+    "Constituency_Number": "8", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "154"
+},
+{
+    "Candidate_First_Pref_Votes": "8718", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
+    "Surname": "KENNEDY", 
+    "Firstname": "Danny", 
+    "Constituency_Number": "8", 
+    "Party_Name": "Ulster Unionist Party", 
+    "Candidate_Id": "155"
+},
+{
+    "Candidate_First_Pref_Votes": "9127", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
+    "Surname": "MURPHY", 
+    "Firstname": "Conor", 
+    "Constituency_Number": "8", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "157"
+}]

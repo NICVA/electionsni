@@ -1,0 +1,61 @@
+[
+{
+    "Candidate_First_Pref_Votes": "4263", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "5", 
+    "Surname": "CRAIG", 
+    "Firstname": "Jonathan", 
+    "Constituency_Number": "6", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "127"
+},
+{
+    "Candidate_First_Pref_Votes": "4352", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "7", 
+    "Surname": "GIVAN", 
+    "Firstname": "Paul", 
+    "Constituency_Number": "6", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "128"
+},
+{
+    "Candidate_First_Pref_Votes": "2910", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "7", 
+    "Surname": "HALE", 
+    "Firstname": "Brenda", 
+    "Constituency_Number": "6", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "129"
+},
+{
+    "Candidate_First_Pref_Votes": "4389", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "6", 
+    "Surname": "LUNN", 
+    "Firstname": "Trevor", 
+    "Constituency_Number": "6", 
+    "Party_Name": "Alliance Party", 
+    "Candidate_Id": "131"
+},
+{
+    "Candidate_First_Pref_Votes": "5771", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
+    "Surname": "MCCREA", 
+    "Firstname": "Basil", 
+    "Constituency_Number": "6", 
+    "Party_Name": "Ulster Unionist Party", 
+    "Candidate_Id": "132"
+},
+{
+    "Candidate_First_Pref_Votes": "7329", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
+    "Surname": "POOTS", 
+    "Firstname": "Edwin", 
+    "Constituency_Number": "6", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "133"
+}]

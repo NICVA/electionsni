@@ -1,19 +1,19 @@
-Constituency_Name,Constituency_Number,Candidate_Id,Firstname,Surname,Outgoing_Member,Party_Id,Party_Name,Photo_URL,Directory,Gender
-Belfast South,13,33,Brigette,ANTON,0,21,Independent,,belfast-south,F
-Belfast South,13,34,Clare,BAILEY,0,111,Green Party,,belfast-south,F
-Belfast South,13,35,Paula,BRADSHAW,0,19,Alliance Party,,belfast-south,F
-Belfast South,13,36,Sean,BURNS,0,992,Labour Alternative,,belfast-south,M
-Belfast South,13,37,William,DICKSON,0,990,South Belfast Unionists,,belfast-south,M
-Belfast South,13,38,Claire,HANNA,1,23,Social Democratic and Labour Party,,belfast-south,F
-Belfast South,13,39,John,HIDDLESTON,0,141,Traditional Unionist Voice,,belfast-south,M
-Belfast South,13,40,Lily,KERR,0,998,Workers Party,,belfast-south,F
-Belfast South,13,41,Ben,MANTON,0,991,NI Conservatives,,belfast-south,M
-Belfast South,13,42,Rodney,MCCUNE,0,26,Ulster Unionist Party,,belfast-south,M
-Belfast South,13,43,Fearghal,MCKINNEY,1,23,Social Democratic and Labour Party,,belfast-south,M
-Belfast South,13,44,Duncan,MORROW,0,19,Alliance Party,,belfast-south,M
-Belfast South,13,45,Mairtin,O MUILLEOIR,1,24,Sinn Fein,,belfast-south,M
-Belfast South,13,46,Ruth,PATTERSON,0,21,Independent,,belfast-south,F
-Belfast South,13,47,Emma,PENGELLY,1,20,Democratic Unionist Party,,belfast-south,F
-Belfast South,13,48,Ian,SHANKS,0,994,Progressive Unionist Party,,belfast-south,M
-Belfast South,13,49,Christopher,STALFORD,0,20,Democratic Unionist Party,,belfast-south,M
-Belfast South,13,50,Bob,STOKER,0,689,UK Independence Party,,belfast-south,M
+Constituency_Name,Constituency_Number,Candidate_Id,Firstname,Surname,Outgoing_Member,Party_Id,Party_Name,Photo_URL,Directory,Gender,Twitter,Email
+Belfast South,13,37,Brigette,ANTON,0,21,Independent,,belfast-south,F,@PurlsofColour ,sfassembly@hotmail.com
+Belfast South,13,38,Clare,BAILEY,0,111,Green Party,,belfast-south,F,@ClareBaileyGPNI,sfassembly@hotmail.com
+Belfast South,13,39,Paula,BRADSHAW,0,19,Alliance Party,,belfast-south,F,@PaulaJaneB,sfassembly@hotmail.com
+Belfast South,13,40,Sean,BURNS,0,992,Labour Alternative,,belfast-south,M,@SeanBurnsSP,sfassembly@hotmail.com
+Belfast South,13,41,William,DICKSON,0,990,South Belfast Unionists,,belfast-south,M,,sfassembly@hotmail.com
+Belfast South,13,42,Claire,HANNA,1,23,Social Democratic and Labour Party,,belfast-south,F,@ClaireHanna,sfassembly@hotmail.com
+Belfast South,13,43,John Andrew,HIDDLESTON,0,141,Traditional Unionist Voice,,belfast-south,M,,sfassembly@hotmail.com
+Belfast South,13,44,Lily,KERR,0,998,Workers Party,,belfast-south,F,,sfassembly@hotmail.com
+Belfast South,13,45,Emma,LITTLE PENGELLY,1,20,Democratic Unionist Party,,belfast-south,F,@little_pengelly,sfassembly@hotmail.com
+Belfast South,13,46,Ben,MANTON,0,991,NI Conservatives,,belfast-south,M,@Ben4SBelfast,sfassembly@hotmail.com
+Belfast South,13,47,Rodney James,MCCUNE,0,26,Ulster Unionist Party,,belfast-south,M,@rodneymccune,sfassembly@hotmail.com
+Belfast South,13,48,Fearghal,MCKINNEY,1,23,Social Democratic and Labour Party,,belfast-south,M,@FearghalSDLP,sfassembly@hotmail.com
+Belfast South,13,49,Duncan,MORROW,0,19,Alliance Party,,belfast-south,M,@duncan_morrow,sfassembly@hotmail.com
+Belfast South,13,50,Mairtin,O MUILLEOIR,1,24,Sinn Fein,,belfast-south,M,@newbelfast,sfassembly@hotmail.com
+Belfast South,13,51,Ruth,PATTERSON,0,21,Independent,,belfast-south,F,@RuthMLA2016,sfassembly@hotmail.com
+Belfast South,13,52,Ian,SHANKS,0,994,Progressive Unionist Party,,belfast-south,M,@shanksybraniel,sfassembly@hotmail.com
+Belfast South,13,53,Christopher,STALFORD,0,20,Democratic Unionist Party,,belfast-south,M,@CDMStalfordDUP,sfassembly@hotmail.com
+Belfast South,13,54,Bob,STOKER,0,689,UK Independence Party,,belfast-south,M,,sfassembly@hotmail.com

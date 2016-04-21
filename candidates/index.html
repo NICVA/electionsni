@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Northern Ireland Elections - Candidates</title>
+    <meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	
+	<link rel="stylesheet" type="text/css" href="/website/css/style.css" media="screen, handheld" />
+	<link rel="stylesheet" type="text/css" href="/website/css/enhanced.css" media="screen  and (min-width: 60.5em)" />
+		<!--[if (lt IE 9)&(!IEMobile)]>
+		<link rel="stylesheet" type="text/css" href="enhanced.css" />
+		<![endif]-->
+	<meta name="description" content="Generating crowdsourced open data, live results and data visualisations for the Northern Ireland Assembly Elections 2016." />
+	<meta name="keywords" content="assembly, elections, open data, northern ireland, 2016, crowdsource, results, single transferable vote, stv, constituency, candidate, odi belfast, open government network, nicva, voting, #ae16, tally, count, electoral" />
+	<meta name="author" content="metatags generator">
+	<meta name="robots" content="index, follow">
+	<meta name="revisit-after" content="1 month">
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:site" content="@electionsni" />
+	<meta name="twitter:creator" content="@odibelfast" />
+	<meta property="og:url" content="http://electionsni.org" />
+	<meta property="og:title" content="Elections NI #AE16" />
+	<meta property="og:description" content="Generating crowdsourced open data, live results and data visualisations for the Northern Ireland Assembly Elections 2016." />
+	<meta property="og:image" content="https://s3-eu-west-1.amazonaws.com/electionsni.org/website/image/banner.png" />
+	<!-- data, elections, ni -->
+</head>
+<style>
+
+</style>
+<body>
+    <div id="wrap">
+		<header> 
+			<h1><a href = "/">Elections NI</a></h1>
+			<p>Open data for the Assembly Elections #AE16</p>
+		</header>
+		<div id='cssmenu'>
+			<ul>
+				<li><a href='/'><span>Constituencies</span></a></li>
+				<li><a href='/results'><span>Results</span></a></li>
+				<li class='active'><a href='/candidates'><span>Candidates</span></a></li>
+				<li><a href='/data'><span>Data</span></a></li>
+				<li class='last'><a href='/about'><span>About</span></a></li>
+		</ul>
+		</div>
+		<div class="cta">We're looking for observers to crowdsource live results data. It couldn't be easier. If you want to help, <a href="/about#help">click here</a>.</div>
+		<div class="content">
+			<h1>Candidates</h1>
+			<p>Here you will find information on candidates standing in Assembly Elections, by constituency, or by party.</p>
+			<p>Check the 'Twitter accounts' box to get @names for candidates with accounts (2016 data only). Hover over a name to see if the candidate is an outgoing Assembly Member.</p>
+			
+			<div>
+				<form id="dropdowns" style="padding: 5px 5px 5px 5px">
+					<select id="constituencySelect" onchange="partySelect.selectedIndex = 0; findInfo(checkedYear, 'all-candidates.json'); candidates.update('Constituency_Number', constituencySelect.value, constituencySelect.options[constituencySelect.selectedIndex].text)"><option value=null>---Constituencies</option></select> or 
+					<select id="partySelect" onchange="constituencySelect.selectedIndex = 0; findInfo(checkedYear, 'all-party-candidates.json'); candidates.update('Party_Number', partySelect.value, partySelect.options[partySelect.selectedIndex].text)"><option value=null>---Parties</option></select>
+					<input type="checkbox" id="twitbox" checked>Twitter accounts</br>
+					
+				</form>
+			</div>
+			
+			<div>
+				<form id="year" style="padding: 5px 5px 5px 5px">
+					<input type="radio" name="year" value="2016" checked onClick="clearCandidates();resetselect(partySelect,'---Parties');changeyear(2016);constituencyoptions();partyoptions();"/> 2016
+					<input type="radio" name="year" value="2011" onClick="clearCandidates();resetselect(partySelect,'---Parties');changeyear(2011);constituencyoptions();partyoptions();"/> 2011<br>
+					<input type="hidden" name="sum" value="" id="selected_year" />
+				</form>
+			</div>
+			
+			<div id="candidates" style="width: 100%"><p>Select a constituency or party above</p></div>
+		</div>
+	</div>
+    <div id="footer">
+            Project by <a href="http://belfast.theodi.org">ODI Belfast</a> at <a href="http://www.nicva.org">NICVA</a> and the <a href="http://www.opengovernment.org.uk/about/ni-ogn/">Open Government Network NI</a></br><a href="http://www.nicva.org"><img src="/website/image/nicva500.png" height="75px" align="middle"></a><a href="http://belfast.theodi.org"><img src="/website/image/odibelfast500.png" height="75px" align="middle"></a><a href="http://www.opengovernment.org.uk/about/ni-ogn/"><img src="/website/image/ognni500.png" height="75px" align="middle"></a>
+    </div>
+	
+	<script src="/website/js/script.js"></script>
+	<script>
+	
+	
+	var constituencySelect = document.getElementById('constituencySelect');
+	var partySelect = document.getElementById('partySelect');
+	var candidates = document.getElementById('candidates');
+	var twitbox = document.getElementById('twitbox');
+	
+	candidates.update = function (value, id, title) {
+		var defined = getObjects(output, value, id);
+		var candidates = defined[0].Candidates;
+		console.log(defined);
+		this.innerHTML = '<h2>' + title + ' (' + checkedYear + ')<h2>';
+		this.innerHTML += '<p><b>' + candidates.length + ' candidates nominated</b></p>';
+		for (i = 0; i < candidates.length; i++) {
+			if (candidates[i].Outgoing_Member == 1) {
+				var MLA_text = " (outgoing MLA)"} else {var MLA_text = ""}
+			if (twitbox.checked) {
+				if (candidates[i].Twitter) {
+					var twitter_name = candidates[i].Twitter} else {var twitter_name = ""}
+				} else {var twitter_name = ""}
+			this.innerHTML += '<div class="votes ' + candidates[i].Party_Name.replace(/\s+/g,"-") + '" style="width: 20px;"></div><div id="candidate ' + candidates[i].Candidate_Id + '" class="tooltip ' + candidates[i].Party_Name.replace(/\s+/g,"-") + '_label">' + '<span class="tooltiptext">' + candidates[i].Party_Name + MLA_text + '</span>' + candidates[i].Firstname + ' ' + candidates[i].Surname + '</div> ' + '<a href="http://twitter.com/' + twitter_name + '">' + twitter_name + '</a>' + '</br>';
+		}
+	};
+	
+	constituencyoptions();
+	partyoptions();
+	
+	</script>
+	
+</body>
+</html>

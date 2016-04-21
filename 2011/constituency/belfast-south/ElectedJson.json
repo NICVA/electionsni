@@ -1,0 +1,61 @@
+[
+{
+    "Candidate_First_Pref_Votes": "6390", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
+    "Surname": "LO ", 
+    "Firstname": "Anna", 
+    "Constituency_Number": "13", 
+    "Party_Name": "Alliance Party", 
+    "Candidate_Id": "15"
+},
+{
+    "Candidate_First_Pref_Votes": "4038", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "5", 
+    "Surname": "MASKEY ", 
+    "Firstname": "Alex", 
+    "Constituency_Number": "13", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "17"
+},
+{
+    "Candidate_First_Pref_Votes": "3191", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "5", 
+    "Surname": "MCDEVITT ", 
+    "Firstname": "Conall Patrick", 
+    "Constituency_Number": "13", 
+    "Party_Name": "Social Democratic and Labour Party", 
+    "Candidate_Id": "18"
+},
+{
+    "Candidate_First_Pref_Votes": "4527", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "2", 
+    "Surname": "MCDONNELL ", 
+    "Firstname": "Alasdair", 
+    "Constituency_Number": "13", 
+    "Party_Name": "Social Democratic and Labour Party", 
+    "Candidate_Id": "19"
+},
+{
+    "Candidate_First_Pref_Votes": "2988", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "5", 
+    "Surname": "MCGIMPSEY ", 
+    "Firstname": "Michael", 
+    "Constituency_Number": "13", 
+    "Party_Name": "Ulster Unionist Party", 
+    "Candidate_Id": "20"
+},
+{
+    "Candidate_First_Pref_Votes": "4045", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "5", 
+    "Surname": "SPRATT ", 
+    "Firstname": "Jimmy", 
+    "Constituency_Number": "13", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "24"
+}]

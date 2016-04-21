@@ -1,0 +1,61 @@
+[
+{
+    "Candidate_First_Pref_Votes": "7127", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
+    "Surname": "MCCREA", 
+    "Firstname": "Ian", 
+    "Constituency_Number": "7", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "141"
+},
+{
+    "Candidate_First_Pref_Votes": "5065", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "5", 
+    "Surname": "MCGLONE", 
+    "Firstname": "Patsy", 
+    "Constituency_Number": "7", 
+    "Party_Name": "Social Democratic and Labour Party", 
+    "Candidate_Id": "143"
+},
+{
+    "Candidate_First_Pref_Votes": "8957", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
+    "Surname": "MCGUINNESS", 
+    "Firstname": "Martin", 
+    "Constituency_Number": "7", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "144"
+},
+{
+    "Candidate_First_Pref_Votes": "4263", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "7", 
+    "Surname": "MOLLOY", 
+    "Firstname": "Francie", 
+    "Constituency_Number": "7", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "147"
+},
+{
+    "Candidate_First_Pref_Votes": "5178", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "7", 
+    "Surname": "ONEILL", 
+    "Firstname": "Michelle", 
+    "Constituency_Number": "7", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "148"
+},
+{
+    "Candidate_First_Pref_Votes": "4409", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "6", 
+    "Surname": "OVEREND", 
+    "Firstname": "Sandra", 
+    "Constituency_Number": "7", 
+    "Party_Name": "Ulster Unionist Party", 
+    "Candidate_Id": "149"
+}]

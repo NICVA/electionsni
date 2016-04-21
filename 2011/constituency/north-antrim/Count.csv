@@ -93,7 +93,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 9,164,9,Bill,KENNEDY,2189,0,0,Excluded,6,Ulster Unionist Party
 9,165,9,David,MCILVEEN,3275,-833.54,5760,Elected,8,Democratic Unionist Party
 9,166,9,Daithi,MCKAY,6152,0,5760,Elected,1,Sinn Fein
-9,167,9,Declan,OLOAN,3682,18.63,4816.37,Elected,9,Social Democratic and Labour Party
+9,167,9,Declan,OLOAN,3682,18.63,4816.37,Excluded,9,Social Democratic and Labour Party
 9,168,9,Audrey,PATTERSON,668,0,0,Excluded,2,Traditional Unionist Voice
 9,169,9,Evelyne,ROBINSON,3256,0,0,Excluded,7,Democratic Unionist Party
 9,170,9,Mervyn,STOREY,6083,0,5760,Elected,1,Democratic Unionist Party

@@ -1,16 +1,18 @@
-Constituency_Name,Constituency_Number,Candidate_Id,Firstname,Surname,Outgoing_Member,Party_Id,Party_Name,Photo_URL,Directory,Gender
-Upper Bann,16,221,Sydney,ANDERSON,1,20,Democratic Unionist Party,,upper-bann,M
-Upper Bann,16,222,Doug,BEATTIE,0,26,Ulster Unionist Party,,upper-bann,M
-Upper Bann,16,223,Joanne,DOBSON,1,26,Ulster Unionist Party,,upper-bann,F
-Upper Bann,16,224,Roy,FERGUSON,0,141,Traditional Unionist Voice,,upper-bann,M
-Upper Bann,16,225,Harry,HAMILTON,0,19,Alliance Party,,upper-bann,M
-Upper Bann,16,226,David,JONES,0,689,UK Independence Party,,upper-bann,M
-Upper Bann,16,227,Dolores,KELLY,1,23,Social Democratic and Labour Party,,upper-bann,F
-Upper Bann,16,228,Martin,KELLY,0,993,Cannabis Is Safer Than Alcohol,,upper-bann,M
-Upper Bann,16,229,Simon,LEE,0,111,Green Party,,upper-bann,M
-Upper Bann,16,230,Carla,LOCKHART,0,20,Democratic Unionist Party,,upper-bann,F
-Upper Bann,16,231,Sophie,LONG,0,994,Progressive Unionist Party,,upper-bann,F
-Upper Bann,16,232,Ian,NICKELS,0,991,NI Conservatives,,upper-bann,M
-Upper Bann,16,233,John,ODOWD,1,24,Sinn Fein,,upper-bann,M
-Upper Bann,16,234,Kyle,SAVAGE,0,26,Ulster Unionist Party,,upper-bann,M
-Upper Bann,16,235,Catherine,SEELEY,0,24,Sinn Fein,,upper-bann,F
+Constituency_Name,Constituency_Number,Candidate_Id,Firstname,Surname,Outgoing_Member,Party_Id,Party_Name,Photo_URL,Directory,Gender,Twitter,Email
+Upper Bann,16,242,Sydney Alexander,ANDERSON,1,20,Democratic Unionist Party,,upper-bann,M,@AndersonDUP,sfassembly@hotmail.com
+Upper Bann,16,243,Doug,BEATTIE,0,26,Ulster Unionist Party,,upper-bann,M,@BeattieDoug,sfassembly@hotmail.com
+Upper Bann,16,244,Jo-Anne,DOBSON,1,26,Ulster Unionist Party,,upper-bann,F,@JoAnne_Dobson,sfassembly@hotmail.com
+Upper Bann,16,245,Roy,FERGUSON,0,141,Traditional Unionist Voice,,upper-bann,M,,sfassembly@hotmail.com
+Upper Bann,16,246,Harry,HAMILTON,0,19,Alliance Party,,upper-bann,M,@harry_hamilton,sfassembly@hotmail.com
+Upper Bann,16,247,Emma,HUTCHINSON,0,989,NI Labour Representation Committee,,upper-bann,F,@EmmaHutchinson,sfassembly@hotmail.com
+Upper Bann,16,248,David,JONES,0,689,UK Independence Party,,upper-bann,M,@decombustion,sfassembly@hotmail.com
+Upper Bann,16,249,Dolores,KELLY,1,23,Social Democratic and Labour Party,,upper-bann,F,@doloreskelly,sfassembly@hotmail.com
+Upper Bann,16,250,Martin,KELLY,0,993,Cannabis Is Safer Than Alcohol,,upper-bann,M,,sfassembly@hotmail.com
+Upper Bann,16,251,Simon,LEE,0,111,Green Party,,upper-bann,M,,sfassembly@hotmail.com
+Upper Bann,16,252,Carla,LOCKHART,0,20,Democratic Unionist Party,,upper-bann,F,@carlalockhart,sfassembly@hotmail.com
+Upper Bann,16,253,Sophie,LONG,0,994,Progressive Unionist Party,,upper-bann,F,@SophieLong01,sfassembly@hotmail.com
+Upper Bann,16,254,Stephen,MCCARROLL,0,21,Independent,,upper-bann,M,,sfassembly@hotmail.com
+Upper Bann,16,255,Ian Keith,NICKELS,0,991,NI Conservatives,,upper-bann,M,,sfassembly@hotmail.com
+Upper Bann,16,256,John,ODOWD,1,24,Sinn Fein,,upper-bann,M,@JohnODowdSF,sfassembly@hotmail.com
+Upper Bann,16,257,Kyle,SAVAGE,0,26,Ulster Unionist Party,,upper-bann,M,@KyleSavageNI,sfassembly@hotmail.com
+Upper Bann,16,258,Catherine,SEELEY,0,24,Sinn Fein,,upper-bann,F,@CatSeeley,sfassembly@hotmail.com

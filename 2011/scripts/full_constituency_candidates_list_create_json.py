@@ -16,7 +16,7 @@ for line in candidatereader:
     csv_contents.append(line)
 
 # Sort contents by constituency id number
-sorted_csv_contents = sorted(csv_contents, key=op.itemgetter('Constituency_Number'))
+sorted_csv_contents = sorted(csv_contents, key=op.itemgetter('Constituency_Number', 'Surname'))
 
 with open (jsonName, 'wb') as new:
 

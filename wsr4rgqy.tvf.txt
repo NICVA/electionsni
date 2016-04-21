@@ -1,0 +1,194 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	modified:   2011/NI/all-candidates.json
+#	new file:   2011/NI/all-constituency-info.json
+#	new file:   2011/NI/all-elected-d3.json
+#	new file:   2011/NI/all-elected.json
+#	new file:   2011/NI/all-party-candidates.json
+#	modified:   2011/NI/constituencies.csv
+#	modified:   2011/NI/full-candidates-list.csv
+#	modified:   2011/NI/parties.csv
+#	modified:   2011/constituency/belfast-east/Candidate.csv
+#	modified:   2011/constituency/belfast-east/ConstituencyCount.csv
+#	new file:   2011/constituency/belfast-east/Elected.csv
+#	new file:   2011/constituency/belfast-east/ElectedJson.json
+#	modified:   2011/constituency/belfast-east/stages.html
+#	modified:   2011/constituency/belfast-north/Candidate.csv
+#	modified:   2011/constituency/belfast-north/ConstituencyCount.csv
+#	new file:   2011/constituency/belfast-north/Elected.csv
+#	new file:   2011/constituency/belfast-north/ElectedJson.json
+#	modified:   2011/constituency/belfast-north/stages.html
+#	modified:   2011/constituency/belfast-south/Candidate.csv
+#	modified:   2011/constituency/belfast-south/ConstituencyCount.csv
+#	new file:   2011/constituency/belfast-south/Elected.csv
+#	new file:   2011/constituency/belfast-south/ElectedJson.json
+#	modified:   2011/constituency/belfast-south/stages.html
+#	modified:   2011/constituency/belfast-west/Candidate.csv
+#	modified:   2011/constituency/belfast-west/ConstituencyCount.csv
+#	new file:   2011/constituency/belfast-west/Elected.csv
+#	new file:   2011/constituency/belfast-west/ElectedJson.json
+#	deleted:    2011/constituency/belfast-west/bel-west.html
+#	modified:   2011/constituency/belfast-west/stages.html
+#	modified:   2011/constituency/east-antrim/Candidate.csv
+#	modified:   2011/constituency/east-antrim/ConstituencyCount.csv
+#	new file:   2011/constituency/east-antrim/Elected.csv
+#	new file:   2011/constituency/east-antrim/ElectedJson.json
+#	modified:   2011/constituency/east-antrim/stages.html
+#	modified:   2011/constituency/east-londonderry/Candidate.csv
+#	modified:   2011/constituency/east-londonderry/ConstituencyCount.csv
+#	new file:   2011/constituency/east-londonderry/Elected.csv
+#	new file:   2011/constituency/east-londonderry/ElectedJson.json
+#	modified:   2011/constituency/east-londonderry/stages.html
+#	modified:   2011/constituency/fermanagh-south-tyrone/Candidate.csv
+#	modified:   2011/constituency/fermanagh-south-tyrone/ConstituencyCount.csv
+#	new file:   2011/constituency/fermanagh-south-tyrone/Elected.csv
+#	new file:   2011/constituency/fermanagh-south-tyrone/ElectedJson.json
+#	modified:   2011/constituency/fermanagh-south-tyrone/stages.html
+#	modified:   2011/constituency/foyle/Candidate.csv
+#	modified:   2011/constituency/foyle/ConstituencyCount.csv
+#	new file:   2011/constituency/foyle/Elected.csv
+#	new file:   2011/constituency/foyle/ElectedJson.json
+#	modified:   2011/constituency/foyle/stages.html
+#	modified:   2011/constituency/lagan-valley/Candidate.csv
+#	modified:   2011/constituency/lagan-valley/ConstituencyCount.csv
+#	new file:   2011/constituency/lagan-valley/Elected.csv
+#	new file:   2011/constituency/lagan-valley/ElectedJson.json
+#	modified:   2011/constituency/lagan-valley/stages.html
+#	modified:   2011/constituency/mid-ulster/Candidate.csv
+#	modified:   2011/constituency/mid-ulster/ConstituencyCount.csv
+#	new file:   2011/constituency/mid-ulster/Elected.csv
+#	new file:   2011/constituency/mid-ulster/ElectedJson.json
+#	modified:   2011/constituency/mid-ulster/stages.html
+#	modified:   2011/constituency/newry-armagh/Candidate.csv
+#	modified:   2011/constituency/newry-armagh/ConstituencyCount.csv
+#	new file:   2011/constituency/newry-armagh/Elected.csv
+#	new file:   2011/constituency/newry-armagh/ElectedJson.json
+#	modified:   2011/constituency/newry-armagh/stages.html
+#	modified:   2011/constituency/north-antrim/Candidate.csv
+#	modified:   2011/constituency/north-antrim/ConstituencyCount.csv
+#	modified:   2011/constituency/north-antrim/Count.csv
+#	new file:   2011/constituency/north-antrim/Elected.csv
+#	new file:   2011/constituency/north-antrim/ElectedJson.json
+#	modified:   2011/constituency/north-antrim/ResultsJson.json
+#	modified:   2011/constituency/north-antrim/stages.html
+#	modified:   2011/constituency/north-down/Candidate.csv
+#	modified:   2011/constituency/north-down/ConstituencyCount.csv
+#	new file:   2011/constituency/north-down/Elected.csv
+#	new file:   2011/constituency/north-down/ElectedJson.json
+#	modified:   2011/constituency/north-down/stages.html
+#	modified:   2011/constituency/south-antrim/Candidate.csv
+#	modified:   2011/constituency/south-antrim/ConstituencyCount.csv
+#	new file:   2011/constituency/south-antrim/Elected.csv
+#	new file:   2011/constituency/south-antrim/ElectedJson.json
+#	modified:   2011/constituency/south-antrim/stages.html
+#	modified:   2011/constituency/south-down/Candidate.csv
+#	modified:   2011/constituency/south-down/ConstituencyCount.csv
+#	new file:   2011/constituency/south-down/Elected.csv
+#	new file:   2011/constituency/south-down/ElectedJson.json
+#	modified:   2011/constituency/south-down/stages.html
+#	modified:   2011/constituency/strangford/Candidate.csv
+#	modified:   2011/constituency/strangford/ConstituencyCount.csv
+#	new file:   2011/constituency/strangford/Elected.csv
+#	new file:   2011/constituency/strangford/ElectedJson.json
+#	modified:   2011/constituency/strangford/stages.html
+#	modified:   2011/constituency/upper-bann/Candidate.csv
+#	modified:   2011/constituency/upper-bann/ConstituencyCount.csv
+#	new file:   2011/constituency/upper-bann/Elected.csv
+#	new file:   2011/constituency/upper-bann/ElectedJson.json
+#	modified:   2011/constituency/upper-bann/stages.html
+#	modified:   2011/constituency/west-tyrone/Candidate.csv
+#	modified:   2011/constituency/west-tyrone/ConstituencyCount.csv
+#	new file:   2011/constituency/west-tyrone/Elected.csv
+#	new file:   2011/constituency/west-tyrone/ElectedJson.json
+#	modified:   2011/constituency/west-tyrone/stages.html
+#	new file:   2011/data.html
+#	deleted:    2011/scripts/DEP-full_candidates_list_create_json.py
+#	new file:   2011/scripts/all-constituencies-create-info-json.py
+#	new file:   2011/scripts/all-counts-find-elected.py
+#	new file:   2011/scripts/d3-find-elected.py
+#	modified:   2011/scripts/full_constituency_candidates_list_create_json.py
+#	new file:   2011/scripts/full_constituency_parties_list_create_json.py
+#	modified:   2016/NI/all-candidates.json
+#	new file:   2016/NI/all-constituencies.json
+#	new file:   2016/NI/all-constituency-info.json
+#	new file:   2016/NI/all-party-candidates.json
+#	modified:   2016/NI/constituencies.csv
+#	modified:   2016/NI/full-candidates-list.csv
+#	modified:   2016/NI/parties.csv
+#	modified:   2016/constituency/belfast-east/Candidate.csv
+#	modified:   2016/constituency/belfast-east/ConstituencyCount.csv
+#	modified:   2016/constituency/belfast-north/Candidate.csv
+#	modified:   2016/constituency/belfast-north/ConstituencyCount.csv
+#	modified:   2016/constituency/belfast-south/Candidate.csv
+#	modified:   2016/constituency/belfast-south/ConstituencyCount.csv
+#	modified:   2016/constituency/belfast-west/Candidate.csv
+#	modified:   2016/constituency/belfast-west/ConstituencyCount.csv
+#	modified:   2016/constituency/east-antrim/Candidate.csv
+#	modified:   2016/constituency/east-antrim/ConstituencyCount.csv
+#	modified:   2016/constituency/east-londonderry/Candidate.csv
+#	modified:   2016/constituency/east-londonderry/ConstituencyCount.csv
+#	modified:   2016/constituency/fermanagh-south-tyrone/Candidate.csv
+#	modified:   2016/constituency/fermanagh-south-tyrone/ConstituencyCount.csv
+#	modified:   2016/constituency/foyle/Candidate.csv
+#	modified:   2016/constituency/foyle/ConstituencyCount.csv
+#	modified:   2016/constituency/lagan-valley/Candidate.csv
+#	modified:   2016/constituency/lagan-valley/ConstituencyCount.csv
+#	modified:   2016/constituency/mid-ulster/Candidate.csv
+#	modified:   2016/constituency/mid-ulster/ConstituencyCount.csv
+#	modified:   2016/constituency/newry-armagh/Candidate.csv
+#	modified:   2016/constituency/newry-armagh/ConstituencyCount.csv
+#	modified:   2016/constituency/north-antrim/Candidate.csv
+#	modified:   2016/constituency/north-antrim/ConstituencyCount.csv
+#	modified:   2016/constituency/north-down/Candidate.csv
+#	modified:   2016/constituency/north-down/ConstituencyCount.csv
+#	modified:   2016/constituency/south-antrim/Candidate.csv
+#	modified:   2016/constituency/south-antrim/ConstituencyCount.csv
+#	modified:   2016/constituency/south-down/Candidate.csv
+#	modified:   2016/constituency/south-down/ConstituencyCount.csv
+#	modified:   2016/constituency/strangford/Candidate.csv
+#	modified:   2016/constituency/strangford/ConstituencyCount.csv
+#	modified:   2016/constituency/upper-bann/Candidate.csv
+#	modified:   2016/constituency/upper-bann/ConstituencyCount.csv
+#	modified:   2016/constituency/west-tyrone/Candidate.csv
+#	modified:   2016/constituency/west-tyrone/ConstituencyCount.csv
+#	new file:   2016/data.html
+#	deleted:    2016/scripts/DEP-full_candidates_list_create_json.py
+#	new file:   2016/scripts/all-constituencies-create-info-json.py
+#	new file:   2016/scripts/all-counts-find-elected.py
+#	modified:   2016/scripts/full_constituency_candidates_list_create_json.py
+#	new file:   2016/scripts/full_constituency_parties_list_create_json.py
+#	deleted:    about.html
+#	new file:   about/index.html
+#	deleted:    candidates.html
+#	new file:   candidates/index.html
+#	deleted:    data.html
+#	new file:   data/index.html
+#	new file:   error.html
+#	modified:   index.html
+#	deleted:    results.html
+#	new file:   results/index.html
+#	new file:   schema.md
+#	modified:   website/css/enhanced.css
+#	modified:   website/css/style.css
+#	deleted:    website/iconsvg.html
+#	new file:   website/image/banner.png
+#	new file:   website/image/banner2.pdn
+#	new file:   website/image/banner2png.png
+#	new file:   website/image/crowdsource-opensource.com.png
+#	new file:   website/image/icon.png
+#	new file:   website/image/icon_fill.png
+#	new file:   website/image/nicva500.png
+#	new file:   website/image/odibelfast500.png
+#	new file:   website/image/ognni500.png
+#	deleted:    website/index - Copy.html
+#	new file:   website/js/d3hexbin.js
+#	new file:   website/js/map.js
+#	modified:   website/js/script.js
+#	modified:   website/js/stages.js
+#
+

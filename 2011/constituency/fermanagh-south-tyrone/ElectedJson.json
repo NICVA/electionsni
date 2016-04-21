@@ -1,0 +1,61 @@
+[
+{
+    "Candidate_First_Pref_Votes": "6896", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
+    "Surname": "ELLIOTT", 
+    "Firstname": "Tom", 
+    "Constituency_Number": "4", 
+    "Party_Name": "Ulster Unionist Party", 
+    "Candidate_Id": "95"
+},
+{
+    "Candidate_First_Pref_Votes": "5082", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "6", 
+    "Surname": "FLANAGAN", 
+    "Firstname": "Phil", 
+    "Constituency_Number": "4", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "96"
+},
+{
+    "Candidate_First_Pref_Votes": "6876", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
+    "Surname": "FOSTER", 
+    "Firstname": "Arlene", 
+    "Constituency_Number": "4", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "97"
+},
+{
+    "Candidate_First_Pref_Votes": "9110", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
+    "Surname": "GILDERNEW", 
+    "Firstname": "Michelle", 
+    "Constituency_Number": "4", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "99"
+},
+{
+    "Candidate_First_Pref_Votes": "5146", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "6", 
+    "Surname": "LYNCH", 
+    "Firstname": "Sean", 
+    "Constituency_Number": "4", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "100"
+},
+{
+    "Candidate_First_Pref_Votes": "4844", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "5", 
+    "Surname": "MORROW", 
+    "Firstname": "Maurice", 
+    "Constituency_Number": "4", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "101"
+}]

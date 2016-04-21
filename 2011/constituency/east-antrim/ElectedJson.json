@@ -1,0 +1,61 @@
+[
+{
+    "Candidate_First_Pref_Votes": "3042", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "9", 
+    "Surname": "BEGGS", 
+    "Firstname": "Roy", 
+    "Constituency_Number": "1", 
+    "Party_Name": "Ulster Unionist Party", 
+    "Candidate_Id": "57"
+},
+{
+    "Candidate_First_Pref_Votes": "2889", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "9", 
+    "Surname": "DICKSON", 
+    "Firstname": "Stewart", 
+    "Constituency_Number": "1", 
+    "Party_Name": "Alliance Party", 
+    "Candidate_Id": "58"
+},
+{
+    "Candidate_First_Pref_Votes": "3288", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "2", 
+    "Surname": "HILDITCH", 
+    "Firstname": "David", 
+    "Constituency_Number": "1", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "60"
+},
+{
+    "Candidate_First_Pref_Votes": "2369", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "10", 
+    "Surname": "MCMULLAN", 
+    "Firstname": "Oliver", 
+    "Constituency_Number": "1", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "64"
+},
+{
+    "Candidate_First_Pref_Votes": "1608", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "6", 
+    "Surname": "ROSS", 
+    "Firstname": "Alastair", 
+    "Constituency_Number": "1", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "67"
+},
+{
+    "Candidate_First_Pref_Votes": "7181", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
+    "Surname": "WILSON", 
+    "Firstname": "Sammy", 
+    "Constituency_Number": "1", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "69"
+}]

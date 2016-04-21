@@ -1,0 +1,61 @@
+[
+{
+    "Candidate_First_Pref_Votes": "4329", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "7", 
+    "Surname": "COCHRANE", 
+    "Firstname": "Judith", 
+    "Constituency_Number": "2", 
+    "Party_Name": "Alliance Party", 
+    "Candidate_Id": "41"
+},
+{
+    "Candidate_First_Pref_Votes": "2194", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "11", 
+    "Surname": "COPELAND", 
+    "Firstname": "Michael", 
+    "Constituency_Number": "2", 
+    "Party_Name": "Ulster Unionist Party", 
+    "Candidate_Id": "43"
+},
+{
+    "Candidate_First_Pref_Votes": "2668", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "11", 
+    "Surname": "DOUGLAS", 
+    "Firstname": "Sammy", 
+    "Constituency_Number": "2", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "44"
+},
+{
+    "Candidate_First_Pref_Votes": "4183", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "11", 
+    "Surname": "LYTTLE", 
+    "Firstname": "Chris", 
+    "Constituency_Number": "2", 
+    "Party_Name": "Alliance Party", 
+    "Candidate_Id": "47"
+},
+{
+    "Candidate_First_Pref_Votes": "2436", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "2", 
+    "Surname": "NEWTON", 
+    "Firstname": "Robin", 
+    "Constituency_Number": "2", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "49"
+},
+{
+    "Candidate_First_Pref_Votes": "9149", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
+    "Surname": "ROBINSON", 
+    "Firstname": "Peter", 
+    "Constituency_Number": "2", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "52"
+}]

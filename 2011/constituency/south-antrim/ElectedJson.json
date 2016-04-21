@@ -1,0 +1,61 @@
+[
+{
+    "Candidate_First_Pref_Votes": "4607", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
+    "Surname": "CLARKE", 
+    "Firstname": "Trevor", 
+    "Constituency_Number": "12", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "83"
+},
+{
+    "Candidate_First_Pref_Votes": "4554", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "2", 
+    "Surname": "FORD", 
+    "Firstname": "David RJ", 
+    "Constituency_Number": "12", 
+    "Party_Name": "Alliance Party", 
+    "Candidate_Id": "85"
+},
+{
+    "Candidate_First_Pref_Votes": "4844", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
+    "Surname": "GIRVAN", 
+    "Firstname": "Paul", 
+    "Constituency_Number": "12", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "86"
+},
+{
+    "Candidate_First_Pref_Votes": "3445", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "3", 
+    "Surname": "KINAHAN", 
+    "Firstname": "Danny", 
+    "Constituency_Number": "12", 
+    "Party_Name": "Ulster Unionist Party", 
+    "Candidate_Id": "87"
+},
+{
+    "Candidate_First_Pref_Votes": "2866", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "4", 
+    "Surname": "LEWIS", 
+    "Firstname": "Pam", 
+    "Constituency_Number": "12", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "88"
+},
+{
+    "Candidate_First_Pref_Votes": "4662", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
+    "Surname": "MCLAUGHLIN", 
+    "Firstname": "Mitchel", 
+    "Constituency_Number": "12", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "90"
+}]

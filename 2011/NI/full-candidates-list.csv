@@ -1,5 +1,5 @@
 Constituency_Name,Constituency_Number,Candidate_Id,Firstname,Surname,Outgoing_Member,Party_Id,Party_Name,,Directory
-Belfast East,2,40,Tommy,BLACK,,996,Socialist Party (NI),,belfast-east
+Belfast East,2,40,Tommy,BLACK,,996,Socialist Party,,belfast-east
 Belfast East,2,41,Judith,COCHRANE,,19,Alliance Party,,belfast-east
 Belfast East,2,42,Ann,COOPER,,995,British Nationalist Party,,belfast-east
 Belfast East,2,43,Michael,COPELAND,,26,Ulster Unionist Party,,belfast-east
@@ -45,7 +45,7 @@ Belfast West,17,26,Alex,ATTWOOD,,23,Social Democratic and Labour Party,,belfast-
 Belfast West,17,27,Gerry,CARROLL,,999,People Before Profit Alliance,,belfast-west
 Belfast West,17,28,Colin,KEENAN,,23,Social Democratic and Labour Party,,belfast-west
 Belfast West,17,29,Brian,KINGSTON,,20,Democratic Unionist Party,,belfast-west
-Belfast West,17,30,Pat,LAWLOR,,996,Socialist Party (NI),,belfast-west
+Belfast West,17,30,Pat,LAWLOR,,996,Socialist Party,,belfast-west
 Belfast West,17,31,John Terence,LOWRY,,998,Workers Party,,belfast-west
 Belfast West,17,32,Bill,MANWARING,,26,Ulster Unionist Party,,belfast-west
 Belfast West,17,33,Paul,MASKEY,,24,Sinn Fein,,belfast-west
@@ -127,14 +127,14 @@ Mid Ulster,7,146,Ian Patrick,MILNE,,24,Sinn Fein,,mid-ulster
 Mid Ulster,7,147,Francie,MOLLOY,,24,Sinn Fein,,mid-ulster
 Mid Ulster,7,148,Michelle,ONEILL,,24,Sinn Fein,,mid-ulster
 Mid Ulster,7,149,Sandra,OVEREND,,26,Ulster Unionist Party,,mid-ulster
-Newry and Armagh,8,150,Cathal,BOYLAN,,24,Social Democratic and Labour Party,,newry-armagh
-Newry and Armagh,8,151,Dominic,BRADLEY,,23,Sinn Fein,,newry-armagh
-Newry and Armagh,8,152,Mickey,BRADY,,23,Sinn Fein,,newry-armagh
+Newry and Armagh,8,150,Cathal,BOYLAN,,24,Sinn Fein,,newry-armagh
+Newry and Armagh,8,151,Dominic,BRADLEY,,24,Sinn Fein,,newry-armagh
+Newry and Armagh,8,152,Mickey,BRADY,,24,Sinn Fein,,newry-armagh
 Newry and Armagh,8,153,Barrie,HALLIDAY,,141,Traditional Unionist Voice,,newry-armagh
 Newry and Armagh,8,154,William George,IRWIN,,20,Democratic Unionist Party,,newry-armagh
 Newry and Armagh,8,155,Danny,KENNEDY,,26,Ulster Unionist Party,,newry-armagh
 Newry and Armagh,8,156,James,MALONE,,21,Independent,,newry-armagh
-Newry and Armagh,8,157,Conor,MURPHY,,23,Sinn Fein,,newry-armagh
+Newry and Armagh,8,157,Conor,MURPHY,,24,Sinn Fein,,newry-armagh
 Newry and Armagh,8,158,David,MURPHY,,19,Alliance Party,,newry-armagh
 Newry and Armagh,8,159,Thomas,OHANLON,,23,Social Democratic and Labour Party,,newry-armagh
 Newry and Armagh,8,160,Robert Stewart,WOODS,,21,Independent,,newry-armagh

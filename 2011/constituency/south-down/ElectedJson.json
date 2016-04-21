@@ -1,0 +1,61 @@
+[
+{
+    "Candidate_First_Pref_Votes": "3882", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "7", 
+    "Surname": "CLARKE ", 
+    "Firstname": "Willie", 
+    "Constituency_Number": "14", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "186"
+},
+{
+    "Candidate_First_Pref_Votes": "4409", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "6", 
+    "Surname": "MCCALLISTER ", 
+    "Firstname": "John", 
+    "Constituency_Number": "14", 
+    "Party_Name": "Ulster Unionist Party", 
+    "Candidate_Id": "189"
+},
+{
+    "Candidate_First_Pref_Votes": "3758", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "9", 
+    "Surname": "MCKEVITT ", 
+    "Firstname": "Karen", 
+    "Constituency_Number": "14", 
+    "Party_Name": "Social Democratic and Labour Party", 
+    "Candidate_Id": "190"
+},
+{
+    "Candidate_First_Pref_Votes": "8506", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
+    "Surname": "RITCHIE ", 
+    "Firstname": "Margaret", 
+    "Constituency_Number": "14", 
+    "Party_Name": "Social Democratic and Labour Party", 
+    "Candidate_Id": "193"
+},
+{
+    "Candidate_First_Pref_Votes": "5955", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "2", 
+    "Surname": "RUANE ", 
+    "Firstname": "Caitriona", 
+    "Constituency_Number": "14", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "194"
+},
+{
+    "Candidate_First_Pref_Votes": "5200", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "5", 
+    "Surname": "WELLS ", 
+    "Firstname": "Jim", 
+    "Constituency_Number": "14", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "195"
+}]

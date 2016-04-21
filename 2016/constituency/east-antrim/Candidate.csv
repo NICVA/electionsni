@@ -1,15 +1,3 @@
-Constituency_Name,Constituency_Number,Candidate_Id,Firstname,Surname,Outgoing_Member,Party_Id,Party_Name,Photo_URL,Directory,Gender
-East Antrim,1,62,Roy,BEGGS,1,26,Ulster Unionist Party,,east-antrim,M
-East Antrim,1,63,Stewart,DICKSON,1,19,Alliance Party,,east-antrim,M
-East Antrim,1,64,Danny,DONNELLY,0,19,Alliance Party,,east-antrim,M
-East Antrim,1,65,David,HILDITCH,1,20,Democratic Unionist Party,,east-antrim,M
-East Antrim,1,66,Noel,JORDAN,0,689,UK Independence Party,,east-antrim,M
-East Antrim,1,67,Gordon,LYONS,1,20,Democratic Unionist Party,,east-antrim,M
-East Antrim,1,68,Jim,MCCAW,0,994,Progressive Unionist Party,,east-antrim,M
-East Antrim,1,69,Margaret Anne,MCKILLOP,0,23,Social Democratic and Labour Party,,east-antrim,F
-East Antrim,1,70,Oliver,MCMULLAN,0,24,Sinn Fein,,east-antrim,M
-East Antrim,1,71,Maureen,MORROW,0,26,Ulster Unionist Party,,east-antrim,F
-East Antrim,1,72,Dawn,PATTERSON,0,111,Green Party,,east-antrim,F
-East Antrim,1,73,Alastair,ROSS,1,20,Democratic Unionist Party,,east-antrim,M
-East Antrim,1,74,John,STEWART,0,26,Ulster Unionist Party,,east-antrim,M
-East Antrim,1,75,Ruth,WILSON,0,141,Traditional Unionist Voice,,east-antrim,F
+Constituency_Name,Constituency_Number,Candidate_Id,Firstname,Surname,Outgoing_Member,Party_Id,Party_Name,Photo_URL,Directory,Gender,Twitter,Email
+East Antrim,1,80,John Robert,STEWART,0,26,Ulster Unionist Party,,east-antrim,M,@JohnStewart1983,sfassembly@hotmail.com
+East Antrim,1,81,Ruth,WILSON,0,141,Traditional Unionist Voice,,east-antrim,F,@RuthWilsonTUV,sfassembly@hotmail.com

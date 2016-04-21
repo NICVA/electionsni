@@ -1,5 +1,5 @@
 /* This work is licensed under a Creative Commons Attribution 4.0 International License - http://creativecommons.org/licenses/by/4.0 
- * Created for clairebyrne.ie and all thanks to data.localgov.ie
+ * Created by James Bligh (@anamates) for clairebyrne.ie and all thanks to data.localgov.ie
  */
 
 //some control variables
@@ -10,9 +10,6 @@ var startLeft = leftPadding+nameSpace;
 var voteWidth = 600;
 var running = true;
 var earlyStage = true;
-
-//data once pulled from http://data.localgov.ie/virtual/Elections/toJson.php?url=http://data.localgov.ie/DBS_constituencycount?LIST%26ID=*
-//data now pulled http://data.localgov.ie/virtual/Elections/toCsv.php?url=//ConstituencyCount.csv"
 
 var json = (function() {
         var json = null;
@@ -42,13 +39,6 @@ if(constituency){
     $("#theline").css({top:3+(seats+1)*30});
     var qFactor = voteWidth/quota; //all actual vote counts are multiplied by this to get a div width in proportion
 
-    //This data is pulled from data.localgov.ie all thanks goes to them for making it available in an open format. 
-    //Minor issue is that only the bigish parties are marked so can't add PPP, S, IND etc before appropriate candidates.
-    //Seems to be slight issue with unicode too, javascript should handle unicode but there is some format difference betweeen what's in the json 
-    //http://data.localgov.ie/virtual/Elections/toJson.php?url=http://data.localgov.ie/DBS_count?LIST%26ID=*
-    //http://data.localgov.ie/virtual/Elections/toCsv.php?url=//Count.csv"
-    // var data = false
-	
     /** 
      * The data gets parsed into two dictionaries containing snippets of the following form
      * candidate data object of the form {

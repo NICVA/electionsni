@@ -1,0 +1,61 @@
+[
+{
+    "Candidate_First_Pref_Votes": "4265", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
+    "Surname": "BELL", 
+    "Firstname": "Jonathan", 
+    "Constituency_Number": "15", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "197"
+},
+{
+    "Candidate_First_Pref_Votes": "3456", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "5", 
+    "Surname": "HAMILTON", 
+    "Firstname": "Simon", 
+    "Constituency_Number": "15", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "200"
+},
+{
+    "Candidate_First_Pref_Votes": "4284", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
+    "Surname": "MCCARTHY", 
+    "Firstname": "Kieran", 
+    "Constituency_Number": "15", 
+    "Party_Name": "Alliance Party", 
+    "Candidate_Id": "201"
+},
+{
+    "Candidate_First_Pref_Votes": "4573", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
+    "Surname": "MCILVEEN", 
+    "Firstname": "Michelle", 
+    "Constituency_Number": "15", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "202"
+},
+{
+    "Candidate_First_Pref_Votes": "2773", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "6", 
+    "Surname": "MCNARRY", 
+    "Firstname": "David", 
+    "Constituency_Number": "15", 
+    "Party_Name": "Ulster Unionist Party", 
+    "Candidate_Id": "203"
+},
+{
+    "Candidate_First_Pref_Votes": "3273", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "6", 
+    "Surname": "NESBITT", 
+    "Firstname": "Mike", 
+    "Constituency_Number": "15", 
+    "Party_Name": "Ulster Unionist Party", 
+    "Candidate_Id": "204"
+}]

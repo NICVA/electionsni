@@ -1238,7 +1238,7 @@
         "Firstname": "Pat", 
         "Constituency_Name": "Belfast West", 
         "Constituency_Number": "17", 
-        "Party_Name": "Socialist Party (NI)", 
+        "Party_Name": "Socialist Party", 
         "Outgoing_Member": "", 
         "Candidate_Id": "30", 
         "Directory": "belfast-west", 
@@ -1500,7 +1500,7 @@
         "Firstname": "Tommy", 
         "Constituency_Name": "Belfast East", 
         "Constituency_Number": "2", 
-        "Party_Name": "Socialist Party (NI)", 
+        "Party_Name": "Socialist Party", 
         "Outgoing_Member": "", 
         "Candidate_Id": "40", 
         "Directory": "belfast-east", 
@@ -1717,6 +1717,18 @@
 },
     {
         "": "", 
+        "Surname": "BOYD", 
+        "Firstname": "Douglas", 
+        "Constituency_Name": "East Londonderry", 
+        "Constituency_Number": "3", 
+        "Party_Name": "Traditional Unionist Voice", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "74", 
+        "Directory": "east-londonderry", 
+        "Party_Id": "141"
+},
+    {
+        "": "", 
         "Surname": "CAMPBELL", 
         "Firstname": "Gregory", 
         "Constituency_Name": "East Londonderry", 
@@ -1750,18 +1762,6 @@
         "Candidate_Id": "73", 
         "Directory": "east-londonderry", 
         "Party_Id": "23"
-},
-    {
-        "": "", 
-        "Surname": "BOYD", 
-        "Firstname": "Douglas", 
-        "Constituency_Name": "East Londonderry", 
-        "Constituency_Number": "3", 
-        "Party_Name": "Traditional Unionist Voice", 
-        "Outgoing_Member": "", 
-        "Candidate_Id": "74", 
-        "Directory": "east-londonderry", 
-        "Party_Id": "141"
 },
     {
         "": "", 
@@ -2442,7 +2442,7 @@
         "Firstname": "Cathal", 
         "Constituency_Name": "Newry and Armagh", 
         "Constituency_Number": "8", 
-        "Party_Name": "Social Democratic and Labour Party", 
+        "Party_Name": "Sinn Fein", 
         "Outgoing_Member": "", 
         "Candidate_Id": "150", 
         "Directory": "newry-armagh", 
@@ -2458,7 +2458,7 @@
         "Outgoing_Member": "", 
         "Candidate_Id": "151", 
         "Directory": "newry-armagh", 
-        "Party_Id": "23"
+        "Party_Id": "24"
 },
     {
         "": "", 
@@ -2470,7 +2470,7 @@
         "Outgoing_Member": "", 
         "Candidate_Id": "152", 
         "Directory": "newry-armagh", 
-        "Party_Id": "23"
+        "Party_Id": "24"
 },
     {
         "": "", 
@@ -2530,7 +2530,7 @@
         "Outgoing_Member": "", 
         "Candidate_Id": "157", 
         "Directory": "newry-armagh", 
-        "Party_Id": "23"
+        "Party_Id": "24"
 },
     {
         "": "", 

@@ -3,46 +3,69 @@
 <head>
     <title>Northern Ireland Elections Open Data</title>
     <meta charset="utf-8" />
-	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<script src="http://cdn.leafletjs.com/leaflet-0.7/leaflet.js"></script>
 	<script src="http://cdn.rawgit.com/calvinmetcalf/leaflet-ajax/gh-pages/dist/leaflet.ajax.min.js"></script>
     <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7/leaflet.css"/>
-	<link rel="stylesheet" type="text/css" href="./website/css/style.css" media="screen, handheld" />
-	<link rel="stylesheet" type="text/css" href="./website/css/enhanced.css" media="screen  and (min-width: 40.5em)" />
+	<link rel="stylesheet" type="text/css" href="/website/css/style.css" media="screen, handheld" />
+	<link rel="stylesheet" type="text/css" href="/website/css/enhanced.css" media="screen  and (min-width: 50.5em)" />
 		<!--[if (lt IE 9)&(!IEMobile)]>
 		<link rel="stylesheet" type="text/css" href="enhanced.css" />
 		<![endif]-->
+	<meta name="description" content="Generating crowdsourced open data, live results and data visualisations for the Northern Ireland Assembly Elections 2016." />
+	<meta name="keywords" content="assembly, elections, open data, northern ireland, 2016, crowdsource, results, single transferable vote, stv, constituency, candidate, odi belfast, open government network, nicva, voting, #ae16, tally, count, electoral" />
+	<meta name="author" content="metatags generator">
+	<meta name="robots" content="index, follow">
+	<meta name="revisit-after" content="1 month">
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:site" content="@electionsni" />
+	<meta name="twitter:creator" content="@odibelfast" />
+	<meta property="og:url" content="http://electionsni.org" />
+	<meta property="og:title" content="Elections NI #AE16" />
+	<meta property="og:description" content="Generating crowdsourced open data, live results and data visualisations for the Northern Ireland Assembly Elections 2016." />
+	<meta property="og:image" content="https://s3-eu-west-1.amazonaws.com/electionsni.org/website/image/banner.png" />
+	<!-- data, elections, ni -->
+
 </head>
 <style>
 
 </style>
 <body>
+	<div id="wrap">
+		<header> 
+			<h1><a href = "/">Elections NI</a></h1>
+			<p>Open data for the Assembly Elections #AE16</p>
+		</header>
+		<div id='cssmenu'>
+			<ul>
+				<li class='active'><a href='/'><span>Constituencies</span></a></li>
+				<li><a href='/results'><span>Results</span></a></li>
+				<li><a href='/candidates'><span>Candidates</span></a></li>
+				<li><a href='/data'><span>Data</span></a></li>
+				<li class='last'><a href='/about'><span>About</span></a></li>
+		</ul>
+		</div>
+		<div class="cta"><b>We're looking for observers to crowdsource live results data during the count. Contributing couldn't be easier. If you'd like to help <a href="/about#help">click here</a>.</b></div>
+		<div class="content">
+			<div id="map"></div>
+			<div align="center">
+				<form id="year">
+					<input type="radio" name="year" value="2016" checked onClick="changeyear(2016);findInfo(checkedYear, 'all-candidates.json');candidates.update();constituencyinfo.update();"/> 2016
+					<input type="radio" name="year" value="2011" onClick="changeyear(2011);findInfo(checkedYear, 'all-candidates.json');candidates.update();constituencyinfo.update();"/> 2011<br>
+					<input type="hidden" name="sum" value="" id="selected_year" />
+				</form>
+			</div>
+			<div id="constituencyinfo">Select a constituency</div>
+			<div id="candidates"></div>
+		</div>
+	</div>
+    <div id="footer">
+            Project by <a href="http://belfast.theodi.org">ODI Belfast</a> at <a href="http://www.nicva.org">NICVA</a> and the <a href="http://www.opengovernment.org.uk/about/ni-ogn/">Open Government Network NI</a></br><a href="http://www.nicva.org"><img src="/website/image/nicva500.png" height="75px" align="middle"></a><a href="http://belfast.theodi.org"><img src="/website/image/odibelfast500.png" height="75px" align="middle"></a><a href="http://www.opengovernment.org.uk/about/ni-ogn/"><img src="/website/image/ognni500.png" height="75px" align="middle"></a>
+    </div>
 
-	<header> 
-		<h1><a href = "./index.html">Elections NI</a></h1>
-		<p>Open data for the Assembly Elections<p>
-	</header>
+	<script src="/website/js/script.js"></script>
+	<script src="/website/js/map.js"></script>
+
 	
-	<div id='cssmenu'>
-		<ul>
-			<li class='active'><a href='/index.html'><span>Constituencies</span></a></li>
-			<li><a href='results.html'><span>Results</span></a></li>
-			<li><a href='candidates.html'><span>Candidates</span></a></li>
-			<li><a href='data.html'><span>Data</span></a></li>
-			<li class='last'><a href='about.html'><span>About</span></a></li>
-	</ul>
-	</div>
-	<div id="map"></div>
-	
-	<div align="center">
-		<form id="year">
-			<input type="radio" name="year" value="2016" checked onClick="changeyear(2016);findcandidates(2016);"/> 2016
-			<input type="radio" name="year" value="2011" onClick="changeyear(2011);findcandidates(2011);"/> 2011<br>
-			<input type="hidden" name="sum" value="" id="selected_year" />
-		</form>
-	</div>
-	<div id="candidates">Select a constituency</div>
-	<script src="website/js/script.js"></script>
- 
 </body>
 </html>

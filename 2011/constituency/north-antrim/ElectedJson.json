@@ -1,0 +1,61 @@
+[
+{
+    "Candidate_First_Pref_Votes": "4061", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "9", 
+    "Surname": "ALLISTER", 
+    "Firstname": "Jim", 
+    "Constituency_Number": "9", 
+    "Party_Name": "Traditional Unionist Voice", 
+    "Candidate_Id": "161"
+},
+{
+    "Candidate_First_Pref_Votes": "6581", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
+    "Surname": "FREW", 
+    "Firstname": "Paul", 
+    "Constituency_Number": "9", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "163"
+},
+{
+    "Candidate_First_Pref_Votes": "3275", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "8", 
+    "Surname": "MCILVEEN", 
+    "Firstname": "David", 
+    "Constituency_Number": "9", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "165"
+},
+{
+    "Candidate_First_Pref_Votes": "6152", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
+    "Surname": "MCKAY", 
+    "Firstname": "Daithi", 
+    "Constituency_Number": "9", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "166"
+},
+{
+    "Candidate_First_Pref_Votes": "6083", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
+    "Surname": "STOREY", 
+    "Firstname": "Mervyn", 
+    "Constituency_Number": "9", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "170"
+},
+{
+    "Candidate_First_Pref_Votes": "2518", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "9", 
+    "Surname": "SWANN", 
+    "Firstname": "Robin", 
+    "Constituency_Number": "9", 
+    "Party_Name": "Ulster Unionist Party", 
+    "Candidate_Id": "171"
+}]

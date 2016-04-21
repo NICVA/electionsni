@@ -1,12 +1,12 @@
-Constituency_Number,Candidate_Id,Firstname,Surname,Outgoing_Member,Party_Id,Party_Name,Photo_URL
-8,150,Cathal,BOYLAN,,24,Social Democratic and Labour Party,
-8,151,Dominic,BRADLEY,,23,Sinn Fein,
-8,152,Mickey,BRADY,,23,Sinn Fein,
-8,153,Barrie,HALLIDAY,,141,Traditional Unionist Voice,
-8,154,William George,IRWIN,,20,Democratic Unionist Party,
-8,155,Danny,KENNEDY,,26,Ulster Unionist Party,
-8,156,James,MALONE,,21,Independent,
-8,157,Conor,MURPHY,,23,Sinn Fein,
-8,158,David,MURPHY,,19,Alliance Party,
-8,159,Thomas,OHANLON,,23,Social Democratic and Labour Party,
-8,160,Robert Stewart,WOODS,,21,Independent,
+Constituency_Name,Constituency_Number,Candidate_Id,Firstname,Surname,Outgoing_Member,Party_Id,Party_Name,,Directory
+Newry and Armagh,8,150,Cathal,BOYLAN,,24,Sinn Fein,,newry-armagh
+Newry and Armagh,8,151,Dominic,BRADLEY,,24,Sinn Fein,,newry-armagh
+Newry and Armagh,8,152,Mickey,BRADY,,24,Sinn Fein,,newry-armagh
+Newry and Armagh,8,153,Barrie,HALLIDAY,,141,Traditional Unionist Voice,,newry-armagh
+Newry and Armagh,8,154,William George,IRWIN,,20,Democratic Unionist Party,,newry-armagh
+Newry and Armagh,8,155,Danny,KENNEDY,,26,Ulster Unionist Party,,newry-armagh
+Newry and Armagh,8,156,James,MALONE,,21,Independent,,newry-armagh
+Newry and Armagh,8,157,Conor,MURPHY,,24,Sinn Fein,,newry-armagh
+Newry and Armagh,8,158,David,MURPHY,,19,Alliance Party,,newry-armagh
+Newry and Armagh,8,159,Thomas,OHANLON,,23,Social Democratic and Labour Party,,newry-armagh
+Newry and Armagh,8,160,Robert Stewart,WOODS,,21,Independent,,newry-armagh

@@ -1,0 +1,61 @@
+[
+{
+    "Candidate_First_Pref_Votes": "6319", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
+    "Surname": "CAMPBELL", 
+    "Firstname": "Gregory", 
+    "Constituency_Number": "3", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "71"
+},
+{
+    "Candidate_First_Pref_Votes": "2967", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "6", 
+    "Surname": "DALLAT", 
+    "Firstname": "John", 
+    "Constituency_Number": "3", 
+    "Party_Name": "Social Democratic and Labour Party", 
+    "Candidate_Id": "73"
+},
+{
+    "Candidate_First_Pref_Votes": "3003", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "7", 
+    "Surname": "MCCLARTY", 
+    "Firstname": "David", 
+    "Constituency_Number": "3", 
+    "Party_Name": "Independent", 
+    "Candidate_Id": "78"
+},
+{
+    "Candidate_First_Pref_Votes": "2633", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "7", 
+    "Surname": "MCQUILLAN", 
+    "Firstname": "Adrian", 
+    "Constituency_Number": "3", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "79"
+},
+{
+    "Candidate_First_Pref_Votes": "4681", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "6", 
+    "Surname": "O HOISIN", 
+    "Firstname": "Cathal", 
+    "Constituency_Number": "3", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "80"
+},
+{
+    "Candidate_First_Pref_Votes": "3855", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "7", 
+    "Surname": "ROBINSON", 
+    "Firstname": "George", 
+    "Constituency_Number": "3", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "81"
+}]

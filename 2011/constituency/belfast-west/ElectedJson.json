@@ -1,0 +1,61 @@
+[
+{
+    "Candidate_First_Pref_Votes": "3765", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "10", 
+    "Surname": "ATTWOOD", 
+    "Firstname": "Alex", 
+    "Constituency_Number": "17", 
+    "Party_Name": "Social Democratic and Labour Party", 
+    "Candidate_Id": "26"
+},
+{
+    "Candidate_First_Pref_Votes": "5343", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
+    "Surname": "MASKEY", 
+    "Firstname": "Paul", 
+    "Constituency_Number": "17", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "33"
+},
+{
+    "Candidate_First_Pref_Votes": "4481", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "10", 
+    "Surname": "MCCANN", 
+    "Firstname": "Fra", 
+    "Constituency_Number": "17", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "34"
+},
+{
+    "Candidate_First_Pref_Votes": "5239", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
+    "Surname": "MCCANN", 
+    "Firstname": "Jennifer", 
+    "Constituency_Number": "17", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "35"
+},
+{
+    "Candidate_First_Pref_Votes": "4116", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "11", 
+    "Surname": "RAMSEY", 
+    "Firstname": "Sue", 
+    "Constituency_Number": "17", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "38"
+},
+{
+    "Candidate_First_Pref_Votes": "3723", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "11", 
+    "Surname": "SHEEHAN", 
+    "Firstname": "Pat", 
+    "Constituency_Number": "17", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "39"
+}]

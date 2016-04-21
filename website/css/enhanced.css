@@ -1,6 +1,7 @@
-body {
+html, body {
 	font-family: Arial, Helvetica, sans-serif;
 	margin: 0 0 0 0px;
+    height: 100%;
 }
 header {
     background: #34495e;
@@ -30,21 +31,56 @@ header p {
     text-align: center;
     padding: 0px;
 }
+.cta{
+    line-height: 30px;
+    text-align: center;
+    background-color: #33ddff;
+    color: #333333;
+}
+.cta a {
+    color: white;
+}
+.cta a:hover {
+    color: #333333;
+    -webkit-transition: color .5s;
+    -moz-transition: color .5s;
+    -ms-transition: color .5s;
+    -o-transition: color .5s;
+    transition: color .5s;
+}
 .content {
     margin: auto;
-    width: 60%;
+    width: 80%;
+}
+.content p {
+	line-height: 1.5;
+}
+#footer {
+    clear:both;
+    background-color: #34495e;
+    color: white;
+    bottom: 0;
+    position: relative;
+}
+#footer a {
+    color: white;
+    text-decoration: none;
+}
+#footer a:hover {
+    color: #00FFEC;
 }
 #map{
 	float: left;
 	height: 425px;
 	width: 900px;
 	max-width: 50%;
-	margin: 0 20px 20px 0;
+	margin: 0px 20px 100px 0px;
 }
 #candidates {
 	float: left;
 	margin: auto;
 	width: 300px;
+    margin-bottom: 50px;
 }
 .candidate {
 	padding: 4px;
@@ -62,65 +98,80 @@ header p {
     color: #777;
 }
 
-.Alliance-Party_label:after{
-	 content: " (Alliance)";
+.Alliance-Party_label:before{
+	 content: "(Alliance) ";
 }
-.Social-Democratic-and-Labour-Party_label:after{
-     content: " (SDLP)";
+.Social-Democratic-and-Labour-Party_label:before{
+     content: "(SDLP) ";
 }
-.Ulster-Unionist-Party_label:after {
-     content: " (UUP)";
+.Ulster-Unionist-Party_label:before {
+     content: "(UUP) ";
 }
-.Sinn-Fein_label:after {
-     content: " (SF)";
+.Sinn-Fein_label:before {
+     content: "(SF) ";
 }
-.Green-Party_label:after{
-     content: " (Greens)";
+.Green-Party_label:before{
+     content: "(Greens) ";
 }
-.Democratic-Unionist-Party_label:after{
-     content: " (DUP)";
+.Democratic-Unionist-Party_label:before{
+     content: "(DUP) ";
 }
-.Traditional-Unionist-Voice_label:after{
-     content: " (TUV)";
+.Traditional-Unionist-Voice_label:before{
+     content: "(TUV) ";
 }
-.Workers-Party_label:after{
-	 content: " (WP)";
+.Workers-Party_label:before{
+	 content: "(WP) ";
 }
-.UK-Independence-Party_label:after{
-	 content: " (UKIP)";
+.UK-Independence-Party_label:before{
+	 content: "(UKIP) ";
 }
-.Progressive-Unionist-Party_label:after{
-	 content: " (PUP)";
+.Progressive-Unionist-Party_label:before{
+	 content: "(PUP) ";
 }
-.Socialist-Party_label:after{
-	 content: " (SP)";
+.Socialist-Party_label:before{
+	 content: "(SP) ";
 }
-.NI21_label:after{
-	 content: " (NI21)";
+.NI21_label:before{
+	 content: "(NI21) ";
 }
-.Procapitalism_label:after{
-	 content: " (CAP)";
+.Procapitalism_label:before{
+	 content: "(CAP) ";
 }
-.NI-Conservatives_label:after{
-	 content: " (CON)";
+.NI-Conservatives_label:before{
+	 content: "(CON) ";
 }
-.British-Nationalist-Party_label:after{
-	 content: " (BNP)";
+.British-Nationalist-Party_label:before{
+	 content: "(BNP) ";
 }
-.People-Before-Profit-Alliance_label:after{
-	 content: " (PBP)";
+.People-Before-Profit-Alliance_label:before{
+	 content: "(PBP) ";
 }
-.Independent_label:after{
-	 content: " (Ind)";
+.Independent_label:before{
+	 content: "(Ind) ";
 }
-.Cannabis-Is-Safer-Than-Alcohol_label:after{
-	 content: " (CISTA)";
+.Cannabis-Is-Safer-Than-Alcohol_label:before{
+	 content: "(CISTA) ";
 }
-.Labour-Alternative_label:after{
-	 content: " (LABALT)";
+.Labour-Alternative_label:before{
+	 content: "(LABALT) ";
 }
-.South-Belfast-Unionists_label:after{
-	 content: " (SBU)";
+.South-Belfast-Unionists_label:before{
+	 content: "(SBU) ";
+}
+.NI-Labour-Representation-Committee_label:before{
+	 content: "(LRC) ";
+}
+.Northern-Ireland-First_label:before{
+	 content: "(NIF) ";
+}
+.Cross-Community-Labour-Alternative_label:before{
+	 content: "(CCLAB) ";
+}
+.Democracy-First_label:before{
+	 content: "(DF) ";
+}
+.Animal-Welfare-Party_label:before{
+	 content: "(AWP) ";
 }
 
 .tooltip {
@@ -152,9 +203,9 @@ header p {
     height:25px;
     width:0px;
     position:absolute;
-    fill:#669999; background:#669999; color:#fff  // Default colours for independents, non-specified parties
+    fill:#669999; background:#669999; color:#fff;  // Default colours for independents, non-specified parties
     overflow:hidden;
-    white-space: nowrap;
+    white-space:nowrap;
     text-overflow:ellipsis;
     color:white;
     padding-top:3px;
@@ -195,6 +246,11 @@ header p {
 .NI-Conservatives{fill:#362da7!important; background:#362da7!important; color:#fff}
 .Labour-Alternative{fill:#ca0000!important; background:#ca0000!important; color:#fff}
 .South-Belfast-Unionists{fill:#9195FF!important; background:#9195FF!important; color:#fff}
+.NI-Labour-Representation-Committee{fill:#800000!important; background:#800000!important; color:#fff}
+.Northern-Ireland-First{fill:#b3d71d!important; background:#b3d71d!important; color:#fff}
+.Cross-Community-Labour-Alternative{fill:#ce1d4d!important; background:#ce1d4d!important; color:#fff}
+.Democracy-First{fill:#d7761d!important; background:#d7761d!important; color:#fff}
+.Animal-Welfare-Party{fill:#ce1d99!important; background:#ce1d99!important; color:#fff}
 
 #thepost{
     width:2px;

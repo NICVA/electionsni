@@ -1,0 +1,61 @@
+[
+{
+    "Candidate_First_Pref_Votes": "3488", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "7", 
+    "Surname": "BRADLEY", 
+    "Firstname": "Paula", 
+    "Constituency_Number": "10", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "1"
+},
+{
+    "Candidate_First_Pref_Votes": "3724", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "7", 
+    "Surname": "HUMPHREY", 
+    "Firstname": "William", 
+    "Constituency_Number": "10", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "3"
+},
+{
+    "Candidate_First_Pref_Votes": "6674", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
+    "Surname": "KELLY", 
+    "Firstname": "Gerry", 
+    "Constituency_Number": "10", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "4"
+},
+{
+    "Candidate_First_Pref_Votes": "4025", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "6", 
+    "Surname": "MAGINNESS", 
+    "Firstname": "Alban", 
+    "Constituency_Number": "10", 
+    "Party_Name": "Social Democratic and Labour Party", 
+    "Candidate_Id": "7"
+},
+{
+    "Candidate_First_Pref_Votes": "5200", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
+    "Surname": "MCCAUSLAND", 
+    "Firstname": "Nelson", 
+    "Constituency_Number": "10", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "8"
+},
+{
+    "Candidate_First_Pref_Votes": "2999", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "7", 
+    "Surname": "NI CUILIN", 
+    "Firstname": "Caral", 
+    "Constituency_Number": "10", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "10"
+}]

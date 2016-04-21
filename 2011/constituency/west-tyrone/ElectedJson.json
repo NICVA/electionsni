@@ -1,0 +1,61 @@
+[
+{
+    "Candidate_First_Pref_Votes": "5053", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "4", 
+    "Surname": "BOYLE", 
+    "Firstname": "Michaela", 
+    "Constituency_Number": "18", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "103"
+},
+{
+    "Candidate_First_Pref_Votes": "5027", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "5", 
+    "Surname": "BUCHANAN", 
+    "Firstname": "Thomas", 
+    "Constituency_Number": "18", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "105"
+},
+{
+    "Candidate_First_Pref_Votes": "3353", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "5", 
+    "Surname": "BYRNE", 
+    "Firstname": "Joe", 
+    "Constituency_Number": "18", 
+    "Party_Name": "Social Democratic and Labour Party", 
+    "Candidate_Id": "107"
+},
+{
+    "Candidate_First_Pref_Votes": "5630", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
+    "Surname": "DOHERTY", 
+    "Firstname": "Pat", 
+    "Constituency_Number": "18", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "108"
+},
+{
+    "Candidate_First_Pref_Votes": "4072", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "5", 
+    "Surname": "HUSSEY", 
+    "Firstname": "Ross", 
+    "Constituency_Number": "18", 
+    "Party_Name": "Ulster Unionist Party", 
+    "Candidate_Id": "109"
+},
+{
+    "Candidate_First_Pref_Votes": "6008", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
+    "Surname": "MCELDUFF", 
+    "Firstname": "Barry", 
+    "Constituency_Number": "18", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "111"
+}]

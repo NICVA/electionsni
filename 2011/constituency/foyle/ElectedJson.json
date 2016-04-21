@@ -1,0 +1,61 @@
+[
+{
+    "Candidate_First_Pref_Votes": "6950", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
+    "Surname": "ANDERSON", 
+    "Firstname": "Martina", 
+    "Constituency_Number": "5", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "114"
+},
+{
+    "Candidate_First_Pref_Votes": "4970", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "4", 
+    "Surname": "DURKAN", 
+    "Firstname": "Mark H", 
+    "Constituency_Number": "5", 
+    "Party_Name": "Social Democratic and Labour Party", 
+    "Candidate_Id": "117"
+},
+{
+    "Candidate_First_Pref_Votes": "2967", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "7", 
+    "Surname": "EASTWOOD", 
+    "Firstname": "Colum", 
+    "Constituency_Number": "5", 
+    "Party_Name": "Social Democratic and Labour Party", 
+    "Candidate_Id": "118"
+},
+{
+    "Candidate_First_Pref_Votes": "7154", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
+    "Surname": "HAY", 
+    "Firstname": "William", 
+    "Constituency_Number": "5", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "120"
+},
+{
+    "Candidate_First_Pref_Votes": "3638", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "7", 
+    "Surname": "MCCARTNEY", 
+    "Firstname": "Raymond", 
+    "Constituency_Number": "5", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "122"
+},
+{
+    "Candidate_First_Pref_Votes": "3138", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "7", 
+    "Surname": "RAMSEY", 
+    "Firstname": "Pat", 
+    "Constituency_Number": "5", 
+    "Party_Name": "Social Democratic and Labour Party", 
+    "Candidate_Id": "125"
+}]
