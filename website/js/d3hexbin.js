@@ -116,7 +116,7 @@ function mout(d) {
 		.style("fill-opacity", 0.75)
 		;
 	//Hie the tooltip
-		d3.select("#tooltip").classed("hidden", true);
+		d3.select("#charttooltip").classed("hidden", true);
 };
 
 //svg sizes and margins
