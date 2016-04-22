@@ -115,7 +115,7 @@ function mout(d) {
 		.attr("stroke-width", "2px")	
 		.style("fill-opacity", 0.75)
 		;
-	//Hie the tooltip
+	//Hide the tooltip
 		d3.select("#charttooltip").classed("hidden", true);
 };
 
@@ -127,10 +127,9 @@ var margin = {
     left: 50
 };
 
-//The next lines should be run, but this seems to go wrong on the first load in bl.ocks.org
 //var width = $(window).width() - margin.left - margin.right - 40;
 //var height = $(window).height() - margin.top - margin.bottom - 80;
-//So I set it fixed to
+
 var width = 850;
 var height = 350;
 
