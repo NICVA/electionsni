@@ -1,4 +1,4 @@
-{"Constituency": {"countInfo": {"Valid_Poll": "38847", "Number_Of_Seats": "6", "Total_Poll": "39686", "Quota": "5550", "Constituency_Name": "Foyle", "Constituency_Number": "5", "Total_Electorate": "68663", "Spoiled": "839"},
+{"Constituency": {"countInfo": {"Valid_Poll": "38847", "Number_Of_Seats": "6", "Total_Poll": "39686", "Voting_Age_Pop": "75354", "Quota": "5550", "Constituency_Name": "Foyle", "Constituency_Number": "5", "Total_Electorate": "68663", "Spoiled": "839"},
 "countGroup": [{
     "Candidate_First_Pref_Votes": "6950", 
     "Status": "Elected", 

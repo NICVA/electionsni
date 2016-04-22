@@ -1,4 +1,4 @@
-{"Constituency": {"countInfo": {"Valid_Poll": "28098", "Number_Of_Seats": "6", "Total_Poll": "28528", "Quota": "4015", "Constituency_Name": "North Down", "Constituency_Number": "11", "Total_Electorate": "62170", "Spoiled": "430"},
+{"Constituency": {"countInfo": {"Valid_Poll": "28098", "Number_Of_Seats": "6", "Total_Poll": "28528", "Voting_Age_Pop": "71137", "Quota": "4015", "Constituency_Name": "North Down", "Constituency_Number": "11", "Total_Electorate": "62170", "Spoiled": "430"},
 "countGroup": [{
     "Candidate_First_Pref_Votes": "2207", 
     "Status": "", 

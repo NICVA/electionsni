@@ -1,4 +1,4 @@
-{"Constituency": {"countInfo": {"Valid_Poll": "47999", "Number_Of_Seats": "6", "Total_Poll": "48941", "Quota": "6858", "Constituency_Name": "Fermanagh and South Tyrone", "Constituency_Number": "4", "Total_Electorate": "70985", "Spoiled": "942"},
+{"Constituency": {"countInfo": {"Valid_Poll": "47999", "Number_Of_Seats": "6", "Total_Poll": "48941", "Voting_Age_Pop": "77485", "Quota": "6858", "Constituency_Name": "Fermanagh and South Tyrone", "Constituency_Number": "4", "Total_Electorate": "70985", "Spoiled": "942"},
 "countGroup": [{
     "Candidate_First_Pref_Votes": "997", 
     "Status": "", 

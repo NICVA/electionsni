@@ -1,4 +1,4 @@
-{"Constituency": {"countInfo": {"Valid_Poll": "29023", "Number_Of_Seats": "6", "Total_Poll": "29424", "Quota": "4147", "Constituency_Name": "East Antrim", "Constituency_Number": "1", "Total_Electorate": "61617", "Spoiled": "401"},
+{"Constituency": {"countInfo": {"Valid_Poll": "29023", "Number_Of_Seats": "6", "Total_Poll": "29424", "Voting_Age_Pop": "70006", "Quota": "4147", "Constituency_Name": "East Antrim", "Constituency_Number": "1", "Total_Electorate": "61617", "Spoiled": "401"},
 "countGroup": [{
     "Candidate_First_Pref_Votes": "3042", 
     "Status": "", 

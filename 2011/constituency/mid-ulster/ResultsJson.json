@@ -1,4 +1,4 @@
-{"Constituency": {"countInfo": {"Valid_Poll": "42738", "Number_Of_Seats": "6", "Total_Poll": "43522", "Quota": "6106", "Constituency_Name": "Mid Ulster", "Constituency_Number": "7", "Total_Electorate": "66602", "Spoiled": "784"},
+{"Constituency": {"countInfo": {"Valid_Poll": "42738", "Number_Of_Seats": "6", "Total_Poll": "43522", "Voting_Age_Pop": "73312", "Quota": "6106", "Constituency_Name": "Mid Ulster", "Constituency_Number": "7", "Total_Electorate": "66602", "Spoiled": "784"},
 "countGroup": [{
     "Candidate_First_Pref_Votes": "243", 
     "Status": "", 

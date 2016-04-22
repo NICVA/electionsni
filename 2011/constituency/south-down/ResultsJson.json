@@ -1,4 +1,4 @@
-{"Constituency": {"countInfo": {"Valid_Poll": "41726", "Number_Of_Seats": "6", "Total_Poll": "42551", "Quota": "5961", "Constituency_Name": "South Down", "Constituency_Number": "14", "Total_Electorate": "73240", "Spoiled": "825"},
+{"Constituency": {"countInfo": {"Valid_Poll": "41726", "Number_Of_Seats": "6", "Total_Poll": "42551", "Voting_Age_Pop": "80945", "Quota": "5961", "Constituency_Name": "South Down", "Constituency_Number": "14", "Total_Electorate": "73240", "Spoiled": "825"},
 "countGroup": [{
     "Candidate_First_Pref_Votes": "3050", 
     "Status": "", 

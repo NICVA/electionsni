@@ -1,4 +1,4 @@
-{"Constituency": {"countInfo": {"Valid_Poll": "32347", "Number_Of_Seats": "6", "Total_Poll": "32828", "Quota": "4622", "Constituency_Name": "Belfast East", "Constituency_Number": "2", "Total_Electorate": "61263", "Spoiled": "481"},
+{"Constituency": {"countInfo": {"Valid_Poll": "32347", "Number_Of_Seats": "6", "Total_Poll": "32828", "Voting_Age_Pop": "72952", "Quota": "4622", "Constituency_Name": "Belfast East", "Constituency_Number": "2", "Total_Electorate": "61263", "Spoiled": "481"},
 "countGroup": [{
     "Candidate_First_Pref_Votes": "201", 
     "Status": "", 

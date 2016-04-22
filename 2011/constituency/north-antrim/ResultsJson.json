@@ -1,4 +1,4 @@
-{"Constituency": {"countInfo": {"Valid_Poll": "40983", "Number_Of_Seats": "6", "Total_Poll": "40313", "Quota": "5760", "Constituency_Name": "North Antrim", "Constituency_Number": "9", "Total_Electorate": "74760", "Spoiled": "670"},
+{"Constituency": {"countInfo": {"Valid_Poll": "40983", "Number_Of_Seats": "6", "Total_Poll": "40313", "Voting_Age_Pop": "83367", "Quota": "5760", "Constituency_Name": "North Antrim", "Constituency_Number": "9", "Total_Electorate": "74760", "Spoiled": "670"},
 "countGroup": [{
     "Candidate_First_Pref_Votes": "4061", 
     "Status": "", 

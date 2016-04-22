@@ -1,4 +1,4 @@
-{"Constituency": {"countInfo": {"Valid_Poll": "39303", "Number_Of_Seats": "6", "Total_Poll": "40323", "Quota": "5615", "Constituency_Name": "West Tyrone", "Constituency_Number": "18", "Total_Electorate": "62970", "Spoiled": "1020"},
+{"Constituency": {"countInfo": {"Valid_Poll": "39303", "Number_Of_Seats": "6", "Total_Poll": "40323", "Voting_Age_Pop": "68095", "Quota": "5615", "Constituency_Name": "West Tyrone", "Constituency_Number": "18", "Total_Electorate": "62970", "Spoiled": "1020"},
 "countGroup": [{
     "Candidate_First_Pref_Votes": "5053", 
     "Status": "", 

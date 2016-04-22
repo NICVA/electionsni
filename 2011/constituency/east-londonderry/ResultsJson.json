@@ -1,4 +1,4 @@
-{"Constituency": {"countInfo": {"Valid_Poll": "34722", "Number_Of_Seats": "6", "Total_Poll": "35303", "Quota": "4961", "Constituency_Name": "East Londonderry", "Constituency_Number": "3", "Total_Electorate": "65226", "Spoiled": "581"},
+{"Constituency": {"countInfo": {"Valid_Poll": "34722", "Number_Of_Seats": "6", "Total_Poll": "35303", "Voting_Age_Pop": "76421", "Quota": "4961", "Constituency_Name": "East Londonderry", "Constituency_Number": "3", "Total_Electorate": "65226", "Spoiled": "581"},
 "countGroup": [{
     "Candidate_First_Pref_Votes": "2639", 
     "Status": "", 

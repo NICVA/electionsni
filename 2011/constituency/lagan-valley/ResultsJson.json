@@ -1,4 +1,4 @@
-{"Constituency": {"countInfo": {"Valid_Poll": "35487", "Number_Of_Seats": "6", "Total_Poll": "35842", "Quota": "5070", "Constituency_Name": "Lagan Valley", "Constituency_Number": "6", "Total_Electorate": "67532", "Spoiled": "355"},
+{"Constituency": {"countInfo": {"Valid_Poll": "35487", "Number_Of_Seats": "6", "Total_Poll": "35842", "Voting_Age_Pop": "78573", "Quota": "5070", "Constituency_Name": "Lagan Valley", "Constituency_Number": "6", "Total_Electorate": "67532", "Spoiled": "355"},
 "countGroup": [{
     "Candidate_First_Pref_Votes": "2165", 
     "Status": "", 

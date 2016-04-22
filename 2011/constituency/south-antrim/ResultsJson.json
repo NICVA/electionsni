@@ -1,4 +1,4 @@
-{"Constituency": {"countInfo": {"Valid_Poll": "32164", "Number_Of_Seats": "6", "Total_Poll": "32661", "Quota": "4595", "Constituency_Name": "South Antrim", "Constituency_Number": "12", "Total_Electorate": "65231", "Spoiled": "497"},
+{"Constituency": {"countInfo": {"Valid_Poll": "32164", "Number_Of_Seats": "6", "Total_Poll": "32661", "Voting_Age_Pop": "74754", "Quota": "4595", "Constituency_Name": "South Antrim", "Constituency_Number": "12", "Total_Electorate": "65231", "Spoiled": "497"},
 "countGroup": [{
     "Candidate_First_Pref_Votes": "3406", 
     "Status": "", 
