@@ -1270,18 +1270,6 @@
 },
     {
         "": "", 
-        "Surname": "BRADLEY", 
-        "Firstname": "Dominic", 
-        "Constituency_Name": "Newry and Armagh", 
-        "Constituency_Number": "8", 
-        "Party_Name": "Sinn Fein", 
-        "Outgoing_Member": "", 
-        "Candidate_Id": "151", 
-        "Directory": "newry-armagh", 
-        "Party_Id": "24"
-},
-    {
-        "": "", 
         "Surname": "BRADY", 
         "Firstname": "Mickey", 
         "Constituency_Name": "Newry and Armagh", 
@@ -1731,6 +1719,18 @@
 },
     {
         "": "", 
+        "Surname": "BRADLEY", 
+        "Firstname": "Dominic", 
+        "Constituency_Name": "Newry and Armagh", 
+        "Constituency_Number": "8", 
+        "Party_Name": "Social Democratic and Labour Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "151", 
+        "Directory": "newry-armagh", 
+        "Party_Id": "23"
+},
+    {
+        "": "", 
         "Surname": "BURNS", 
         "Firstname": "Thomas", 
         "Constituency_Name": "South Antrim", 
@@ -1871,6 +1871,18 @@
         "Outgoing_Member": "", 
         "Candidate_Id": "211", 
         "Directory": "upper-bann", 
+        "Party_Id": "23"
+},
+    {
+        "": "", 
+        "Surname": "LOGAN", 
+        "Firstname": "Liam", 
+        "Constituency_Name": "North Down", 
+        "Constituency_Number": "11", 
+        "Party_Name": "Social Democratic and Labour Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "180", 
+        "Directory": "north-down", 
         "Party_Id": "23"
 },
     {
@@ -2479,18 +2491,6 @@
         "Outgoing_Member": "", 
         "Candidate_Id": "87", 
         "Directory": "south-antrim", 
-        "Party_Id": "26"
-},
-    {
-        "": "", 
-        "Surname": "LOGAN", 
-        "Firstname": "Liam", 
-        "Constituency_Name": "North Down", 
-        "Constituency_Number": "11", 
-        "Party_Name": "Ulster Unionist Party", 
-        "Outgoing_Member": "", 
-        "Candidate_Id": "180", 
-        "Directory": "north-down", 
         "Party_Id": "26"
 },
     {

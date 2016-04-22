@@ -7,7 +7,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 11,177,1,Alex,EASTON,5175,0,5175,Elected,1,Democratic Unionist Party
 11,178,1,Stephen,FARRY,3131,0,3131,,,Alliance Party
 11,179,1,Conor,KEENAN,293,0,293,,,Sinn Fein
-11,180,1,Liam,LOGAN,768,0,768,,,Ulster Unionist Party
+11,180,1,Liam,LOGAN,768,0,768,,,Social Democratic and Labour Party
 11,181,1,Alan,MCFARLAND,1879,0,1879,,,Independent
 11,182,1,Fred,MCGLADE,615,0,615,,,UK Independence Party
 11,183,1,Peter,WEIR,3496,0,3496,,,Democratic Unionist Party
@@ -20,7 +20,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 11,177,2,Alex,EASTON,5175,-1160,4015,Elected,1,Democratic Unionist Party
 11,178,2,Stephen,FARRY,3131,21.62,3152.62,,,Alliance Party
 11,179,2,Conor,KEENAN,293,1.61,294.61,Excluded,2,Sinn Fein
-11,180,2,Liam,LOGAN,768,3.91,771.91,,,Ulster Unionist Party
+11,180,2,Liam,LOGAN,768,3.91,771.91,,,Social Democratic and Labour Party
 11,181,2,Alan,MCFARLAND,1879,26.45,1905.45,,,Independent
 11,182,2,Fred,MCGLADE,615,8.97,623.97,,,UK Independence Party
 11,183,2,Peter,WEIR,3496,605.36,4101.36,Elected,2,Democratic Unionist Party
@@ -33,7 +33,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 11,177,3,Alex,EASTON,5175,0,4015,Elected,1,Democratic Unionist Party
 11,178,3,Stephen,FARRY,3131,20.69,3173.31,,,Alliance Party
 11,179,3,Conor,KEENAN,293,-294.61,0,Excluded,2,Sinn Fein
-11,180,3,Liam,LOGAN,768,181,952.91,,,Ulster Unionist Party
+11,180,3,Liam,LOGAN,768,181,952.91,,,Social Democratic and Labour Party
 11,181,3,Alan,MCFARLAND,1879,5.23,1910.68,,,Independent
 11,182,3,Fred,MCGLADE,615,0,623.97,Excluded,3,UK Independence Party
 11,183,3,Peter,WEIR,3496,0,4101.36,Elected,2,Democratic Unionist Party
@@ -46,7 +46,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 11,177,4,Alex,EASTON,5175,0,4015,Elected,1,Democratic Unionist Party
 11,178,4,Stephen,FARRY,3131,45,3218.31,,,Alliance Party
 11,179,4,Conor,KEENAN,293,0,0,Excluded,2,Sinn Fein
-11,180,4,Liam,LOGAN,768,8,960.91,Excluded,4,Ulster Unionist Party
+11,180,4,Liam,LOGAN,768,8,960.91,Excluded,4,Social Democratic and Labour Party
 11,181,4,Alan,MCFARLAND,1879,101.61,2012.29,,,Independent
 11,182,4,Fred,MCGLADE,615,-623.97,0,Excluded,3,UK Independence Party
 11,183,4,Peter,WEIR,3496,0,4101.36,Elected,2,Democratic Unionist Party
@@ -59,7 +59,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 11,177,5,Alex,EASTON,5175,0,4015,Elected,1,Democratic Unionist Party
 11,178,5,Stephen,FARRY,3131,267.69,3486,,,Alliance Party
 11,179,5,Conor,KEENAN,293,0,0,Excluded,2,Sinn Fein
-11,180,5,Liam,LOGAN,768,-960.91,0,Excluded,4,Ulster Unionist Party
+11,180,5,Liam,LOGAN,768,-960.91,0,Excluded,4,Social Democratic and Labour Party
 11,181,5,Alan,MCFARLAND,1879,36,2048.29,,,Independent
 11,182,5,Fred,MCGLADE,615,0,0,Excluded,3,UK Independence Party
 11,183,5,Peter,WEIR,3496,0,4101.36,Elected,2,Democratic Unionist Party
@@ -72,7 +72,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 11,177,6,Alex,EASTON,5175,0,4015,Elected,1,Democratic Unionist Party
 11,178,6,Stephen,FARRY,3131,28.92,3514.92,,,Alliance Party
 11,179,6,Conor,KEENAN,293,0,0,Excluded,2,Sinn Fein
-11,180,6,Liam,LOGAN,768,0,0,Excluded,4,Ulster Unionist Party
+11,180,6,Liam,LOGAN,768,0,0,Excluded,4,Social Democratic and Labour Party
 11,181,6,Alan,MCFARLAND,1879,35.15,2083.44,,,Independent
 11,182,6,Fred,MCGLADE,615,0,0,Excluded,3,UK Independence Party
 11,183,6,Peter,WEIR,3496,0,4101.36,Elected,2,Democratic Unionist Party
@@ -85,7 +85,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 11,177,7,Alex,EASTON,5175,0,4015,Elected,1,Democratic Unionist Party
 11,178,7,Stephen,FARRY,3131,6.6,3521.52,,,Alliance Party
 11,179,7,Conor,KEENAN,293,0,0,Excluded,2,Sinn Fein
-11,180,7,Liam,LOGAN,768,0,0,Excluded,4,Ulster Unionist Party
+11,180,7,Liam,LOGAN,768,0,0,Excluded,4,Social Democratic and Labour Party
 11,181,7,Alan,MCFARLAND,1879,11.44,2094.88,,,Independent
 11,182,7,Fred,MCGLADE,615,0,0,Excluded,3,UK Independence Party
 11,183,7,Peter,WEIR,3496,0,4101.36,Elected,2,Democratic Unionist Party
@@ -98,7 +98,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 11,177,8,Alex,EASTON,5175,0,4015,Elected,1,Democratic Unionist Party
 11,178,8,Stephen,FARRY,3131,217.07,3738.59,,,Alliance Party
 11,179,8,Conor,KEENAN,293,0,0,Excluded,2,Sinn Fein
-11,180,8,Liam,LOGAN,768,0,0,Excluded,4,Ulster Unionist Party
+11,180,8,Liam,LOGAN,768,0,0,Excluded,4,Social Democratic and Labour Party
 11,181,8,Alan,MCFARLAND,1879,509.51,2604.39,,,Independent
 11,182,8,Fred,MCGLADE,615,0,0,Excluded,3,UK Independence Party
 11,183,8,Peter,WEIR,3496,0,4101.36,Elected,2,Democratic Unionist Party
@@ -111,7 +111,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 11,177,9,Alex,EASTON,5175,0,4015,Elected,1,Democratic Unionist Party
 11,178,9,Stephen,FARRY,3131,6.3,3744.89,,,Alliance Party
 11,179,9,Conor,KEENAN,293,0,0,Excluded,2,Sinn Fein
-11,180,9,Liam,LOGAN,768,0,0,Excluded,4,Ulster Unionist Party
+11,180,9,Liam,LOGAN,768,0,0,Excluded,4,Social Democratic and Labour Party
 11,181,9,Alan,MCFARLAND,1879,14.77,2619.16,Excluded,9,Independent
 11,182,9,Fred,MCGLADE,615,0,0,Excluded,3,UK Independence Party
 11,183,9,Peter,WEIR,3496,-86.36,4015,Elected,2,Democratic Unionist Party
@@ -124,7 +124,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 11,177,10,Alex,EASTON,5175,0,4015,Elected,1,Democratic Unionist Party
 11,178,10,Stephen,FARRY,3131,333,4077.89,,,Alliance Party
 11,179,10,Conor,KEENAN,293,0,0,Excluded,2,Sinn Fein
-11,180,10,Liam,LOGAN,768,0,0,Excluded,4,Ulster Unionist Party
+11,180,10,Liam,LOGAN,768,0,0,Excluded,4,Social Democratic and Labour Party
 11,181,10,Alan,MCFARLAND,1879,-2619.16,0,Excluded,9,Independent
 11,182,10,Fred,MCGLADE,615,0,0,Excluded,3,UK Independence Party
 11,183,10,Peter,WEIR,3496,0,4015,Elected,2,Democratic Unionist Party
@@ -137,7 +137,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 11,177,11,Alex,EASTON,5175,0,4015,Elected,1,Democratic Unionist Party
 11,178,11,Stephen,FARRY,3131,0,4077.89,Elected,11,Alliance Party
 11,179,11,Conor,KEENAN,293,0,0,Excluded,2,Sinn Fein
-11,180,11,Liam,LOGAN,768,0,0,Excluded,4,Ulster Unionist Party
+11,180,11,Liam,LOGAN,768,0,0,Excluded,4,Social Democratic and Labour Party
 11,181,11,Alan,MCFARLAND,1879,0,0,Excluded,9,Independent
 11,182,11,Fred,MCGLADE,615,0,0,Excluded,3,UK Independence Party
 11,183,11,Peter,WEIR,3496,0,4015,Elected,2,Democratic Unionist Party
