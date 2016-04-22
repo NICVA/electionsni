@@ -1,3 +1,10 @@
+## Iterates throuhg each /constituency/[Directory] for the Count.csv file.
+## From the csv, groups each count and determines the last (most recent)
+## From the 'status' field, determines which candidates have been elected
+## Writes candidate information to /constituency/[Directory]/Elected.csv
+## Also, creates /NI/all-elected.json, which has details of all candidates elected
+## Used during the live count run, i.e. can find candidates elected so-far, before the full count is finished
+
 import csv
 import json
 import os
@@ -78,6 +85,6 @@ with open(jsonMain, 'wb') as main:
             wr.writeheader()
             wr.writerows(elected)
         
-        print jsonName, ' saved', e, ' elected'
+        print jsonName, ' saved', e, ' candidates elected'
     main.write(']}')
     print jsonMain, ' saved'

@@ -1,5 +1,5 @@
 
-	var checkedYear = null; 
+	var checkedYear = null;
 	var output = [];
     var constituenciesCount = [];
 	
@@ -84,7 +84,7 @@
         return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
     }
 
-	////// FUNCTIONS TO HANDLE HTML ELEMENT POPULATION OF CANDIDATE INFORMATION //////
+	////// FUNCTIONS TO HANDLE HTML ELEMENT POPULATION OF CANDIDATE AND CONSTITUENCY INFORMATION //////
 	var candidates = document.getElementById('candidates');
 	var constituencyinfo = document.getElementById('constituencyinfo');
 	
@@ -101,12 +101,13 @@
 		for (i = 0; i < candidates.length; i++) {
 			if (candidates[i].Outgoing_Member == 1) {
 				var MLA_text = " MLA"} else {var MLA_text = ""} // disabled - 'MLA' does not appear on ballot
-			this.innerHTML += '<div class="votes ' + candidates[i].Party_Name.replace(/\s+/g,"-") + '" style="width: 20px;"></div><div id="candidate ' + candidates[i].Candidate_Id + '" class="tooltip ' + candidates[i].Party_Name.replace(/\s+/g,"-") + '_label">' + candidates[i].Firstname + ' ' + candidates[i].Surname + '<span class="tooltiptext">' + candidates[i].Party_Name + '</span></div></br>';
+			this.innerHTML += '<div class="votes ' + candidates[i].Party_Name.replace(/\s+/g,"-") + '" style="width: 20px;"></div><div id="candidate ' + candidates[i].Candidate_Id + '" class="tooltip ' + candidates[i].Party_Name.replace(/\s+/g,"-") + '_label">' + candidates[i].Firstname + ' ' + candidates[i].Surname + '<span class="tooltiptext">' + candidates[i].Party_Name + '</span></div><br/>';
 		}
 	};
 	
-	function clearCandidates () {
-		candidates.innerHTML = '';
+    // optional message on clearing 'candidates' element. If none set arg to ''
+	function clearCandidates (msg) {
+		candidates.innerHTML = msg;
 	}
 	
 	constituencyinfo.update = function () {
@@ -114,13 +115,32 @@
 		var constituency = getObjects(constituenciesCount, 'Constituency_Number', constituency_id);
 		console.log(constituency);
 		if (constituency[0].countInfo.Voting_Age_Pop) {
-			this.innerHTML += '<b>Voting Age Population:</b> ' + numberWithCommas(constituency[0].countInfo.Voting_Age_Pop) + '</br>';
+			this.innerHTML += '<b>Voting Age Population:</b> ' + numberWithCommas(constituency[0].countInfo.Voting_Age_Pop) + '<br/>';
 			}
 		if (constituency[0].countInfo.Total_Electorate) {
-			this.innerHTML += '<b>Electorate:</b> ' + numberWithCommas(constituency[0].countInfo.Total_Electorate) + '</br><b>Voted:</b> ' + numberWithCommas(constituency[0].countInfo.Total_Poll) + '</br><b>Turnout:</b> ' + ((constituency[0].countInfo.Total_Poll/constituency[0].countInfo.Total_Electorate) *100).toFixed(2) + '%';
+			this.innerHTML += '<b>Electorate:</b> ' + numberWithCommas(constituency[0].countInfo.Total_Electorate) + '<br/><b>Voted:</b> ' + numberWithCommas(constituency[0].countInfo.Total_Poll) + '<br/><b>Turnout:</b> ' + ((constituency[0].countInfo.Total_Poll/constituency[0].countInfo.Total_Electorate) *100).toFixed(2) + '%';
 		}
 	};
 	
+    // function to populate 'candidates' element with all candidates by party
+    function partiesAll() {
+		findInfo(checkedYear, 'all-party-candidates.json');
+		for (p = 0; p < output.Parties.length; p++) {
+                var id = output.Parties[p].Party_Number;
+                var title = output.Parties[p].Party_Name;
+				candidates.update('Party_Number', id, title);
+			}
+		};            
+    
+    // function to populate 'candidates' element with all candidates by constituency
+    function constituenciesAll() {
+		findInfo(checkedYear, 'all-candidates.json');
+		for (p = 0; p < output.Constituencies.length; p++) {
+                var id = output.Constituencies[p].Constituency_Number;
+                var title = output.Constituencies[p].Constituency_Name;
+				candidates.update('Constituency_Number', id, title);
+			}
+		}; 
 
 	//////<-------------------------------------------------->//////
 	

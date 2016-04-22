@@ -1,3 +1,6 @@
+## Iterates through each /constituency/[Directory] and creates ResultsJson.json
+## ResultsJson.json is used to run the count stage visualisation
+
 import csv
 import json
 import os

@@ -10,7 +10,7 @@ header {
     background: #34495e;
 	color: white;
     text-align: left;
-	border-bottom: 1px solid #00FFEC;
+	border-bottom: 1px solid #00eecc;
 	padding: 1px 0 0 0;
 }
 header h1 {
@@ -23,7 +23,7 @@ header a {
     text-decoration: none;
 }
 header a:hover {
-    color: #00FFEC;
+    color: #00eecc;
     -webkit-transition: color .5s;
     -moz-transition: color .5s;
     -ms-transition: color .5s;
@@ -38,7 +38,7 @@ header p {
 .cta{
     line-height: 30px;
     text-align: center;
-    background-color: #33ddff;
+    background-color: #33eecc;
     color: #333333;
 }
 .cta a {
@@ -63,18 +63,16 @@ header p {
     background-color: #34495e;
     color: white;
     bottom: 0;
-    padding-left: 10px;
-    padding-right: 10px;
+    padding: 15px;
     position: relative;
     text-align: right;
-    height: 125px;
 }
 #footer a {
     color: white;
     text-decoration: none;
 }
 #footer a:hover {
-    color: #00FFEC;
+    color: orange;
 }
 #year{
 	margin: 5px 0 0 0;
@@ -336,7 +334,7 @@ header p {
   transition: color .25s;
 }
 #cssmenu ul li a:hover {
-  color: #00FFEC;
+  color: #00eecc;
 }
 #cssmenu ul li a:hover:before {
   width: 100%;
@@ -372,7 +370,7 @@ header p {
   display: none;
 }
 #cssmenu ul li.active a {
-  color: #00FFEC;
+  color: #00eecc;
 }
 #cssmenu ul li.active a:before {
   width: 100%;

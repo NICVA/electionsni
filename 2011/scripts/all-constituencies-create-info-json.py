@@ -1,3 +1,7 @@
+## Looks through each /consituency/[Directory] for the ConstituencyCount.csv file
+## Creates /NI/all-constituenc-info.json which has an object for each constituency with an array of the countInfo
+## JSON used to supplement info displays and data reads on the website for each constituency
+
 import csv
 import json
 import os

@@ -44,7 +44,7 @@
 				<li class='last'><a href='/about'><span>About</span></a></li>
 		</ul>
 		</div>
-		<div class="cta">We're looking for observers to crowdsource live results data. It couldn't be easier. If you want to help, <a href="/about#help">click here</a>.</div>
+		<div class="cta"><b>We're looking for observers to crowdsource live results data during the count. Contributing couldn't be easier. If you'd like to help <a href="/about#help">click here</a>.</b></div>
 		<div class="content">
 			<h1>Candidates</h1>
 			<p>Here you will find information on candidates standing in Assembly Elections, by constituency, or by party.</p>
@@ -52,17 +52,20 @@
 			
 			<div>
 				<form id="dropdowns" style="padding: 5px 5px 5px 5px">
-					<select id="constituencySelect" onchange="partySelect.selectedIndex = 0; findInfo(checkedYear, 'all-candidates.json'); candidates.update('Constituency_Number', constituencySelect.value, constituencySelect.options[constituencySelect.selectedIndex].text)"><option value=null>---Constituencies</option></select> or 
-					<select id="partySelect" onchange="constituencySelect.selectedIndex = 0; findInfo(checkedYear, 'all-party-candidates.json'); candidates.update('Party_Number', partySelect.value, partySelect.options[partySelect.selectedIndex].text)"><option value=null>---Parties</option></select>
-					<input type="checkbox" id="twitbox" checked>Twitter accounts</br>
-					
+					<select id="constituencySelect" onchange="clearCandidates('');partySelect.selectedIndex = 0; findInfo(checkedYear, 'all-candidates.json'); candidates.update('Constituency_Number', constituencySelect.value, constituencySelect.options[constituencySelect.selectedIndex].text)"><option value=null>--Choose Constituency</option></select>
+                    <input type="button" onclick="clearCandidates('');constituenciesAll();" id="allconstituencies" value="All">
+                    or 
+					<select id="partySelect" onchange="clearCandidates('');constituencySelect.selectedIndex = 0; findInfo(checkedYear, 'all-party-candidates.json'); candidates.update('Party_Number', partySelect.value, partySelect.options[partySelect.selectedIndex].text)"><option value=null>--Choose Party</option></select>
+                    <input type="button" id="allparties" onclick="clearCandidates('');partiesAll();" value="All">
+					<br/>
+                    <input type="checkbox" id="twitbox" checked>Twitter accounts<br/>
 				</form>
 			</div>
 			
 			<div>
 				<form id="year" style="padding: 5px 5px 5px 5px">
-					<input type="radio" name="year" value="2016" checked onClick="clearCandidates();resetselect(partySelect,'---Parties');changeyear(2016);constituencyoptions();partyoptions();"/> 2016
-					<input type="radio" name="year" value="2011" onClick="clearCandidates();resetselect(partySelect,'---Parties');changeyear(2011);constituencyoptions();partyoptions();"/> 2011<br>
+					<input type="radio" name="year" value="2016" checked onClick="clearCandidates('');resetselect(partySelect,'---Parties');changeyear(2016);constituencyoptions();partyoptions();"/> 2016
+					<input type="radio" name="year" value="2011" onClick="clearCandidates('');resetselect(partySelect,'---Parties');changeyear(2011);constituencyoptions();partyoptions();"/> 2011<br/>
 					<input type="hidden" name="sum" value="" id="selected_year" />
 				</form>
 			</div>
@@ -71,23 +74,24 @@
 		</div>
 	</div>
     <div id="footer">
-            Project by <a href="http://belfast.theodi.org">ODI Belfast</a> at <a href="http://www.nicva.org">NICVA</a> and the <a href="http://www.opengovernment.org.uk/about/ni-ogn/">Open Government Network NI</a></br><a href="http://www.nicva.org"><img src="/website/image/nicva500.png" height="75px" align="middle"></a><a href="http://belfast.theodi.org"><img src="/website/image/odibelfast500.png" height="75px" align="middle"></a><a href="http://www.opengovernment.org.uk/about/ni-ogn/"><img src="/website/image/ognni500.png" height="75px" align="middle"></a>
+            Project by <a href="http://belfast.theodi.org">ODI Belfast</a> at <a href="http://www.nicva.org">NICVA</a> and the <a href="http://www.opengovernment.org.uk/about/ni-ogn/">Open Government Network NI</a><br/><a href="http://www.nicva.org"><img src="/website/image/nicva500.png" height="75px" align="middle"></a><a href="http://belfast.theodi.org"><img src="/website/image/odibelfast500.png" height="75px" align="middle"></a><a href="http://www.opengovernment.org.uk/about/ni-ogn/"><img src="/website/image/ognni500.png" height="75px" align="middle"></a>
     </div>
 	
 	<script src="/website/js/script.js"></script>
 	<script>
 	
-	
 	var constituencySelect = document.getElementById('constituencySelect');
 	var partySelect = document.getElementById('partySelect');
 	var candidates = document.getElementById('candidates');
 	var twitbox = document.getElementById('twitbox');
-	
+        
+    // this function replaces the same named function in /website/js/script.js as we want
+    // to show twitter names and more information in the tooltip than in other cases
 	candidates.update = function (value, id, title) {
 		var defined = getObjects(output, value, id);
 		var candidates = defined[0].Candidates;
 		console.log(defined);
-		this.innerHTML = '<h2>' + title + ' (' + checkedYear + ')<h2>';
+		this.innerHTML += '<h2>' + title + ' (' + checkedYear + ')</h2>';
 		this.innerHTML += '<p><b>' + candidates.length + ' candidates nominated</b></p>';
 		for (i = 0; i < candidates.length; i++) {
 			if (candidates[i].Outgoing_Member == 1) {
@@ -96,13 +100,14 @@
 				if (candidates[i].Twitter) {
 					var twitter_name = candidates[i].Twitter} else {var twitter_name = ""}
 				} else {var twitter_name = ""}
-			this.innerHTML += '<div class="votes ' + candidates[i].Party_Name.replace(/\s+/g,"-") + '" style="width: 20px;"></div><div id="candidate ' + candidates[i].Candidate_Id + '" class="tooltip ' + candidates[i].Party_Name.replace(/\s+/g,"-") + '_label">' + '<span class="tooltiptext">' + candidates[i].Party_Name + MLA_text + '</span>' + candidates[i].Firstname + ' ' + candidates[i].Surname + '</div> ' + '<a href="http://twitter.com/' + twitter_name + '">' + twitter_name + '</a>' + '</br>';
+			this.innerHTML += '<div class="votes ' + candidates[i].Party_Name.replace(/\s+/g,"-") + '" style="width: 20px;"></div><div id="candidate ' + candidates[i].Candidate_Id + '" class="tooltip ' + candidates[i].Party_Name.replace(/\s+/g,"-") + '_label">' + '<span class="tooltiptext">' + candidates[i].Party_Name + MLA_text + '</span>' + candidates[i].Firstname + ' ' + candidates[i].Surname + '</div> ' + '<a href="http://twitter.com/' + twitter_name + '">' + twitter_name + '</a>' + '<br/>';
 		}
 	};
 	
+    // run script.js functions to populate the select menus
 	constituencyoptions();
 	partyoptions();
-	
+        
 	</script>
 	
 </body>

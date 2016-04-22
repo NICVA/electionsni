@@ -1,3 +1,6 @@
+## Similar to all-counts-find-elected.py but adds party colours to create d3-elected.json
+## Data in this used to populate the d3 results hexagon visualisation
+
 import csv
 import json
 import os

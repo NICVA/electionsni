@@ -7,7 +7,7 @@ header {
     background: #34495e;
 	color: white;
     text-align: center;
-	border-bottom: 2px solid #00FFEC;
+	border-bottom: 2px solid #00eecc;
 	padding: 5px 0 0 0;
 }
 header h1 {
@@ -19,7 +19,7 @@ header a {
     text-decoration: none;
 }
 header a:hover {
-    color: #00FFEC;
+    color: #00eecc;
     -webkit-transition: color .5s;
     -moz-transition: color .5s;
     -ms-transition: color .5s;
@@ -34,11 +34,12 @@ header p {
 .cta{
     line-height: 30px;
     text-align: center;
-    background-color: #33ddff;
+    background-color: #00eecc;
     color: #333333;
 }
 .cta a {
     color: white;
+    text-decoration: none;
 }
 .cta a:hover {
     color: #333333;
@@ -61,13 +62,15 @@ header p {
     color: white;
     bottom: 0;
     position: relative;
+    text-align: center;
+    padding: 15px;
 }
 #footer a {
     color: white;
     text-decoration: none;
 }
 #footer a:hover {
-    color: #00FFEC;
+    color: orange;
 }
 #map{
 	float: left;
@@ -328,7 +331,7 @@ header p {
   transition: color .25s;
 }
 #cssmenu ul li a:hover {
-  color: #00FFEC;
+  color: #00eecc;
 }
 #cssmenu ul li a:hover:before {
   width: 100%;
@@ -352,7 +355,7 @@ header p {
   bottom: 0;
   height: 3px;
   width: 0;
-  background: #00FFEC;
+  background: #00eecc;
   -webkit-transition: width .25s;
   -moz-transition: width .25s;
   -ms-transition: width .25s;
@@ -364,7 +367,7 @@ header p {
   display: none;
 }
 #cssmenu ul li.active a {
-  color: #00FFEC;
+  color: #00eecc;
 }
 #cssmenu ul li.active a:before {
   width: 100%;
