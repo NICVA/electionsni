@@ -58,9 +58,9 @@ function visualise() {
 			return "M" + d.x + "," + d.y + hexbin.hexagon();
 		})
 		.attr("stroke", function (d,i) {
-			return "#fff";
+			return "#000";
 		})
-		.attr("stroke-width", "2px")
+		.attr("stroke-width", "1px")
 		.style("fill", function (d,i) {
 			if (color[i]) {
 				return color[i];
@@ -84,7 +84,7 @@ function mover(d) {
   var el = d3.select(this)
 		.transition()
 		.duration(200)
-		.attr("stroke-width", "4px")		
+		.attr("stroke-width", "2px")		
 		.style("fill-opacity", 1)
 		;
 	//Update the tooltip value
@@ -112,7 +112,7 @@ function mout(d) {
 	var el = d3.select(this)
 		.transition()
 		.duration(400)
-		.attr("stroke-width", "2px")	
+		.attr("stroke-width", "1px")	
 		.style("fill-opacity", 0.75)
 		;
 	//Hide the tooltip
@@ -121,14 +121,14 @@ function mout(d) {
 
 //svg sizes and margins
 var margin = {
-    top: 30,
+    top: 50,
     right: 20,
-    bottom: 20,
+    bottom: 10,
     left: 50
 };
 
-//var width = $(window).width() - margin.left - margin.right - 40;
-//var height = $(window).height() - margin.top - margin.bottom - 80;
+//var width = ($(window).width()*0.6) - margin.left - margin.right;
+//var height = (width/12)*9 - margin.top - margin.bottom;
 
 var width = 850;
 var height = 350;
@@ -157,15 +157,13 @@ for (var i = 0; i < MapRows; i++) {
     }//for j
 }//for i
 
+var boxX = width + margin.left + margin.right,
+	boxY = height + margin.top + margin.bottom;
+
 //Create SVG element
 var svg = d3.select("#chart").append("svg")
-    .attr("width", width + margin.left + margin.right)
-    .attr("height", height + margin.top + margin.bottom)
+	.attr("viewBox", '0 0 ' + boxX + ' ' + boxY)
+//	.attr("width", width + margin.left + margin.right)
+//	.attr("height", height + margin.top + margin.bottom)
     .append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
-
-///////////////////////////////////////////////////////////////////////////
-////////////////////// Draw hexagons and color them ///////////////////////
-///////////////////////////////////////////////////////////////////////////
-
-//Start drawing the hexagons

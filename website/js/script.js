@@ -156,13 +156,14 @@
 					.on("mouseover", function(event, item) {
 						if (item && item.datum.Surname) {
 							console.log(item);
-							$('#tooltip').show();
-							$('#tooltip').html(
-								"<b>" + item.datum.Firstname + item.datum.Surname + "</b><br>" +
-								item.datum.Party_Name
+							$('#matrixtooltip').show();
+							$('#matrixtooltip').html(
+								"<b>" + item.datum.Firstname + ' ' + item.datum.Surname + "</b><br/>" +
+								item.datum.Party_Name + "<br/>" +
+								item.datum.Status + ' on count ' + item.datum.Occurred_On_Count
 							);
 						} else {
-							$('#tooltip').hide();
+							$('#matrixtooltip').hide();
 						}
 					})
 					.update();

@@ -1,7 +1,6 @@
 #overview_container {
-    margin: 20px auto;
+    margin: 10px auto;
     overflow: auto;
-    width: 1100px;
 }
 
 #overview_map {
@@ -17,7 +16,7 @@
     float: left;
 }
 
-#tooltip {
+#matrixtooltip {
     display: none;
     position: absolute;
     float: left;

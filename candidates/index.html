@@ -51,22 +51,23 @@
 			<p>Check the 'Twitter accounts' box to get @names for candidates with accounts (2016 data only). Hover over a name to see if the candidate is an outgoing Assembly Member.</p>
 			
 			<div>
-				<form id="dropdowns" style="padding: 5px 5px 5px 5px">
-					<select id="constituencySelect" onchange="clearCandidates('');partySelect.selectedIndex = 0; findInfo(checkedYear, 'all-candidates.json'); candidates.update('Constituency_Number', constituencySelect.value, constituencySelect.options[constituencySelect.selectedIndex].text)"><option value=null>--Choose Constituency</option></select>
-                    <input type="button" onclick="clearCandidates('');constituenciesAll();" id="allconstituencies" value="All">
-                    or 
-					<select id="partySelect" onchange="clearCandidates('');constituencySelect.selectedIndex = 0; findInfo(checkedYear, 'all-party-candidates.json'); candidates.update('Party_Number', partySelect.value, partySelect.options[partySelect.selectedIndex].text)"><option value=null>--Choose Party</option></select>
-                    <input type="button" id="allparties" onclick="clearCandidates('');partiesAll();" value="All">
-					<br/>
-                    <input type="checkbox" id="twitbox" checked>Twitter accounts<br/>
+				<form id="year" style="padding: 5px 5px 5px 5px;">
+				<b>Choose year:</b>
+					<input type="radio" name="year" value="2016" checked onClick="clearCandidates('');resetselect(partySelect,'---Parties');changeyear(2016);constituencyoptions();partyoptions();"/> 2016
+					<input type="radio" name="year" value="2011" onClick="clearCandidates('');resetselect(partySelect,'---Parties');changeyear(2011);constituencyoptions();partyoptions();"/> 2011<br/>
+					<input type="hidden" name="sum" value="" id="selected_year" />
 				</form>
 			</div>
 			
 			<div>
-				<form id="year" style="padding: 5px 5px 5px 5px">
-					<input type="radio" name="year" value="2016" checked onClick="clearCandidates('');resetselect(partySelect,'---Parties');changeyear(2016);constituencyoptions();partyoptions();"/> 2016
-					<input type="radio" name="year" value="2011" onClick="clearCandidates('');resetselect(partySelect,'---Parties');changeyear(2011);constituencyoptions();partyoptions();"/> 2011<br/>
-					<input type="hidden" name="sum" value="" id="selected_year" />
+				<form id="dropdowns" style="padding: 5px 5px 5px 5px">
+					<select class="select" id="constituencySelect" onchange="clearCandidates('');partySelect.selectedIndex = 0; findInfo(checkedYear, 'all-candidates.json'); candidates.update('Constituency_Number', constituencySelect.value, constituencySelect.options[constituencySelect.selectedIndex].text)"><option value=null>--Choose Constituency</option></select>
+                    <input class="button" type="button" onclick="clearCandidates('');constituenciesAll();" id="allconstituencies" value="Show All">
+                    <b>-or-</b> 
+					<select class="select" id="partySelect" onchange="clearCandidates('');constituencySelect.selectedIndex = 0; findInfo(checkedYear, 'all-party-candidates.json'); candidates.update('Party_Number', partySelect.value, partySelect.options[partySelect.selectedIndex].text)"><option value=null>--Choose Party</option></select>
+                    <input class="button" type="button" id="allparties" onclick="clearCandidates('');partiesAll();" value="Show All">
+					<br/>
+                    <input type="checkbox" id="twitbox" checked>Twitter accounts<br/>
 				</form>
 			</div>
 			
