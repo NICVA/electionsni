@@ -379,3 +379,25 @@ header p {
 #cssmenu.align-right li:first-child a:after {
   display: none;
 }
+.button {
+            background-color:#34495e;
+            -moz-border-radius:28px;
+            -webkit-border-radius:28px;
+            border-radius:28px;
+            border:1px solid #00eeca;
+            display:inline-block;
+            cursor:pointer;
+            color:#ffffff;
+            font-family:Arial;
+            font-size:17px;
+            padding:16px 31px;
+            text-decoration:none;
+            text-shadow:0px 1px 0px #000000;
+}
+.button:hover {
+            background-color:#00eeca;
+}
+.button:active {
+            position:relative;
+            top:1px;
+}

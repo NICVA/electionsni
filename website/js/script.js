@@ -1,5 +1,5 @@
 
-	var checkedYear = null;
+	var checkedYear = 2016;
 	var output = [];
     var constituenciesCount = [];
 	
@@ -26,7 +26,7 @@
     // outputs the parse Json responseText to global var output
 	function findInfo(year, filename) {
 		var request = new XMLHttpRequest();
-		var path = '/'+year+'/NI/' + filename;
+		var path = '/' + year + '/NI/' + filename;
 		console.log(path);
 		request.onreadystatechange = function() {
 			if (request.readyState == 4 && request.status >= 200 && request.status < 400) {
@@ -43,7 +43,7 @@
     // similar to findInfo but used to get constituency count (votes polled etc) and output to global var 'constituenciesCount'
 	function findConstituencyCountInfo(year, filename) {
 		var request = new XMLHttpRequest();
-		var path = '/'+year+'/NI/' + filename;
+		var path = '/' + year + '/NI/' + filename;
 		console.log(path);
 		request.onreadystatechange = function() {
 			if (request.readyState == 4 && request.status >= 200 && request.status < 400) {
@@ -141,6 +141,34 @@
 				candidates.update('Constituency_Number', id, title);
 			}
 		}; 
+		
+	// function to retrive vega spec to populate count matrix //
+	function countMatrix(option) {
+		var directory = option.getAttribute("data-dir");
+		$.get("/website/jsonspec/countSpec.json", function(json) {
+			var spec = JSON5.parse(json);
+			spec.data[0].url = '/' +  checkedYear + '/constituency/' + directory + '/Count.csv'; // needed to dynamically change the data url in spec to our desired path
+			console.log(spec);
+			vg.parse.spec(spec, function(chart) {
+				var view = chart({
+						el: "#count_matrix"
+					})
+					.on("mouseover", function(event, item) {
+						if (item && item.datum.Surname) {
+							console.log(item);
+							$('#tooltip').show();
+							$('#tooltip').html(
+								"<b>" + item.datum.Firstname + item.datum.Surname + "</b><br>" +
+								item.datum.Party_Name
+							);
+						} else {
+							$('#tooltip').hide();
+						}
+					})
+					.update();
+			});
+		},"text");
+	}
 
 	//////<-------------------------------------------------->//////
 	
@@ -153,9 +181,10 @@
 		}
 	
 	function constituencyoptions () {
-		findInfo(checkedYear, 'all-candidates.json');
+		findInfo(checkedYear, 'all-constituency-info.json');
+		console.log(output);
 		for (c = 0; c < output.Constituencies.length; c++) {
-				constituencySelect.innerHTML += '<option value="' + output.Constituencies[c].Constituency_Number + '">' + output.Constituencies[c].Constituency_Name + '</option>';
+				constituencySelect.innerHTML += '<option value="' + output.Constituencies[c].Constituency_Number + '" data-dir="' + output.Constituencies[c].Directory + '">' + output.Constituencies[c].Constituency_Name + '</option>';
 			}
 		}
 		

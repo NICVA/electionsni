@@ -1420,21 +1420,6 @@
     "Party_Number": "21",
     "Candidates": [
     {
-        "Surname": "ANTON", 
-        "Firstname": "Brigette", 
-        "Gender": "F", 
-        "Twitter": "@PurlsofColour ", 
-        "Constituency_Name": "Belfast South", 
-        "Constituency_Number": "13", 
-        "Party_Name": "Independent", 
-        "Outgoing_Member": "0", 
-        "Candidate_Id": "37", 
-        "Directory": "belfast-south", 
-        "Party_Id": "21", 
-        "Email": "sfassembly@hotmail.com", 
-        "Photo_URL": ""
-},
-    {
         "Surname": "BERRY ", 
         "Firstname": "Paul", 
         "Gender": "M", 
@@ -2004,6 +1989,21 @@
     "Party_Name": "NI Labour Representation Committee",
     "Party_Number": "989",
     "Candidates": [
+    {
+        "Surname": "ANTON", 
+        "Firstname": "Brigitte", 
+        "Gender": "F", 
+        "Twitter": "@PurlsofColour ", 
+        "Constituency_Name": "Belfast South", 
+        "Constituency_Number": "13", 
+        "Party_Name": "NI Labour Representation Committee", 
+        "Outgoing_Member": "0", 
+        "Candidate_Id": "37", 
+        "Directory": "belfast-south", 
+        "Party_Id": "989", 
+        "Email": "sfassembly@hotmail.com", 
+        "Photo_URL": ""
+},
     {
         "Surname": "DYNES", 
         "Firstname": "Peter", 

@@ -1,0 +1,107 @@
+{
+  width: 300,
+  height: 300,
+  
+  signals: [
+    {
+      name: "clicked", init: 0, verbose: true,
+      streams: [{type: "click", expr: "datum"}]
+    },
+    {
+      name: "keypressed", init: 0, verbose: true,
+      streams: [{type: "keypress", expr: "event"}]
+    }
+  ],
+  
+  data: [
+    {
+      "name": "countData",
+      "url": "",
+      "format": {
+        "type": "csv"
+      }
+    }
+  ],
+    
+  scales: [
+    {
+      name: "x", range: "width", type: "ordinal",
+      domain: {data: "countData", field: "Count_Number", sort: {field: "Count_Number", op: "mean"}}
+    },
+    {
+      name: "y", range: "height", type: "ordinal",
+      domain: {data: "countData", field: "Surname"}
+    },
+    {
+        name: "status", range:["red","green","white"], type: "ordinal", domain: ["Excluded", "Elected"]
+    }
+      
+  ],
+    
+  marks: [  
+    {
+      name: "candidates",
+      type: "symbol",
+      from: {data: "countData"},
+      properties: {
+        enter: {
+          shape: {value: "circle"},
+          size: {value: 200},
+          fillOpacity: {value: 0.7},
+          fill: {scale: "status", field: "Status"},
+          stroke: {value: "#888"},
+          strokeWidth: {value: 1}
+        },
+        update: {
+          x: {scale: "x", field: "Count_Number"},
+          y: {scale: "y", field: "Surname"}
+        }
+      }
+    },
+    {
+      name: "labels",
+      type: "text",
+      from: {data: "countData",        
+             "transform": [{
+                  "type": "aggregate",
+                  "groupby": ["Surname"],
+                  "summarize": [{"field": "Surname","ops": ["mean"]}]
+              }] 
+            },
+      properties: {
+        update: {
+          x: {value: 20, offset: -50},
+          y: {scale: "y", field: "Surname", offset: 0},
+          dy: {scale: "y", band: true, mult: 0.1},
+          text: {field: "Surname"},
+          fontSize: {value: 12},
+          align: {value: "right"},
+          fill: {value: "black"}
+        }
+      }
+    },
+    {
+      name: "countLabels",
+      type: "text",
+      from: {data: "countData",        
+             "transform": [{
+                  "type": "aggregate",
+                  "groupby": ["Count_Number"],
+                  "summarize": [{"field": "Count_Number","ops": ["mean"]}]
+              }] 
+            },
+      properties: {
+        update: {
+          x: {scale: "x", field: "Count_Number", offset: 3},
+          y: {value: -30},
+          dy: {scale: "y", band: true, mult: 0.1},
+          text: {field: "Count_Number"},
+          fontSize: {value: 12},
+          align: {value: "right"},
+          fill: {value: "black"}
+        }
+      }
+    }
+  ]
+
+}

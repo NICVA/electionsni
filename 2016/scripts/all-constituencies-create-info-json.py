@@ -1,3 +1,7 @@
+## Looks through each /consituency/[Directory] for the ConstituencyCount.csv file
+## Creates /NI/all-constituenc-info.json which has an object for each constituency with an array of the countInfo
+## JSON used to supplement info displays and data reads on the website for each constituency
+
 import csv
 import json
 import os
@@ -27,6 +31,9 @@ with open(jsonName, 'wb') as jsonfile:
             jsonfile.write('"Constituency_Number": ')
             jsonfile.write(row['Constituency_Number'])
             jsonfile.write(',\n    ')
+            jsonfile.write('"Directory": "')
+            jsonfile.write(con)
+            jsonfile.write('",\n    ')
             jsonfile.write('"countInfo": ')
             json.dump(row, jsonfile)
             jsonfile.write('\n    }')

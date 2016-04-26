@@ -1,0 +1,72 @@
+{
+  width: 200,
+  height: 400,
+  
+  signals: [
+    {
+      name: "clicked", init: 0, verbose: true,
+      streams: [{type: "click", expr: "datum"}]
+    },
+    {
+      name: "keypressed", init: 0, verbose: true,
+      streams: [{type: "keypress", expr: "event"}]
+    }
+  ],
+  
+  data: [],
+  
+  scales: [
+    {
+      name: "x", range: "width", type: "linear",
+      domain: {data: "results", field: "count"}
+    },
+    {
+      name: "y", range: "height", type: "ordinal",
+      domain: {data: "results", field: "constituency", sort: {field: "constituency", op: "mean"}}
+    }
+  ],
+  marks: [  
+    {
+      name: "candidates",
+      type: "symbol",
+      from: {data: "results"},
+      properties: {
+        enter: {
+          shape: {value: "circle"},
+          size: {value: 200},
+          fillOpacity: {value: 0.7},
+          fill: {field: "party_colour"},
+          stroke: {value: "#888"},
+          strokeWidth: {value: 1}
+        },
+        update: {
+          x: {scale: "x", field: "count"},
+          y: {scale: "y", field: "constituency"}
+        }
+      }
+    },
+    {
+      name: "labels",
+      type: "text",
+      from: {data: "results",        
+             "transform": [{
+                  "type": "aggregate",
+                  "groupby": ["constituency"],
+                  "summarize": [{"field": "constituency","ops": ["count"]}]
+              }] 
+            },
+      properties: {
+        update: {
+          x: {value: 20, offset: -15},
+          y: {scale: "y", field: "constituency", offset: 0},
+          dy: {scale: "y", band: true, mult: 0.2},
+          text: {field: "constituency"},
+          fontSize: {value: 12},
+          align: {value: "right"},
+          fill: {value: "black"}
+        }
+      }
+    }
+  ]
+
+}

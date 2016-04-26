@@ -10,6 +10,7 @@
 	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.js"></script>
 	
 	<link rel="stylesheet" type="text/css" href="/website/css/style.css" media="screen, handheld" />
+	<link rel="stylesheet" type="text/css" href="/website/css/overview.css" media="screen, handheld" />
 	<link rel="stylesheet" type="text/css" href="/website/css/enhanced.css" media="screen  and (min-width: 60.5em)" />
 	<link rel="icon" type="image/png" href="/website/image/favicon-32x32.png" sizes="32x32" />
 	<link rel="icon" type="image/png" href="/website/image/favicon-16x16.png" sizes="16x16" />
@@ -89,35 +90,42 @@
 			<span id="party" style="color: red"></span></br>
 			<span id="fpv"></span></br>
 		</div>
-		<h2>Transfers</h2>
-		<p>For each constiteuncy, see how the votes transfered at each stage of the count.</p>
-		<ul>
-			<li><a href="/2011/constituency/belfast-east/stages.html">Belfast East</a></li>
-			<li><a href="/2011/constituency/belfast-north/stages.html">Belfast North</a></li>
-			<li><a href="/2011/constituency/belfast-south/stages.html">Belfast South</a></li>
-			<li><a href="/2011/constituency/belfast-west/stages.html">Belfast West</a></li>
-			<li><a href="/2011/constituency/east-antrim/stages.html">East Antrim</a></li>
-			<li><a href="/2011/constituency/east-londonderry/stages.html">East Londonderry</a></li>
-			<li><a href="/2011/constituency/fermanagh-south-tyrone/stages.html">Fermanagh and South Tyrone</a></li>
-			<li><a href="/2011/constituency/foyle/stages.html">Foyle</a></li>
-			<li><a href="/2011/constituency/lagan-valley/stages.html">Lagan Valley</a></li>
-			<li><a href="/2011/constituency/mid-ulster/stages.html">Mid Ulster</a></li>
-			<li><a href="/2011/constituency/newry-armagh/stages.html">Newry and Armagh</a></li>
-			<li><a href="/2011/constituency/north-antrim/stages.html">North Antrim</a></li>
-			<li><a href="/2011/constituency/north-down/stages.html">North Down</a></li>
-			<li><a href="/2011/constituency/south-antrim/stages.html">South Antrim</a></li>
-			<li><a href="/2011/constituency/south-down/stages.html">South Down</a></li>
-			<li><a href="/2011/constituency/strangford/stages.html">Strangford</a></li>
-			<li><a href="/2011/constituency/upper-bann/stages.html">Upper Bann</a></li>
-			<li><a href="/2011/constituency/west-tyrone/stages.html">West Tyrone</a></li>
-		</ul>
-		<p>Thanks to James Bligh (<a href="http://twitter.com/anamates" target="_blank" title="External Link">@anamates</a>) for the <a href="https://github.com/NICVA/electionsni/blob/master/website/js/stages.js" target="_blank" title="External Link">code</a> for these animations.</p>
+		<h2>Count visualisations</h2>
+		<p>For each constituency, watch how the count progressed.</p>
+		<form id="dropdowns" style="padding: 5px 5px 5px 5px">
+					<select id="constituencySelect" onchange="transfersLink(constituencySelect.options[constituencySelect.selectedIndex]);"><option value=null>--Choose Constituency</option></select><br/>
+					<button class="button" id="transfersButton">Transfers Animation</button><br/>
+					<input type="button" class="button" id="countMatrixButton" value="Count Matrix" onclick="countMatrix(constituencySelect.options[constituencySelect.selectedIndex])"><br/>
+		</form>
+
+		<div id="overview_container"><div id="count_matrix"></div></div>
+
+		<p>Thanks to James Bligh (<a href="http://twitter.com/anamates" target="_blank" title="External Link">@anamates</a>) for sharing the <a href="https://github.com/NICVA/electionsni/blob/master/website/js/stages.js" target="_blank" title="External Link">code</a> for the transfers animation.</p>
     </div>
 </div>
 
     <div id="footer">
             Project by <a href="http://belfast.theodi.org">ODI Belfast</a> at <a href="http://www.nicva.org">NICVA</a> and the <a href="http://www.opengovernment.org.uk/about/ni-ogn/">Open Government Network NI</a></br><a href="http://www.nicva.org"><img src="/website/image/nicva500.png" height="75px" align="middle"></a><a href="http://belfast.theodi.org"><img src="/website/image/odibelfast500.png" height="75px" align="middle"></a><a href="http://www.opengovernment.org.uk/about/ni-ogn/"><img src="/website/image/ognni500.png" height="75px" align="middle"></a>
     </div>
+	
  	<script type="text/javascript" src="/website/js/d3hexbin.js"></script>
+	<script type="text/javascript" src="/website/js/script.js"></script>
+	
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/json5/0.3.0/json5.js"></script>
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vega/2.5.2/vega.min.js"></script>
+	
+	<script>
+		// fill in constituencySelect menu
+		constituencyoptions();
+		
+		// default checkedYear to 2011; initially until we have 2016 results (then delete this)
+		var checkedYear = 2011; 
+		
+		function transfersLink (option) {
+			var directory = option.getAttribute("data-dir");
+			document.getElementById("transfersButton").setAttribute('formaction', '/' + checkedYear + '/constituency/' + directory + '/stages.html');
+			}
+		
+	</script>
 </body>
 </html>
