@@ -40,7 +40,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 13,22,3,Ruth Frances,PATTERSON ,3800,6.75,3893.75,,,Democratic Unionist Party
 13,23,3,Samuel Charles,SMYTH ,29,0.5,34,Excluded,3,Procapitalism
 13,24,3,Jimmy,SPRATT ,4045,4.75,4103.45,,,Democratic Unionist Party
-13,25,3,Nico,TORREGROSA ,234,0.5,245,Excluded,2,UK Independence Party
+13,25,3,Nico,TORREGROSA ,234,0.5,245,Excluded,3,UK Independence Party
 13,12,4,Clare,BAILEY ,889,392.05,1655.6,Excluded,4,Green Party
 13,13,4,Brian,FALOON ,414,-480.05,0,Excluded,4,People Before Profit Alliance
 13,14,4,Mark,FINLAY ,1394,50.7,1617.7,Excluded,4,Ulster Unionist Party
@@ -54,7 +54,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 13,22,4,Ruth Frances,PATTERSON ,3800,59.3,3953.05,,,Democratic Unionist Party
 13,23,4,Samuel Charles,SMYTH ,29,-33.5,0.5,Excluded,2,Procapitalism
 13,24,4,Jimmy,SPRATT ,4045,60.4,4163.85,,,Democratic Unionist Party
-13,25,4,Nico,TORREGROSA ,234,-245,0,Excluded,2,UK Independence Party
+13,25,4,Nico,TORREGROSA ,234,-245,0,Excluded,3,UK Independence Party
 13,12,5,Clare,BAILEY ,889,-1655.6,0,Excluded,4,Green Party
 13,13,5,Brian,FALOON ,414,0,0,Excluded,4,People Before Profit Alliance
 13,14,5,Mark,FINLAY ,1394,-1617.7,0,Excluded,4,Ulster Unionist Party
@@ -68,4 +68,4 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 13,22,5,Ruth Frances,PATTERSON ,3800,210.35,4163.4,Excluded,5,Democratic Unionist Party
 13,23,5,Samuel Charles,SMYTH ,29,0,0.5,Excluded,2,Procapitalism
 13,24,5,Jimmy,SPRATT ,4045,117.6,4281.45,Elected,5,Democratic Unionist Party
-13,25,5,Nico,TORREGROSA ,234,0,0,Excluded,2,UK Independence Party
+13,25,5,Nico,TORREGROSA ,234,0,0,Excluded,3,UK Independence Party

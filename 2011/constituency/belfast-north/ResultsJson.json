@@ -2,7 +2,7 @@
 "countGroup": [{
     "Candidate_First_Pref_Votes": "3488", 
     "Status": "", 
-    "Occurred_On_Count": "0", 
+    "Occurred_On_Count": "", 
     "Surname": "BRADLEY", 
     "Firstname": "Paula", 
     "Constituency_Number": "10", 
@@ -16,7 +16,7 @@
 {
     "Candidate_First_Pref_Votes": "2758", 
     "Status": "", 
-    "Occurred_On_Count": "0", 
+    "Occurred_On_Count": "", 
     "Surname": "COBAIN", 
     "Firstname": "Fred", 
     "Constituency_Number": "10", 
@@ -30,7 +30,7 @@
 {
     "Candidate_First_Pref_Votes": "3724", 
     "Status": "", 
-    "Occurred_On_Count": "0", 
+    "Occurred_On_Count": "", 
     "Surname": "HUMPHREY", 
     "Firstname": "William", 
     "Constituency_Number": "10", 
@@ -58,7 +58,7 @@
 {
     "Candidate_First_Pref_Votes": "332", 
     "Status": "", 
-    "Occurred_On_Count": "0", 
+    "Occurred_On_Count": "", 
     "Surname": "LAVERY", 
     "Firstname": "John", 
     "Constituency_Number": "10", 
@@ -72,7 +72,7 @@
 {
     "Candidate_First_Pref_Votes": "998", 
     "Status": "", 
-    "Occurred_On_Count": "0", 
+    "Occurred_On_Count": "", 
     "Surname": "MAGEE", 
     "Firstname": "JJ", 
     "Constituency_Number": "10", 
@@ -86,7 +86,7 @@
 {
     "Candidate_First_Pref_Votes": "4025", 
     "Status": "", 
-    "Occurred_On_Count": "0", 
+    "Occurred_On_Count": "", 
     "Surname": "MAGINNESS", 
     "Firstname": "Alban", 
     "Constituency_Number": "10", 
@@ -114,7 +114,7 @@
 {
     "Candidate_First_Pref_Votes": "1176", 
     "Status": "", 
-    "Occurred_On_Count": "0", 
+    "Occurred_On_Count": "", 
     "Surname": "MCCORD", 
     "Firstname": "Raymond", 
     "Constituency_Number": "10", 
@@ -128,7 +128,7 @@
 {
     "Candidate_First_Pref_Votes": "2999", 
     "Status": "", 
-    "Occurred_On_Count": "0", 
+    "Occurred_On_Count": "", 
     "Surname": "NI CUILIN", 
     "Firstname": "Caral", 
     "Constituency_Number": "10", 
@@ -142,7 +142,7 @@
 {
     "Candidate_First_Pref_Votes": "2096", 
     "Status": "", 
-    "Occurred_On_Count": "0", 
+    "Occurred_On_Count": "", 
     "Surname": "WEBB", 
     "Firstname": "Billy", 
     "Constituency_Number": "10", 
@@ -156,7 +156,7 @@
 {
     "Candidate_First_Pref_Votes": "3488", 
     "Status": "", 
-    "Occurred_On_Count": "0", 
+    "Occurred_On_Count": "", 
     "Surname": "BRADLEY", 
     "Firstname": "Paula", 
     "Constituency_Number": "10", 
@@ -170,7 +170,7 @@
 {
     "Candidate_First_Pref_Votes": "2758", 
     "Status": "", 
-    "Occurred_On_Count": "0", 
+    "Occurred_On_Count": "", 
     "Surname": "COBAIN", 
     "Firstname": "Fred", 
     "Constituency_Number": "10", 
@@ -184,7 +184,7 @@
 {
     "Candidate_First_Pref_Votes": "3724", 
     "Status": "", 
-    "Occurred_On_Count": "0", 
+    "Occurred_On_Count": "", 
     "Surname": "HUMPHREY", 
     "Firstname": "William", 
     "Constituency_Number": "10", 
@@ -226,7 +226,7 @@
 {
     "Candidate_First_Pref_Votes": "998", 
     "Status": "", 
-    "Occurred_On_Count": "0", 
+    "Occurred_On_Count": "", 
     "Surname": "MAGEE", 
     "Firstname": "JJ", 
     "Constituency_Number": "10", 
@@ -240,7 +240,7 @@
 {
     "Candidate_First_Pref_Votes": "4025", 
     "Status": "", 
-    "Occurred_On_Count": "0", 
+    "Occurred_On_Count": "", 
     "Surname": "MAGINNESS", 
     "Firstname": "Alban", 
     "Constituency_Number": "10", 
@@ -268,7 +268,7 @@
 {
     "Candidate_First_Pref_Votes": "1176", 
     "Status": "", 
-    "Occurred_On_Count": "0", 
+    "Occurred_On_Count": "", 
     "Surname": "MCCORD", 
     "Firstname": "Raymond", 
     "Constituency_Number": "10", 
@@ -282,7 +282,7 @@
 {
     "Candidate_First_Pref_Votes": "2999", 
     "Status": "", 
-    "Occurred_On_Count": "0", 
+    "Occurred_On_Count": "", 
     "Surname": "NI CUILIN", 
     "Firstname": "Caral", 
     "Constituency_Number": "10", 
@@ -296,7 +296,7 @@
 {
     "Candidate_First_Pref_Votes": "2096", 
     "Status": "", 
-    "Occurred_On_Count": "0", 
+    "Occurred_On_Count": "", 
     "Surname": "WEBB", 
     "Firstname": "Billy", 
     "Constituency_Number": "10", 
@@ -310,7 +310,7 @@
 {
     "Candidate_First_Pref_Votes": "3488", 
     "Status": "", 
-    "Occurred_On_Count": "0", 
+    "Occurred_On_Count": "", 
     "Surname": "BRADLEY", 
     "Firstname": "Paula", 
     "Constituency_Number": "10", 
@@ -324,7 +324,7 @@
 {
     "Candidate_First_Pref_Votes": "2758", 
     "Status": "", 
-    "Occurred_On_Count": "0", 
+    "Occurred_On_Count": "", 
     "Surname": "COBAIN", 
     "Firstname": "Fred", 
     "Constituency_Number": "10", 
@@ -338,7 +338,7 @@
 {
     "Candidate_First_Pref_Votes": "3724", 
     "Status": "", 
-    "Occurred_On_Count": "0", 
+    "Occurred_On_Count": "", 
     "Surname": "HUMPHREY", 
     "Firstname": "William", 
     "Constituency_Number": "10", 
@@ -380,7 +380,7 @@
 {
     "Candidate_First_Pref_Votes": "998", 
     "Status": "", 
-    "Occurred_On_Count": "0", 
+    "Occurred_On_Count": "", 
     "Surname": "MAGEE", 
     "Firstname": "JJ", 
     "Constituency_Number": "10", 
@@ -394,7 +394,7 @@
 {
     "Candidate_First_Pref_Votes": "4025", 
     "Status": "", 
-    "Occurred_On_Count": "0", 
+    "Occurred_On_Count": "", 
     "Surname": "MAGINNESS", 
     "Firstname": "Alban", 
     "Constituency_Number": "10", 
@@ -422,7 +422,7 @@
 {
     "Candidate_First_Pref_Votes": "1176", 
     "Status": "", 
-    "Occurred_On_Count": "0", 
+    "Occurred_On_Count": "", 
     "Surname": "MCCORD", 
     "Firstname": "Raymond", 
     "Constituency_Number": "10", 
@@ -436,7 +436,7 @@
 {
     "Candidate_First_Pref_Votes": "2999", 
     "Status": "", 
-    "Occurred_On_Count": "0", 
+    "Occurred_On_Count": "", 
     "Surname": "NI CUILIN", 
     "Firstname": "Caral", 
     "Constituency_Number": "10", 
@@ -450,7 +450,7 @@
 {
     "Candidate_First_Pref_Votes": "2096", 
     "Status": "", 
-    "Occurred_On_Count": "0", 
+    "Occurred_On_Count": "", 
     "Surname": "WEBB", 
     "Firstname": "Billy", 
     "Constituency_Number": "10", 
@@ -464,7 +464,7 @@
 {
     "Candidate_First_Pref_Votes": "3488", 
     "Status": "", 
-    "Occurred_On_Count": "0", 
+    "Occurred_On_Count": "", 
     "Surname": "BRADLEY", 
     "Firstname": "Paula", 
     "Constituency_Number": "10", 
@@ -478,7 +478,7 @@
 {
     "Candidate_First_Pref_Votes": "2758", 
     "Status": "", 
-    "Occurred_On_Count": "0", 
+    "Occurred_On_Count": "", 
     "Surname": "COBAIN", 
     "Firstname": "Fred", 
     "Constituency_Number": "10", 
@@ -492,7 +492,7 @@
 {
     "Candidate_First_Pref_Votes": "3724", 
     "Status": "", 
-    "Occurred_On_Count": "0", 
+    "Occurred_On_Count": "", 
     "Surname": "HUMPHREY", 
     "Firstname": "William", 
     "Constituency_Number": "10", 
@@ -534,7 +534,7 @@
 {
     "Candidate_First_Pref_Votes": "998", 
     "Status": "", 
-    "Occurred_On_Count": "0", 
+    "Occurred_On_Count": "", 
     "Surname": "MAGEE", 
     "Firstname": "JJ", 
     "Constituency_Number": "10", 
@@ -548,7 +548,7 @@
 {
     "Candidate_First_Pref_Votes": "4025", 
     "Status": "", 
-    "Occurred_On_Count": "0", 
+    "Occurred_On_Count": "", 
     "Surname": "MAGINNESS", 
     "Firstname": "Alban", 
     "Constituency_Number": "10", 
@@ -575,8 +575,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "1176", 
-    "Status": "", 
-    "Occurred_On_Count": "0", 
+    "Status": "Excluded", 
+    "Occurred_On_Count": "4", 
     "Surname": "MCCORD", 
     "Firstname": "Raymond", 
     "Constituency_Number": "10", 
@@ -589,8 +589,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "2999", 
-    "Status": "Excluded", 
-    "Occurred_On_Count": "4", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
     "Surname": "NI CUILIN", 
     "Firstname": "Caral", 
     "Constituency_Number": "10", 
@@ -604,7 +604,7 @@
 {
     "Candidate_First_Pref_Votes": "2096", 
     "Status": "", 
-    "Occurred_On_Count": "0", 
+    "Occurred_On_Count": "", 
     "Surname": "WEBB", 
     "Firstname": "Billy", 
     "Constituency_Number": "10", 
@@ -618,7 +618,7 @@
 {
     "Candidate_First_Pref_Votes": "3488", 
     "Status": "", 
-    "Occurred_On_Count": "0", 
+    "Occurred_On_Count": "", 
     "Surname": "BRADLEY", 
     "Firstname": "Paula", 
     "Constituency_Number": "10", 
@@ -632,7 +632,7 @@
 {
     "Candidate_First_Pref_Votes": "2758", 
     "Status": "", 
-    "Occurred_On_Count": "0", 
+    "Occurred_On_Count": "", 
     "Surname": "COBAIN", 
     "Firstname": "Fred", 
     "Constituency_Number": "10", 
@@ -646,7 +646,7 @@
 {
     "Candidate_First_Pref_Votes": "3724", 
     "Status": "", 
-    "Occurred_On_Count": "0", 
+    "Occurred_On_Count": "", 
     "Surname": "HUMPHREY", 
     "Firstname": "William", 
     "Constituency_Number": "10", 
@@ -702,7 +702,7 @@
 {
     "Candidate_First_Pref_Votes": "4025", 
     "Status": "", 
-    "Occurred_On_Count": "0", 
+    "Occurred_On_Count": "", 
     "Surname": "MAGINNESS", 
     "Firstname": "Alban", 
     "Constituency_Number": "10", 
@@ -744,7 +744,7 @@
 {
     "Candidate_First_Pref_Votes": "2999", 
     "Status": "", 
-    "Occurred_On_Count": "0", 
+    "Occurred_On_Count": "", 
     "Surname": "NI CUILIN", 
     "Firstname": "Caral", 
     "Constituency_Number": "10", 
@@ -758,7 +758,7 @@
 {
     "Candidate_First_Pref_Votes": "2096", 
     "Status": "", 
-    "Occurred_On_Count": "0", 
+    "Occurred_On_Count": "", 
     "Surname": "WEBB", 
     "Firstname": "Billy", 
     "Constituency_Number": "10", 
@@ -772,7 +772,7 @@
 {
     "Candidate_First_Pref_Votes": "3488", 
     "Status": "", 
-    "Occurred_On_Count": "0", 
+    "Occurred_On_Count": "", 
     "Surname": "BRADLEY", 
     "Firstname": "Paula", 
     "Constituency_Number": "10", 
@@ -786,7 +786,7 @@
 {
     "Candidate_First_Pref_Votes": "2758", 
     "Status": "", 
-    "Occurred_On_Count": "0", 
+    "Occurred_On_Count": "", 
     "Surname": "COBAIN", 
     "Firstname": "Fred", 
     "Constituency_Number": "10", 
@@ -800,7 +800,7 @@
 {
     "Candidate_First_Pref_Votes": "3724", 
     "Status": "", 
-    "Occurred_On_Count": "0", 
+    "Occurred_On_Count": "", 
     "Surname": "HUMPHREY", 
     "Firstname": "William", 
     "Constituency_Number": "10", 
@@ -898,7 +898,7 @@
 {
     "Candidate_First_Pref_Votes": "2999", 
     "Status": "", 
-    "Occurred_On_Count": "0", 
+    "Occurred_On_Count": "", 
     "Surname": "NI CUILIN", 
     "Firstname": "Caral", 
     "Constituency_Number": "10", 

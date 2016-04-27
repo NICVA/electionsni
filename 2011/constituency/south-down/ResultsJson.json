@@ -729,8 +729,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "8506", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
     "Surname": "RITCHIE ", 
     "Firstname": "Margaret", 
     "Constituency_Number": "14", 
@@ -743,8 +743,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "5955", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "2", 
     "Surname": "RUANE ", 
     "Firstname": "Caitriona", 
     "Constituency_Number": "14", 
@@ -939,8 +939,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "3882", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "7", 
     "Surname": "CLARKE ", 
     "Firstname": "Willie", 
     "Constituency_Number": "14", 

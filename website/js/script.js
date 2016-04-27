@@ -97,6 +97,7 @@
 		if (constituency_directory) {
 			this.innerHTML += '<p><a href="/' + '2011' + '/constituency/' + constituency_directory + '/stages.html">' + '2011' + ' Count Stages' + '</a></p>';
 			}
+        this.innerHTML += '<p><b>' + candidates.length + ' candidates nominated</b></p>';
 		console.log(constituency_directory);
 		for (i = 0; i < candidates.length; i++) {
 			if (candidates[i].Outgoing_Member == 1) {

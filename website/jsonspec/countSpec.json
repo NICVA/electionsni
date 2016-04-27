@@ -30,7 +30,7 @@
     },
     {
       name: "y", range: "height", type: "ordinal",
-      domain: {data: "countData", field: "Surname"}
+      domain: {data: "countData", field: "Candidate_Id"}
     },
     {
         name: "status", range:["red","green","white"], type: "ordinal", domain: ["Excluded", "Elected"]
@@ -54,7 +54,7 @@
         },
         update: {
           x: {scale: "x", field: "Count_Number"},
-          y: {scale: "y", field: "Surname"}
+          y: {scale: "y", field: "Candidate_Id"}
         }
       }
     },
@@ -62,18 +62,16 @@
       name: "labels",
       type: "text",
       from: {data: "countData",        
-             "transform": [{
-                  "type": "aggregate",
-                  "groupby": ["Surname"],
-                  "summarize": [{"field": "Surname","ops": ["mean"]}]
-              }] 
+             "transform": [
+                 {"type": "filter","test": "datum.Count_Number == 1"},
+                 {"type": "formula", "field": "candidate_party", "expr": "datum.Surname + ', ' + datum.Firstname"}] 
             },
       properties: {
         update: {
           x: {value: 20, offset: -50},
-          y: {scale: "y", field: "Surname", offset: 0},
-          dy: {scale: "y", band: true, mult: 0.1},
-          text: {field: "Surname"},
+          y: {scale: "y", field: "Candidate_Id"},
+          //dy: {scale: "y", band: true, mult: 0.1},
+          text: {field: "candidate_party"},
           fontSize: {value: 12},
           align: {value: "right"},
           fill: {value: "black"}

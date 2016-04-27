@@ -73,7 +73,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 2,43,5,Michael,COPELAND,2194,25.5,2382.93,,,Ulster Unionist Party
 2,44,5,Sammy,DOUGLAS,2668,11.5,3831.03,,,Democratic Unionist Party
 2,45,5,Brian,ERVINE,1493,9.5,1680.62,,,Progressive Unionist Party
-2,46,5,Martin,GREGG,572,25,649.31,Excluded,6,Green Party
+2,46,5,Martin,GREGG,572,25,649.31,,,Green Party
 2,47,5,Chris,LYTTLE,4183,10.5,4330.5,,,Alliance Party
 2,48,5,Kevin,MCNALLY,102,0,0,Excluded,3,Workers Party
 2,49,5,Robin,NEWTON,2436,0,4622,Elected,2,Democratic Unionist Party
