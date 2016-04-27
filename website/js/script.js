@@ -154,7 +154,7 @@
 						el: "#count_matrix"
 					})
 					.on("mouseover", function(event, item) {
-						if (item && item.datum.Surname) {
+						if (item && item.datum.Surname && item.datum.Status) {
 							console.log(item);
 							$('#matrixtooltip').show();
 							$('#matrixtooltip').html(
