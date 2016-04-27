@@ -162,6 +162,13 @@
 								item.datum.Party_Name + "<br/>" +
 								item.datum.Status + ' on count ' + item.datum.Occurred_On_Count
 							);
+						} else if (item && item.datum.Surname) {
+							console.log(item);
+							$('#matrixtooltip').show();
+							$('#matrixtooltip').html(
+								"<b>" + item.datum.Firstname + ' ' + item.datum.Surname + "</b><br/>" +
+								item.datum.Party_Name
+							);
 						} else {
 							$('#matrixtooltip').hide();
 						}
