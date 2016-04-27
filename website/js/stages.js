@@ -16,7 +16,7 @@ var json = (function() {
         $.ajax({
             'async': false,
             'global': false,
-            'url': "/2011/constituency/foyle/ResultsJson.json",
+            'url': "ResultsJson.json",
             'dataType': "json",
             'success': function (data) {
                 json = data;
