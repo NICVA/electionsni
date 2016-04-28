@@ -119,7 +119,10 @@
 			this.innerHTML += '<b>Voting Age Population:</b> ' + numberWithCommas(constituency[0].countInfo.Voting_Age_Pop) + '<br/>';
 			}
 		if (constituency[0].countInfo.Total_Electorate) {
-			this.innerHTML += '<b>Electorate:</b> ' + numberWithCommas(constituency[0].countInfo.Total_Electorate) + '<br/><b>Voted:</b> ' + numberWithCommas(constituency[0].countInfo.Total_Poll) + '<br/><b>Turnout:</b> ' + ((constituency[0].countInfo.Total_Poll/constituency[0].countInfo.Total_Electorate) *100).toFixed(2) + '%';
+			this.innerHTML += '<b>Electorate:</b> ' + numberWithCommas(constituency[0].countInfo.Total_Electorate) + '<br/>';
+			}
+		if (constituency[0].countInfo.Total_Poll) {
+			this.innerHTML += '<b>Voted:</b> ' + numberWithCommas(constituency[0].countInfo.Total_Poll) + '<br/><b>Turnout:</b> ' + ((constituency[0].countInfo.Total_Poll/constituency[0].countInfo.Total_Electorate) *100).toFixed(2) + '%';
 		}
 	};
 	

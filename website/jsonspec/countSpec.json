@@ -1,6 +1,5 @@
 {
-  width: 300,
-  height: 300,
+
   
   signals: [
     {
@@ -33,7 +32,7 @@
       domain: {data: "countData", field: "Candidate_Id"}
     },
     {
-        name: "status", range:["red","green","white"], type: "ordinal", domain: ["Excluded", "Elected"]
+        name: "status", range:["red","green","#d6d6d6"], type: "ordinal", domain: ["Excluded", "Elected"]
     }
       
   ],
@@ -47,7 +46,7 @@
         enter: {
           shape: {value: "circle"},
           size: {value: 200},
-          fillOpacity: {value: 0.7},
+          fillOpacity: {value: 0.8},
           fill: {scale: "status", field: "Status"},
           stroke: {value: "#888"},
           strokeWidth: {value: 1}
