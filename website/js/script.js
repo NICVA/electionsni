@@ -147,11 +147,10 @@
 		}; 
 		
 	// function to retrive vega spec to populate count matrix //
-	function countMatrix(option) {
-		var directory = option.getAttribute("data-dir");
+	function countMatrix(year, directory) {
 		$.get("/website/jsonspec/countSpec.json", function(json) {
 			var spec = JSON5.parse(json);
-			spec.data[0].url = '/' +  checkedYear + '/constituency/' + directory + '/Count.csv'; // needed to dynamically change the data url in spec to our desired path
+			spec.data[0].url = '/' +  year + '/constituency/' + directory + '/Count.csv'; // needed to dynamically change the data url in spec to our desired path
 			console.log(spec);
 			vg.parse.spec(spec, function(chart) {
 				var view = chart({

@@ -14,6 +14,8 @@
 	<link rel="stylesheet" type="text/css" href="/website/css/style.css" media="screen, handheld" />
 	<link rel="stylesheet" type="text/css" href="/website/css/overview.css" media="screen, handheld" />
 	<link rel="stylesheet" type="text/css" href="/website/css/enhanced.css" media="screen  and (min-width: 60.5em)" />
+	<link rel="stylesheet" type="text/css" href="/website/css/stages.css" media="screen, handheld" />
+	
 	<link rel="icon" type="image/png" href="/website/image/favicon-32x32.png" sizes="32x32" />
 	<link rel="icon" type="image/png" href="/website/image/favicon-16x16.png" sizes="16x16" />
 		<!--[if (lt IE 9)&(!IEMobile)]>
@@ -92,14 +94,29 @@
 			<span id="party" style="color: red"></span></br>
 			<span id="fpv"></span></br>
 		</div>
-		<h2>Transfers and Count Visualisations</h2>
+		<h2>Visualisations</h2>
 		<p>Choose a constituency and select a visualisation: transfers or count matrix.</p>
-		<form id="dropdowns" style="padding: 5px 5px 5px 5px">
-					<select class="select" id="constituencySelect" onchange="transfersLink(constituencySelect.options[constituencySelect.selectedIndex]);"><option value=null>--Choose Constituency</option></select><br/>
-					<button class="button" id="transfersButton">Transfers Animation</button><br/>
-					<input type="button" class="button" id="countMatrixButton" value="Count Matrix" onclick="countMatrix(constituencySelect.options[constituencySelect.selectedIndex])"><br/>
-		</form>
 
+		<div id="menuBar">
+            <select id="constituencySelect">
+            </select>
+            <select id="yearSelect">
+                <option>2011</option>
+                <option>2016</option>
+            </select>
+            <div id="controls">
+                <a href="#Again" id="again" class="fa fa-step-backward"></a>
+                <a href="#Pause" id="pause-replay" class="fa fa-pause"></a>
+                <a href="#Next" id="step" class="fa fa-step-forward"></a>
+            </div>
+            <div id="stageNumbers"></div>
+            <div id="quota"></div>
+        </div>
+		
+		<h3>Transfers</h3>
+        <div id="animation"></div>
+		
+		<h3>Count Matrix</h3>
 		<div id="overview_container"><div id="count_matrix"></div></div>
 		<div id="matrixtooltip"></div>
 		
@@ -114,18 +131,9 @@
 	<!--Load local scripts-->
  	<script type="text/javascript" src="/website/js/d3hexbin.js"></script>
 	<script type="text/javascript" src="/website/js/script.js"></script>
+	<script type="text/javascript" src="/website/js/stages2.js"></script>
 	
 	<script type="text/javascript">
-		// fill in constituencySelect menu
-		constituencyoptions();
-		
-		// default checkedYear to 2011; initially until we have 2016 results (then delete this)
-		var checkedYear = 2011; 
-		
-		function transfersLink (option) {
-			var directory = option.getAttribute("data-dir");
-			document.getElementById("transfersButton").setAttribute('formaction', '/' + checkedYear + '/constituency/' + directory + '/stages.html');
-			}
 		
 		// tooltip for countMatrix
 		$(document).bind('mousemove', function(e) {
@@ -134,6 +142,27 @@
 				"top": e.pageY
 			});
 		});
+
+        var year = $("#yearSelect :selected").text();
+        $.getJSON('/' + year + "/NI/all-constituency-info.json", function(data) {
+            var constituencies = data.Constituencies;
+            var constituencySelect = $("#constituencySelect");
+            $.each(constituencies, function(i, constituency){
+                var name = constituency.Constituency_Name;
+                var folder = name.toLowerCase().replace(" and ","-").replace(/\s/,"-");
+                $(constituencySelect).append($("<option/>").val(folder).text(name))
+            })
+            constituencySelect.change(function() {
+                var constituencyFolder = $("#constituencySelect :selected").val();
+                var year = $("#yearSelect :selected").text();
+				countMatrix(year, constituencyFolder);
+                animateStages(year, constituencyFolder);
+            })
+            var constituencyFolder = $("#constituencySelect :selected").val();
+            var year = $("#yearSelect :selected").text(); 
+			countMatrix(year, constituencyFolder);
+            animateStages(year,constituencyFolder);
+        })
 
 		
 	</script>

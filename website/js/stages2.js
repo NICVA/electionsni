@@ -33,7 +33,7 @@ function animateStages(year,constituencyFolder) {
             $.ajax({
                 'async': false,
                 'global': false,
-                'url': year + "/constituency/" + constituencyFolder + "/ResultsJson.json",
+                'url': '/' + year + "/constituency/" + constituencyFolder + "/ResultsJson.json",
                 'dataType': "json",
                 'success': function (data) {
                     json = data;
@@ -179,6 +179,7 @@ function animateStages(year,constituencyFolder) {
     //the magic, simple enough, append some divs and animate their width's to final position 
     //then animate their top to final position and move the name div at the same time
     function firstCount(){
+		$("#animation").height(candidates.length*30);
         $("#thepost").height(candidates.length*30);
         $("#thepost").css("left", postPosition); // set position of #thepost finishing line
         $(".stageNumber").removeClass("completed");

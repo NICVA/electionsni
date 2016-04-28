@@ -199,34 +199,6 @@ header p {
 .tooltip:hover .tooltiptext {
     visibility: visible;
 }
-	
-.votes{
-    height:25px;
-    width:0px;
-    position:absolute;
-    fill:#669999; background:#669999; color:#fff; // Default colours for independents, non-specified parties
-    overflow:hidden;
-    white-space:nowrap;
-    text-overflow:ellipsis;
-    color:white;
-    padding-top:3px;
-    box-sizing:border-box;
-}
-
-.candidateLabel{
-    height:25px;
-    width:200px;
-    position:absolute;
-    overflow:hidden;
-    white-space: nowrap;
-    text-overflow:ellipsis;
-}
-
-.Elected{
-	font-weight:bold;
-}
-
-.votes:before{content: " ";}
 
 .Social-Democratic-and-Labour-Party{fill:#cc3300!important; background:#cc3300!important; color:#fff}
 .Traditional-Unionist-Voice{fill:#0000e6!important; background:#0000e6!important; color:#fff}
@@ -253,33 +225,6 @@ header p {
 .Democracy-First{fill:#d7761d!important; background:#d7761d!important; color:#fff}
 .Animal-Welfare-Party{fill:#ce1d99!important; background:#ce1d99!important; color:#fff}
 
-#thepost{
-    width:2px;
-    background-color:black;
-    position:absolute;
-    top:40px;
-    left:810px;
-    height:0px;
-}
-
-#theline{
-    height:2px;
-    background-color:black;
-    position:absolute;
-    top:0px;
-    width:803px;
-}
-
-#constituency{
-    position:absolute;
-	margin-left:600px;
-	top:10px;
-}
-
-#controls{
-    display:inline-block;
-    margin-left:250px;
-}
 
 #cssmenu {
   background: #34495e;

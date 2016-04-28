@@ -20,6 +20,7 @@
 
 #animation {
     position: relative;
+	margin-bottom: 35px;
 }
 
 #stageNumbers {
@@ -65,6 +66,34 @@
     line-height: 20px !important;
     font-size: 11px;
 }
+
+.votes{
+    height:25px;
+    width:0px;
+    position:absolute;
+    fill:#669999; background:#669999; color:#fff; // Default colours for independents, non-specified parties
+    overflow:hidden;
+    white-space:nowrap;
+    text-overflow:ellipsis;
+    color:white;
+    padding-top:3px;
+    box-sizing:border-box;
+}
+
+.candidateLabel{
+    height:25px;
+    width:200px;
+    position:absolute;
+    overflow:hidden;
+    white-space: nowrap;
+    text-overflow:ellipsis;
+}
+
+.Elected{
+	font-weight:bold;
+}
+
+.votes:before{content: " ";}
 
 @-webkit-keyframes pulsate {
     0% {color: #34495e;}
