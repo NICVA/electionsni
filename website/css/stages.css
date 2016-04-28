@@ -1,0 +1,112 @@
+#controls a {
+    text-decoration: none;
+    margin-top: 2px;
+    margin-right: 4px;
+    color: #444;
+    width: 15px;
+/*    background: #ddd;*/
+    padding: 7px 0px 7px 5px;
+    border-radius: 50%;
+}
+
+#controls {
+    padding: 0px;
+/*    background: #eee;*/
+    margin: 2px 10px 0 20px !important;
+    display: block !important;
+    float: left;
+    font-size: 14px;
+}
+
+#animation {
+    position: relative;
+}
+
+#stageNumbers {
+    padding: 8px;
+    margin: 0 !important;
+    float: left;
+}
+
+#stageNumbers:before {
+    content: "Stages:";
+    float: left;
+    margin: 1px 10px 0 0;
+    font-size: 14px;
+    color: #888;
+} 
+
+.stageNumber {
+    width: 20px;
+    height: 20px;
+    background: #eee;
+    float: left;
+    text-align: center;
+    margin-left: 1px;
+    color: #888;
+    cursor: pointer;
+}
+
+.stageNumber.completed {
+    color: white;
+    background: #34495e;
+}
+
+.stageNumber.active {
+    color: white;
+    background: #34495e;
+    -webkit-animation: pulsate 1s ease-out;
+    -webkit-animation-iteration-count: infinite; 
+}
+
+.stageNumber p {
+    margin: 0;
+    vertical-align: middle;
+    line-height: 20px !important;
+    font-size: 11px;
+}
+
+@-webkit-keyframes pulsate {
+    0% {color: #34495e;}
+    50% {color: #fff;}
+    100% {color: #34495e;}
+}
+
+#menuBar {
+    overflow: auto;
+    padding: 4px 10px;
+}
+
+#menuBar select {
+    float: left;
+    margin-right: 10px;
+    font-size: 14px;
+    border: 0px;
+    margin-top: 7px;
+    background: #34495e;
+    color: white;
+}
+
+#quota {
+    float: left !important;
+    position: relative !important;
+    margin-left: 10px !important;
+    top: 10px;
+    font-size: 14px;
+    color: #888;
+}
+
+#thepost{
+    width:1px;
+    background-color:black;
+    position:absolute;
+    top:20px;
+    height:0px;
+}
+
+#theline{
+    border-top: 1px dashed black;
+    position:absolute;
+    top:193px;
+    width:803px;
+}
