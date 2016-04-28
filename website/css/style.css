@@ -225,6 +225,22 @@ header p {
 .Democracy-First{fill:#d7761d!important; background:#d7761d!important; color:#fff}
 .Animal-Welfare-Party{fill:#ce1d99!important; background:#ce1d99!important; color:#fff}
 
+.votes{
+    height:25px;
+    width:0px;
+    position:absolute;
+    fill:#669999; background:#669999; color:#fff; // Default colours for independents, non-specified parties
+    overflow:hidden;
+    white-space:nowrap;
+    text-overflow:ellipsis;
+    color:white;
+    padding-top:3px;
+    box-sizing:border-box;
+}
+.Elected{
+	font-weight:bold;
+}
+.votes:before{content: " ";}
 
 #cssmenu {
   background: #34495e;
