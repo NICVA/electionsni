@@ -78,7 +78,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 11,183,6,Peter,WEIR,3496,0,4101.36,Elected,2,Democratic Unionist Party
 11,184,6,Anne,WILSON,2100,35.15,2482.79,,,Alliance Party
 11,172,7,Steven,AGNEW,2207,9.46,2614.64,,,Green Party
-11,173,7,Colin,BREEN,1343,,0,Excluded,5,Ulster Unionist Party
+11,173,7,Colin,BREEN,1343,0,0,Excluded,5,Ulster Unionist Party
 11,174,7,Alan,CHAMBERS,1765,9.24,1989.29,Excluded,7,Independent
 11,175,7,Leslie,CREE,1585,57.53,2853.34,,,Ulster Unionist Party
 11,176,7,Gordon,DUNNE,3741,-105.96,4015,Elected,2,Democratic Unionist Party
