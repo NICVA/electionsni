@@ -3,13 +3,17 @@
 //Get the data
 var data; // a global
 
-d3.json("/2011/NI/all-elected-d3.json", function(error, json) {
-  if (error) return console.warn(error);
-  data = json;
-  pushdata(data,"Party_Name","asc");
-  document.getElementById("number-elected").innerHTML = candidate.length + ' candidates elected. Hover to see who and where.';
-  visualise();
-});
+function getdata(year) {
+	d3.json("/" + year + "/NI/all-elected-d3.json", function(error, json) {
+	  if (error) return console.warn(error);
+	  data = json;
+	  pushdata(data,"Party_Name","asc");
+	  document.getElementById("number-elected").innerHTML = candidate.length + ' candidates elected. Hover to see who and where.';
+	  visualise();
+	});
+}
+
+getdata(2011);
 
 // sort the data
 function sortit() {

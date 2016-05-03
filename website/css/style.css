@@ -245,11 +245,11 @@ header p {
     color:white;
     padding-top:3px;
     box-sizing:border-box;
+	text-shadow: 2px 2px 0 #000, -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
 }
 .Elected{
 	font-weight:bold;
 }
-.votes:before{content: " ";}
 
 #cssmenu {
   background: #34495e;

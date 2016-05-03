@@ -53,7 +53,7 @@ function animateStages(year,constituencyFolder) {
         var seats = parseInt(constituency["Number_Of_Seats"]);
         $("#quota").text("Quota: " + quota);
         $("#seats-span").text(seats);
-        $("#theline").css({top:14+(seats+1)*30});
+        $("#theline").css({top:17+(seats)*30});
         $("#theline").width(postPosition);
         var qFactor = voteWidth/quota; //all actual vote counts are multiplied by this to get a div width in proportion
 
@@ -233,14 +233,24 @@ function animateStages(year,constituencyFolder) {
                                     .appendTo("#animation").delay(300*speed)
                                     .animate({top:topMargin+ (countDict[i-1][candidates[t].id]["order"]*30), left:startLeft+voteWidth+20},900*speed, function(){
                                         earlyStage = false;
-                                        if (transfers[$(this).data('candidate')] >0 ){
+                                        if (transfers[$(this).data('candidate')] + countDict[i-1][$(this).data('candidate')]["total"] >0 ){
                                             $("#candidate"+$(this).data('candidate'))
                                             .text(countDict[i-1][$(this).data('candidate')]["total"]+" + "+transfers[$(this).data('candidate')]+ " " + countDict[i][$(this).data('candidate')]["status"]);
-                                        }
+                                        } else {
+											$("#candidate"+$(this).data('candidate'))
+                                            .text("")
+										}
                                     }).delay(100*speed)
                                     .animate({left:localLeft},900*speed, function(){
+										if (transfers[$(this).data('candidate')] + countDict[i][$(this).data('candidate')]["total"] >0 ){
+											console.log(transfers[$(this).data('candidate')] + countDict[i][$(this).data('candidate')]["total"]);
+                                            $("#candidate"+$(this).data('candidate'))
+                                            .text(countDict[i-1][$(this).data('candidate')]["total"]+transfers[$(this).data('candidate')]+ " " + countDict[i][$(this).data('candidate')]["status"]);
+                                        } else {
+											$("#candidate"+$(this).data('candidate'))
+                                            .text("")
+										};
                                         $("#candidate"+$(this).data('candidate')).width(countDict[i][$(this).data('candidate')]["total"] * qFactor)
-                                        .text(countDict[i][$(this).data('candidate')]["total"] + " " + countDict[i][$(this).data('candidate')]["status"])
                                         .animate({top:topMargin+(countDict[i][$(this).data('candidate')]["order"]*30)},{
                                             duration:500*speed,
                                             start:function(){

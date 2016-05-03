@@ -16,6 +16,7 @@
 	<link rel="stylesheet" type="text/css" href="/website/css/overview.css" media="screen, handheld" />
 	<link rel="stylesheet" type="text/css" href="/website/css/enhanced.css" media="screen  and (min-width: 60.5em)" />
 	<link rel="stylesheet" type="text/css" href="/website/css/stages.css" media="screen, handheld" />
+	<link rel="stylesheet" type="text/css" href="/website/css/transfers.css" media="screen, handheld" />
 	
 	<link rel="icon" type="image/png" href="/website/image/favicon-32x32.png" sizes="32x32" />
 	<link rel="icon" type="image/png" href="/website/image/favicon-16x16.png" sizes="16x16" />
@@ -79,6 +80,11 @@
 		<p>We'll be bringing you live (or as close to live) data on the vote counting as it happens after the Assembly Elections on 5 May 2016.</p>
 		<p>In the meantime, enjoy these visualisations from the <b>2011 Assembly Elections</b>.</p>
 		<h2>Elected Candidates Hexchart</h2>
+		<form id="year">
+			<b>Choose year:</b>
+					<input type="radio" name="year" value="2016" onchange="getdata(2016)"/> 2016
+					<input type="radio" name="year" value="2011" checked onchange="getdata(2011)"/> 2011<br/>
+		</form>
 		<form id="sorter">
 			<p><b>Sort by</b>
 			<input type="radio" name="sorter" value="party" onchange='pushdata(data,"Party_Name","asc");visualise();') checked>Party</input>
@@ -96,8 +102,7 @@
 			<span id="fpv"></span></br>
 		</div>
 		<h2>Visualisations</h2>
-		<p>Choose a constituency and select a visualisation: transfers or count matrix.</p>
-
+		<p>Choose a constituency and year.</p>
 		<div id="menuBar">
             <select id="constituencySelect">
             </select>
@@ -121,6 +126,10 @@
 		<div id="overview_container"><div id="count_matrix"></div></div>
 		<div id="matrixtooltip"></div>
 		
+		<h3>Party to Party Transfers</h3>
+		<p>This matrix summarises percentages of transfers between candidates from each party. It is based on only those count stages with a transfer from one single candidate. For that reason, it is only indicative of the transfers that were calculated during the actual count process, and cannot account for all ballots cast in a constituency.</p>
+		<div id="transfers"></div>
+		
 		<p>Thanks to James Bligh (<a href="http://twitter.com/anamates" target="_blank" title="External Link">@anamates</a>) for sharing the <a href="https://github.com/NICVA/electionsni/blob/master/website/js/stages.js" target="_blank" title="External Link">code</a> for the transfers animation.</p>
     </div>
 </div>
@@ -133,10 +142,11 @@
  	<script type="text/javascript" src="/website/js/d3hexbin.js"></script>
 	<script type="text/javascript" src="/website/js/script.js"></script>
 	<script type="text/javascript" src="/website/js/stages2.js"></script>
+	<script src="/website/js/transfers.js"></script>
 	
 	<script type="text/javascript">
 		
-		// tooltip for countMatrix
+		// tooltip
 		$(document).bind('mousemove', function(e) {
 			$('#matrixtooltip').css({
 				"left": e.pageX + 20,
@@ -148,6 +158,7 @@
         $.getJSON('/' + year + "/NI/all-constituency-info.json", function(data) {
             var constituencies = data.Constituencies;
             var constituencySelect = $("#constituencySelect");
+			var yearSelect = $("#yearSelect");
             $.each(constituencies, function(i, constituency){
                 var name = constituency.Constituency_Name;
                 var folder = name.toLowerCase().replace(" and ","-").replace(/\s/,"-");
@@ -159,8 +170,16 @@
 				countMatrix(year, constituencyFolder);
                 animateStages(year, constituencyFolder);
             })
+			yearSelect.change(function() {
+                var constituencyFolder = $("#constituencySelect :selected").val();
+                var year = $("#yearSelect :selected").text();
+				getTransfersData(year);
+				countMatrix(year, constituencyFolder);
+                animateStages(year, constituencyFolder);
+            })
             var constituencyFolder = $("#constituencySelect :selected").val();
             var year = $("#yearSelect :selected").text(); 
+			getTransfersData(2011);
 			countMatrix(year, constituencyFolder);
             animateStages(year,constituencyFolder);
         })

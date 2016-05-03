@@ -1,0 +1,100 @@
+{
+  width: 700,
+  height: 200,
+  
+  data: [],
+    
+  scales: [
+    {
+      name: "x", range: "width", type: "ordinal",
+      domain: {data: "transfers", field: "recipient"}
+    },
+    {
+      name: "y", range: "height", type: "ordinal",
+      domain: {data: "transfers", field: "donor"}
+    },
+    {
+      name: "size", range:[0,500], type: "linear", 
+      domain: {data: "transfers", field: "amount"}
+    },
+    {
+      name: "y2", range: {data: "ty", field: "height"}, type: "ordinal",
+      domain: {data: "transfers", field: "donor"}
+    },     
+    {
+      name: "x2", range: {data: "tx", field: "width"}, type: "ordinal",
+      domain: {data: "transfers", field: "recipient"}
+    } 
+  ],
+    
+  marks: [  
+    {
+      name: "transfers",
+      type: "symbol",
+      from: {data: "transfers"},
+      properties: {
+        enter: {
+          shape: {value: "circle"},
+          size: {scale: "size", field: "amount"},
+          fill: {field: "color"},
+          stroke: {value: "#000"},
+          strokeWidth: {value: 1},
+          strokeOpacity: {value: 0.5}
+        },
+        update: {
+          x: {scale: "x2", field: "recipient"},
+          y: {scale: "y2", field: "donor", offset: -30},
+          fillOpacity: {value: 1}
+        },
+        hover: {
+          fillOpacity: {value: 0.5}
+        } 
+      }
+    },
+    {
+      name: "donorLabels",
+      type: "text",
+      from: {data: "transfers",        
+             transform: [{
+                  type: "aggregate",
+                  groupby: ["donor"],
+                  summarize: [{"field": "amount","ops": ["mean"]}]
+             }]
+            },             
+      properties: {
+        update: {
+          x: {value: 20, offset: -10},
+          y: {scale: "y2", field: "donor", offset: -27},
+          dy: {scale: "y", band: true, mult: 0.02},
+          text: {field: "donor"},
+          fontSize: {value: 12},
+          align: {value: "right"},
+          fill: {value: "black"}
+        }
+      }
+    },
+    {
+      name: "recipientLabels",
+      type: "text",
+      from: {data: "transfers",        
+             transform: [{
+                  type: "aggregate",
+                  groupby: ["recipient"],
+                  summarize: [{"field": "amount","ops": ["mean"]}]
+             }]
+            }, 
+      properties: {
+        update: {
+          x: {scale: "x2", field: "recipient"},
+          dx: {scale: "x2", band: true, mult: -0.005},
+          y: {value: -30},
+          text: {field: "recipient"},
+          fontSize: {value: 12},
+          align: {value: "center"},
+          fill: {value: "black"}
+        }
+      }
+    }
+  ]
+
+}
