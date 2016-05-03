@@ -99,6 +99,15 @@ header p {
     color: #777;
 }
 
+#thepost{
+    width:2px;
+    background-color:black;
+    position:absolute;
+    top:40px;
+    left:810px;
+    height:0px;
+}
+
 .Alliance-Party_label:before{
 	 content: "(Alliance) ";
 }

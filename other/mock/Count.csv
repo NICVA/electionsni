@@ -1,0 +1,81 @@
+Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_Pref_Votes,Transfers,Total_Votes,Status,Occurred_On_Count,Party_Name
+1,1,1,,Apple Tart,20,0,20,Elected,1,Pastry Party
+1,2,1,,Banoffee,24,0,24,Elected,1,Fruit Party
+1,3,1,,Cheese board,13,0,13,,,Independent
+1,4,1,,Cheesecake,21,0,21,Elected,1,Egg Party
+1,5,1,,Christmas Pudding,6,0,6,,,Fruit Party
+1,6,1,,Crème Brulee,9,0,9,,,Egg Party
+1,7,1,,Fruit Salad,5,0,5,,,Fruit Party
+1,8,1,,Pavlova,16,0,16,,,Cream Party
+1,9,1,,Tiramisu,5,0,5,,,Cream Party
+1,10,1,,Trifle,8,0,8,,,Fruit Party
+1,1,2,,Apple Tart,20,0,20,Elected,1,Pastry Party
+1,2,2,,Banoffee,24,-5,19,Elected,1,Fruit Party
+1,3,2,,Cheese board,13,0,13,,,Independent
+1,4,2,,Cheesecake,21,0,21,Elected,1,Egg Party
+1,5,2,,Christmas Pudding,6,0.63,6.63,,,Fruit Party
+1,6,2,,Crème Brulee,9,0.84,9.84,,,Egg Party
+1,7,2,,Fruit Salad,5,0.63,5.63,,,Fruit Party
+1,8,2,,Pavlova,16,2.31,18.31,,,Cream Party
+1,9,2,,Tiramisu,5,0.21,5.21,,,Cream Party
+1,10,2,,Trifle,8,0.21,8.21,,,Fruit Party
+1,1,3,,Apple Tart,20,0,20,Elected,1,Pastry Party
+1,2,3,,Banoffee,24,0,19,Elected,1,Fruit Party
+1,3,3,,Cheese board,13,0.11,13.11,,,Independent
+1,4,3,,Cheesecake,21,-2,19,Elected,1,Egg Party
+1,5,3,,Christmas Pudding,6,0.22,6.85,,,Fruit Party
+1,6,3,,Crème Brulee,9,0.66,10.5,,,Egg Party
+1,7,3,,Fruit Salad,5,0.33,5.96,,,Fruit Party
+1,8,3,,Pavlova,16,0.22,18.53,,,Cream Party
+1,9,3,,Tiramisu,5,0.33,5.54,,,Cream Party
+1,10,3,,Trifle,8,0.11,8.32,,,Fruit Party
+1,1,4,,Apple Tart,20,-1,19,Elected,1,Pastry Party
+1,2,4,,Banoffee,24,0,19,Elected,1,Fruit Party
+1,3,4,,Cheese board,13,0.15,13.26,,,Independent
+1,4,4,,Cheesecake,21,0,19,Elected,1,Egg Party
+1,5,4,,Christmas Pudding,6,0.2,7.05,,,Fruit Party
+1,6,4,,Crème Brulee,9,0.1,10.6,,,Egg Party
+1,7,4,,Fruit Salad,5,0.25,6.21,,,Fruit Party
+1,8,4,,Pavlova,16,0,18.53,,,Cream Party
+1,9,4,,Tiramisu,5,0.05,5.59,Excluded,4,Cream Party
+1,10,4,,Trifle,8,0.1,8.42,,,Fruit Party
+1,1,5,,Apple Tart,20,0,19,Elected,1,Pastry Party
+1,2,5,,Banoffee,24,0,19,Elected,1,Fruit Party
+1,3,5,,Cheese board,13,0,13.26,,,Independent
+1,4,5,,Cheesecake,21,0,19,Elected,1,Egg Party
+1,5,5,,Christmas Pudding,6,0,7.05,,,Fruit Party
+1,6,5,,Crème Brulee,9,0,10.6,,,Egg Party
+1,7,5,,Fruit Salad,5,2.09,8.3,,,Fruit Party
+1,8,5,,Pavlova,16,3.05,21.58,Elected,5,Cream Party
+1,9,5,,Tiramisu,5,-5.59,0,Excluded,4,Cream Party
+1,10,5,,Trifle,8,0.29,8.71,,,Fruit Party
+1,1,6,,Apple Tart,20,0,19,Elected,1,Pastry Party
+1,2,6,,Banoffee,24,0,19,Elected,1,Fruit Party
+1,3,6,,Cheese board,13,0,13.26,,,Independent
+1,4,6,,Cheesecake,21,0,19,Elected,1,Egg Party
+1,5,6,,Christmas Pudding,6,0,7.05,Excluded,6,Fruit Party
+1,6,6,,Crème Brulee,9,0,10.6,,,Egg Party
+1,7,6,,Fruit Salad,5,0,8.3,,,Fruit Party
+1,8,6,,Pavlova,16,-2.58,19,Elected,5,Cream Party
+1,9,6,,Tiramisu,5,0,0,Excluded,4,Cream Party
+1,10,6,,Trifle,8,1.7,10.41,,,Fruit Party
+1,1,7,,Apple Tart,20,0,19,Elected,1,Pastry Party
+1,2,7,,Banoffee,24,0,19,Elected,1,Fruit Party
+1,3,7,,Cheese board,13,2,15.26,,,Independent
+1,4,7,,Cheesecake,21,0,19,Elected,1,Egg Party
+1,5,7,,Christmas Pudding,6,-7.05,0,Excluded,6,Fruit Party
+1,6,7,,Crème Brulee,9,0,10.6,,,Egg Party
+1,7,7,,Fruit Salad,5,1,9.3,Excluded,7,Fruit Party
+1,8,7,,Pavlova,16,0,19,Elected,5,Cream Party
+1,9,7,,Tiramisu,5,0,0,Excluded,4,Cream Party
+1,10,7,,Trifle,8,1,11.41,,,Fruit Party
+1,1,8,,Apple Tart,20,0,19,Elected,1,Pastry Party
+1,2,8,,Banoffee,24,0,19,Elected,1,Fruit Party
+1,3,8,,Cheese board,13,5,20.26,Elected,8,Independent
+1,4,8,,Cheesecake,21,0,19,Elected,1,Egg Party
+1,5,8,,Christmas Pudding,6,0,0,Excluded,6,Fruit Party
+1,6,8,,Crème Brulee,9,0,10.6,,,Egg Party
+1,7,8,,Fruit Salad,5,-9.3,0,Excluded,7,Fruit Party
+1,8,8,,Pavlova,16,0,19,Elected,5,Cream Party
+1,9,8,,Tiramisu,5,0,0,Excluded,4,Cream Party
+1,10,8,,Trifle,8,1,12.41,Elected,8,Fruit Party

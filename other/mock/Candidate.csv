@@ -1,0 +1,11 @@
+Constituency_Name,Constituency_Number,Candidate_Id,Firstname,Surname,Outgoing_Member,Party_Id,Party_Name
+Dessert,1,1,,Apple Tart,,1,Pastry Party
+Dessert,1,2,,Banoffee,,2,Fruit Party
+Dessert,1,3,,Cheese board,,3,Independent
+Dessert,1,4,,Cheesecake,,4,Egg Party
+Dessert,1,5,,Christmas Pudding,,2,Fruit Party
+Dessert,1,6,,Crème brûlée,,4,Egg Party
+Dessert,1,7,,Fruit Salad,,2,Fruit Party
+Dessert,1,8,,Pavlova,,5,Cream Party
+Dessert,1,9,,Tiramisu,,5,Cream Party
+Dessert,1,10,,Trifle,,2,Fruit Party

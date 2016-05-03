@@ -118,7 +118,6 @@
 
 #quota {
     float: left !important;
-    position: relative !important;
     margin-left: 10px !important;
     top: 10px;
     font-size: 14px;

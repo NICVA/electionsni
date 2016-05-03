@@ -1,0 +1,59 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+ <meta charset='utf-8'>
+ <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.js"></script>
+	<link rel="stylesheet" href="/website/css/font-awesome.min.css">
+	<link rel="stylesheet" type="text/css" href="/website/css/style.css" media="screen, handheld" />
+	<link rel="stylesheet" type="text/css" href="/website/css/enhanced.css" media="screen  and (min-width: 60.5em)" />
+	<link rel="stylesheet" type="text/css" href="/website/css/stages.css" media="screen, handheld" />
+		<!--[if (lt IE 9)&(!IEMobile)]>
+		<link rel="stylesheet" type="text/css" href="enhanced.css" />
+		<![endif]-->
+</head>
+<style>
+.Pastry-Party_label:before{
+	 content: "(Pastry) ";
+}
+.Fruit-Party_label:before{
+     content: "(Fruit) ";
+}
+.Independent_label:before {
+     content: "(Ind) ";
+}
+.Egg-Party_label:before {
+     content: "(Egg) ";
+}
+.Cream-Party_label:before{
+     content: "(Cream) ";
+}
+.Pastry-Party{fill:#cc3300!important; background:#cc3300!important; color:#fff}
+.Fruit-Party{fill:#0000e6!important; background:#0000e6!important; color:#fff}
+.Cream-Party{fill:#33ff33!important; background:#33ff33!important; color:#fff}
+.Independent{fill:#669999!important; background:#669999!important; color:#fff}
+.Egg-Party{fill:#f633ff!important; background:#f633ff!important; color:#fff}
+
+#thepost{
+    width:2px;
+    background-color:black;
+    position:absolute;
+    top:40px;
+    left:810px;
+    height:0px;
+}
+</style>
+<body>
+
+<a href="/">Back</a>
+<div id="constituency" style="display: inline-block"><b><span id="constituency-span"></span></b> Quota <span id="quota-span"></span> <b>Stage <span id="count-span">1</span></b></div>
+<div id="controls">
+    <a href="#Pause" id="pause-replay">Pause</a> | <a href="#Next" id="step">Next</a> | <a href="#Again" id="again">Do that bit again</a>
+</div>
+<div id="thepost"></div>
+<div id="theline"></div>
+
+
+  <script src="/website/js/stages.js"></script>
+
+</body>
+</html>
