@@ -89,6 +89,51 @@ var parties = {
     "Party_Abbreviation": "PUP",
     "Hex_Col": "#1e0082"
   },
+  "Animal Welfare Party": {
+    "Party_Id": 985,
+    "Party_Abbreviation": "AWP",
+    "Hex_Col": "#ce1d99"
+  },
+  "Cannabis Is Safer Than Alcohol": {
+    "Party_Id": 993,
+    "Party_Abbreviation": "CISTA",
+    "Hex_Col": "#ff7979"
+  },
+  "Cross-Community Labour Alternative": {
+    "Party_Id": 987,
+    "Party_Abbreviation": "CCLAB",
+    "Hex_Col": "#ce1d4d"
+  },
+  "Democracy First": {
+    "Party_Id": 986,
+    "Party_Abbreviation": "DF",
+    "Hex_Col": "#d7761d"
+  },
+  "Labour Alternative": {
+    "Party_Id": 992,
+    "Party_Abbreviation": "LABALT",
+    "Hex_Col": "#ca0000"
+  },
+  "NI Conservatives": {
+    "Party_Id": 991,
+    "Party_Abbreviation": "CON",
+    "Hex_Col": "#362da7"
+  },
+  "South Belfast Unionists": {
+    "Party_Id": 990,
+    "Party_Abbreviation": "SBU",
+    "Hex_Col": "#9195ff"
+  },
+  "Northern Ireland First": {
+    "Party_Id": 988,
+    "Party_Abbreviation": "NIF",
+    "Hex_Col": "#b3d71d"
+  },
+  "NI Labour Representation Committee": {
+    "Party_Id": 989,
+    "Party_Abbreviation": "LRC",
+    "Hex_Col": "#800000"
+  },
   "not_transferred": {
     "Party_Id": 0,
     "Party_Abbreviation": "N/T",

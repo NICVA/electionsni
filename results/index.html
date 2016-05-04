@@ -65,16 +65,18 @@
 		<h1><a href = "/">Elections NI</a></h1>
 		<p>Open data for the Assembly Elections #AE16</p>
 	</header>
+	<label for="show-menu" class="show-menu">Menu</label>
+	<input type="checkbox" id="show-menu" role="button">
 	<div id='cssmenu'>
 		<ul>
-			<li><a href='/'><span>Constituencies</span></a></li>
+			<li><a href='/constituencies'><span>Constituencies</span></a></li>
 			<li class='active'><a href='/results'><span>Results</span></a></li>
 			<li><a href='/candidates'><span>Candidates</span></a></li>
 			<li><a href='/data'><span>Data</span></a></li>
 			<li class='last'><a href='/about'><span>About</span></a></li>
 		</ul>
 	</div>
-	<div class="cta"><b>We're looking for observers to crowdsource live results data during the count. Contributing couldn't be easier. If you'd like to help <a href="/about#help">click here</a>.</b></div>
+	<div class="cta"><b>This is the 'live' process of updating crowdsourced Assembly Elections data. The 2016 data may be incomplete and is provisional until further notice. <a href="/about#help">How can I contribute data?</a>.</b></div>
 	
 	<div class="content">
 		<p>We'll be bringing you live (or as close to live) data on the vote counting as it happens after the Assembly Elections on 5 May 2016.</p>
@@ -82,8 +84,8 @@
 		<h2>Elected Candidates Hexchart</h2>
 		<form id="year">
 			<b>Choose year:</b>
-					<input type="radio" name="year" value="2016" onchange="getdata(2016)"/> 2016
-					<input type="radio" name="year" value="2011" checked onchange="getdata(2011)"/> 2011<br/>
+					<input type="radio" name="year" value="2016" checked onchange="getdata(2016)"/> 2016
+					<input type="radio" name="year" value="2011" onchange="getdata(2011)"/> 2011<br/>
 		</form>
 		<form id="sorter">
 			<p><b>Sort by</b>
@@ -107,8 +109,8 @@
             <select id="constituencySelect">
             </select>
             <select id="yearSelect">
-                <option>2011</option>
                 <option>2016</option>
+                <option>2011</option>
             </select>
         </div>
 		
@@ -127,7 +129,7 @@
 		<div id="matrixtooltip"></div>
 		
 		<h3>Party to Party Transfers</h3>
-		<p>This matrix summarises percentages of transfers between candidates from each party. It is based on only those count stages with a transfer from one single candidate. For that reason, it is only indicative of the transfers that were calculated during the actual count process, and cannot account for all ballots cast in a constituency.</p>
+		<p>This matrix summarises the percentage of transfers between candidates from each party. It is based on only those count stages with a transfer from one single candidate. It is only indicative of the transfers that were calculated during the actual count process, and cannot account for all ballots cast in a constituency.</p>
 		<div id="transfers"></div>
 		
 		<p>Thanks to James Bligh (<a href="http://twitter.com/anamates" target="_blank" title="External Link">@anamates</a>) for sharing the <a href="https://github.com/NICVA/electionsni/blob/master/website/js/stages.js" target="_blank" title="External Link">code</a> for the transfers animation.</p>
@@ -145,6 +147,11 @@
 	<script src="/website/js/transfers.js"></script>
 	
 	<script type="text/javascript">
+	
+		// for AE16-LIVE we don't want to chace json in case users don't see the updates
+		$(document).ready(function() {
+		  $.ajaxSetup({ cache: false });
+		});
 		
 		// tooltip
 		$(document).bind('mousemove', function(e) {
@@ -179,7 +186,7 @@
             })
             var constituencyFolder = $("#constituencySelect :selected").val();
             var year = $("#yearSelect :selected").text(); 
-			getTransfersData(2011);
+			getTransfersData(year);
 			countMatrix(year, constituencyFolder);
             animateStages(year,constituencyFolder);
         })

@@ -44,7 +44,7 @@
 		});
 	}
 		
-	var boundaries = new L.GeoJSON.AJAX('./2016/NI/boundaries/OSNI_Constituencies.geojson', {
+	var boundaries = new L.GeoJSON.AJAX('/2016/NI/boundaries/OSNI_Constituencies.geojson', {
 		style: layerStyle,
 		onEachFeature: onEachFeature
 		});

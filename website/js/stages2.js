@@ -40,11 +40,13 @@ function animateStages(year,constituencyFolder) {
                 },
                 
             })
-            .fail(function(e){console.log(e)});
+            .fail(function(e){console.log('failed log', e)});
             return json;
         })();
-    var	constituency = json.Constituency.countInfo;
-    var data = json.Constituency.countGroup;
+    if (json.Constituency.countGroup.length) {
+		var	constituency = json.Constituency.countInfo;
+		var data = json.Constituency.countGroup;
+	}
 
     if(constituency){
         //set the top right bit
@@ -173,7 +175,8 @@ function animateStages(year,constituencyFolder) {
         loop = window.setInterval(advanceCount,4000*speed);
     }else{
         //if we didn't load a constituency var then we have no data yet
-        $("#animation").text("There is no data up for this constituency at present");
+        $("#quota").text("There is no data up for this constituency at present. Once we receive and add it, it will display here.");
+		$("#stageNumbers").html("");
     }
 
     //the magic, simple enough, append some divs and animate their width's to final position 

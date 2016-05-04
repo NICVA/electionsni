@@ -13,7 +13,7 @@ function getdata(year) {
 	});
 }
 
-getdata(2011);
+getdata(2016);
 
 // sort the data
 function sortit() {
