@@ -101,7 +101,7 @@ with open(jsonMain, 'wb') as main:
                 main.write(str(Non))
                 main.write('\n\t\t}')
                     
-        main.write('\n\t\t]\n\t}')
+        main.write('\n\t\t]\n\t}\n')
     main.write(']')
 
 print jsonMain, 'saved'

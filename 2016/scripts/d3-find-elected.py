@@ -73,5 +73,5 @@ with open(jsonMain, 'wb') as main:
                 
                 e += 1
         c += 1
-    main.write('\n]')
+    main.write('\n]\n')
     print 'Found', e, 'elected candidates across', c, 'constituencies'

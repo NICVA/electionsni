@@ -14,6 +14,7 @@
 	<link rel="stylesheet" href="/website/css/font-awesome.min.css">
 	<link rel="stylesheet" type="text/css" href="/website/css/style.css" media="screen, handheld" />
 	<link rel="stylesheet" type="text/css" href="/website/css/overview.css" media="screen, handheld" />
+	<link rel="stylesheet" type="text/css" href="/website/css/overview2.css" media="screen, handheld" />
 	<link rel="stylesheet" type="text/css" href="/website/css/enhanced.css" media="screen  and (min-width: 60.5em)" />
 	<link rel="stylesheet" type="text/css" href="/website/css/stages.css" media="screen, handheld" />
 	<link rel="stylesheet" type="text/css" href="/website/css/transfers.css" media="screen, handheld" />
@@ -70,7 +71,7 @@
 	<div id='cssmenu'>
 		<ul>
 			<li><a href='/constituencies'><span>Constituencies</span></a></li>
-			<li class='active'><a href='/'><span>Results</span></a></li>
+			<li class='active'><a href='/results'><span>Results</span></a></li>
 			<li><a href='/candidates'><span>Candidates</span></a></li>
 			<li><a href='/data'><span>Data</span></a></li>
 			<li class='last'><a href='/about'><span>About</span></a></li>
@@ -80,7 +81,13 @@
 	
 	<div class="content">
 		<p>We'll be bringing you live (or as close to live) data on the vote counting as it happens after the Assembly Elections on 5 May 2016.</p>
-		<p>In the meantime, enjoy these visualisations from the <b>2011 Assembly Elections</b>.</p>
+
+            <div id = "overview_container">
+                <div id="overview_matrix"></div>
+                <div id="party_matrix">
+                    <div id="thirtySeats"></div>
+                </div>
+            </div>
 		<h2>Elected Candidates Hexchart</h2>
 		<form id="year">
 			<b>Choose year:</b>
@@ -145,6 +152,7 @@
 	<script type="text/javascript" src="/website/js/script.js"></script>
 	<script type="text/javascript" src="/website/js/stages2.js"></script>
 	<script src="/website/js/transfers.js"></script>
+	<script src="/website/js/overview_matrix2.js"></script>
 	
 	<script type="text/javascript">
 	

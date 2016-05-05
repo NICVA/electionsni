@@ -70,5 +70,5 @@ with open(jsonMain, 'wb') as main:
         c += 1
         
         print jsonName, ' saved', e, ' elected'
-    main.write(']}')
+    main.write('\n]}\n')
     print jsonMain, ' saved'

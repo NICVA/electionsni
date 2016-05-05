@@ -30,5 +30,5 @@ for con in constituencies:
         i += 1
         json.dump(row, jsonfile, indent = 4, separators = (', ',': '))
 
-    jsonfile.write(']}}')
+    jsonfile.write('\n]}}\n')
     print jsonName, ' saved'
