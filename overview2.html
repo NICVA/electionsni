@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Northern Ireland Elections Open Data</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="http://cdn.leafletjs.com/leaflet-0.7/leaflet.js"></script>
+    <script src="http://cdn.rawgit.com/calvinmetcalf/leaflet-ajax/gh-pages/dist/leaflet.ajax.min.js"></script>
+
+    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7/leaflet.css" />
+    <link rel="stylesheet" type="text/css" href="./website/css/style.css" media="screen, handheld" />
+    <link rel="stylesheet" type="text/css" href="./website/css/enhanced.css" media="screen  and (min-width: 50.5em)" />
+    <link rel="stylesheet" type="text/css" href="./website/css/overview.css" media="screen, handheld" />
+    <!--[if (lt IE 9)&(!IEMobile)]>
+		<link rel="stylesheet" type="text/css" href="enhanced.css" />
+		<![endif]-->
+
+    <script src="website/js/vendor/leaflet-canvasicon.js"></script>
+    <script src="website/js/vendor/leaflet-piechart.js"></script>
+    <script src="website/js/vendor/jquery-1.12.3.min.js"></script>
+    <script src="website/js/vendor/json5.js"></script>
+
+    <script src="website/js/vendor/d3.v3.min.js"></script>
+    <script src="website/js/vendor/vega.js"></script>
+
+</head>
+<style>
+
+</style>
+
+<body>
+
+    <div id="wrap">
+        <header>
+            <h1><a href = "/index.html">Elections NI</a></h1>
+            <p>Open data for the Assembly Elections #AE16
+                <p>
+        </header>
+        <div id='cssmenu'>
+            <ul>
+                <li class='active'><a href='index.html'><span>Constituencies</span></a></li>
+                <li><a href='results.html'><span>Results</span></a></li>
+                <li><a href='candidates.html'><span>Candidates</span></a></li>
+                <li><a href='data.html'><span>Data</span></a></li>
+                <li class='last'><a href='about.html'><span>About</span></a></li>
+            </ul>
+        </div>
+        <div class="content">
+            <div id = "overview_container">
+                <div id="overview_matrix"></div>
+                <div id="party_matrix">
+                    <div id="thirtySeats"></div>
+                </div>
+            </div>
+        </div>
+        <div id="footer">
+            Project by <a href="http://belfast.theodi.org">ODI Belfast</a> at <a href="http://www.nicva.org">NICVA</a> and the <a href="http://www.opengovernment.org.uk/about/ni-ogn/">Open Government Network NI</a>
+            <a href="http://belfast.theodi.org"><img src="./website/image/odibelfast500.png" height="75px" align="middle"></a>
+            <a href="http://www.opengovernment.org.uk/about/ni-ogn/"><img src="./website/image/ognni500.png" height="75px" align="middle"></a>
+        </div>
+    </div>
+    
+    <div id="tooltip"></div>
+    
+    <script src="website/js/script.js"></script>
+<!--    <script src="website/js/overview.js"></script>-->
+<!--    <script src="website/js/overview_matrix.js"></script>-->
+    <script src="website/js/overview_matrix2.js"></script>
+
+</body>
+
+<script type="text/javascript">
+    $(document).bind('mousemove', function(e) {
+        $('#tooltip').css({
+            "left": e.pageX + 20,
+            "top": e.pageY
+        });
+    });
+</script>
+
+</html>
