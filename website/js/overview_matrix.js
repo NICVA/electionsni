@@ -105,15 +105,19 @@ $.each(constituencies, function (i, constituency) {
   $("#overview_matrix").append("<div id='" + cname + "' class='constituency'/>");
   $("#" + cname).append("<div class='name'>" + constituency + "</div>");
   $("#" + cname).append("<div class='results' />");
-  // request the constituency results data
-  $.ajax({
-      'async': false,
-      'global': false,
-      'url': "2011/constituency/" + cname + "/ResultsJson.json",
-      'dataType': "json",
-      'success': function (data) {
+});
+
+// request the constituency results data
+$.ajax({
+  'async': false,
+  'global': false,
+  'url': "2011/NI/all-elected.json",
+  'dataType': "json",
+  'success': function (data) {
+     $.each(data.Constituencies, function (i, constituency) {
+        var cname = constituency.Constituency_Name.replace(" and ", "-").replace(" ", "-").toLowerCase();
         // get the elected reps from the data
-        var electedReps = getElected(data);
+        var electedReps = sortElected(constituency.Elected);
         // for each elected rep, add a result element to the constituency and party divs
         $.each(electedReps, function (i, rep) {
           var id = rep.Candidate_Id;
@@ -142,49 +146,44 @@ $.each(constituencies, function (i, constituency) {
               $("#tooltip").hide();
             });
         });
-      } 
-    })
-    .fail(function (e) {
+     }); 
+    }
+  })
+  .fail(function (e) {
       console.log(e)
-    });
+  });
+
+
+
+// sort parties according to greatest num_elected
+function compareElected(a,b) {
+if (a.Num_Elected < b.Num_Elected)
+return 1;
+else if (a.Num_Elected > b.Num_Elected)
+return -1;
+else 
+return 0;
+}
+var partyArray = $.map(parties, function(party) { 
+party.Num_Elected = party.Num_Elected || 0;
+return party 
 });
 
-  // sort parties according to greatest num_elected
-  function compareElected(a,b) {
-  if (a.Num_Elected < b.Num_Elected)
-    return 1;
-  else if (a.Num_Elected > b.Num_Elected)
-    return -1;
-  else 
-    return 0;
-  }
-  var partyArray = $.map(parties, function(party) { 
-    party.Num_Elected = party.Num_Elected || 0;
-    return party 
-  });
+partyArray = partyArray.sort(compareElected);
 
-  partyArray = partyArray.sort(compareElected);
-  
-  // position each party according to num_elected
-  $.each(partyArray, function(i, party){
-    $("#"+party.Party_Abbreviation).css("top",i*20+44);
-  })
+// position each party according to num_elected
+$.each(partyArray, function(i, party){
+$("#"+party.Party_Abbreviation).css("top",i*20+44);
+})
 
-
-function getElected(data) {
-  var counts = data.Constituency.countGroup;
-  var finalStage = Math.max.apply(Math,counts.map(function(o){return o.Count_Number;}));
-  //return finalStage;
-  var electedReps = counts.filter(function(count){
-    return (count.Count_Number == finalStage && count.Status =="Elected");
-  });
-  function compareVotes(a,b) {
-  if (a.Candidate_First_Pref_Votes < b.Candidate_First_Pref_Votes)
-    return 1;
-  else if (a.Candidate_First_Pref_Votes > b.Candidate_First_Pref_Votes)
-    return -1;
-  else 
-    return 0;
-  }
-  return electedReps.sort(compareVotes);
+function sortElected(elected) {
+    function compareCount(a, b) {
+        if (a.Occurred_On_Count < b.Occurred_On_Count)
+            return -1;
+        else if (a.Occurred_On_Count > b.Occurred_On_Count)
+            return 1;
+        else
+            return 0;
+    }
+    return elected.sort(compareCount);
 }
