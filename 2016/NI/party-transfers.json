@@ -183,7 +183,11 @@
 ,
 	{"Constituency_Name": "West Tyrone", "Counts": 
 		[
-
+		{"Count_Number": 2,
+			"From": {"NI Conservatives": -44.0},
+			"To": {"Independent": 4.0, "Social Democratic and Labour Party": 10.0, "Animal Welfare Party": 1.0, "Democratic Unionist Party": 5.0, "Sinn Fein": 1.0, "Cannabis Is Safer Than Alcohol": 2.0, "Green Party": 3.0, "Ulster Unionist Party": 13.0, "Alliance Party": 1.0, "NI Conservatives": 0},
+			"Not_transferred": 4.0
+		}
 		]
 	}
 ]
