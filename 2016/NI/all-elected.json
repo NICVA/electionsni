@@ -75,6 +75,16 @@
     "Candidate_Id": "60"
 },
 {
+    "Candidate_First_Pref_Votes": "4028", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "MCCANN", 
+    "Firstname": "Fra", 
+    "Constituency_Number": "17", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "61"
+},
+{
     "Candidate_First_Pref_Votes": "3516", 
     "Status": "", 
     "Occurred_On_Count": "", 
@@ -97,25 +107,25 @@
     "Constituency_Number": "1", 
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "70"
+},
+{
+    "Candidate_First_Pref_Votes": "3472", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "LYONS", 
+    "Firstname": "Gordon", 
+    "Constituency_Number": "1", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "72"
 }]
 },
 {"Constituency_Name": "East Londonderry",
 "Constituency_Number": 3,
 "Elected": [
 {
-    "Candidate_First_Pref_Votes": "1257", 
+    "Candidate_First_Pref_Votes": "4630", 
     "Status": "Elected", 
     "Occurred_On_Count": "4", 
-    "Surname": "BOYLE", 
-    "Firstname": "Yvonne", 
-    "Constituency_Number": "3", 
-    "Party_Name": "Alliance Party", 
-    "Candidate_Id": "84"
-},
-{
-    "Candidate_First_Pref_Votes": "4630", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
     "Surname": "BRADLEY", 
     "Firstname": "Maurice", 
     "Constituency_Number": "3", 

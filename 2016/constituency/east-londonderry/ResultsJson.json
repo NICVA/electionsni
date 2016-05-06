@@ -743,8 +743,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "1257", 
-    "Status": "Elected", 
-    "Occurred_On_Count": "4", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
     "Surname": "BOYLE", 
     "Firstname": "Yvonne", 
     "Constituency_Number": "3", 
@@ -757,8 +757,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "4630", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "4", 
     "Surname": "BRADLEY", 
     "Firstname": "Maurice", 
     "Constituency_Number": "3", 

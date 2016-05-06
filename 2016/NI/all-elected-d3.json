@@ -120,21 +120,9 @@
     "Candidate_Id": "72"
 },
 {
-    "Candidate_First_Pref_Votes": "1257", 
+    "Candidate_First_Pref_Votes": "4630", 
     "Status": "Elected", 
     "Occurred_On_Count": "4", 
-    "Surname": "BOYLE", 
-    "Firstname": "Yvonne", 
-    "Colour": "#ffe600", 
-    "Constituency_Name": "East Londonderry", 
-    "Constituency_Number": "3", 
-    "Party_Name": "Alliance Party", 
-    "Candidate_Id": "84"
-},
-{
-    "Candidate_First_Pref_Votes": "4630", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
     "Surname": "BRADLEY", 
     "Firstname": "Maurice", 
     "Colour": "#ff8000", 
