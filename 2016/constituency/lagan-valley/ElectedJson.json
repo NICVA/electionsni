@@ -1,8 +1,8 @@
 [
 {
     "Candidate_First_Pref_Votes": "4376", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "8", 
     "Surname": "BUTLER", 
     "Firstname": "Robbie", 
     "Constituency_Number": "6", 
@@ -21,8 +21,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "4236", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "8", 
     "Surname": "HALE", 
     "Firstname": "Brenda", 
     "Constituency_Number": "6", 
@@ -41,8 +41,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "3871", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "8", 
     "Surname": "PALMER", 
     "Firstname": "Jenny", 
     "Constituency_Number": "6", 
@@ -51,8 +51,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "4638", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "8", 
     "Surname": "POOTS", 
     "Firstname": "Edwin", 
     "Constituency_Number": "6", 

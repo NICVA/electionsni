@@ -49,7 +49,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 14,226,4,Jim,WELLS,5033,0,6470,Elected,3,Democratic Unionist Party
 14,215,5,Sinead,BRADLEY,5059,6,5834,,,Social Democratic and Labour Party
 14,216,5,Patrick,BROWN,2200,0,0,Excluded,3,Alliance Party
-14,217,5,Michael,GRAY-SLOAN,3520,-3665,0,Excluded,4,Sinn Fein
+14,217,5,Michael,GRAY-SLOAN,3520,0,3665,Excluded,4,Sinn Fein
 14,218,5,John,HARDY,820,0,0,Excluded,1,Green Party
 14,219,5,Chris,HAZZARD,5045,0.5,5321.5,,,Sinn Fein
 14,220,5,John,MCCALLISTER,1156,0,0,Excluded,1,Independent
@@ -58,16 +58,16 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 14,223,5,Henry,REILLY,2718,0,0,Excluded,2,Traditional Unionist Voice
 14,224,5,Sean,ROGERS,3564,10.5,4086.5,,,Social Democratic and Labour Party
 14,225,5,Caitriona,RUANE,4191,0,4335,,,Sinn Fein
-14,226,5,Jim,WELLS,5033,0,6470,Elected,3,Democratic Unionist Party
+14,226,5,Jim,WELLS,5033,-602,5868,Elected,3,Democratic Unionist Party
 14,215,6,Sinead,BRADLEY,5059,310,6144,Elected,6,Social Democratic and Labour Party
 14,216,6,Patrick,BROWN,2200,0,0,Excluded,3,Alliance Party
-14,217,6,Michael,GRAY-SLOAN,3520,0,0,Excluded,4,Sinn Fein
+14,217,6,Michael,GRAY-SLOAN,3520,-3665,0,Excluded,4,Sinn Fein
 14,218,6,John,HARDY,820,0,0,Excluded,1,Green Party
 14,219,6,Chris,HAZZARD,5045,1956,7277.5,Elected,6,Sinn Fein
 14,220,6,John,MCCALLISTER,1156,0,0,Excluded,1,Independent
 14,221,6,Colin,MCGRATH,4288,83,5121,Elected,6,Social Democratic and Labour Party
-14,222,6,Harold,MCKEE,3481,-273,5868,Elected,5,Ulster Unionist Party
+14,222,6,Harold,MCKEE,3481,0,5868,Elected,5,Ulster Unionist Party
 14,223,6,Henry,REILLY,2718,0,0,Excluded,2,Traditional Unionist Voice
 14,224,6,Sean,ROGERS,3564,141,4227.5,,,Social Democratic and Labour Party
 14,225,6,Caitriona,RUANE,4191,1080,5415,Elected,6,Sinn Fein
-14,226,6,Jim,WELLS,5033,0,6470,Elected,3,Democratic Unionist Party
+14,226,6,Jim,WELLS,5033,0,5868,Elected,3,Democratic Unionist Party

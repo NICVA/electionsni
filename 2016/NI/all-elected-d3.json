@@ -205,8 +205,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "4376", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "8", 
     "Surname": "BUTLER", 
     "Firstname": "Robbie", 
     "Colour": "#62cae7", 
@@ -229,8 +229,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "4236", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "8", 
     "Surname": "HALE", 
     "Firstname": "Brenda", 
     "Colour": "#ff8000", 
@@ -253,8 +253,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "3871", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "8", 
     "Surname": "PALMER", 
     "Firstname": "Jenny", 
     "Colour": "#62cae7", 
@@ -265,8 +265,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "4638", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "8", 
     "Surname": "POOTS", 
     "Firstname": "Edwin", 
     "Colour": "#ff8000", 
