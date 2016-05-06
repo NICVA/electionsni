@@ -73,8 +73,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "4028", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "5", 
     "Surname": "MCCANN", 
     "Firstname": "Fra", 
     "Colour": "#009900", 
@@ -85,8 +85,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "3516", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "4", 
     "Surname": "SHEEHAN", 
     "Firstname": "Pat", 
     "Colour": "#009900", 
