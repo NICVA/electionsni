@@ -93,7 +93,7 @@
     "Constituency_Name": "Strangford",
     "Constituency_Number": 15,
     "Directory": "strangford",
-    "countInfo": {"Valid_Poll": "", "Number_Of_Seats": "6", "Total_Poll": "33014", "Voting_Age_Pop": "70598", "Quota": "4663", "Constituency_Name": "Strangford", "Constituency_Number": "15", "Total_Electorate": "65695", "Spoiled": ""}
+    "countInfo": {"Valid_Poll": "32639", "Number_Of_Seats": "6", "Total_Poll": "33014", "Voting_Age_Pop": "70598", "Quota": "4663", "Constituency_Name": "Strangford", "Constituency_Number": "15", "Total_Electorate": "65695", "Spoiled": "375"}
     },
 {
     "Constituency_Name": "Upper Bann",

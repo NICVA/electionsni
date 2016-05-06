@@ -29,10 +29,10 @@
     "Occurred_On_Count": "11", 
     "Surname": "BRADLEY", 
     "Firstname": "Paula Jane", 
-    "Colour": "#362da7", 
+    "Colour": "#ff8000", 
     "Constituency_Name": "Belfast North", 
     "Constituency_Number": "10", 
-    "Party_Name": "", 
+    "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "20"
 },
 {
@@ -41,10 +41,10 @@
     "Occurred_On_Count": "11", 
     "Surname": "HUMPHREY", 
     "Firstname": "William", 
-    "Colour": "#362da7", 
+    "Colour": "#ff8000", 
     "Constituency_Name": "Belfast North", 
     "Constituency_Number": "10", 
-    "Party_Name": "", 
+    "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "26"
 },
 {
@@ -53,10 +53,10 @@
     "Occurred_On_Count": "", 
     "Surname": "KELLY", 
     "Firstname": "Gerry", 
-    "Colour": "#362da7", 
+    "Colour": "#009900", 
     "Constituency_Name": "Belfast North", 
     "Constituency_Number": "10", 
-    "Party_Name": "", 
+    "Party_Name": "Sinn Fein", 
     "Candidate_Id": "28"
 },
 {
@@ -65,10 +65,10 @@
     "Occurred_On_Count": "11", 
     "Surname": "MALLON", 
     "Firstname": "Nichola", 
-    "Colour": "#362da7", 
+    "Colour": "#cc3300", 
     "Constituency_Name": "Belfast North", 
     "Constituency_Number": "10", 
-    "Party_Name": "", 
+    "Party_Name": "Social Democratic and Labour Party", 
     "Candidate_Id": "29"
 },
 {
@@ -77,10 +77,10 @@
     "Occurred_On_Count": "11", 
     "Surname": "MCCAUSLAND", 
     "Firstname": "Nelson", 
-    "Colour": "#362da7", 
+    "Colour": "#ff8000", 
     "Constituency_Name": "Belfast North", 
     "Constituency_Number": "10", 
-    "Party_Name": "", 
+    "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "31"
 },
 {
@@ -89,10 +89,10 @@
     "Occurred_On_Count": "11", 
     "Surname": "NI CHUILIN", 
     "Firstname": "Caral", 
-    "Colour": "#362da7", 
+    "Colour": "#009900", 
     "Constituency_Name": "Belfast North", 
     "Constituency_Number": "10", 
-    "Party_Name": "", 
+    "Party_Name": "Sinn Fein", 
     "Candidate_Id": "33"
 },
 {

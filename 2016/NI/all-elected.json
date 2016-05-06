@@ -33,7 +33,7 @@
     "Surname": "BRADLEY", 
     "Firstname": "Paula Jane", 
     "Constituency_Number": "10", 
-    "Party_Name": "", 
+    "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "20"
 },
 {
@@ -43,7 +43,7 @@
     "Surname": "HUMPHREY", 
     "Firstname": "William", 
     "Constituency_Number": "10", 
-    "Party_Name": "", 
+    "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "26"
 },
 {
@@ -53,7 +53,7 @@
     "Surname": "KELLY", 
     "Firstname": "Gerry", 
     "Constituency_Number": "10", 
-    "Party_Name": "", 
+    "Party_Name": "Sinn Fein", 
     "Candidate_Id": "28"
 },
 {
@@ -63,7 +63,7 @@
     "Surname": "MALLON", 
     "Firstname": "Nichola", 
     "Constituency_Number": "10", 
-    "Party_Name": "", 
+    "Party_Name": "Social Democratic and Labour Party", 
     "Candidate_Id": "29"
 },
 {
@@ -73,7 +73,7 @@
     "Surname": "MCCAUSLAND", 
     "Firstname": "Nelson", 
     "Constituency_Number": "10", 
-    "Party_Name": "", 
+    "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "31"
 },
 {
@@ -83,7 +83,7 @@
     "Surname": "NI CHUILIN", 
     "Firstname": "Caral", 
     "Constituency_Number": "10", 
-    "Party_Name": "", 
+    "Party_Name": "Sinn Fein", 
     "Candidate_Id": "33"
 }]
 },
