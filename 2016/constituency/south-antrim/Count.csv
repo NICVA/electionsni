@@ -18,12 +18,12 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 12,203,2,Pam,CAMERON,4589,17,4606,,,Democratic Unionist Party
 12,204,2,Trevor,CLARKE,3585,13,3598,,,Democratic Unionist Party
 12,205,2,Adrian David,COCHRANE-WATSON,1947,17,1964,,,Ulster Unionist Party
-12,206,2,Helen,FARLEY,569,100,669,,,Green Party
+12,206,2,Helen,FARLEY,569,100,669,Excluded,2,Green Party
 12,207,2,David RJ,FORD,3119,130,3249,,,Alliance Party
 12,208,2,Paul,GIRVAN,5014,22,5036,,,Democratic Unionist Party
-12,209,2,Robert,HILL,574,25,599,,,UK Independence Party
+12,209,2,Robert,HILL,574,25,599,Excluded,2,UK Independence Party
 12,210,2,Declan,KEARNEY,4632,22,4654,,,Sinn Fein
 12,211,2,Roisin,LYNCH,3366,34,3400,,,Social Democratic and Labour Party
-12,212,2,David,MCMASTER,483,0,483,Excluded,1,Independent
+12,212,2,David,MCMASTER,483,-483,0,Excluded,1,Independent
 12,213,2,Paul,MICHAEL,2565,52,2617,,,Ulster Unionist Party
-12,214,2,Mark David,YOUNG,72,0,72,Excluded,1,NI Conservatives
+12,214,2,Mark David,YOUNG,72,-72,0,Excluded,1,NI Conservatives

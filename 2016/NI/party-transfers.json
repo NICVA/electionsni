@@ -25,7 +25,11 @@
 ,
 	{"Constituency_Name": "East Antrim", "Counts": 
 		[
-
+		{"Count_Number": 2,
+			"From": {"Democratic Unionist Party": -5906.0},
+			"To": {"Social Democratic and Labour Party": 1.05, "Traditional Unionist Voice": 15.75, "Democratic Unionist Party": 1027.74, "Cross-Community Labour Alternative": 0.42, "Sinn Fein": 0.42, "Green Party": 1.68, "UK Independence Party": 42.63, "Ulster Unionist Party": 121.8, "Alliance Party": 13.65, "Progressive Unionist Party": 8.19},
+			"Not_transferred": 4672.67
+		}
 		]
 	}
 ,

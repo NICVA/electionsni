@@ -267,8 +267,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "569", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Excluded", 
+    "Occurred_On_Count": "2", 
     "Surname": "FARLEY", 
     "Firstname": "Helen", 
     "Constituency_Number": "12", 
@@ -309,8 +309,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "574", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Excluded", 
+    "Occurred_On_Count": "2", 
     "Surname": "HILL", 
     "Firstname": "Robert", 
     "Constituency_Number": "12", 
@@ -359,9 +359,9 @@
     "Party_Name": "Independent", 
     "Candidate_Id": "212", 
     "Count_Number": "2", 
-    "Transfers": "0", 
+    "Transfers": "-483", 
     "id": 25, 
-    "Total_Votes": "483"
+    "Total_Votes": "0"
 },
 {
     "Candidate_First_Pref_Votes": "2565", 
@@ -387,8 +387,8 @@
     "Party_Name": "NI Conservatives", 
     "Candidate_Id": "214", 
     "Count_Number": "2", 
-    "Transfers": "0", 
+    "Transfers": "-72", 
     "id": 27, 
-    "Total_Votes": "72"
+    "Total_Votes": "0"
 }
 ]}}
