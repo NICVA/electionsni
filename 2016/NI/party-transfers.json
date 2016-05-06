@@ -111,7 +111,16 @@
 ,
 	{"Constituency_Name": "East Londonderry", "Counts": 
 		[
-
+		{"Count_Number": 3,
+			"From": {"Ulster Unionist Party": -1096.0},
+			"To": {"Independent": 33.0, "Social Democratic and Labour Party": 11.0, "Traditional Unionist Voice": 51.0, "Democratic Unionist Party": 201.0, "Sinn Fein": 1.0, "Green Party": 0, "UK Independence Party": 0, "Ulster Unionist Party": 762.0, "Alliance Party": 24.0, "NI Conservatives": 0, "Progressive Unionist Party": 4.0},
+			"Not_transferred": 9.0
+		},
+		{"Count_Number": 4,
+			"From": {"Traditional Unionist Voice": -1291.0},
+			"To": {"Independent": 94.0, "Social Democratic and Labour Party": 12.0, "Traditional Unionist Voice": 0, "Democratic Unionist Party": 666.0, "Sinn Fein": 1.0, "Green Party": 0, "UK Independence Party": 0, "Ulster Unionist Party": 292.0, "Alliance Party": 23.0, "NI Conservatives": 0, "Progressive Unionist Party": 132.0},
+			"Not_transferred": 71.0
+		}
 		]
 	}
 ,

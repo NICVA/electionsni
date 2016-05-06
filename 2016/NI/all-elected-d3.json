@@ -96,7 +96,19 @@
     "Candidate_Id": "70"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "1257", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "4", 
+    "Surname": "BOYLE", 
+    "Firstname": "Yvonne", 
+    "Colour": "#ffe600", 
+    "Constituency_Name": "East Londonderry", 
+    "Constituency_Number": "3", 
+    "Party_Name": "Alliance Party", 
+    "Candidate_Id": "84"
+},
+{
+    "Candidate_First_Pref_Votes": "4630", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "BRADLEY", 
@@ -108,9 +120,9 @@
     "Candidate_Id": "85"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Candidate_First_Pref_Votes": "4567", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "4", 
     "Surname": "ROBINSON", 
     "Firstname": "George", 
     "Colour": "#ff8000", 
