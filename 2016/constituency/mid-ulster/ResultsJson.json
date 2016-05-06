@@ -1,6 +1,6 @@
-{"Constituency": {"countInfo": {"Valid_Poll": "", "Number_Of_Seats": "6", "Total_Poll": "41381", "Voting_Age_Pop": "75342", "Quota": "", "Constituency_Name": "Mid Ulster", "Constituency_Number": "7", "Total_Electorate": "70430", "Spoiled": ""},
+{"Constituency": {"countInfo": {"Valid_Poll": "40748", "Number_Of_Seats": "6", "Total_Poll": "41381", "Voting_Age_Pop": "75342", "Quota": "5822", "Constituency_Name": "Mid Ulster", "Constituency_Number": "7", "Total_Electorate": "70430", "Spoiled": "633"},
 "countGroup": [{
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "3628", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "BUCHANAN", 
@@ -11,10 +11,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 0, 
-    "Total_Votes": ""
+    "Total_Votes": "3628"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "256", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "DAY", 
@@ -25,10 +25,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 1, 
-    "Total_Votes": ""
+    "Total_Votes": "256"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "5853", 
     "Status": "Elected", 
     "Occurred_On_Count": "1", 
     "Surname": "DILLON", 
@@ -39,7 +39,7 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 2, 
-    "Total_Votes": ""
+    "Total_Votes": "5853"
 },
 {
     "Candidate_First_Pref_Votes": "471", 
@@ -53,10 +53,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 3, 
-    "Total_Votes": ""
+    "Total_Votes": "471"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "1877", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "LOUGHRIN", 
@@ -67,10 +67,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 4, 
-    "Total_Votes": ""
+    "Total_Votes": "1877"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "3765", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "MCCREA", 
@@ -81,7 +81,7 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 5, 
-    "Total_Votes": ""
+    "Total_Votes": "3765"
 },
 {
     "Candidate_First_Pref_Votes": "6209", 
@@ -98,7 +98,7 @@
     "Total_Votes": "6209"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "7035", 
     "Status": "Elected", 
     "Occurred_On_Count": "1", 
     "Surname": "MILNE", 
@@ -109,10 +109,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 7, 
-    "Total_Votes": ""
+    "Total_Votes": "7035"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "6147", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "ONEILL", 
@@ -123,10 +123,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 8, 
-    "Total_Votes": ""
+    "Total_Votes": "6147"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "4862", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "OVEREND", 
@@ -137,10 +137,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 9, 
-    "Total_Votes": ""
+    "Total_Votes": "4862"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "316", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "SCULLION", 
@@ -151,10 +151,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 10, 
-    "Total_Votes": ""
+    "Total_Votes": "316"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "349", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "TAYLOR", 
@@ -165,6 +165,6 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 11, 
-    "Total_Votes": ""
+    "Total_Votes": "349"
 }
 ]}}

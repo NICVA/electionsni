@@ -1,13 +1,13 @@
 Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_Pref_Votes,Transfers,Total_Votes,Status,Occurred_On_Count,Party_Name
-7,144,1,Keith Alexandra,BUCHANAN,,0,,,,Democratic Unionist Party
-7,145,1,Alan,DAY,,0,,,,UK Independence Party
-7,146,1,Linda,DILLON,,0,,Elected,1,Sinn Fein
-7,147,1,Neidin,HENDRON,471,0,,,,Alliance Party
-7,148,1,Hannah,LOUGHRIN,,0,,,,Traditional Unionist Voice
-7,149,1,Ian,MCCREA,,0,,,,Democratic Unionist Party
+7,144,1,Keith Alexandra,BUCHANAN,3628,0,3628,,,Democratic Unionist Party
+7,145,1,Alan,DAY,256,0,256,,,UK Independence Party
+7,146,1,Linda,DILLON,5853,0,5853,Elected,1,Sinn Fein
+7,147,1,Neidin,HENDRON,471,0,471,,,Alliance Party
+7,148,1,Hannah,LOUGHRIN,1877,0,1877,,,Traditional Unionist Voice
+7,149,1,Ian,MCCREA,3765,0,3765,,,Democratic Unionist Party
 7,150,1,Patsy,MCGLONE,6209,0,6209,Elected,1,Social Democratic and Labour Party
-7,151,1,Ian,MILNE,,0,,Elected,1,Sinn Fein
-7,152,1,Michelle,ONEILL,,0,,,,Sinn Fein
-7,153,1,Sandra,OVEREND,,0,,,,Ulster Unionist Party
-7,154,1,Hugh,SCULLION,,0,,,,Workers Party
-7,155,1,Stefan,TAYLOR,,0,,,,Green Party
+7,151,1,Ian,MILNE,7035,0,7035,Elected,1,Sinn Fein
+7,152,1,Michelle,ONEILL,6147,0,6147,,,Sinn Fein
+7,153,1,Sandra,OVEREND,4862,0,4862,,,Ulster Unionist Party
+7,154,1,Hugh,SCULLION,316,0,316,,,Workers Party
+7,155,1,Stefan,TAYLOR,349,0,349,,,Green Party

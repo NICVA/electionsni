@@ -57,7 +57,7 @@
 "Constituency_Number": 7,
 "Elected": [
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "5853", 
     "Status": "Elected", 
     "Occurred_On_Count": "1", 
     "Surname": "DILLON", 
@@ -77,7 +77,7 @@
     "Candidate_Id": "150"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "7035", 
     "Status": "Elected", 
     "Occurred_On_Count": "1", 
     "Surname": "MILNE", 
