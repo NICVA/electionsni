@@ -1,6 +1,6 @@
 #overview_container {
   margin: 20px auto;
-/*  overflow: auto;*/
+  overflow: auto;
   width: 1100px;
 }
 
