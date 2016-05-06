@@ -132,6 +132,18 @@
     "Candidate_Id": "110"
 },
 {
+    "Candidate_First_Pref_Votes": "4737", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "MIDDLETON", 
+    "Firstname": "Gary", 
+    "Colour": "#ff8000", 
+    "Constituency_Name": "Foyle", 
+    "Constituency_Number": "5", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "127"
+},
+{
     "Candidate_First_Pref_Votes": "5364", 
     "Status": "Elected", 
     "Occurred_On_Count": "6", 
