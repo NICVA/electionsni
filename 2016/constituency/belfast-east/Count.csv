@@ -99,7 +99,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 2,8,6,Maggie,HUTTON,1099,34.24,1144.39,,,Independent
 2,9,6,John,KYLE,1772,-28.9,1816.77,,,Progressive Unionist Party
 2,10,6,Jonny,LAVERY,631,253.67,717.19,,,UK Independence Party
-2,11,6,Naomi,LONG,5482,-345.31,5311,Elected,1,Alliance Party
+2,11,6,Naomi,LONG,5482,0,5311,Elected,1,Alliance Party
 2,12,6,Chris,LYTTLE,2805,186.63,3109.04,,,Alliance Party
 2,13,6,Chris,MCGIMPSEY,1095,35.82,1178.77,,,Ulster Unionist Party
 2,14,6,Tim,MORROW,2372,40.31,2469.25,,,Alliance Party
@@ -107,3 +107,21 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 2,16,6,Niall,O DONNGHAILE,946,12.4,985.77,,,Sinn Fein
 2,17,6,Courtney,ROBINSON,517,-63.84,0,Excluded,5,Labour Alternative
 2,18,6,Neil,WILSON,477,0,0,Excluded,4,NI Conservatives
+2,1,7,Andy,ALLEN,3047,81.34,3283.15,,,Ulster Unionist Party
+2,2,7,Ross,BROWN,2183,62.09,2559.32,,,Green Party
+2,3,7,Joanne,BUNTING,5538,0,5311,Elected,1,Democratic Unionist Party
+2,4,7,Amy,DOHERTY,141,0,0,Excluded,2,Social Democratic and Labour Party
+2,5,7,Sammy,DOUGLAS,4230,116.32,4572.61,,,Democratic Unionist Party
+2,6,7,Andrew,GIRVIN,887,126.11,1117.14,,,Traditional Unionist Voice
+2,7,7,Erskine,HOLMES,78,0,0,Excluded,1,NI Labour Representation Committee
+2,8,7,Maggie,HUTTON,1099,46.18,1190.57,,,Independent
+2,9,7,John,KYLE,1772,112.18,1928.95,,,Progressive Unionist Party
+2,10,7,Jonny,LAVERY,631,-717.19,0,,,UK Independence Party
+2,11,7,Naomi,LONG,5482,0,5311,Elected,1,Alliance Party
+2,12,7,Chris,LYTTLE,2805,18.15,3127.19,,,Alliance Party
+2,13,7,Chris,MCGIMPSEY,1095,33.1,1211.87,,,Ulster Unionist Party
+2,14,7,Tim,MORROW,2372,9.16,2478.41,,,Alliance Party
+2,15,7,Robin,NEWTON,3875,48.2,3994.82,,,Democratic Unionist Party
+2,16,7,Niall,O DONNGHAILE,946,3,988.77,Excluded,7,Sinn Fein
+2,17,7,Courtney,ROBINSON,517,0,0,Excluded,5,Labour Alternative
+2,18,7,Neil,WILSON,477,0,0,Excluded,4,NI Conservatives

@@ -841,8 +841,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "5059", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "6", 
     "Surname": "BRADLEY", 
     "Firstname": "Sinead", 
     "Constituency_Number": "14", 
@@ -925,8 +925,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "4288", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "6", 
     "Surname": "MCGRATH", 
     "Firstname": "Colin", 
     "Constituency_Number": "14", 
