@@ -19,7 +19,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 6,129,2,Robbie,BUTLER,4376,74,4450,,,Ulster Unionist Party
 6,130,2,Pat,CATNEY,2899,36,2935,,,Social Democratic and Labour Party
 6,131,2,Jonathan,CRAIG,4087,16,4103,,,Democratic Unionist Party
-6,132,2,Peter,DYNES,171,,171,Excluded,1,NI Labour Representation Committee
+6,132,2,Peter,DYNES,171,-171,0,Excluded,1,NI Labour Representation Committee
 6,133,2,Paul,GIVAN,5364,19,5383,,,Democratic Unionist Party
 6,134,2,Brenda,HALE,4236,47,4283,,,Democratic Unionist Party
 6,135,2,Brian,HIGGINSON,768,24,792,Excluded,2,UK Independence Party
