@@ -1,13 +1,13 @@
 Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_Pref_Votes,Transfers,Total_Votes,Status,Occurred_On_Count,Party_Name
-14,215,1,Sinead,BRADLEY,,0,,,,Social Democratic and Labour Party
-14,216,1,Patrick,BROWN,,0,,,,Alliance Party
-14,217,1,Michael,GRAY-SLOAN,,0,,,,Sinn Fein
-14,218,1,John,HARDY,,0,,,,Green Party
-14,219,1,Chris,HAZZARD,,0,,,,Sinn Fein
-14,220,1,John,MCCALLISTER,,0,,,,Independent
-14,221,1,Colin,MCGRATH,,0,,,,Social Democratic and Labour Party
-14,222,1,Harold,MCKEE,,0,,,,Ulster Unionist Party
-14,223,1,Henry,REILLY,,0,,,,Traditional Unionist Voice
-14,224,1,Sean,ROGERS,,0,,,,Social Democratic and Labour Party
-14,225,1,Caitriona,RUANE,,0,,,,Sinn Fein
-14,226,1,Jim,WELLS,,0,,,,Democratic Unionist Party
+14,215,1,Sinead,BRADLEY,5059,0,5059,,,Social Democratic and Labour Party
+14,216,1,Patrick,BROWN,2200,0,2200,,,Alliance Party
+14,217,1,Michael,GRAY-SLOAN,3520,0,3520,,,Sinn Fein
+14,218,1,John,HARDY,820,0,820,Excluded,1,Green Party
+14,219,1,Chris,HAZZARD,5045,0,5045,,,Sinn Fein
+14,220,1,John,MCCALLISTER,1156,0,1156,Excluded,1,Independent
+14,221,1,Colin,MCGRATH,4288,0,4288,,,Social Democratic and Labour Party
+14,222,1,Harold,MCKEE,3481,0,3481,,,Ulster Unionist Party
+14,223,1,Henry,REILLY,2718,0,2718,,,Traditional Unionist Voice
+14,224,1,Sean,ROGERS,3564,0,3564,,,Social Democratic and Labour Party
+14,225,1,Caitriona,RUANE,4191,0,4191,,,Sinn Fein
+14,226,1,Jim,WELLS,5033,0,5033,,,Democratic Unionist Party

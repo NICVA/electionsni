@@ -1,17 +1,33 @@
 Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_Pref_Votes,Transfers,Total_Votes,Status,Occurred_On_Count,Party_Name
-6,128,1,Dan,BARRIOS-ONEILL,,0,,,,Green Party
-6,129,1,Robbie,BUTLER,,0,,,,Ulster Unionist Party
-6,130,1,Pat,CATNEY,,0,,,,Social Democratic and Labour Party
-6,131,1,Jonathan,CRAIG,,0,,,,Democratic Unionist Party
-6,132,1,Peter,DYNES,,0,,,,NI Labour Representation Committee
-6,133,1,Paul,GIVAN,,0,,,,Democratic Unionist Party
-6,134,1,Brenda,HALE,,0,,,,Democratic Unionist Party
-6,135,1,Brian,HIGGINSON,,0,,,,UK Independence Party
-6,136,1,Jack,IRWIN,,0,,,,NI Conservatives
-6,137,1,Trevor,LUNN,,0,,,,Alliance Party
-6,138,1,Frazer,MCCAMMOND,,0,,,,Democracy First
-6,139,1,Jacqui,MCGEOUGH,,0,,,,Sinn Fein
-6,140,1,Jonny,ORR,,0,,,,Independent
-6,141,1,Jenny,PALMER,,0,,,,Ulster Unionist Party
-6,142,1,Edwin,POOTS,,0,,,,Democratic Unionist Party
-6,143,1,Lyle,REA,,0,,,,Traditional Unionist Voice
+6,128,1,Dan,BARRIOS-ONEILL,1118,0,1118,,,Green Party
+6,129,1,Robbie,BUTLER,4376,0,4376,,,Ulster Unionist Party
+6,130,1,Pat,CATNEY,2899,0,2899,,,Social Democratic and Labour Party
+6,131,1,Jonathan,CRAIG,4087,0,4087,,,Democratic Unionist Party
+6,132,1,Peter,DYNES,171,0,171,Excluded,1,NI Labour Representation Committee
+6,133,1,Paul,GIVAN,5364,0,5364,,,Democratic Unionist Party
+6,134,1,Brenda,HALE,4236,0,4236,,,Democratic Unionist Party
+6,135,1,Brian,HIGGINSON,768,0,768,,,UK Independence Party
+6,136,1,Jack,IRWIN,341,0,341,Excluded,1,NI Conservatives
+6,137,1,Trevor,LUNN,3707,0,3707,,,Alliance Party
+6,138,1,Frazer,MCCAMMOND,124,0,124,Excluded,1,Democracy First
+6,139,1,Jacqui,MCGEOUGH,1045,0,1045,,,Sinn Fein
+6,140,1,Jonny,ORR,817,0,817,,,Independent
+6,141,1,Jenny,PALMER,3871,0,3871,,,Ulster Unionist Party
+6,142,1,Edwin,POOTS,4638,0,4638,,,Democratic Unionist Party
+6,143,1,Lyle,REA,1291,0,1291,,,Traditional Unionist Voice
+6,128,2,Dan,BARRIOS-ONEILL,1118,87,1205,,,Green Party
+6,129,2,Robbie,BUTLER,4376,74,4450,,,Ulster Unionist Party
+6,130,2,Pat,CATNEY,2899,36,2935,,,Social Democratic and Labour Party
+6,131,2,Jonathan,CRAIG,4087,16,4103,,,Democratic Unionist Party
+6,132,2,Peter,DYNES,171,,171,Excluded,1,NI Labour Representation Committee
+6,133,2,Paul,GIVAN,5364,19,5383,,,Democratic Unionist Party
+6,134,2,Brenda,HALE,4236,47,4283,,,Democratic Unionist Party
+6,135,2,Brian,HIGGINSON,768,24,792,Excluded,2,UK Independence Party
+6,136,2,Jack,IRWIN,341,-341,0,Excluded,1,NI Conservatives
+6,137,2,Trevor,LUNN,3707,144,3851,,,Alliance Party
+6,138,2,Frazer,MCCAMMOND,124,-124,0,Excluded,1,Democracy First
+6,139,2,Jacqui,MCGEOUGH,1045,9,1054,,,Sinn Fein
+6,140,2,Jonny,ORR,817,23,840,,,Independent
+6,141,2,Jenny,PALMER,3871,85,3956,,,Ulster Unionist Party
+6,142,2,Edwin,POOTS,4638,24,4662,,,Democratic Unionist Party
+6,143,2,Lyle,REA,1291,12,1303,,,Traditional Unionist Voice

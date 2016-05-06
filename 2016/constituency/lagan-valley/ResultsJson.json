@@ -1,6 +1,6 @@
-{"Constituency": {"countInfo": {"Valid_Poll": "", "Number_Of_Seats": "6", "Total_Poll": "39227", "Voting_Age_Pop": "80833", "Quota": "", "Constituency_Name": "Lagan Valley", "Constituency_Number": "6", "Total_Electorate": "73746", "Spoiled": ""},
+{"Constituency": {"countInfo": {"Valid_Poll": "38853", "Number_Of_Seats": "6", "Total_Poll": "39227", "Voting_Age_Pop": "80833", "Quota": "5551", "Constituency_Name": "Lagan Valley", "Constituency_Number": "6", "Total_Electorate": "73746", "Spoiled": "374"},
 "countGroup": [{
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "1118", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "BARRIOS-ONEILL", 
@@ -11,10 +11,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 0, 
-    "Total_Votes": ""
+    "Total_Votes": "1118"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "4376", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "BUTLER", 
@@ -25,10 +25,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 1, 
-    "Total_Votes": ""
+    "Total_Votes": "4376"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "2899", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "CATNEY", 
@@ -39,10 +39,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 2, 
-    "Total_Votes": ""
+    "Total_Votes": "2899"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "4087", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "CRAIG", 
@@ -53,12 +53,12 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 3, 
-    "Total_Votes": ""
+    "Total_Votes": "4087"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Candidate_First_Pref_Votes": "171", 
+    "Status": "Excluded", 
+    "Occurred_On_Count": "1", 
     "Surname": "DYNES", 
     "Firstname": "Peter", 
     "Constituency_Number": "6", 
@@ -67,10 +67,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 4, 
-    "Total_Votes": ""
+    "Total_Votes": "171"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "5364", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "GIVAN", 
@@ -81,10 +81,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 5, 
-    "Total_Votes": ""
+    "Total_Votes": "5364"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "4236", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "HALE", 
@@ -95,10 +95,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 6, 
-    "Total_Votes": ""
+    "Total_Votes": "4236"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "768", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "HIGGINSON", 
@@ -109,12 +109,12 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 7, 
-    "Total_Votes": ""
+    "Total_Votes": "768"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Candidate_First_Pref_Votes": "341", 
+    "Status": "Excluded", 
+    "Occurred_On_Count": "1", 
     "Surname": "IRWIN", 
     "Firstname": "Jack", 
     "Constituency_Number": "6", 
@@ -123,10 +123,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 8, 
-    "Total_Votes": ""
+    "Total_Votes": "341"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "3707", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "LUNN", 
@@ -137,12 +137,12 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 9, 
-    "Total_Votes": ""
+    "Total_Votes": "3707"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Candidate_First_Pref_Votes": "124", 
+    "Status": "Excluded", 
+    "Occurred_On_Count": "1", 
     "Surname": "MCCAMMOND", 
     "Firstname": "Frazer", 
     "Constituency_Number": "6", 
@@ -151,10 +151,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 10, 
-    "Total_Votes": ""
+    "Total_Votes": "124"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "1045", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "MCGEOUGH", 
@@ -165,10 +165,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 11, 
-    "Total_Votes": ""
+    "Total_Votes": "1045"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "817", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "ORR", 
@@ -179,10 +179,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 12, 
-    "Total_Votes": ""
+    "Total_Votes": "817"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "3871", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "PALMER", 
@@ -193,10 +193,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 13, 
-    "Total_Votes": ""
+    "Total_Votes": "3871"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "4638", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "POOTS", 
@@ -207,10 +207,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 14, 
-    "Total_Votes": ""
+    "Total_Votes": "4638"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "1291", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "REA", 
@@ -221,6 +221,230 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 15, 
-    "Total_Votes": ""
+    "Total_Votes": "1291"
+},
+{
+    "Candidate_First_Pref_Votes": "1118", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "BARRIOS-ONEILL", 
+    "Firstname": "Dan", 
+    "Constituency_Number": "6", 
+    "Party_Name": "Green Party", 
+    "Candidate_Id": "128", 
+    "Count_Number": "2", 
+    "Transfers": "87", 
+    "id": 16, 
+    "Total_Votes": "1205"
+},
+{
+    "Candidate_First_Pref_Votes": "4376", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "BUTLER", 
+    "Firstname": "Robbie", 
+    "Constituency_Number": "6", 
+    "Party_Name": "Ulster Unionist Party", 
+    "Candidate_Id": "129", 
+    "Count_Number": "2", 
+    "Transfers": "74", 
+    "id": 17, 
+    "Total_Votes": "4450"
+},
+{
+    "Candidate_First_Pref_Votes": "2899", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "CATNEY", 
+    "Firstname": "Pat", 
+    "Constituency_Number": "6", 
+    "Party_Name": "Social Democratic and Labour Party", 
+    "Candidate_Id": "130", 
+    "Count_Number": "2", 
+    "Transfers": "36", 
+    "id": 18, 
+    "Total_Votes": "2935"
+},
+{
+    "Candidate_First_Pref_Votes": "4087", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "CRAIG", 
+    "Firstname": "Jonathan", 
+    "Constituency_Number": "6", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "131", 
+    "Count_Number": "2", 
+    "Transfers": "16", 
+    "id": 19, 
+    "Total_Votes": "4103"
+},
+{
+    "Candidate_First_Pref_Votes": "171", 
+    "Status": "Excluded", 
+    "Occurred_On_Count": "1", 
+    "Surname": "DYNES", 
+    "Firstname": "Peter", 
+    "Constituency_Number": "6", 
+    "Party_Name": "NI Labour Representation Committee", 
+    "Candidate_Id": "132", 
+    "Count_Number": "2", 
+    "Transfers": "", 
+    "id": 20, 
+    "Total_Votes": "171"
+},
+{
+    "Candidate_First_Pref_Votes": "5364", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "GIVAN", 
+    "Firstname": "Paul", 
+    "Constituency_Number": "6", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "133", 
+    "Count_Number": "2", 
+    "Transfers": "19", 
+    "id": 21, 
+    "Total_Votes": "5383"
+},
+{
+    "Candidate_First_Pref_Votes": "4236", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "HALE", 
+    "Firstname": "Brenda", 
+    "Constituency_Number": "6", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "134", 
+    "Count_Number": "2", 
+    "Transfers": "47", 
+    "id": 22, 
+    "Total_Votes": "4283"
+},
+{
+    "Candidate_First_Pref_Votes": "768", 
+    "Status": "Excluded", 
+    "Occurred_On_Count": "2", 
+    "Surname": "HIGGINSON", 
+    "Firstname": "Brian", 
+    "Constituency_Number": "6", 
+    "Party_Name": "UK Independence Party", 
+    "Candidate_Id": "135", 
+    "Count_Number": "2", 
+    "Transfers": "24", 
+    "id": 23, 
+    "Total_Votes": "792"
+},
+{
+    "Candidate_First_Pref_Votes": "341", 
+    "Status": "Excluded", 
+    "Occurred_On_Count": "1", 
+    "Surname": "IRWIN", 
+    "Firstname": "Jack", 
+    "Constituency_Number": "6", 
+    "Party_Name": "NI Conservatives", 
+    "Candidate_Id": "136", 
+    "Count_Number": "2", 
+    "Transfers": "-341", 
+    "id": 24, 
+    "Total_Votes": "0"
+},
+{
+    "Candidate_First_Pref_Votes": "3707", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "LUNN", 
+    "Firstname": "Trevor", 
+    "Constituency_Number": "6", 
+    "Party_Name": "Alliance Party", 
+    "Candidate_Id": "137", 
+    "Count_Number": "2", 
+    "Transfers": "144", 
+    "id": 25, 
+    "Total_Votes": "3851"
+},
+{
+    "Candidate_First_Pref_Votes": "124", 
+    "Status": "Excluded", 
+    "Occurred_On_Count": "1", 
+    "Surname": "MCCAMMOND", 
+    "Firstname": "Frazer", 
+    "Constituency_Number": "6", 
+    "Party_Name": "Democracy First", 
+    "Candidate_Id": "138", 
+    "Count_Number": "2", 
+    "Transfers": "-124", 
+    "id": 26, 
+    "Total_Votes": "0"
+},
+{
+    "Candidate_First_Pref_Votes": "1045", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "MCGEOUGH", 
+    "Firstname": "Jacqui", 
+    "Constituency_Number": "6", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "139", 
+    "Count_Number": "2", 
+    "Transfers": "9", 
+    "id": 27, 
+    "Total_Votes": "1054"
+},
+{
+    "Candidate_First_Pref_Votes": "817", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "ORR", 
+    "Firstname": "Jonny", 
+    "Constituency_Number": "6", 
+    "Party_Name": "Independent", 
+    "Candidate_Id": "140", 
+    "Count_Number": "2", 
+    "Transfers": "23", 
+    "id": 28, 
+    "Total_Votes": "840"
+},
+{
+    "Candidate_First_Pref_Votes": "3871", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "PALMER", 
+    "Firstname": "Jenny", 
+    "Constituency_Number": "6", 
+    "Party_Name": "Ulster Unionist Party", 
+    "Candidate_Id": "141", 
+    "Count_Number": "2", 
+    "Transfers": "85", 
+    "id": 29, 
+    "Total_Votes": "3956"
+},
+{
+    "Candidate_First_Pref_Votes": "4638", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "POOTS", 
+    "Firstname": "Edwin", 
+    "Constituency_Number": "6", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "142", 
+    "Count_Number": "2", 
+    "Transfers": "24", 
+    "id": 30, 
+    "Total_Votes": "4662"
+},
+{
+    "Candidate_First_Pref_Votes": "1291", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "REA", 
+    "Firstname": "Lyle", 
+    "Constituency_Number": "6", 
+    "Party_Name": "Traditional Unionist Voice", 
+    "Candidate_Id": "143", 
+    "Count_Number": "2", 
+    "Transfers": "12", 
+    "id": 31, 
+    "Total_Votes": "1303"
 }
 ]}}
