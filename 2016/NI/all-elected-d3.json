@@ -36,6 +36,18 @@
     "Candidate_Id": "28"
 },
 {
+    "Candidate_First_Pref_Votes": "5207", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "5", 
+    "Surname": "O MUILLEOIR", 
+    "Firstname": "Mairtin", 
+    "Colour": "#009900", 
+    "Constituency_Name": "Belfast South", 
+    "Constituency_Number": "13", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "50"
+},
+{
     "Candidate_First_Pref_Votes": "8299", 
     "Status": "Elected", 
     "Occurred_On_Count": "1", 
@@ -82,6 +94,18 @@
     "Constituency_Number": "4", 
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "104"
+},
+{
+    "Candidate_First_Pref_Votes": "6602", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "2", 
+    "Surname": "MORROW", 
+    "Firstname": "Maurice", 
+    "Colour": "#ff8000", 
+    "Constituency_Name": "Fermanagh and South Tyrone", 
+    "Constituency_Number": "4", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "110"
 },
 {
     "Candidate_First_Pref_Votes": "5853", 
@@ -191,3 +215,40 @@
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "208"
 },
+{
+    "Candidate_First_Pref_Votes": "5033", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "3", 
+    "Surname": "WELLS", 
+    "Firstname": "Jim", 
+    "Colour": "#ff8000", 
+    "Constituency_Name": "South Down", 
+    "Constituency_Number": "14", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "226"
+},
+{
+    "Candidate_First_Pref_Votes": "4663", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
+    "Surname": "MCILVEEN", 
+    "Firstname": "Michelle", 
+    "Colour": "#ff8000", 
+    "Constituency_Name": "Strangford", 
+    "Constituency_Number": "15", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "237"
+},
+{
+    "Candidate_First_Pref_Votes": "4673", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
+    "Surname": "NESBITT", 
+    "Firstname": "Mike", 
+    "Colour": "#62cae7", 
+    "Constituency_Name": "Strangford", 
+    "Constituency_Number": "15", 
+    "Party_Name": "Ulster Unionist Party", 
+    "Candidate_Id": "240"
+}
+]

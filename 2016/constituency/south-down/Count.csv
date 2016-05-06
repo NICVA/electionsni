@@ -19,7 +19,19 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 14,220,2,John,MCCALLISTER,1156,-1156,0,Excluded,1,Independent
 14,221,2,Colin,MCGRATH,4288,141,4429,,,Social Democratic and Labour Party
 14,222,2,Harold,MCKEE,3481,331,3812,,,Ulster Unionist Party
-14,223,2,Henry,REILLY,2718,82,2800,,,Traditional Unionist Voice
+14,223,2,Henry,REILLY,2718,82,2800,Excluded,2,Traditional Unionist Voice
 14,224,2,Sean,ROGERS,3564,135,3699,,,Social Democratic and Labour Party
 14,225,2,Caitriona,RUANE,4191,49,4240,,,Sinn Fein
 14,226,2,Jim,WELLS,5033,150,5183,,,Democratic Unionist Party
+14,215,3,Sinead,BRADLEY,5059,10,5241,,,Social Democratic and Labour Party
+14,216,3,Patrick,BROWN,2200,28,2869,,,Alliance Party
+14,217,3,Michael,GRAY-SLOAN,3520,1,3572,,,Sinn Fein
+14,218,3,John,HARDY,820,0,0,Excluded,1,Green Party
+14,219,3,Chris,HAZZARD,5045,2,5144,,,Sinn Fein
+14,220,3,John,MCCALLISTER,1156,0,0,Excluded,1,Independent
+14,221,3,Colin,MCGRATH,4288,11,4440,,,Social Democratic and Labour Party
+14,222,3,Harold,MCKEE,3481,1356,5168,,,Ulster Unionist Party
+14,223,3,Henry,REILLY,2718,-2718,82,Excluded,2,Traditional Unionist Voice
+14,224,3,Sean,ROGERS,3564,22,3721,,,Social Democratic and Labour Party
+14,225,3,Caitriona,RUANE,4191,4,4244,,,Sinn Fein
+14,226,3,Jim,WELLS,5033,1287,6470,Elected,3,Democratic Unionist Party

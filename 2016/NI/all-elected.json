@@ -40,7 +40,16 @@
 {"Constituency_Name": "Belfast South",
 "Constituency_Number": 13,
 "Elected": [
-]
+{
+    "Candidate_First_Pref_Votes": "5207", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "5", 
+    "Surname": "O MUILLEOIR", 
+    "Firstname": "Mairtin", 
+    "Constituency_Number": "13", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "50"
+}]
 },
 {"Constituency_Name": "Belfast West",
 "Constituency_Number": 17,
@@ -97,6 +106,16 @@
     "Constituency_Number": "4", 
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "104"
+},
+{
+    "Candidate_First_Pref_Votes": "6602", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "2", 
+    "Surname": "MORROW", 
+    "Firstname": "Maurice", 
+    "Constituency_Number": "4", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "110"
 }]
 },
 {"Constituency_Name": "Foyle",
@@ -225,8 +244,8 @@
 "Elected": [
 {
     "Candidate_First_Pref_Votes": "5033", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "3", 
     "Surname": "WELLS", 
     "Firstname": "Jim", 
     "Constituency_Number": "14", 

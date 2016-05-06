@@ -31,3 +31,51 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 6,141,2,Jenny,PALMER,3871,85,3956,,,Ulster Unionist Party
 6,142,2,Edwin,POOTS,4638,24,4662,,,Democratic Unionist Party
 6,143,2,Lyle,REA,1291,12,1303,,,Traditional Unionist Voice
+6,128,3,Dan,BARRIOS-ONEILL,1118,40,1245,,,Green Party
+6,129,3,Robbie,BUTLER,4376,99,4549,,,Ulster Unionist Party
+6,130,3,Pat,CATNEY,2899,19,2954,,,Social Democratic and Labour Party
+6,131,3,Jonathan,CRAIG,4087,56,4159,,,Democratic Unionist Party
+6,132,3,Peter,DYNES,171,0,0,Excluded,1,NI Labour Representation Committee
+6,133,3,Paul,GIVAN,5364,84,5467,,,Democratic Unionist Party
+6,134,3,Brenda,HALE,4236,33,4316,,,Democratic Unionist Party
+6,135,3,Brian,HIGGINSON,768,-792,0,Excluded,2,UK Independence Party
+6,136,3,Jack,IRWIN,341,0,0,Excluded,1,NI Conservatives
+6,137,3,Trevor,LUNN,3707,49,3900,,,Alliance Party
+6,138,3,Frazer,MCCAMMOND,124,0,0,Excluded,1,Democracy First
+6,139,3,Jacqui,MCGEOUGH,1045,7,1061,,,Sinn Fein
+6,140,3,Jonny,ORR,817,17,857,Excluded,3,Independent
+6,141,3,Jenny,PALMER,3871,92,4048,,,Ulster Unionist Party
+6,142,3,Edwin,POOTS,4638,51,4713,,,Democratic Unionist Party
+6,143,3,Lyle,REA,1291,203,1506,,,Traditional Unionist Voice
+6,128,4,Dan,BARRIOS-ONEILL,1118,302,1547,,,Green Party
+6,129,4,Robbie,BUTLER,4376,65,4614,,,Ulster Unionist Party
+6,130,4,Pat,CATNEY,2899,39,2993,,,Social Democratic and Labour Party
+6,131,4,Jonathan,CRAIG,4087,10,4169,,,Democratic Unionist Party
+6,132,4,Peter,DYNES,171,0,0,Excluded,1,NI Labour Representation Committee
+6,133,4,Paul,GIVAN,5364,13,5480,,,Democratic Unionist Party
+6,134,4,Brenda,HALE,4236,10,4326,,,Democratic Unionist Party
+6,135,4,Brian,HIGGINSON,768,0,0,Excluded,2,UK Independence Party
+6,136,4,Jack,IRWIN,341,0,0,Excluded,1,NI Conservatives
+6,137,4,Trevor,LUNN,3707,151,4051,,,Alliance Party
+6,138,4,Frazer,MCCAMMOND,124,0,0,Excluded,1,Democracy First
+6,139,4,Jacqui,MCGEOUGH,1045,21,1082,Excluded,4,Sinn Fein
+6,140,4,Jonny,ORR,817,-857,0,Excluded,3,Independent
+6,141,4,Jenny,PALMER,3871,166,4214,,,Ulster Unionist Party
+6,142,4,Edwin,POOTS,4638,16,4729,,,Democratic Unionist Party
+6,143,4,Lyle,REA,1291,10,1516,,,Traditional Unionist Voice
+6,128,5,Dan,BARRIOS-ONEILL,1118,114,1661,,,Green Party
+6,129,5,Robbie,BUTLER,4376,4,4618,,,Ulster Unionist Party
+6,130,5,Pat,CATNEY,2899,711,3704,,,Social Democratic and Labour Party
+6,131,5,Jonathan,CRAIG,4087,4,4173,,,Democratic Unionist Party
+6,132,5,Peter,DYNES,171,0,0,Excluded,1,NI Labour Representation Committee
+6,133,5,Paul,GIVAN,5364,4,5484,,,Democratic Unionist Party
+6,134,5,Brenda,HALE,4236,4,4330,,,Democratic Unionist Party
+6,135,5,Brian,HIGGINSON,768,0,0,Excluded,2,UK Independence Party
+6,136,5,Jack,IRWIN,341,0,0,Excluded,1,NI Conservatives
+6,137,5,Trevor,LUNN,3707,132,4183,,,Alliance Party
+6,138,5,Frazer,MCCAMMOND,124,0,0,Excluded,1,Democracy First
+6,139,5,Jacqui,MCGEOUGH,1045,-1082,0,Excluded,4,Sinn Fein
+6,140,5,Jonny,ORR,817,0,0,,,Independent
+6,141,5,Jenny,PALMER,3871,2,4216,,,Ulster Unionist Party
+6,142,5,Edwin,POOTS,4638,0,4729,,,Democratic Unionist Party
+6,143,5,Lyle,REA,1291,2,1518,Excluded,5,Traditional Unionist Voice

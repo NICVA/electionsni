@@ -8,4 +8,14 @@
     "Constituency_Number": "4", 
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "104"
+},
+{
+    "Candidate_First_Pref_Votes": "6602", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "2", 
+    "Surname": "MORROW", 
+    "Firstname": "Maurice", 
+    "Constituency_Number": "4", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "110"
 }]
