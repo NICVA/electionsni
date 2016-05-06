@@ -1,19 +1,19 @@
 Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_Pref_Votes,Transfers,Total_Votes,Status,Occurred_On_Count,Party_Name
-2,1,1,Andy,ALLEN,,0,,,,Ulster Unionist Party
-2,2,1,Ross,BROWN,,0,,,,Green Party
-2,3,1,Joanne,BUNTING,,0,,,,Democratic Unionist Party
-2,4,1,Amy,DOHERTY,,0,,,,Social Democratic and Labour Party
-2,5,1,Sammy,DOUGLAS,,0,,,,Democratic Unionist Party
-2,6,1,Andrew,GIRVIN,,0,,,,Traditional Unionist Voice
-2,7,1,Erskine,HOLMES,,0,,,,NI Labour Representation Committee
-2,8,1,Maggie,HUTTON,,0,,,,Independent
-2,9,1,John,KYLE,,0,,,,Progressive Unionist Party
-2,10,1,Jonny,LAVERY,,0,,,,UK Independence Party
-2,11,1,Naomi,LONG,,0,,,,Alliance Party
-2,12,1,Chris,LYTTLE,,0,,,,Alliance Party
-2,13,1,Chris,MCGIMPSEY,,0,,,,Ulster Unionist Party
-2,14,1,Tim,MORROW,,0,,,,Alliance Party
-2,15,1,Robin,NEWTON,,0,,,,Democratic Unionist Party
-2,16,1,Niall,O DONNGHAILE,,0,,,,Sinn Fein
-2,17,1,Courtney,ROBINSON,,0,,,,Labour Alternative
-2,18,1,Neil,WILSON,,0,,,,NI Conservatives
+2,1,1,Andy,ALLEN,3047,0,3047,,,Ulster Unionist Party
+2,2,1,Ross,BROWN,2183,0,2183,,,Green Party
+2,3,1,Joanne,BUNTING,5538,0,5538,Elected,1,Democratic Unionist Party
+2,4,1,Amy,DOHERTY,141,0,141,,,Social Democratic and Labour Party
+2,5,1,Sammy,DOUGLAS,4230,0,4230,,,Democratic Unionist Party
+2,6,1,Andrew,GIRVIN,887,0,887,,,Traditional Unionist Voice
+2,7,1,Erskine,HOLMES,78,0,78,,,NI Labour Representation Committee
+2,8,1,Maggie,HUTTON,1099,0,1099,,,Independent
+2,9,1,John,KYLE,1772,0,1772,,,Progressive Unionist Party
+2,10,1,Jonny,LAVERY,631,0,631,,,UK Independence Party
+2,11,1,Naomi,LONG,5482,0,5482,Elected,1,Alliance Party
+2,12,1,Chris,LYTTLE,2805,0,2805,,,Alliance Party
+2,13,1,Chris,MCGIMPSEY,1095,0,1095,,,Ulster Unionist Party
+2,14,1,Tim,MORROW,2372,0,2372,,,Alliance Party
+2,15,1,Robin,NEWTON,3875,0,3875,,,Democratic Unionist Party
+2,16,1,Niall,O DONNGHAILE,946,0,946,,,Sinn Fein
+2,17,1,Courtney,ROBINSON,517,0,517,,,Labour Alternative
+2,18,1,Neil,WILSON,477,0,477,,,NI Conservatives

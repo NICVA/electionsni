@@ -1,6 +1,6 @@
-{"Constituency": {"countInfo": {"Valid_Poll": "", "Number_Of_Seats": "6", "Total_Poll": "37623", "Voting_Age_Pop": "74065", "Quota": "", "Constituency_Name": "Belfast East", "Constituency_Number": "2", "Total_Electorate": "65740", "Spoiled": ""},
+{"Constituency": {"countInfo": {"Valid_Poll": "37175", "Number_Of_Seats": "6", "Total_Poll": "37623", "Voting_Age_Pop": "74065", "Quota": "5311", "Constituency_Name": "Belfast East", "Constituency_Number": "2", "Total_Electorate": "65740", "Spoiled": "448"},
 "countGroup": [{
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "3047", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "ALLEN", 
@@ -11,10 +11,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 0, 
-    "Total_Votes": ""
+    "Total_Votes": "3047"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "2183", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "BROWN", 
@@ -25,12 +25,12 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 1, 
-    "Total_Votes": ""
+    "Total_Votes": "2183"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Candidate_First_Pref_Votes": "5538", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
     "Surname": "BUNTING", 
     "Firstname": "Joanne", 
     "Constituency_Number": "2", 
@@ -39,10 +39,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 2, 
-    "Total_Votes": ""
+    "Total_Votes": "5538"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "141", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "DOHERTY", 
@@ -53,10 +53,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 3, 
-    "Total_Votes": ""
+    "Total_Votes": "141"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "4230", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "DOUGLAS", 
@@ -67,10 +67,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 4, 
-    "Total_Votes": ""
+    "Total_Votes": "4230"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "887", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "GIRVIN", 
@@ -81,10 +81,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 5, 
-    "Total_Votes": ""
+    "Total_Votes": "887"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "78", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "HOLMES", 
@@ -95,10 +95,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 6, 
-    "Total_Votes": ""
+    "Total_Votes": "78"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "1099", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "HUTTON", 
@@ -109,10 +109,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 7, 
-    "Total_Votes": ""
+    "Total_Votes": "1099"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "1772", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "KYLE", 
@@ -123,10 +123,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 8, 
-    "Total_Votes": ""
+    "Total_Votes": "1772"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "631", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "LAVERY", 
@@ -137,12 +137,12 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 9, 
-    "Total_Votes": ""
+    "Total_Votes": "631"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Candidate_First_Pref_Votes": "5482", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
     "Surname": "LONG", 
     "Firstname": "Naomi", 
     "Constituency_Number": "2", 
@@ -151,10 +151,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 10, 
-    "Total_Votes": ""
+    "Total_Votes": "5482"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "2805", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "LYTTLE", 
@@ -165,10 +165,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 11, 
-    "Total_Votes": ""
+    "Total_Votes": "2805"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "1095", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "MCGIMPSEY", 
@@ -179,10 +179,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 12, 
-    "Total_Votes": ""
+    "Total_Votes": "1095"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "2372", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "MORROW", 
@@ -193,10 +193,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 13, 
-    "Total_Votes": ""
+    "Total_Votes": "2372"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "3875", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "NEWTON", 
@@ -207,10 +207,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 14, 
-    "Total_Votes": ""
+    "Total_Votes": "3875"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "946", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "O DONNGHAILE", 
@@ -221,10 +221,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 15, 
-    "Total_Votes": ""
+    "Total_Votes": "946"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "517", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "ROBINSON", 
@@ -235,10 +235,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 16, 
-    "Total_Votes": ""
+    "Total_Votes": "517"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "477", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "WILSON", 
@@ -249,6 +249,6 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 17, 
-    "Total_Votes": ""
+    "Total_Votes": "477"
 }
 ]}}

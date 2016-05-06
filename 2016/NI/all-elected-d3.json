@@ -1,5 +1,29 @@
 [
 {
+    "Candidate_First_Pref_Votes": "5538", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
+    "Surname": "BUNTING", 
+    "Firstname": "Joanne", 
+    "Colour": "#ff8000", 
+    "Constituency_Name": "Belfast East", 
+    "Constituency_Number": "2", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "3"
+},
+{
+    "Candidate_First_Pref_Votes": "5482", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
+    "Surname": "LONG", 
+    "Firstname": "Naomi", 
+    "Colour": "#ffe600", 
+    "Constituency_Name": "Belfast East", 
+    "Constituency_Number": "2", 
+    "Party_Name": "Alliance Party", 
+    "Candidate_Id": "11"
+},
+{
     "Candidate_First_Pref_Votes": "5906", 
     "Status": "Elected", 
     "Occurred_On_Count": "1", 

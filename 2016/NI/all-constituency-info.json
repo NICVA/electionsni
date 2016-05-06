@@ -3,7 +3,7 @@
     "Constituency_Name": "Belfast East",
     "Constituency_Number": 2,
     "Directory": "belfast-east",
-    "countInfo": {"Valid_Poll": "", "Number_Of_Seats": "6", "Total_Poll": "37623", "Voting_Age_Pop": "74065", "Quota": "", "Constituency_Name": "Belfast East", "Constituency_Number": "2", "Total_Electorate": "65740", "Spoiled": ""}
+    "countInfo": {"Valid_Poll": "37175", "Number_Of_Seats": "6", "Total_Poll": "37623", "Voting_Age_Pop": "74065", "Quota": "5311", "Constituency_Name": "Belfast East", "Constituency_Number": "2", "Total_Electorate": "65740", "Spoiled": "448"}
     },
 {
     "Constituency_Name": "Belfast North",
