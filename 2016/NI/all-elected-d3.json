@@ -84,6 +84,18 @@
     "Candidate_Id": "61"
 },
 {
+    "Candidate_First_Pref_Votes": "4386", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "6", 
+    "Surname": "MCCANN", 
+    "Firstname": "Jennifer", 
+    "Colour": "#009900", 
+    "Constituency_Name": "Belfast West", 
+    "Constituency_Number": "17", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "62"
+},
+{
     "Candidate_First_Pref_Votes": "3516", 
     "Status": "Elected", 
     "Occurred_On_Count": "4", 
@@ -190,6 +202,18 @@
     "Constituency_Number": "4", 
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "110"
+},
+{
+    "Candidate_First_Pref_Votes": "3198", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "MCCARTNEY", 
+    "Firstname": "Raymond", 
+    "Colour": "#009900", 
+    "Constituency_Name": "Foyle", 
+    "Constituency_Number": "5", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "122"
 },
 {
     "Candidate_First_Pref_Votes": "4737", 
@@ -322,6 +346,18 @@
     "Constituency_Number": "7", 
     "Party_Name": "Sinn Fein", 
     "Candidate_Id": "152"
+},
+{
+    "Candidate_First_Pref_Votes": "4862", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "OVEREND", 
+    "Firstname": "Sandra", 
+    "Colour": "#62cae7", 
+    "Constituency_Name": "Mid Ulster", 
+    "Constituency_Number": "7", 
+    "Party_Name": "Ulster Unionist Party", 
+    "Candidate_Id": "153"
 },
 {
     "Candidate_First_Pref_Votes": "6822", 
@@ -502,6 +538,18 @@
     "Constituency_Number": "14", 
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "226"
+},
+{
+    "Candidate_First_Pref_Votes": "3499", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "ARMSTRONG", 
+    "Firstname": "Kellie", 
+    "Colour": "#ffe600", 
+    "Constituency_Name": "Strangford", 
+    "Constituency_Number": "15", 
+    "Party_Name": "Alliance Party", 
+    "Candidate_Id": "227"
 },
 {
     "Candidate_First_Pref_Votes": "4663", 
