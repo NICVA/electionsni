@@ -5,7 +5,7 @@
     "Occurred_On_Count": "1", 
     "Surname": "MCILVEEN", 
     "Firstname": "Michelle", 
-    "Constituency_Number": "15", 
+    "Constituency_Number": "", 
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "237"
 },
@@ -15,7 +15,7 @@
     "Occurred_On_Count": "1", 
     "Surname": "NESBITT", 
     "Firstname": "Mike", 
-    "Constituency_Number": "15", 
+    "Constituency_Number": "", 
     "Party_Name": "Ulster Unionist Party", 
     "Candidate_Id": "240"
 }]

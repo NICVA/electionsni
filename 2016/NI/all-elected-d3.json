@@ -139,7 +139,7 @@
     "Firstname": "Michelle", 
     "Colour": "#ff8000", 
     "Constituency_Name": "Strangford", 
-    "Constituency_Number": "15", 
+    "Constituency_Number": "", 
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "237"
 },
@@ -151,7 +151,7 @@
     "Firstname": "Mike", 
     "Colour": "#62cae7", 
     "Constituency_Name": "Strangford", 
-    "Constituency_Number": "15", 
+    "Constituency_Number": "", 
     "Party_Name": "Ulster Unionist Party", 
     "Candidate_Id": "240"
 }
