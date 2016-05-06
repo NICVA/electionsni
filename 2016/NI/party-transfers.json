@@ -40,6 +40,11 @@
 			"From": {"South Belfast Unionists": -359.0},
 			"To": {"Workers Party": 0, "Independent": 21.0, "Labour Alternative": 3.0, "Sinn Fein": 2.0, "Social Democratic and Labour Party": 8.0, "Traditional Unionist Voice": 57.0, "Democratic Unionist Party": 99.0, "Ulster Unionist Party": 88.0, "Green Party": 8.0, "UK Independence Party": 28.0, "South Belfast Unionists": 0, "Alliance Party": 21.0, "NI Labour Representation Committee": 0, "NI Conservatives": 0, "Progressive Unionist Party": 6.0},
 			"Not_transferred": 18.0
+		},
+		{"Count_Number": 6,
+			"From": {"Progressive Unionist Party": -444.0},
+			"To": {"Workers Party": 0, "Independent": 69.0, "Labour Alternative": 11.0, "Sinn Fein": 0, "Social Democratic and Labour Party": 2.0, "Traditional Unionist Voice": 32.0, "Democratic Unionist Party": 151.0, "Ulster Unionist Party": 62.0, "Green Party": 13.0, "UK Independence Party": 76.0, "South Belfast Unionists": 0, "Alliance Party": 10.0, "NI Labour Representation Committee": 0, "NI Conservatives": 0, "Progressive Unionist Party": 0},
+			"Not_transferred": 18.0
 		}
 		]
 	}
@@ -60,6 +65,16 @@
 			"From": {"Democratic Unionist Party": -1275.0},
 			"To": {"Social Democratic and Labour Party": 1.05, "Traditional Unionist Voice": 15.75, "Democratic Unionist Party": 1027.74, "Cross-Community Labour Alternative": 0.42, "Sinn Fein": 0.42, "Green Party": 1.68, "UK Independence Party": 42.63, "Ulster Unionist Party": 121.8, "Alliance Party": 13.65, "Progressive Unionist Party": 8.19},
 			"Not_transferred": 41.67
+		},
+		{"Count_Number": 3,
+			"From": {"Progressive Unionist Party": -463.19},
+			"To": {"Social Democratic and Labour Party": 2.0, "Traditional Unionist Voice": 53.21, "Democratic Unionist Party": 76.50999999999999, "Cross-Community Labour Alternative": 6.0, "Sinn Fein": 1.0, "Green Party": 10.0, "UK Independence Party": 174.05, "Ulster Unionist Party": 125.46999999999998, "Alliance Party": 5.0, "Progressive Unionist Party": 0},
+			"Not_transferred": 9.95
+		},
+		{"Count_Number": 4,
+			"From": {"Cross-Community Labour Alternative": -557.42},
+			"To": {"Social Democratic and Labour Party": 59.0, "Traditional Unionist Voice": 10.0, "Democratic Unionist Party": 19.21, "Cross-Community Labour Alternative": 0, "Sinn Fein": 45.0, "Green Party": 174.0, "UK Independence Party": 27.0, "Ulster Unionist Party": 51.0, "Alliance Party": 141.0, "Progressive Unionist Party": 0},
+			"Not_transferred": 31.21
 		}
 		]
 	}

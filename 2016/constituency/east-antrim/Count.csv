@@ -29,3 +29,33 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 1,79,2,Conor John,SHERIDAN,551,0.42,551.42,,,Cross-Community Labour Alternative
 1,80,2,John Robert,STEWART,1985,28.56,2013.56,,,Ulster Unionist Party
 1,81,2,Ruth,WILSON,1643,15.75,1658.75,,,Traditional Unionist Voice
+1,67,3,Roy,BEGGS,3848,76.21,4011.99,,,Ulster Unionist Party
+1,68,3,Stewart Clyde,DICKSON,3115,4,3130.34,,,Alliance Party
+1,69,3,Danny,DONNELLY,1632,1,1635.31,,,Alliance Party
+1,70,3,David,HILDITCH,5906,0,4631,Elected,1,Democratic Unionist Party
+1,71,3,Noel,JORDAN,2207,174.05,2423.68,,,UK Independence Party
+1,72,3,Gordon,LYONS,3472,38.73,4362.49,,,Democratic Unionist Party
+1,73,3,Jim,MCCAW,455,-463.19,0,Excluded,2,Progressive Unionist Party
+1,74,3,Margaret Anne,MCKILLOP,1229,2,1232.05,,,Social Democratic and Labour Party
+1,75,3,Oliver,MCMULLAN,2633,1,2634.42,,,Sinn Fein
+1,76,3,Maureen,MORROW,719,11.21,735.67,,,Ulster Unionist Party
+1,77,3,Dawn,PATTERSON,693,10,704.68,,,Green Party
+1,78,3,Alastair,ROSS,2323,37.78,2536.76,,,Democratic Unionist Party
+1,79,3,Conor John,SHERIDAN,551,6,557.42,Excluded,3,Cross-Community Labour Alternative
+1,80,3,John Robert,STEWART,1985,38.05,2051.61,,,Ulster Unionist Party
+1,81,3,Ruth,WILSON,1643,53.21,1711.96,,,Traditional Unionist Voice
+1,67,4,Roy,BEGGS,3848,20,4031.99,,,Ulster Unionist Party
+1,68,4,Stewart Clyde,DICKSON,3115,66,3196.34,,,Alliance Party
+1,69,4,Danny,DONNELLY,1632,75,1710.31,,,Alliance Party
+1,70,4,David,HILDITCH,5906,0,4631,Elected,1,Democratic Unionist Party
+1,71,4,Noel,JORDAN,2207,27,2450.68,,,UK Independence Party
+1,72,4,Gordon,LYONS,3472,10.21,4372.7,,,Democratic Unionist Party
+1,73,4,Jim,MCCAW,455,0,0,Excluded,2,Progressive Unionist Party
+1,74,4,Margaret Anne,MCKILLOP,1229,59,1291.05,,,Social Democratic and Labour Party
+1,75,4,Oliver,MCMULLAN,2633,45,2679.42,,,Sinn Fein
+1,76,4,Maureen,MORROW,719,11,746.67,Excluded,4,Ulster Unionist Party
+1,77,4,Dawn,PATTERSON,693,174,878.68,,,Green Party
+1,78,4,Alastair,ROSS,2323,9,2545.76,,,Democratic Unionist Party
+1,79,4,Conor John,SHERIDAN,551,-557.42,0,Excluded,3,Cross-Community Labour Alternative
+1,80,4,John Robert,STEWART,1985,20,2071.61,,,Ulster Unionist Party
+1,81,4,Ruth,WILSON,1643,10,1721.96,,,Traditional Unionist Voice

@@ -1,19 +1,19 @@
 Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_Pref_Votes,Transfers,Total_Votes,Status,Occurred_On_Count,Party_Name
-18,259,1,Michaela,BOYLE,,0,,,,Sinn Fein
-18,260,1,Allan,BRESLAND,,0,,,,Democratic Unionist Party
-18,261,1,Barry,BROWN,,0,,,,Cannabis Is Safer Than Alcohol
-18,262,1,Thomas,BUCHANAN,,0,,,,Democratic Unionist Party
-18,263,1,Josephine Anne,DEENAN,,0,,,,Independent
-18,264,1,Stephen,DONNELLY,,0,,,,Alliance Party
-18,265,1,Corey,FRENCH,,0,,,,Independent
-18,266,1,Ross,HUSSEY,,0,,,,Ulster Unionist Party
-18,267,1,Patsy,KELLY,,0,,,,Independent
-18,268,1,Roger,LOMAS,,0,,,,NI Conservatives
-18,269,1,Declan,MCALEER,,0,,,,Sinn Fein
-18,270,1,Laura,MCANEA,,0,,,,Animal Welfare Party
-18,271,1,Sorcha,MCANESPY,,0,,,,Independent
-18,272,1,Ciaran,MCCLEAN,,0,,,,Green Party
-18,273,1,Daniel,MCCROSSAN,,0,,,,Social Democratic and Labour Party
-18,274,1,Grace,MCDERMOTT,,0,,,,Sinn Fein
-18,275,1,Barry,MCELDUFF,,0,,,,Sinn Fein
-18,276,1,Susan-Anne,WHITE,,0,,,,Independent
+18,259,1,Michaela,BOYLE,4650,0,4650,,,Sinn Fein
+18,260,1,Allan,BRESLAND,4568,0,4568,,,Democratic Unionist Party
+18,261,1,Barry,BROWN,4460,0,4460,,,Cannabis Is Safer Than Alcohol
+18,262,1,Thomas,BUCHANAN,4441,0,4441,,,Democratic Unionist Party
+18,263,1,Josephine Anne,DEENAN,4287,0,4287,,,Independent
+18,264,1,Stephen,DONNELLY,3884,0,3884,,,Alliance Party
+18,265,1,Corey,FRENCH,3711,0,3711,,,Independent
+18,266,1,Ross,HUSSEY,3565,0,3565,,,Ulster Unionist Party
+18,267,1,Patsy,KELLY,1778,0,1778,,,Independent
+18,268,1,Roger,LOMAS,44,0,44,,,NI Conservatives
+18,269,1,Declan,MCALEER,828,0,828,,,Sinn Fein
+18,270,1,Laura,MCANEA,661,0,661,,,Animal Welfare Party
+18,271,1,Sorcha,MCANESPY,547,0,547,,,Independent
+18,272,1,Ciaran,MCCLEAN,494,0,494,,,Green Party
+18,273,1,Daniel,MCCROSSAN,458,0,458,,,Social Democratic and Labour Party
+18,274,1,Grace,MCDERMOTT,224,0,224,,,Sinn Fein
+18,275,1,Barry,MCELDUFF,124,0,124,,,Sinn Fein
+18,276,1,Susan-Anne,WHITE,85,0,85,,,Independent
