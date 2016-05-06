@@ -45,7 +45,7 @@
     "Constituency_Name": "Foyle",
     "Constituency_Number": 5,
     "Directory": "foyle",
-    "countInfo": {"Valid_Poll": "", "Number_Of_Seats": "6", "Total_Poll": "", "Voting_Age_Pop": "76503", "Quota": "", "Constituency_Name": "Foyle", "Constituency_Number": "5", "Total_Electorate": "71151", "Spoiled": ""}
+    "countInfo": {"Valid_Poll": "", "Number_Of_Seats": "6", "Total_Poll": "40187", "Voting_Age_Pop": "76503", "Quota": "", "Constituency_Name": "Foyle", "Constituency_Number": "5", "Total_Electorate": "71151", "Spoiled": ""}
     },
 {
     "Constituency_Name": "Lagan Valley",
