@@ -131,3 +131,88 @@
     "Party_Name": "Sinn Fein", 
     "Candidate_Id": "152"
 },
+{
+    "Candidate_First_Pref_Votes": "6822", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
+    "Surname": "BOYLAN", 
+    "Firstname": "Cathal Damian", 
+    "Colour": "#009900", 
+    "Constituency_Name": "Newry and Armagh", 
+    "Constituency_Number": "8", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "157"
+},
+{
+    "Candidate_First_Pref_Votes": "6838", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
+    "Surname": "FEARON", 
+    "Firstname": "Megan", 
+    "Colour": "#009900", 
+    "Constituency_Name": "Newry and Armagh", 
+    "Constituency_Number": "8", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "159"
+},
+{
+    "Candidate_First_Pref_Votes": "7980", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
+    "Surname": "IRWIN", 
+    "Firstname": "William George", 
+    "Colour": "#ff8000", 
+    "Constituency_Name": "Newry and Armagh", 
+    "Constituency_Number": "8", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "160"
+},
+{
+    "Candidate_First_Pref_Votes": "6357", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
+    "Surname": "EASTON", 
+    "Firstname": "Alex", 
+    "Colour": "#ff8000", 
+    "Constituency_Name": "North Down", 
+    "Constituency_Number": "11", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "190"
+},
+{
+    "Candidate_First_Pref_Votes": "5014", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "2", 
+    "Surname": "GIRVAN", 
+    "Firstname": "Paul", 
+    "Colour": "#ff8000", 
+    "Constituency_Name": "South Antrim", 
+    "Constituency_Number": "12", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "208"
+},
+{
+    "Candidate_First_Pref_Votes": "4663", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
+    "Surname": "MCILVEEN", 
+    "Firstname": "Michelle", 
+    "Colour": "#ff8000", 
+    "Constituency_Name": "Strangford", 
+    "Constituency_Number": "15", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "237"
+},
+{
+    "Candidate_First_Pref_Votes": "4673", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
+    "Surname": "NESBITT", 
+    "Firstname": "Mike", 
+    "Colour": "#62cae7", 
+    "Constituency_Name": "Strangford", 
+    "Constituency_Number": "15", 
+    "Party_Name": "Ulster Unionist Party", 
+    "Candidate_Id": "240"
+}
+]

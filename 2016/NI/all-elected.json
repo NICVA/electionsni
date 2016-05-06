@@ -157,9 +157,9 @@
 "Constituency_Number": 8,
 "Elected": [
 {
-    "Candidate_First_Pref_Votes": "", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Candidate_First_Pref_Votes": "6822", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
     "Surname": "BOYLAN", 
     "Firstname": "Cathal Damian", 
     "Constituency_Number": "8", 
@@ -167,9 +167,9 @@
     "Candidate_Id": "157"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Candidate_First_Pref_Votes": "6838", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
     "Surname": "FEARON", 
     "Firstname": "Megan", 
     "Constituency_Number": "8", 
@@ -177,9 +177,9 @@
     "Candidate_Id": "159"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Candidate_First_Pref_Votes": "7980", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
     "Surname": "IRWIN", 
     "Firstname": "William George", 
     "Constituency_Number": "8", 
