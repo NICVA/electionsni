@@ -105,7 +105,7 @@
     "Constituency_Name": "West Tyrone",
     "Constituency_Number": 18,
     "Directory": "west-tyrone",
-    "countInfo": {"Valid_Poll": "", "Number_Of_Seats": "6", "Total_Poll": "", "Voting_Age_Pop": "69229", "Quota": "", "Constituency_Name": "West Tyrone", "Constituency_Number": "18", "Total_Electorate": "64590", "Spoiled": ""}
+    "countInfo": {"Valid_Poll": "", "Number_Of_Seats": "6", "Total_Poll": "39325", "Voting_Age_Pop": "69229", "Quota": "", "Constituency_Name": "West Tyrone", "Constituency_Number": "18", "Total_Electorate": "65694", "Spoiled": ""}
     }
     ]
 }
