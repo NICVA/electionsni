@@ -215,6 +215,16 @@
 "Constituency_Number": 11,
 "Elected": [
 {
+    "Candidate_First_Pref_Votes": "4004", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "DUNNE", 
+    "Firstname": "Gordon Mervyn", 
+    "Constituency_Number": "11", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "189"
+},
+{
     "Candidate_First_Pref_Votes": "6357", 
     "Status": "Elected", 
     "Occurred_On_Count": "1", 
@@ -280,7 +290,16 @@
 {"Constituency_Name": "Upper Bann",
 "Constituency_Number": 16,
 "Elected": [
-]
+{
+    "Candidate_First_Pref_Votes": "", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "LOCKHART", 
+    "Firstname": "Carla", 
+    "Constituency_Number": "16", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "252"
+}]
 },
 {"Constituency_Name": "West Tyrone",
 "Constituency_Number": 18,
