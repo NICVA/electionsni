@@ -193,6 +193,16 @@
     "Constituency_Number": "6", 
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "133"
+},
+{
+    "Candidate_First_Pref_Votes": "3871", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "PALMER", 
+    "Firstname": "Jenny", 
+    "Constituency_Number": "6", 
+    "Party_Name": "Ulster Unionist Party", 
+    "Candidate_Id": "141"
 }]
 },
 {"Constituency_Name": "Mid Ulster",
@@ -316,6 +326,16 @@
     "Candidate_Id": "203"
 },
 {
+    "Candidate_First_Pref_Votes": "3119", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "FORD", 
+    "Firstname": "David RJ", 
+    "Constituency_Number": "12", 
+    "Party_Name": "Alliance Party", 
+    "Candidate_Id": "207"
+},
+{
     "Candidate_First_Pref_Votes": "5014", 
     "Status": "Elected", 
     "Occurred_On_Count": "2", 
@@ -329,6 +349,16 @@
 {"Constituency_Name": "South Down",
 "Constituency_Number": 14,
 "Elected": [
+{
+    "Candidate_First_Pref_Votes": "5059", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "BRADLEY", 
+    "Firstname": "Sinead", 
+    "Constituency_Number": "14", 
+    "Party_Name": "Social Democratic and Labour Party", 
+    "Candidate_Id": "215"
+},
 {
     "Candidate_First_Pref_Votes": "3481", 
     "Status": "", 

@@ -8,4 +8,14 @@
     "Constituency_Number": "6", 
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "133"
+},
+{
+    "Candidate_First_Pref_Votes": "3871", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "PALMER", 
+    "Firstname": "Jenny", 
+    "Constituency_Number": "6", 
+    "Party_Name": "Ulster Unionist Party", 
+    "Candidate_Id": "141"
 }]

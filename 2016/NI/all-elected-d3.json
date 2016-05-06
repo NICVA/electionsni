@@ -192,6 +192,18 @@
     "Candidate_Id": "133"
 },
 {
+    "Candidate_First_Pref_Votes": "3871", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "PALMER", 
+    "Firstname": "Jenny", 
+    "Colour": "#62cae7", 
+    "Constituency_Name": "Lagan Valley", 
+    "Constituency_Number": "6", 
+    "Party_Name": "Ulster Unionist Party", 
+    "Candidate_Id": "141"
+},
+{
     "Candidate_First_Pref_Votes": "5853", 
     "Status": "Elected", 
     "Occurred_On_Count": "1", 
@@ -312,6 +324,18 @@
     "Candidate_Id": "203"
 },
 {
+    "Candidate_First_Pref_Votes": "3119", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "FORD", 
+    "Firstname": "David RJ", 
+    "Colour": "#ffe600", 
+    "Constituency_Name": "South Antrim", 
+    "Constituency_Number": "12", 
+    "Party_Name": "Alliance Party", 
+    "Candidate_Id": "207"
+},
+{
     "Candidate_First_Pref_Votes": "5014", 
     "Status": "Elected", 
     "Occurred_On_Count": "2", 
@@ -322,6 +346,18 @@
     "Constituency_Number": "12", 
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "208"
+},
+{
+    "Candidate_First_Pref_Votes": "5059", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "BRADLEY", 
+    "Firstname": "Sinead", 
+    "Colour": "#cc3300", 
+    "Constituency_Name": "South Down", 
+    "Constituency_Number": "14", 
+    "Party_Name": "Social Democratic and Labour Party", 
+    "Candidate_Id": "215"
 },
 {
     "Candidate_First_Pref_Votes": "3481", 
