@@ -96,6 +96,18 @@
     "Candidate_Id": "66"
 },
 {
+    "Candidate_First_Pref_Votes": "3848", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "BEGGS", 
+    "Firstname": "Roy", 
+    "Colour": "#62cae7", 
+    "Constituency_Name": "East Antrim", 
+    "Constituency_Number": "1", 
+    "Party_Name": "Ulster Unionist Party", 
+    "Candidate_Id": "67"
+},
+{
     "Candidate_First_Pref_Votes": "5906", 
     "Status": "Elected", 
     "Occurred_On_Count": "1", 
