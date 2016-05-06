@@ -17,7 +17,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 1,67,2,Roy,BEGGS,3848,87.78,3935.78,,,Ulster Unionist Party
 1,68,2,Stewart Clyde,DICKSON,3115,11.34,3126.34,,,Alliance Party
 1,69,2,Danny,DONNELLY,1632,2.31,1634.31,,,Alliance Party
-1,70,2,David,HILDITCH,5906,-5906,0,Elected,1,Democratic Unionist Party
+1,70,2,David,HILDITCH,5906,-1275,4631,Elected,1,Democratic Unionist Party
 1,71,2,Noel,JORDAN,2207,42.63,2249.63,,,UK Independence Party
 1,72,2,Gordon,LYONS,3472,851.76,4323.76,,,Democratic Unionist Party
 1,73,2,Jim,MCCAW,455,8.19,463.19,Excluded,2,Progressive Unionist Party

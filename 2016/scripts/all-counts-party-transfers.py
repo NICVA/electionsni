@@ -71,7 +71,6 @@ with open(jsonMain, 'wb') as main:
         for k, g in grouped:
             for p in parties:
                 parties[p] = 0
-            print parties
             if k in count_nums:
                 if e != 0:
                     main.write(',\n')
