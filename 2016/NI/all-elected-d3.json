@@ -216,6 +216,18 @@
     "Candidate_Id": "134"
 },
 {
+    "Candidate_First_Pref_Votes": "3707", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "7", 
+    "Surname": "LUNN", 
+    "Firstname": "Trevor", 
+    "Colour": "#ffe600", 
+    "Constituency_Name": "Lagan Valley", 
+    "Constituency_Number": "6", 
+    "Party_Name": "Alliance Party", 
+    "Candidate_Id": "137"
+},
+{
     "Candidate_First_Pref_Votes": "3871", 
     "Status": "", 
     "Occurred_On_Count": "", 
@@ -324,6 +336,18 @@
     "Candidate_Id": "160"
 },
 {
+    "Candidate_First_Pref_Votes": "5399", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "ALLISTER", 
+    "Firstname": "Jim", 
+    "Colour": "#0000e6", 
+    "Constituency_Name": "North Antrim", 
+    "Constituency_Number": "9", 
+    "Party_Name": "Traditional Unionist Voice", 
+    "Candidate_Id": "170"
+},
+{
     "Candidate_First_Pref_Votes": "4004", 
     "Status": "Elected", 
     "Occurred_On_Count": "2", 
@@ -396,9 +420,21 @@
     "Candidate_Id": "215"
 },
 {
+    "Candidate_First_Pref_Votes": "5045", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "6", 
+    "Surname": "HAZZARD", 
+    "Firstname": "Chris", 
+    "Colour": "#009900", 
+    "Constituency_Name": "South Down", 
+    "Constituency_Number": "14", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "219"
+},
+{
     "Candidate_First_Pref_Votes": "3481", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "5", 
     "Surname": "MCKEE", 
     "Firstname": "Harold", 
     "Colour": "#62cae7", 
@@ -406,6 +442,18 @@
     "Constituency_Number": "14", 
     "Party_Name": "Ulster Unionist Party", 
     "Candidate_Id": "222"
+},
+{
+    "Candidate_First_Pref_Votes": "4191", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "6", 
+    "Surname": "RUANE", 
+    "Firstname": "Caitriona", 
+    "Colour": "#009900", 
+    "Constituency_Name": "South Down", 
+    "Constituency_Number": "14", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "225"
 },
 {
     "Candidate_First_Pref_Votes": "5033", 

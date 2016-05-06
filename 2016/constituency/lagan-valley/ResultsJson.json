@@ -1353,7 +1353,7 @@
     "Party_Name": "Green Party", 
     "Candidate_Id": "128", 
     "Count_Number": "7", 
-    "Transfers": "", 
+    "Transfers": "0", 
     "id": 96, 
     "Total_Votes": "0"
 },
@@ -1367,9 +1367,9 @@
     "Party_Name": "Ulster Unionist Party", 
     "Candidate_Id": "129", 
     "Count_Number": "7", 
-    "Transfers": "", 
+    "Transfers": "163", 
     "id": 97, 
-    "Total_Votes": "5004"
+    "Total_Votes": "5167"
 },
 {
     "Candidate_First_Pref_Votes": "2899", 
@@ -1381,9 +1381,9 @@
     "Party_Name": "Social Democratic and Labour Party", 
     "Candidate_Id": "130", 
     "Count_Number": "7", 
-    "Transfers": "", 
+    "Transfers": "-4012", 
     "id": 98, 
-    "Total_Votes": "4012"
+    "Total_Votes": "0"
 },
 {
     "Candidate_First_Pref_Votes": "4087", 
@@ -1395,9 +1395,9 @@
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "131", 
     "Count_Number": "7", 
-    "Transfers": "", 
+    "Transfers": "78", 
     "id": 99, 
-    "Total_Votes": "4309"
+    "Total_Votes": "4387"
 },
 {
     "Candidate_First_Pref_Votes": "171", 
@@ -1409,7 +1409,7 @@
     "Party_Name": "NI Labour Representation Committee", 
     "Candidate_Id": "132", 
     "Count_Number": "7", 
-    "Transfers": "", 
+    "Transfers": "0", 
     "id": 100, 
     "Total_Votes": "0"
 },
@@ -1423,7 +1423,7 @@
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "133", 
     "Count_Number": "7", 
-    "Transfers": "", 
+    "Transfers": "0", 
     "id": 101, 
     "Total_Votes": "5635"
 },
@@ -1437,9 +1437,9 @@
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "134", 
     "Count_Number": "7", 
-    "Transfers": "", 
+    "Transfers": "38", 
     "id": 102, 
-    "Total_Votes": "4518"
+    "Total_Votes": "4556"
 },
 {
     "Candidate_First_Pref_Votes": "768", 
@@ -1451,7 +1451,7 @@
     "Party_Name": "UK Independence Party", 
     "Candidate_Id": "135", 
     "Count_Number": "7", 
-    "Transfers": "", 
+    "Transfers": "0", 
     "id": 103, 
     "Total_Votes": "0"
 },
@@ -1465,23 +1465,23 @@
     "Party_Name": "NI Conservatives", 
     "Candidate_Id": "136", 
     "Count_Number": "7", 
-    "Transfers": "", 
+    "Transfers": "0", 
     "id": 104, 
     "Total_Votes": "0"
 },
 {
     "Candidate_First_Pref_Votes": "3707", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "7", 
     "Surname": "LUNN", 
     "Firstname": "Trevor", 
     "Constituency_Number": "6", 
     "Party_Name": "Alliance Party", 
     "Candidate_Id": "137", 
     "Count_Number": "7", 
-    "Transfers": "", 
+    "Transfers": "1872", 
     "id": 105, 
-    "Total_Votes": "4994"
+    "Total_Votes": "6866"
 },
 {
     "Candidate_First_Pref_Votes": "124", 
@@ -1493,7 +1493,7 @@
     "Party_Name": "Democracy First", 
     "Candidate_Id": "138", 
     "Count_Number": "7", 
-    "Transfers": "", 
+    "Transfers": "0", 
     "id": 106, 
     "Total_Votes": "0"
 },
@@ -1507,7 +1507,7 @@
     "Party_Name": "Sinn Fein", 
     "Candidate_Id": "139", 
     "Count_Number": "7", 
-    "Transfers": "", 
+    "Transfers": "0", 
     "id": 107, 
     "Total_Votes": "0"
 },
@@ -1521,7 +1521,7 @@
     "Party_Name": "Independent", 
     "Candidate_Id": "140", 
     "Count_Number": "7", 
-    "Transfers": "", 
+    "Transfers": "0", 
     "id": 108, 
     "Total_Votes": "0"
 },
@@ -1535,9 +1535,9 @@
     "Party_Name": "Ulster Unionist Party", 
     "Candidate_Id": "141", 
     "Count_Number": "7", 
-    "Transfers": "", 
+    "Transfers": "234", 
     "id": 109, 
-    "Total_Votes": "4737"
+    "Total_Votes": "4971"
 },
 {
     "Candidate_First_Pref_Votes": "4638", 
@@ -1549,9 +1549,9 @@
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "142", 
     "Count_Number": "7", 
-    "Transfers": "", 
+    "Transfers": "53", 
     "id": 110, 
-    "Total_Votes": "4986"
+    "Total_Votes": "5039"
 },
 {
     "Candidate_First_Pref_Votes": "1291", 
@@ -1563,8 +1563,232 @@
     "Party_Name": "Traditional Unionist Voice", 
     "Candidate_Id": "143", 
     "Count_Number": "7", 
-    "Transfers": "", 
+    "Transfers": "0", 
     "id": 111, 
+    "Total_Votes": "0"
+},
+{
+    "Candidate_First_Pref_Votes": "1118", 
+    "Status": "Excluded", 
+    "Occurred_On_Count": "5", 
+    "Surname": "BARRIOS-ONEILL", 
+    "Firstname": "Dan", 
+    "Constituency_Number": "6", 
+    "Party_Name": "Green Party", 
+    "Candidate_Id": "128", 
+    "Count_Number": "8", 
+    "Transfers": "0", 
+    "id": 112, 
+    "Total_Votes": "0"
+},
+{
+    "Candidate_First_Pref_Votes": "4376", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "BUTLER", 
+    "Firstname": "Robbie", 
+    "Constituency_Number": "6", 
+    "Party_Name": "Ulster Unionist Party", 
+    "Candidate_Id": "129", 
+    "Count_Number": "8", 
+    "Transfers": "124", 
+    "id": 113, 
+    "Total_Votes": "5291"
+},
+{
+    "Candidate_First_Pref_Votes": "2899", 
+    "Status": "Excluded", 
+    "Occurred_On_Count": "6", 
+    "Surname": "CATNEY", 
+    "Firstname": "Pat", 
+    "Constituency_Number": "6", 
+    "Party_Name": "Social Democratic and Labour Party", 
+    "Candidate_Id": "130", 
+    "Count_Number": "8", 
+    "Transfers": "0", 
+    "id": 114, 
+    "Total_Votes": "0"
+},
+{
+    "Candidate_First_Pref_Votes": "4087", 
+    "Status": "Excluded", 
+    "Occurred_On_Count": "8", 
+    "Surname": "CRAIG", 
+    "Firstname": "Jonathan", 
+    "Constituency_Number": "6", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "131", 
+    "Count_Number": "8", 
+    "Transfers": "22", 
+    "id": 115, 
+    "Total_Votes": "4409"
+},
+{
+    "Candidate_First_Pref_Votes": "171", 
+    "Status": "Excluded", 
+    "Occurred_On_Count": "1", 
+    "Surname": "DYNES", 
+    "Firstname": "Peter", 
+    "Constituency_Number": "6", 
+    "Party_Name": "NI Labour Representation Committee", 
+    "Candidate_Id": "132", 
+    "Count_Number": "8", 
+    "Transfers": "0", 
+    "id": 116, 
+    "Total_Votes": "0"
+},
+{
+    "Candidate_First_Pref_Votes": "5364", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "6", 
+    "Surname": "GIVAN", 
+    "Firstname": "Paul", 
+    "Constituency_Number": "6", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "133", 
+    "Count_Number": "8", 
+    "Transfers": "0", 
+    "id": 117, 
+    "Total_Votes": "5635"
+},
+{
+    "Candidate_First_Pref_Votes": "4236", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "HALE", 
+    "Firstname": "Brenda", 
+    "Constituency_Number": "6", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "134", 
+    "Count_Number": "8", 
+    "Transfers": "21", 
+    "id": 118, 
+    "Total_Votes": "4577"
+},
+{
+    "Candidate_First_Pref_Votes": "768", 
+    "Status": "Excluded", 
+    "Occurred_On_Count": "2", 
+    "Surname": "HIGGINSON", 
+    "Firstname": "Brian", 
+    "Constituency_Number": "6", 
+    "Party_Name": "UK Independence Party", 
+    "Candidate_Id": "135", 
+    "Count_Number": "8", 
+    "Transfers": "0", 
+    "id": 119, 
+    "Total_Votes": "0"
+},
+{
+    "Candidate_First_Pref_Votes": "341", 
+    "Status": "Excluded", 
+    "Occurred_On_Count": "1", 
+    "Surname": "IRWIN", 
+    "Firstname": "Jack", 
+    "Constituency_Number": "6", 
+    "Party_Name": "NI Conservatives", 
+    "Candidate_Id": "136", 
+    "Count_Number": "8", 
+    "Transfers": "0", 
+    "id": 120, 
+    "Total_Votes": "0"
+},
+{
+    "Candidate_First_Pref_Votes": "3707", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "7", 
+    "Surname": "LUNN", 
+    "Firstname": "Trevor", 
+    "Constituency_Number": "6", 
+    "Party_Name": "Alliance Party", 
+    "Candidate_Id": "137", 
+    "Count_Number": "8", 
+    "Transfers": "-1315", 
+    "id": 121, 
+    "Total_Votes": "5551"
+},
+{
+    "Candidate_First_Pref_Votes": "124", 
+    "Status": "Excluded", 
+    "Occurred_On_Count": "1", 
+    "Surname": "MCCAMMOND", 
+    "Firstname": "Frazer", 
+    "Constituency_Number": "6", 
+    "Party_Name": "Democracy First", 
+    "Candidate_Id": "138", 
+    "Count_Number": "8", 
+    "Transfers": "0", 
+    "id": 122, 
+    "Total_Votes": "0"
+},
+{
+    "Candidate_First_Pref_Votes": "1045", 
+    "Status": "Excluded", 
+    "Occurred_On_Count": "4", 
+    "Surname": "MCGEOUGH", 
+    "Firstname": "Jacqui", 
+    "Constituency_Number": "6", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "139", 
+    "Count_Number": "8", 
+    "Transfers": "0", 
+    "id": 123, 
+    "Total_Votes": "0"
+},
+{
+    "Candidate_First_Pref_Votes": "817", 
+    "Status": "Excluded", 
+    "Occurred_On_Count": "3", 
+    "Surname": "ORR", 
+    "Firstname": "Jonny", 
+    "Constituency_Number": "6", 
+    "Party_Name": "Independent", 
+    "Candidate_Id": "140", 
+    "Count_Number": "8", 
+    "Transfers": "0", 
+    "id": 124, 
+    "Total_Votes": "0"
+},
+{
+    "Candidate_First_Pref_Votes": "3871", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "PALMER", 
+    "Firstname": "Jenny", 
+    "Constituency_Number": "6", 
+    "Party_Name": "Ulster Unionist Party", 
+    "Candidate_Id": "141", 
+    "Count_Number": "8", 
+    "Transfers": "241", 
+    "id": 125, 
+    "Total_Votes": "5212"
+},
+{
+    "Candidate_First_Pref_Votes": "4638", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "POOTS", 
+    "Firstname": "Edwin", 
+    "Constituency_Number": "6", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "142", 
+    "Count_Number": "8", 
+    "Transfers": "25", 
+    "id": 126, 
+    "Total_Votes": "5064"
+},
+{
+    "Candidate_First_Pref_Votes": "1291", 
+    "Status": "Excluded", 
+    "Occurred_On_Count": "5", 
+    "Surname": "REA", 
+    "Firstname": "Lyle", 
+    "Constituency_Number": "6", 
+    "Party_Name": "Traditional Unionist Voice", 
+    "Candidate_Id": "143", 
+    "Count_Number": "8", 
+    "Transfers": "0", 
+    "id": 127, 
     "Total_Votes": "0"
 }
 ]}}

@@ -215,6 +215,16 @@
     "Candidate_Id": "134"
 },
 {
+    "Candidate_First_Pref_Votes": "3707", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "7", 
+    "Surname": "LUNN", 
+    "Firstname": "Trevor", 
+    "Constituency_Number": "6", 
+    "Party_Name": "Alliance Party", 
+    "Candidate_Id": "137"
+},
+{
     "Candidate_First_Pref_Votes": "3871", 
     "Status": "", 
     "Occurred_On_Count": "", 
@@ -316,7 +326,16 @@
 {"Constituency_Name": "North Antrim",
 "Constituency_Number": 9,
 "Elected": [
-]
+{
+    "Candidate_First_Pref_Votes": "5399", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "ALLISTER", 
+    "Firstname": "Jim", 
+    "Constituency_Number": "9", 
+    "Party_Name": "Traditional Unionist Voice", 
+    "Candidate_Id": "170"
+}]
 },
 {"Constituency_Name": "North Down",
 "Constituency_Number": 11,
@@ -390,14 +409,34 @@
     "Candidate_Id": "215"
 },
 {
+    "Candidate_First_Pref_Votes": "5045", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "6", 
+    "Surname": "HAZZARD", 
+    "Firstname": "Chris", 
+    "Constituency_Number": "14", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "219"
+},
+{
     "Candidate_First_Pref_Votes": "3481", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "5", 
     "Surname": "MCKEE", 
     "Firstname": "Harold", 
     "Constituency_Number": "14", 
     "Party_Name": "Ulster Unionist Party", 
     "Candidate_Id": "222"
+},
+{
+    "Candidate_First_Pref_Votes": "4191", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "6", 
+    "Surname": "RUANE", 
+    "Firstname": "Caitriona", 
+    "Constituency_Number": "14", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "225"
 },
 {
     "Candidate_First_Pref_Votes": "5033", 
