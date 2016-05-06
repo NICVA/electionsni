@@ -1,17 +1,17 @@
 Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_Pref_Votes,Transfers,Total_Votes,Status,Occurred_On_Count,Party_Name
-11,185,1,Steven,AGNEW,,0,,,,Green Party
-11,186,1,John,BRENNAN,,0,,,,Traditional Unionist Voice
-11,187,1,Conal,BROWNE,,0,,,,Social Democratic and Labour Party
-11,188,1,Alan,CHAMBERS,,0,,,,Ulster Unionist Party
-11,189,1,Gordon Mervyn,DUNNE,,0,,,,Democratic Unionist Party
-11,190,1,Alex,EASTON,,0,,,,Democratic Unionist Party
-11,191,1,Chris,EISENSTADT,,0,,,,Ulster Unionist Party
-11,192,1,Stephen,FARRY,,0,,,,Alliance Party
-11,193,1,Maria,LOURENCO,,0,,,,NI Labour Representation Committee
-11,194,1,Therese,MCCARTNEY,,0,,,,Sinn Fein
-11,195,1,Carl,MCCLEAN,,0,,,,Ulster Unionist Party
-11,196,1,Andrew,MUIR,,0,,,,Alliance Party
-11,197,1,Bill,PIPER,,0,,,,UK Independence Party
-11,198,1,Frank,SHIVERS,,0,,,,NI Conservatives
-11,199,1,Peter James,WEIR,,0,,,,Democratic Unionist Party
-11,200,1,Brian,WILSON,,0,,,,Independent
+11,185,1,Steven,AGNEW,4109,0,4109,,,Green Party
+11,186,1,John,BRENNAN,610,0,610,,,Traditional Unionist Voice
+11,187,1,Conal,BROWNE,426,0,426,,,Social Democratic and Labour Party
+11,188,1,Alan,CHAMBERS,3275,0,3275,,,Ulster Unionist Party
+11,189,1,Gordon Mervyn,DUNNE,4004,0,4004,,,Democratic Unionist Party
+11,190,1,Alex,EASTON,6357,0,6357,Elected,1,Democratic Unionist Party
+11,191,1,Chris,EISENSTADT,217,0,217,,,Ulster Unionist Party
+11,192,1,Stephen,FARRY,3012,0,3012,,,Alliance Party
+11,193,1,Maria,LOURENCO,177,0,177,,,NI Labour Representation Committee
+11,194,1,Therese,MCCARTNEY,307,0,307,,,Sinn Fein
+11,195,1,Carl,MCCLEAN,1495,0,1495,,,Ulster Unionist Party
+11,196,1,Andrew,MUIR,2387,0,2387,,,Alliance Party
+11,197,1,Bill,PIPER,681,0,681,,,UK Independence Party
+11,198,1,Frank,SHIVERS,672,0,672,,,NI Conservatives
+11,199,1,Peter James,WEIR,3085,0,3085,,,Democratic Unionist Party
+11,200,1,Brian,WILSON,1415,0,1415,,,Independent

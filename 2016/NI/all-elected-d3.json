@@ -120,6 +120,18 @@
     "Candidate_Id": "152"
 },
 {
+    "Candidate_First_Pref_Votes": "6357", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
+    "Surname": "EASTON", 
+    "Firstname": "Alex", 
+    "Colour": "#ff8000", 
+    "Constituency_Name": "North Down", 
+    "Constituency_Number": "11", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "190"
+},
+{
     "Candidate_First_Pref_Votes": "4663", 
     "Status": "Elected", 
     "Occurred_On_Count": "1", 
