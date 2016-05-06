@@ -45,7 +45,7 @@
     "Constituency_Name": "Foyle",
     "Constituency_Number": 5,
     "Directory": "foyle",
-    "countInfo": {"Valid_Poll": "", "Number_Of_Seats": "6", "Total_Poll": "40187", "Voting_Age_Pop": "76503", "Quota": "", "Constituency_Name": "Foyle", "Constituency_Number": "5", "Total_Electorate": "71759", "Spoiled": ""}
+    "countInfo": {"Valid_Poll": "39702", "Number_Of_Seats": "6", "Total_Poll": "40187", "Voting_Age_Pop": "76503", "Quota": "5672", "Constituency_Name": "Foyle", "Constituency_Number": "5", "Total_Electorate": "71759", "Spoiled": "485"}
     },
 {
     "Constituency_Name": "Lagan Valley",
@@ -69,7 +69,7 @@
     "Constituency_Name": "North Antrim",
     "Constituency_Number": 9,
     "Directory": "north-antrim",
-    "countInfo": {"Valid_Poll": "", "Number_Of_Seats": "6", "Total_Poll": "41464", "Voting_Age_Pop": "85122", "Quota": "5857", "Constituency_Name": "North Antrim", "Constituency_Number": "9", "Total_Electorate": "78337", "Spoiled": ""}
+    "countInfo": {"Valid_Poll": "40998", "Number_Of_Seats": "6", "Total_Poll": "41464", "Voting_Age_Pop": "85122", "Quota": "5857", "Constituency_Name": "North Antrim", "Constituency_Number": "9", "Total_Electorate": "78337", "Spoiled": "466"}
     },
 {
     "Constituency_Name": "North Down",
