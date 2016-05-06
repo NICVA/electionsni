@@ -96,6 +96,18 @@
     "Candidate_Id": "85"
 },
 {
+    "Candidate_First_Pref_Votes": "", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "ROBINSON", 
+    "Firstname": "George", 
+    "Colour": "#ff8000", 
+    "Constituency_Name": "East Londonderry", 
+    "Constituency_Number": "3", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "96"
+},
+{
     "Candidate_First_Pref_Votes": "8801", 
     "Status": "Elected", 
     "Occurred_On_Count": "1", 
@@ -118,6 +130,18 @@
     "Constituency_Number": "4", 
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "110"
+},
+{
+    "Candidate_First_Pref_Votes": "5364", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "6", 
+    "Surname": "GIVAN", 
+    "Firstname": "Paul", 
+    "Colour": "#ff8000", 
+    "Constituency_Name": "Lagan Valley", 
+    "Constituency_Number": "6", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "133"
 },
 {
     "Candidate_First_Pref_Votes": "5853", 
@@ -228,6 +252,18 @@
     "Candidate_Id": "190"
 },
 {
+    "Candidate_First_Pref_Votes": "4589", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "CAMERON", 
+    "Firstname": "Pam", 
+    "Colour": "#ff8000", 
+    "Constituency_Name": "South Antrim", 
+    "Constituency_Number": "12", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "203"
+},
+{
     "Candidate_First_Pref_Votes": "5014", 
     "Status": "Elected", 
     "Occurred_On_Count": "2", 
@@ -274,6 +310,18 @@
     "Constituency_Number": "15", 
     "Party_Name": "Ulster Unionist Party", 
     "Candidate_Id": "240"
+},
+{
+    "Candidate_First_Pref_Votes": "6195", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "ANDERSON", 
+    "Firstname": "Sydney Alexander", 
+    "Colour": "#ff8000", 
+    "Constituency_Name": "Upper Bann", 
+    "Constituency_Number": "16", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "242"
 },
 {
     "Candidate_First_Pref_Votes": "7993", 

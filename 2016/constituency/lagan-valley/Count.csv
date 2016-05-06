@@ -63,7 +63,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 6,141,4,Jenny,PALMER,3871,166,4214,,,Ulster Unionist Party
 6,142,4,Edwin,POOTS,4638,16,4729,,,Democratic Unionist Party
 6,143,4,Lyle,REA,1291,10,1516,,,Traditional Unionist Voice
-6,128,5,Dan,BARRIOS-ONEILL,1118,114,1661,,,Green Party
+6,128,5,Dan,BARRIOS-ONEILL,1118,114,1661,Excluded,5,Green Party
 6,129,5,Robbie,BUTLER,4376,4,4618,,,Ulster Unionist Party
 6,130,5,Pat,CATNEY,2899,711,3704,,,Social Democratic and Labour Party
 6,131,5,Jonathan,CRAIG,4087,4,4173,,,Democratic Unionist Party
@@ -75,7 +75,23 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 6,137,5,Trevor,LUNN,3707,132,4183,,,Alliance Party
 6,138,5,Frazer,MCCAMMOND,124,0,0,Excluded,1,Democracy First
 6,139,5,Jacqui,MCGEOUGH,1045,-1082,0,Excluded,4,Sinn Fein
-6,140,5,Jonny,ORR,817,0,0,,,Independent
+6,140,5,Jonny,ORR,817,0,0,Excluded,3,Independent
 6,141,5,Jenny,PALMER,3871,2,4216,,,Ulster Unionist Party
 6,142,5,Edwin,POOTS,4638,0,4729,,,Democratic Unionist Party
 6,143,5,Lyle,REA,1291,2,1518,Excluded,5,Traditional Unionist Voice
+6,128,6,Dan,BARRIOS-ONEILL,1118,-1661,0,Excluded,5,Green Party
+6,129,6,Robbie,BUTLER,4376,386,5004,,,Ulster Unionist Party
+6,130,6,Pat,CATNEY,2899,308,4012,Excluded,6,Social Democratic and Labour Party
+6,131,6,Jonathan,CRAIG,4087,136,4309,,,Democratic Unionist Party
+6,132,6,Peter,DYNES,171,0,0,Excluded,1,NI Labour Representation Committee
+6,133,6,Paul,GIVAN,5364,151,5635,Elected,6,Democratic Unionist Party
+6,134,6,Brenda,HALE,4236,188,4518,,,Democratic Unionist Party
+6,135,6,Brian,HIGGINSON,768,0,0,Excluded,2,UK Independence Party
+6,136,6,Jack,IRWIN,341,0,0,Excluded,1,NI Conservatives
+6,137,6,Trevor,LUNN,3707,811,4994,,,Alliance Party
+6,138,6,Frazer,MCCAMMOND,124,0,0,Excluded,1,Democracy First
+6,139,6,Jacqui,MCGEOUGH,1045,0,0,Excluded,4,Sinn Fein
+6,140,6,Jonny,ORR,817,0,0,Excluded,3,Independent
+6,141,6,Jenny,PALMER,3871,521,4737,,,Ulster Unionist Party
+6,142,6,Edwin,POOTS,4638,257,4986,,,Democratic Unionist Party
+6,143,6,Lyle,REA,1291,-1518,0,Excluded,5,Traditional Unionist Voice

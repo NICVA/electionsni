@@ -5,6 +5,11 @@
 			"From": {"Democratic Unionist Party": -227.0},
 			"To": {"Independent": 1.48, "Labour Alternative": 0.2, "Social Democratic and Labour Party": 0.76, "Traditional Unionist Voice": 2.72, "Democratic Unionist Party": 193.4, "Sinn Fein": 0, "Green Party": 1.4, "UK Independence Party": 1.52, "Ulster Unionist Party": 13.52, "Alliance Party": 1.28, "NI Labour Representation Committee": 0, "NI Conservatives": 0.36, "Progressive Unionist Party": 4.0},
 			"Not_transferred": 6.36
+		},
+		{"Count_Number": 4,
+			"From": {"Alliance Party": -171.0},
+			"To": {"Independent": 0.78, "Labour Alternative": 2.37, "Social Democratic and Labour Party": 0, "Traditional Unionist Voice": 0.27, "Democratic Unionist Party": 4.65, "Sinn Fein": 1.71, "Green Party": 10.89, "UK Independence Party": 0.63, "Ulster Unionist Party": 6.720000000000001, "Alliance Party": 131.4, "NI Labour Representation Committee": 0, "NI Conservatives": 1.14, "Progressive Unionist Party": 2.61},
+			"Not_transferred": 7.83
 		}
 		]
 	}
@@ -162,9 +167,14 @@
 	{"Constituency_Name": "South Down", "Counts": 
 		[
 		{"Count_Number": 3,
-			"From": {"Traditional Unionist Voice": -2718.0},
+			"From": {"Traditional Unionist Voice": -2800.0},
 			"To": {"Independent": 0, "Social Democratic and Labour Party": 43.0, "Traditional Unionist Voice": 0, "Democratic Unionist Party": 1287.0, "Sinn Fein": 7.0, "Green Party": 0, "Ulster Unionist Party": 1356.0, "Alliance Party": 28.0},
-			"Not_transferred": 3.0
+			"Not_transferred": 79.0
+		},
+		{"Count_Number": 4,
+			"From": {"Alliance Party": -2869.0},
+			"To": {"Independent": 0, "Social Democratic and Labour Party": 1535.0, "Traditional Unionist Voice": 0, "Democratic Unionist Party": 0, "Sinn Fein": 361.0, "Green Party": 0, "Ulster Unionist Party": 399.0, "Alliance Party": 0},
+			"Not_transferred": 574.0
 		}
 		]
 	}

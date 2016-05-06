@@ -101,6 +101,16 @@
     "Constituency_Number": "3", 
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "85"
+},
+{
+    "Candidate_First_Pref_Votes": "", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "ROBINSON", 
+    "Firstname": "George", 
+    "Constituency_Number": "3", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "96"
 }]
 },
 {"Constituency_Name": "Fermanagh and South Tyrone",
@@ -135,7 +145,16 @@
 {"Constituency_Name": "Lagan Valley",
 "Constituency_Number": 6,
 "Elected": [
-]
+{
+    "Candidate_First_Pref_Votes": "5364", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "6", 
+    "Surname": "GIVAN", 
+    "Firstname": "Paul", 
+    "Constituency_Number": "6", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "133"
+}]
 },
 {"Constituency_Name": "Mid Ulster",
 "Constituency_Number": 7,
@@ -248,6 +267,16 @@
 "Constituency_Number": 12,
 "Elected": [
 {
+    "Candidate_First_Pref_Votes": "4589", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "CAMERON", 
+    "Firstname": "Pam", 
+    "Constituency_Number": "12", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "203"
+},
+{
     "Candidate_First_Pref_Votes": "5014", 
     "Status": "Elected", 
     "Occurred_On_Count": "2", 
@@ -299,6 +328,16 @@
 {"Constituency_Name": "Upper Bann",
 "Constituency_Number": 16,
 "Elected": [
+{
+    "Candidate_First_Pref_Votes": "6195", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "ANDERSON", 
+    "Firstname": "Sydney Alexander", 
+    "Constituency_Number": "16", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "242"
+},
 {
     "Candidate_First_Pref_Votes": "7993", 
     "Status": "Elected", 
