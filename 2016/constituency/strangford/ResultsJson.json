@@ -1,4 +1,4 @@
-{"Constituency": {"countInfo": {"Valid_Poll": "", "Number_Of_Seats": "6", "Total_Poll": "", "Voting_Age_Pop": "70598", "Quota": "", "Constituency_Name": "Strangford", "Constituency_Number": "15", "Total_Electorate": "65116", "Spoiled": ""},
+{"Constituency": {"countInfo": {"Valid_Poll": "", "Number_Of_Seats": "6", "Total_Poll": "33014", "Voting_Age_Pop": "70598", "Quota": "", "Constituency_Name": "Strangford", "Constituency_Number": "15", "Total_Electorate": "65695", "Spoiled": ""},
 "countGroup": [{
     "Candidate_First_Pref_Votes": "", 
     "Status": "", 

@@ -1,4 +1,4 @@
-{"Constituency": {"countInfo": {"Valid_Poll": "", "Number_Of_Seats": "6", "Total_Poll": "", "Voting_Age_Pop": "92012", "Quota": "", "Constituency_Name": "Upper Bann", "Constituency_Number": "16", "Total_Electorate": "81061", "Spoiled": ""},
+{"Constituency": {"countInfo": {"Valid_Poll": "", "Number_Of_Seats": "6", "Total_Poll": "46383", "Voting_Age_Pop": "92012", "Quota": "", "Constituency_Name": "Upper Bann", "Constituency_Number": "16", "Total_Electorate": "85204", "Spoiled": ""},
 "countGroup": [{
     "Candidate_First_Pref_Votes": "", 
     "Status": "", 

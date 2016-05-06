@@ -1,16 +1,16 @@
 Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_Pref_Votes,Transfers,Total_Votes,Status,Occurred_On_Count,Party_Name
-1,67,1,Roy,BEGGS,,0,,,,Ulster Unionist Party
-1,68,1,Stewart Clyde,DICKSON,,0,,,,Alliance Party
-1,69,1,Danny,DONNELLY,,0,,,,Alliance Party
-1,70,1,David,HILDITCH,,0,,,,Democratic Unionist Party
-1,71,1,Noel,JORDAN,,0,,,,UK Independence Party
-1,72,1,Gordon,LYONS,,0,,,,Democratic Unionist Party
-1,73,1,Jim,MCCAW,,0,,,,Progressive Unionist Party
-1,74,1,Margaret Anne,MCKILLOP,,0,,,,Social Democratic and Labour Party
-1,75,1,Oliver,MCMULLAN,,0,,,,Sinn Fein
-1,76,1,Maureen,MORROW,,0,,,,Ulster Unionist Party
-1,77,1,Dawn,PATTERSON,,0,,,,Green Party
-1,78,1,Alastair,ROSS,,0,,,,Democratic Unionist Party
-1,79,1,Conor John,SHERIDAN,,0,,,,Cross-Community Labour Alternative
-1,80,1,John Robert,STEWART,,0,,,,Ulster Unionist Party
-1,81,1,Ruth,WILSON,,0,,,,Traditional Unionist Voice
+1,67,1,Roy,BEGGS,3848,0,3848,,,Ulster Unionist Party
+1,68,1,Stewart Clyde,DICKSON,3115,0,3115,,,Alliance Party
+1,69,1,Danny,DONNELLY,1632,0,1632,,,Alliance Party
+1,70,1,David,HILDITCH,5906,0,5906,Elected,1,Democratic Unionist Party
+1,71,1,Noel,JORDAN,2207,0,2207,,,UK Independence Party
+1,72,1,Gordon,LYONS,3472,0,3472,,,Democratic Unionist Party
+1,73,1,Jim,MCCAW,455,0,455,,,Progressive Unionist Party
+1,74,1,Margaret Anne,MCKILLOP,1229,0,1229,,,Social Democratic and Labour Party
+1,75,1,Oliver,MCMULLAN,2633,0,2633,,,Sinn Fein
+1,76,1,Maureen,MORROW,719,0,719,,,Ulster Unionist Party
+1,77,1,Dawn,PATTERSON,693,0,693,,,Green Party
+1,78,1,Alastair,ROSS,2323,0,2323,,,Democratic Unionist Party
+1,79,1,Conor John,SHERIDAN,551,0,551,,,Cross-Community Labour Alternative
+1,80,1,John Robert,STEWART,1985,0,1985,,,Ulster Unionist Party
+1,81,1,Ruth,WILSON,1643,0,1643,,,Traditional Unionist Voice

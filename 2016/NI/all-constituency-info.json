@@ -27,7 +27,7 @@
     "Constituency_Name": "East Antrim",
     "Constituency_Number": 1,
     "Directory": "east-antrim",
-    "countInfo": {"Valid_Poll": "", "Number_Of_Seats": "6", "Total_Poll": "32744", "Voting_Age_Pop": "70652", "Quota": "", "Constituency_Name": "East Antrim", "Constituency_Number": "1", "Total_Electorate": "64194", "Spoiled": ""}
+    "countInfo": {"Valid_Poll": "32411", "Number_Of_Seats": "6", "Total_Poll": "32744", "Voting_Age_Pop": "70652", "Quota": "4631", "Constituency_Name": "East Antrim", "Constituency_Number": "1", "Total_Electorate": "64194", "Spoiled": "333"}
     },
 {
     "Constituency_Name": "East Londonderry",
