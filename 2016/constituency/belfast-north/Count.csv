@@ -35,3 +35,39 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 10,34,2,Malachai,OHARA,796,2.64,798.64,,,Green Party
 10,35,2,Abdo,THABETH,127,0.4,127.4,,,NI Labour Representation Committee
 10,36,2,Gemma,WEIR,476,2.8,478.8,,,Workers Party
+10,19,3,Ken,BOYLE,751,6,757.24,,,UK Independence Party
+10,20,3,Paula Jane,BRADLEY,4591,7,4598.72,,,Democratic Unionist Party
+10,21,3,Tom,BURNS,87,-87.24,0,Excluded,2,Independent
+10,22,3,Lesley,CARROLL,1972,12,1984.32,,,Ulster Unionist Party
+10,23,3,Geoff,DOWEY,32,-32,0,Excluded,2,Northern Ireland First
+10,24,3,Fiona,FERGUSON,1286,25,1318.68,,,People Before Profit Alliance
+10,25,3,Fra,HUGHES,243,9.08,255.52,Excluded,3,Independent
+10,26,3,William,HUMPHREY,4105,8,4113.16,,,Democratic Unionist Party
+10,27,3,Billy,HUTCHINSON,1238,2,1240.32,,,Progressive Unionist Party
+10,28,3,Gerry,KELLY,5695,0,5225,Elected,1,Sinn Fein
+10,29,3,Nichola,MALLON,3866,7.08,3940.52,,,Social Democratic and Labour Party
+10,30,3,Nuala,MCALLISTER,2569,10,2590.52,,,Alliance Party
+10,31,3,Nelson,MCCAUSLAND,4087,5,4092.16,,,Democratic Unionist Party
+10,32,3,John,MILLER,644,1,645.56,,,Traditional Unionist Voice
+10,33,3,Caral,NI CHUILIN,4009,2.08,4360.36,,,Sinn Fein
+10,34,3,Malachai,OHARA,796,12,810.64,,,Green Party
+10,35,3,Abdo,THABETH,127,1,128.4,Excluded,3,NI Labour Representation Committee
+10,36,3,Gemma,WEIR,476,4,482.8,,,Workers Party
+10,19,4,Ken,BOYLE,751,7.08,764.32,,,UK Independence Party
+10,20,4,Paula Jane,BRADLEY,4591,2,4600.72,,,Democratic Unionist Party
+10,21,4,Tom,BURNS,87,0,0,Excluded,2,Independent
+10,22,4,Lesley,CARROLL,1972,2,1986.32,,,Ulster Unionist Party
+10,23,4,Geoff,DOWEY,32,0,0,Excluded,2,Northern Ireland First
+10,24,4,Fiona,FERGUSON,1286,78.8,1397.48,,,People Before Profit Alliance
+10,25,4,Fra,HUGHES,243,-255.52,0,Excluded,3,Independent
+10,26,4,William,HUMPHREY,4105,2,4115.16,,,Democratic Unionist Party
+10,27,4,Billy,HUTCHINSON,1238,4,1244.32,,,Progressive Unionist Party
+10,28,4,Gerry,KELLY,5695,0,5225,Elected,1,Sinn Fein
+10,29,4,Nichola,MALLON,3866,88.8,4029.32,,,Social Democratic and Labour Party
+10,30,4,Nuala,MCALLISTER,2569,43.08,2633.6,,,Alliance Party
+10,31,4,Nelson,MCCAUSLAND,4087,12,4104.16,,,Democratic Unionist Party
+10,32,4,John,MILLER,644,1,646.56,,,Traditional Unionist Voice
+10,33,4,Caral,NI CHUILIN,4009,31.2,4391.56,,,Sinn Fein
+10,34,4,Malachai,OHARA,796,48.16,858.8,,,Green Party
+10,35,4,Abdo,THABETH,127,-128.4,0,Excluded,3,NI Labour Representation Committee
+10,36,4,Gemma,WEIR,476,38,520.8,Excluded,4,Workers Party
