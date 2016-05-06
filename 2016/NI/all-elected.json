@@ -92,7 +92,16 @@
 {"Constituency_Name": "East Londonderry",
 "Constituency_Number": 3,
 "Elected": [
-]
+{
+    "Candidate_First_Pref_Votes": "", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "BRADLEY", 
+    "Firstname": "Maurice", 
+    "Constituency_Number": "3", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "85"
+}]
 },
 {"Constituency_Name": "Fermanagh and South Tyrone",
 "Constituency_Number": 4,
