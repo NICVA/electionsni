@@ -38,14 +38,15 @@ header p {
 .cta{
     line-height: 30px;
     text-align: center;
-    background-color: #33eecc;
-    color: #333333;
+    background-color: #045FB4;
+    color: #ffffff;
 }
 .cta a {
-    color: white;
+    color: #33eecc;
+	text-decoration: none;
 }
 .cta a:hover {
-    color: #333333;
+    color: #ffffff;
     -webkit-transition: color .5s;
     -moz-transition: color .5s;
     -ms-transition: color .5s;
@@ -245,16 +246,49 @@ header p {
     color:white;
     padding-top:3px;
     box-sizing:border-box;
+	text-shadow: 2px 2px 0 #000, -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
 }
 .Elected{
 	font-weight:bold;
 }
-.votes:before{content: " ";}
+
+.show-menu {
+  background: #00eecc;
+  width: 100%;
+  text-align: center;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  color: #ffffff;
+  text-decoration: none;
+  display: block;
+  padding: 10px 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 14px;
+  position: relative;
+  -webkit-transition: color .25s;
+  -moz-transition: color .25s;
+  -ms-transition: color .25s;
+  -o-transition: color .25s;
+  transition: color .25s;
+}
+.show-menu:hover {
+  color: #34495e;
+  cursor:pointer;
+}
+input[id=show-menu]{
+    display: none;
+}
+input[id=show-menu]:checked ~ #cssmenu{
+    display: block;
+}
 
 #cssmenu {
   background: #34495e;
   width: auto;
   text-align: center;
+  display:none;
 }
 #cssmenu ul {
   list-style: none;

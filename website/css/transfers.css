@@ -1,0 +1,30 @@
+#transferMenu {
+    width: 100%;
+    background: #fff;
+    overflow: auto;
+    margin: 10px 0 20px;
+}
+
+#transferMenu select,
+#transferMenu .label {
+    float: left;
+    border: 0;
+    font-size: 12px;
+}
+
+#transferMenu .label {
+    color: #666;
+    padding-top: 2px;
+}
+
+#transferMenu select {
+    background: #34495e;
+    color: white;
+    margin-left: 10px;
+    outline: none;
+}
+
+#transfers {
+	margin: 10px auto;
+	overflow: auto;
+}

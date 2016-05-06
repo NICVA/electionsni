@@ -58,6 +58,25 @@
 		};
 	}
 	
+	// again, similar to the above but we're trying to find if any elected candidates exist
+	function findElectedInfo(year) {
+		electedOutput = [];
+		var request = new XMLHttpRequest();
+		var path = '/' + year + '/NI/all-elected.json?' + new Date().getTime(); // add ? with timestamp to force XMLHttpRequest not to cache
+		console.log(path);
+		request.onreadystatechange = function() {
+			if (request.readyState == 4 && request.status >= 200 && request.status < 400) {
+				electedOutput = JSON.parse(request.responseText);
+			}
+		};
+		request.open('GET', path, false);
+		request.send();
+		request.onerror = function() {
+		  electedOutput = [];
+		  console.log('not ready');
+		};
+	}
+	
     // examine an object array (obj) for a key (key) matching a value (val) and return the matching object
 	function getObjects(obj, key, val) {
 		var objects = [];
@@ -94,15 +113,30 @@
 		var candidates = constituency[0].Candidates;
 		console.log(candidates);
 		constituencyinfo.innerHTML = '<h2>' + constituency[0].Constituency_Name + ' (' + checkedYear + ')<h2>';
-		if (constituency_directory) {
-			this.innerHTML += '<p><a href="/' + '2011' + '/constituency/' + constituency_directory + '/stages.html">' + '2011' + ' Count Stages' + '</a></p>';
-			}
-        this.innerHTML += '<p><b>' + candidates.length + ' candidates nominated</b></p>';
+        this.innerHTML += '<p><b>' + candidates.length + ' candidates NOMINATED</b></p>';
 		console.log(constituency_directory);
 		for (i = 0; i < candidates.length; i++) {
 			if (candidates[i].Outgoing_Member == 1) {
 				var MLA_text = " MLA"} else {var MLA_text = ""} // disabled - 'MLA' does not appear on ballot
 			this.innerHTML += '<div class="votes ' + candidates[i].Party_Name.replace(/\s+/g,"-") + '" style="width: 20px;"></div><div id="candidate ' + candidates[i].Candidate_Id + '" class="tooltip ' + candidates[i].Party_Name.replace(/\s+/g,"-") + '_label">' + candidates[i].Firstname + ' ' + candidates[i].Surname + '<span class="tooltiptext">' + candidates[i].Party_Name + '</span></div><br/>';
+		}
+		findElectedInfo(checkedYear);
+		if (electedOutput.Constituencies){
+			console.log(electedOutput);
+			var elected = getObjects(electedOutput, 'Constituency_Number', constituency_id);
+			console.log(elected);
+			if (elected.length > 0) {
+				var elected = elected[0].Elected; // determines if any candidates in the CONSTITUENCY have been ELECTED and returns them, else ignores
+			}
+			if (elected.length > 0) { // if none have been elected this does not change the div and therefore NOMINATED candidates info remains
+				this.innerHTML = '<p><b>' + elected.length + ' candidates ELECTED</b></p>';
+				for (i = 0; i < elected.length; i++) {
+					this.innerHTML += '<div class="votes ' + elected[i].Party_Name.replace(/\s+/g,"-") + '" style="width: 20px;"></div><div id="candidate ' + elected[i].Candidate_Id + '" class="tooltip ' + elected[i].Party_Name.replace(/\s+/g,"-") + '_label">' + elected[i].Firstname + ' ' + elected[i].Surname + '<span class="tooltiptext">' + elected[i].Party_Name + '</span></div><br/>'
+				}
+			if (elected.length < 6) {
+				this.innerHTML += '<p style="color: gray">It looks like not all of the 6 seats have yet been filled. Elected candidates will appear as the count progresses.</p>'
+			}
+			}
 		}
 	};
 	

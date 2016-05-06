@@ -40,11 +40,13 @@ function animateStages(year,constituencyFolder) {
                 },
                 
             })
-            .fail(function(e){console.log(e)});
+            .fail(function(e){console.log('failed log', e)});
             return json;
         })();
-    var	constituency = json.Constituency.countInfo;
-    var data = json.Constituency.countGroup;
+    if (json.Constituency.countGroup.length) {
+		var	constituency = json.Constituency.countInfo;
+		var data = json.Constituency.countGroup;
+	}
 
     if(constituency){
         //set the top right bit
@@ -53,7 +55,7 @@ function animateStages(year,constituencyFolder) {
         var seats = parseInt(constituency["Number_Of_Seats"]);
         $("#quota").text("Quota: " + quota);
         $("#seats-span").text(seats);
-        $("#theline").css({top:14+(seats+1)*30});
+        $("#theline").css({top:17+(seats)*30});
         $("#theline").width(postPosition);
         var qFactor = voteWidth/quota; //all actual vote counts are multiplied by this to get a div width in proportion
 
@@ -173,7 +175,8 @@ function animateStages(year,constituencyFolder) {
         loop = window.setInterval(advanceCount,4000*speed);
     }else{
         //if we didn't load a constituency var then we have no data yet
-        $("#animation").text("There is no data up for this constituency at present");
+        $("#quota").text("There is no data up for this constituency at present. Once we receive and add it, it will display here.");
+		$("#stageNumbers").html("");
     }
 
     //the magic, simple enough, append some divs and animate their width's to final position 
@@ -233,14 +236,24 @@ function animateStages(year,constituencyFolder) {
                                     .appendTo("#animation").delay(300*speed)
                                     .animate({top:topMargin+ (countDict[i-1][candidates[t].id]["order"]*30), left:startLeft+voteWidth+20},900*speed, function(){
                                         earlyStage = false;
-                                        if (transfers[$(this).data('candidate')] >0 ){
+                                        if (transfers[$(this).data('candidate')] + countDict[i-1][$(this).data('candidate')]["total"] >0 ){
                                             $("#candidate"+$(this).data('candidate'))
                                             .text(countDict[i-1][$(this).data('candidate')]["total"]+" + "+transfers[$(this).data('candidate')]+ " " + countDict[i][$(this).data('candidate')]["status"]);
-                                        }
+                                        } else {
+											$("#candidate"+$(this).data('candidate'))
+                                            .text("")
+										}
                                     }).delay(100*speed)
                                     .animate({left:localLeft},900*speed, function(){
+										if (transfers[$(this).data('candidate')] + countDict[i][$(this).data('candidate')]["total"] >0 ){
+											console.log(transfers[$(this).data('candidate')] + countDict[i][$(this).data('candidate')]["total"]);
+                                            $("#candidate"+$(this).data('candidate'))
+                                            .text(countDict[i-1][$(this).data('candidate')]["total"]+transfers[$(this).data('candidate')]+ " " + countDict[i][$(this).data('candidate')]["status"]);
+                                        } else {
+											$("#candidate"+$(this).data('candidate'))
+                                            .text("")
+										};
                                         $("#candidate"+$(this).data('candidate')).width(countDict[i][$(this).data('candidate')]["total"] * qFactor)
-                                        .text(countDict[i][$(this).data('candidate')]["total"] + " " + countDict[i][$(this).data('candidate')]["status"])
                                         .animate({top:topMargin+(countDict[i][$(this).data('candidate')]["order"]*30)},{
                                             duration:500*speed,
                                             start:function(){

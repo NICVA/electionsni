@@ -36,22 +36,14 @@ header p {
     padding: 0px;
 }
 .cta{
-    line-height: 30px;
-    text-align: center;
     background-color: #00eecc;
     color: #333333;
 }
 .cta a {
-    color: white;
-    text-decoration: none;
+    color: #ffffff;
 }
 .cta a:hover {
     color: #333333;
-    -webkit-transition: color .5s;
-    -moz-transition: color .5s;
-    -ms-transition: color .5s;
-    -o-transition: color .5s;
-    transition: color .5s;
 }
 .content {
     margin: auto;
@@ -105,10 +97,24 @@ header p {
     color: #777;
 }
 
+.show-menu {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	text-decoration: none;
+	color: #fff;
+	background: #19c589;
+	text-align: center;
+	padding: 10px 0;
+	display: none;
+}
+input[id=show-menu]{
+    display: none;
+}
+
 #cssmenu {
   background: #34495e;
   width: auto;
   text-align: center;
+  display: block;
 }
 #cssmenu ul {
   list-style: none;

@@ -78,8 +78,12 @@
     color:white;
     padding-top:3px;
     box-sizing:border-box;
+	text-shadow: 2px 2px 0 #000, -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
 }
-
+.votes:before{content: "\00a0 ";}
+.Elected{
+	font-weight:bold;
+}
 .candidateLabel{
     height:25px;
     width:200px;
@@ -89,11 +93,6 @@
     text-overflow:ellipsis;
 }
 
-.Elected{
-	font-weight:bold;
-}
-
-.votes:before{content: " ";}
 
 @-webkit-keyframes pulsate {
     0% {color: #34495e;}

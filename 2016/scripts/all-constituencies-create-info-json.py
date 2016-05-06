@@ -38,5 +38,5 @@ with open(jsonName, 'wb') as jsonfile:
             json.dump(row, jsonfile)
             jsonfile.write('\n    }')
 
-    jsonfile.write('\n    ]\n}')
+    jsonfile.write('\n    ]\n}\n')
     print jsonName, ' saved'
