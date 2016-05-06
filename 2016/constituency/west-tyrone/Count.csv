@@ -8,7 +8,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 18,265,1,Corey,FRENCH,124,0,124,,,Independent
 18,266,1,Ross,HUSSEY,4441,0,4441,,,Ulster Unionist Party
 18,267,1,Patsy,KELLY,661,0,661,,,Independent
-18,268,1,Roger,LOMAS,44,0,44,,,NI Conservatives
+18,268,1,Roger,LOMAS,44,0,44,Excluded,1,NI Conservatives
 18,269,1,Declan,MCALEER,3565,0,3565,,,Sinn Fein
 18,270,1,Laura,MCANEA,224,0,224,,,Animal Welfare Party
 18,271,1,Sorcha,MCANESPY,828,0,828,,,Independent
@@ -26,7 +26,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 18,265,2,Corey,FRENCH,124,1,125,,,Independent
 18,266,2,Ross,HUSSEY,4441,13,4454,,,Ulster Unionist Party
 18,267,2,Patsy,KELLY,661,1,662,,,Independent
-18,268,2,Roger,LOMAS,44,-44,0,,,NI Conservatives
+18,268,2,Roger,LOMAS,44,-44,0,Excluded,1,NI Conservatives
 18,269,2,Declan,MCALEER,3565,1,3566,,,Sinn Fein
 18,270,2,Laura,MCANEA,224,1,225,,,Animal Welfare Party
 18,271,2,Sorcha,MCANESPY,828,0,828,,,Independent
