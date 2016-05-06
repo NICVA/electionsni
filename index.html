@@ -167,6 +167,15 @@
 				"top": e.pageY
 			});
 		});
+		
+
+		$(document).bind('mousemove', function(e) {
+			$('#tooltip').css({
+				"left": e.pageX + 20,
+				"top": e.pageY
+			});
+		});
+
 
         var year = $("#yearSelect :selected").text();
         $.getJSON('/' + year + "/NI/all-constituency-info.json", function(data) {
