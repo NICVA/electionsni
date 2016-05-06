@@ -1,8 +1,8 @@
 [
 {
     "Candidate_First_Pref_Votes": "3848", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "8", 
     "Surname": "BEGGS", 
     "Firstname": "Roy", 
     "Constituency_Number": "1", 
@@ -21,8 +21,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "3472", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "8", 
     "Surname": "LYONS", 
     "Firstname": "Gordon", 
     "Constituency_Number": "1", 

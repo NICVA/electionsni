@@ -86,10 +86,10 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 10,31,5,Nelson,MCCAUSLAND,4087,11,4115.16,,,Democratic Unionist Party
 10,32,5,John,MILLER,644,4,650.56,Excluded,5,Traditional Unionist Voice
 10,33,5,Caral,NI CHUILIN,4009,44.88,4436.44,,,Sinn Fein
-10,34,5,Malachai,OHARA,796,102,960.8,Excluded,5,Green Party
+10,34,5,Malachai,OHARA,796,102,960.8,,,Green Party
 10,35,5,Abdo,THABETH,127,0,0,Excluded,3,NI Labour Representation Committee
 10,36,5,Gemma,WEIR,476,-520.8,0,Excluded,4,Workers Party
-10,19,6,Ken,BOYLE,751,183,954.32,,,UK Independence Party
+10,19,6,Ken,BOYLE,751,183,954.32,Elected,6,UK Independence Party
 10,20,6,Paula Jane,BRADLEY,4591,51,4658.72,,,Democratic Unionist Party
 10,21,6,Tom,BURNS,87,0,0,Excluded,2,Independent
 10,22,6,Lesley,CARROLL,1972,93,2083.32,,,Ulster Unionist Party
@@ -104,6 +104,60 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 10,31,6,Nelson,MCCAUSLAND,4087,90,4205.16,,,Democratic Unionist Party
 10,32,6,John,MILLER,644,-650.56,0,Excluded,5,Traditional Unionist Voice
 10,33,6,Caral,NI CHUILIN,4009,0.08,4436.52,,,Sinn Fein
-10,34,6,Malachai,OHARA,796,7,967.8,Excluded,5,Green Party
+10,34,6,Malachai,OHARA,796,7,967.8,,,Green Party
 10,35,6,Abdo,THABETH,127,0,0,Excluded,3,NI Labour Representation Committee
 10,36,6,Gemma,WEIR,476,0,0,Excluded,4,Workers Party
+10,19,7,Ken,BOYLE,751,-954.32,0,Excluded,6,UK Independence Party
+10,20,7,Paula Jane,BRADLEY,4591,225,4883.72,,,Democratic Unionist Party
+10,21,7,Tom,BURNS,87,0,0,Excluded,2,Independent
+10,22,7,Lesley,CARROLL,1972,183,2266.32,,,Ulster Unionist Party
+10,23,7,Geoff,DOWEY,32,0,0,Excluded,2,Northern Ireland First
+10,24,7,Fiona,FERGUSON,1286,37.08,1545.44,,,People Before Profit Alliance
+10,25,7,Fra,HUGHES,243,0,0,Excluded,3,Independent
+10,26,7,William,HUMPHREY,4105,105,4326.24,,,Democratic Unionist Party
+10,27,7,Billy,HUTCHINSON,1238,169,1509.32,Excluded,6,Progressive Unionist Party
+10,28,7,Gerry,KELLY,5695,0,5225,Elected,1,Sinn Fein
+10,29,7,Nichola,MALLON,3866,22.08,4160.44,,,Social Democratic and Labour Party
+10,30,7,Nuala,MCALLISTER,2569,24.08,2733.84,,,Alliance Party
+10,31,7,Nelson,MCCAUSLAND,4087,74,4279.16,,,Democratic Unionist Party
+10,32,7,John,MILLER,644,0,0,Excluded,5,Traditional Unionist Voice
+10,33,7,Caral,NI CHUILIN,4009,2,4438.52,,,Sinn Fein
+10,34,7,Malachai,OHARA,796,29,996.8,,,Green Party
+10,35,7,Abdo,THABETH,127,0,0,Excluded,3,NI Labour Representation Committee
+10,36,7,Gemma,WEIR,476,0,0,Excluded,4,Workers Party
+10,19,8,Ken,BOYLE,751,0,0,Excluded,6,UK Independence Party
+10,20,8,Paula Jane,BRADLEY,4591,14,4897.72,,,Democratic Unionist Party
+10,21,8,Tom,BURNS,87,0,0,Excluded,2,Independent
+10,22,8,Lesley,CARROLL,1972,25,2291.32,,,Ulster Unionist Party
+10,23,8,Geoff,DOWEY,32,0,0,Excluded,2,Northern Ireland First
+10,24,8,Fiona,FERGUSON,1286,253.32,1798.76,,,People Before Profit Alliance
+10,25,8,Fra,HUGHES,243,0,0,Excluded,3,Independent
+10,26,8,William,HUMPHREY,4105,9,4335.24,,,Democratic Unionist Party
+10,27,8,Billy,HUTCHINSON,1238,14,1523.32,Excluded,6,Progressive Unionist Party
+10,28,8,Gerry,KELLY,5695,0,5225,Elected,1,Sinn Fein
+10,29,8,Nichola,MALLON,3866,108.4,4268.84,,,Social Democratic and Labour Party
+10,30,8,Nuala,MCALLISTER,2569,333.16,3067,,,Alliance Party
+10,31,8,Nelson,MCCAUSLAND,4087,11,4290.16,,,Democratic Unionist Party
+10,32,8,John,MILLER,644,0,0,Excluded,5,Traditional Unionist Voice
+10,33,8,Caral,NI CHUILIN,4009,106.72,4545.24,,,Sinn Fein
+10,34,8,Malachai,OHARA,796,-996.8,0,Excluded,8,Green Party
+10,35,8,Abdo,THABETH,127,0,0,Excluded,3,NI Labour Representation Committee
+10,36,8,Gemma,WEIR,476,0,0,Excluded,4,Workers Party
+10,19,9,Ken,BOYLE,751,0,0,Excluded,6,UK Independence Party
+10,20,9,Paula Jane,BRADLEY,4591,156,5053.72,,,Democratic Unionist Party
+10,21,9,Tom,BURNS,87,0,0,Excluded,2,Independent
+10,22,9,Lesley,CARROLL,1972,436,2727.32,,,Ulster Unionist Party
+10,23,9,Geoff,DOWEY,32,0,0,Excluded,2,Northern Ireland First
+10,24,9,Fiona,FERGUSON,1286,34,1832.76,,,People Before Profit Alliance
+10,25,9,Fra,HUGHES,243,0,0,Excluded,3,Independent
+10,26,9,William,HUMPHREY,4105,425.08,4760.32,,,Democratic Unionist Party
+10,27,9,Billy,HUTCHINSON,1238,-1523.32,0,Excluded,6,Progressive Unionist Party
+10,28,9,Gerry,KELLY,5695,0,5225,Elected,1,Sinn Fein
+10,29,9,Nichola,MALLON,3866,11.08,4279.92,,,Social Democratic and Labour Party
+10,30,9,Nuala,MCALLISTER,2569,24,3091,Excluded,9,Alliance Party
+10,31,9,Nelson,MCCAUSLAND,4087,265.08,4555.24,,,Democratic Unionist Party
+10,32,9,John,MILLER,644,0,0,Excluded,5,Traditional Unionist Voice
+10,33,9,Caral,NI CHUILIN,4009,2,4547.24,,,Sinn Fein
+10,34,9,Malachai,OHARA,796,0,0,Excluded,8,Green Party
+10,35,9,Abdo,THABETH,127,0,0,Excluded,3,NI Labour Representation Committee
+10,36,9,Gemma,WEIR,476,0,0,Excluded,4,Workers Party

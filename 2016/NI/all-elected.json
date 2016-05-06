@@ -110,8 +110,8 @@
 "Elected": [
 {
     "Candidate_First_Pref_Votes": "3848", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "8", 
     "Surname": "BEGGS", 
     "Firstname": "Roy", 
     "Constituency_Number": "1", 
@@ -130,8 +130,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "3472", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "8", 
     "Surname": "LYONS", 
     "Firstname": "Gordon", 
     "Constituency_Number": "1", 
@@ -415,6 +415,16 @@
 "Constituency_Number": 12,
 "Elected": [
 {
+    "Candidate_First_Pref_Votes": "3280", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "7", 
+    "Surname": "AIKEN", 
+    "Firstname": "Steve", 
+    "Constituency_Number": "12", 
+    "Party_Name": "Ulster Unionist Party", 
+    "Candidate_Id": "201"
+},
+{
     "Candidate_First_Pref_Votes": "4589", 
     "Status": "Elected", 
     "Occurred_On_Count": "5", 
@@ -425,9 +435,19 @@
     "Candidate_Id": "203"
 },
 {
+    "Candidate_First_Pref_Votes": "3585", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "7", 
+    "Surname": "CLARKE", 
+    "Firstname": "Trevor", 
+    "Constituency_Number": "12", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "204"
+},
+{
     "Candidate_First_Pref_Votes": "3119", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "6", 
     "Surname": "FORD", 
     "Firstname": "David RJ", 
     "Constituency_Number": "12", 
@@ -443,6 +463,16 @@
     "Constituency_Number": "12", 
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "208"
+},
+{
+    "Candidate_First_Pref_Votes": "4632", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "6", 
+    "Surname": "KEARNEY", 
+    "Firstname": "Declan", 
+    "Constituency_Number": "12", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "210"
 }]
 },
 {"Constituency_Name": "South Down",
