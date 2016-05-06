@@ -25,3 +25,16 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 4,109,2,Richie,MCPHILLIPS,4014,18.63,4032.63,,,Social Democratic and Labour Party
 4,110,2,Maurice,MORROW,6602,1470.85,8072.85,Elected,2,Democratic Unionist Party
 4,111,2,Alastair,PATTERSON,3010,130.41,3140.41,,,Ulster Unionist Party
+4,99,3,Rosemary,BARTON,3018,0,3973.08,,,Ulster Unionist Party
+4,100,3,Kerri,BLYBERG,539,7.7,552.91,Excluded,3,Alliance Party
+4,101,3,Donald,CRAWFORD,1164,158.84,1381.95,Excluded,3,Traditional Unionist Voice
+4,102,3,John,FEELY,4002,401.1,4404.25,,,Sinn Fein
+4,103,3,Phil,FLANAGAN,3449,0.22,3452.67,,,Sinn Fein
+4,104,3,Arlene,FOSTER,8801,0,6740,Elected,1,Democratic Unionist Party
+4,105,3,Michelle,GILDERNEW,6614,2.64,6628.37,,,Sinn Fein
+4,106,3,Damien,HARRIS,285,3.3,290.37,Excluded,3,NI Labour Representation Committee
+4,107,3,Tanya,JONES,897,11,919.73,Excluded,3,Green Party
+4,108,3,Sean,LYNCH,4782,0.88,4784.95,,,Sinn Fein
+4,109,3,Richie,MCPHILLIPS,4014,16.72,4049.35,,,Social Democratic and Labour Party
+4,110,3,Maurice,MORROW,6602,-1332.85,6740,Elected,2,Democratic Unionist Party
+4,111,3,Alastair,PATTERSON,3010,422.84,3563.25,,,Ulster Unionist Party
