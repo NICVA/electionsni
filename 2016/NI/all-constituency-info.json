@@ -3,7 +3,7 @@
     "Constituency_Name": "Belfast East",
     "Constituency_Number": 2,
     "Directory": "belfast-east",
-    "countInfo": {"Valid_Poll": "", "Number_Of_Seats": "6", "Total_Poll": "", "Voting_Age_Pop": "74065", "Quota": "", "Constituency_Name": "Belfast East", "Constituency_Number": "2", "Total_Electorate": "63968", "Spoiled": ""}
+    "countInfo": {"Valid_Poll": "", "Number_Of_Seats": "6", "Total_Poll": "37623", "Voting_Age_Pop": "74065", "Quota": "", "Constituency_Name": "Belfast East", "Constituency_Number": "2", "Total_Electorate": "63968", "Spoiled": ""}
     },
 {
     "Constituency_Name": "Belfast North",
@@ -33,7 +33,7 @@
     "Constituency_Name": "East Londonderry",
     "Constituency_Number": 3,
     "Directory": "east-londonderry",
-    "countInfo": {"Valid_Poll": "", "Number_Of_Seats": "6", "Total_Poll": "", "Voting_Age_Pop": "77437", "Quota": "", "Constituency_Name": "East Londonderry", "Constituency_Number": "3", "Total_Electorate": "67585", "Spoiled": ""}
+    "countInfo": {"Valid_Poll": "", "Number_Of_Seats": "6", "Total_Poll": "34848", "Voting_Age_Pop": "77437", "Quota": "", "Constituency_Name": "East Londonderry", "Constituency_Number": "3", "Total_Electorate": "67585", "Spoiled": ""}
     },
 {
     "Constituency_Name": "Fermanagh and South Tyrone",
@@ -75,7 +75,7 @@
     "Constituency_Name": "North Down",
     "Constituency_Number": 11,
     "Directory": "north-down",
-    "countInfo": {"Valid_Poll": "", "Number_Of_Seats": "6", "Total_Poll": "", "Voting_Age_Pop": "71239", "Quota": "", "Constituency_Name": "North Down", "Constituency_Number": "11", "Total_Electorate": "65081", "Spoiled": ""}
+    "countInfo": {"Valid_Poll": "", "Number_Of_Seats": "6", "Total_Poll": "32597", "Voting_Age_Pop": "71239", "Quota": "", "Constituency_Name": "North Down", "Constituency_Number": "11", "Total_Electorate": "65081", "Spoiled": ""}
     },
 {
     "Constituency_Name": "South Antrim",
@@ -93,7 +93,7 @@
     "Constituency_Name": "Strangford",
     "Constituency_Number": 15,
     "Directory": "strangford",
-    "countInfo": {"Valid_Poll": "", "Number_Of_Seats": "6", "Total_Poll": "", "Voting_Age_Pop": "70598", "Quota": "", "Constituency_Name": "Strangford", "Constituency_Number": "15", "Total_Electorate": "65116", "Spoiled": ""}
+    "countInfo": {"Valid_Poll": "", "Number_Of_Seats": "6", "Total_Poll": "33014", "Voting_Age_Pop": "70598", "Quota": "", "Constituency_Name": "Strangford", "Constituency_Number": "15", "Total_Electorate": "65116", "Spoiled": ""}
     },
 {
     "Constituency_Name": "Upper Bann",
