@@ -1,6 +1,6 @@
-{"Constituency": {"countInfo": {"Valid_Poll": "", "Number_Of_Seats": "6", "Total_Poll": "47934", "Voting_Age_Pop": "79405", "Quota": "", "Constituency_Name": "Fermanagh and South Tyrone", "Constituency_Number": "4", "Total_Electorate": "74257", "Spoiled": ""},
+{"Constituency": {"countInfo": {"Valid_Poll": "47918", "Number_Of_Seats": "6", "Total_Poll": "47934", "Voting_Age_Pop": "79405", "Quota": "6740", "Constituency_Name": "Fermanagh and South Tyrone", "Constituency_Number": "4", "Total_Electorate": "74257", "Spoiled": "741"},
 "countGroup": [{
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "3018", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "BARTON", 
@@ -11,10 +11,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 0, 
-    "Total_Votes": ""
+    "Total_Votes": "3018"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "539", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "BLYBERG", 
@@ -25,10 +25,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 1, 
-    "Total_Votes": ""
+    "Total_Votes": "539"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "1164", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "CRAWFORD", 
@@ -39,10 +39,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 2, 
-    "Total_Votes": ""
+    "Total_Votes": "1164"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "4002", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "FEELY", 
@@ -53,10 +53,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 3, 
-    "Total_Votes": ""
+    "Total_Votes": "4002"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "3449", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "FLANAGAN", 
@@ -67,10 +67,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 4, 
-    "Total_Votes": ""
+    "Total_Votes": "3449"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "8801", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "FOSTER", 
@@ -81,10 +81,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 5, 
-    "Total_Votes": ""
+    "Total_Votes": "8801"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "6614", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "GILDERNEW", 
@@ -95,10 +95,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 6, 
-    "Total_Votes": ""
+    "Total_Votes": "6614"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "285", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "HARRIS", 
@@ -109,10 +109,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 7, 
-    "Total_Votes": ""
+    "Total_Votes": "285"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "897", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "JONES", 
@@ -123,10 +123,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 8, 
-    "Total_Votes": ""
+    "Total_Votes": "897"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "4782", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "LYNCH", 
@@ -137,10 +137,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 9, 
-    "Total_Votes": ""
+    "Total_Votes": "4782"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "4014", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "MCPHILLIPS", 
@@ -151,10 +151,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 10, 
-    "Total_Votes": ""
+    "Total_Votes": "4014"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "6602", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "MORROW", 
@@ -165,10 +165,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 11, 
-    "Total_Votes": ""
+    "Total_Votes": "6602"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "3010", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "PATTERSON", 
@@ -179,6 +179,6 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 12, 
-    "Total_Votes": ""
+    "Total_Votes": "3010"
 }
 ]}}

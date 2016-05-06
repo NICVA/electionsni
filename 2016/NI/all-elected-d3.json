@@ -106,5 +106,29 @@
     "Constituency_Number": "7", 
     "Party_Name": "Sinn Fein", 
     "Candidate_Id": "152"
+},
+{
+    "Candidate_First_Pref_Votes": "4663", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
+    "Surname": "MCILVEEN", 
+    "Firstname": "Michelle", 
+    "Colour": "#ff8000", 
+    "Constituency_Name": "Strangford", 
+    "Constituency_Number": "15", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "237"
+},
+{
+    "Candidate_First_Pref_Votes": "4673", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
+    "Surname": "NESBITT", 
+    "Firstname": "Mike", 
+    "Colour": "#62cae7", 
+    "Constituency_Name": "Strangford", 
+    "Constituency_Number": "15", 
+    "Party_Name": "Ulster Unionist Party", 
+    "Candidate_Id": "240"
 }
 ]
