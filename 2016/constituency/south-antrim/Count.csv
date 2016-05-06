@@ -27,3 +27,17 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 12,212,2,David,MCMASTER,483,-483,0,Excluded,1,Independent
 12,213,2,Paul,MICHAEL,2565,52,2617,,,Ulster Unionist Party
 12,214,2,Mark David,YOUNG,72,-72,0,Excluded,1,NI Conservatives
+12,201,3,Steve,AIKEN,3280,97,3439,,,Ulster Unionist Party
+12,202,3,Richard William,CAIRNS,1318,175,1505,,,Traditional Unionist Voice
+12,203,3,Pam,CAMERON,4589,98,4704,,,Democratic Unionist Party
+12,204,3,Trevor,CLARKE,3585,70,3668,,,Democratic Unionist Party
+12,205,3,Adrian David,COCHRANE-WATSON,1947,37,2001,,,Ulster Unionist Party
+12,206,3,Helen,FARLEY,569,-669,0,Excluded,2,Green Party
+12,207,3,David RJ,FORD,3119,390,3639,,,Alliance Party
+12,208,3,Paul,GIRVAN,5014,0,5036,Elected,2,Democratic Unionist Party
+12,209,3,Robert,HILL,574,-599,0,Excluded,2,UK Independence Party
+12,210,3,Declan,KEARNEY,4632,83,4737,,,Sinn Fein
+12,211,3,Roisin,LYNCH,3366,115,3515,,,Social Democratic and Labour Party
+12,212,3,David,MCMASTER,483,0,0,Excluded,1,Independent
+12,213,3,Paul,MICHAEL,2565,82,2699,,,Ulster Unionist Party
+12,214,3,Mark David,YOUNG,72,0,0,Excluded,1,NI Conservatives
