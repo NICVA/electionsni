@@ -81,7 +81,6 @@ with open(jsonMain, 'wb') as main:
             elif row['Candidate_Id'] in others_ids:
                 if e != 0:
                     main.write(',\n')
-                json.dump(row, confile, indent = 4, separators = (', ',': '))
                 json.dump(row, main, indent =4, separators= (', ',': '))
                 e += 1
         c += 1
