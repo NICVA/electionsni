@@ -85,6 +85,16 @@
     "Constituency_Number": "7", 
     "Party_Name": "Sinn Fein", 
     "Candidate_Id": "151"
+},
+{
+    "Candidate_First_Pref_Votes": "6147", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
+    "Surname": "ONEILL", 
+    "Firstname": "Michelle", 
+    "Constituency_Number": "7", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "152"
 }]
 },
 {"Constituency_Name": "Newry and Armagh",
