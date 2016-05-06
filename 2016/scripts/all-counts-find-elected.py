@@ -7,6 +7,13 @@ import itertools as it
 constituencies = ["belfast-east","belfast-north","belfast-south","belfast-west","east-antrim","east-londonderry","fermanagh-south-tyrone","foyle","lagan-valley","mid-ulster","newry-armagh","north-antrim","north-down","south-antrim","south-down","strangford","upper-bann","west-tyrone"]
 jsonMain = '../NI/all-elected.json'
 
+others = open('../NI/other-elected.csv', 'r')
+others_fields = csv.reader(others).next()
+others_reader = csv.DictReader(others, others_fields)
+others_ids = []
+for line in others_reader:
+    others_ids.append(line['Candidate_Id'])
+
 with open(jsonMain, 'wb') as main:
     main.write('{"Constituencies": [\n')
     c = 0
@@ -59,6 +66,13 @@ with open(jsonMain, 'wb') as main:
                 del row['Count_Number']
                 del row['Total_Votes']
                 if row['Status'] == 'Elected':
+                    if e != 0:
+                        confile.write(',\n')
+                        main.write(',\n')
+                    json.dump(row, confile, indent = 4, separators = (', ',': '))
+                    json.dump(row, main, indent =4, separators= (', ',': '))
+                    e += 1
+                elif row['Candidate_Id'] in others_ids:
                     if e != 0:
                         confile.write(',\n')
                         main.write(',\n')

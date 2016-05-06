@@ -87,7 +87,7 @@
     "Constituency_Name": "South Down",
     "Constituency_Number": 14,
     "Directory": "south-down",
-    "countInfo": {"Valid_Poll": "", "Number_Of_Seats": "6", "Total_Poll": "", "Voting_Age_Pop": "82463", "Quota": "", "Constituency_Name": "South Down", "Constituency_Number": "14", "Total_Electorate": "76300", "Spoiled": ""}
+    "countInfo": {"Valid_Poll": "", "Number_Of_Seats": "6", "Total_Poll": "41645", "Voting_Age_Pop": "82463", "Quota": "", "Constituency_Name": "South Down", "Constituency_Number": "14", "Total_Electorate": "77409", "Spoiled": ""}
     },
 {
     "Constituency_Name": "Strangford",
