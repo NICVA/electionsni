@@ -180,6 +180,18 @@
     "Candidate_Id": "127"
 },
 {
+    "Candidate_First_Pref_Votes": "4376", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "BUTLER", 
+    "Firstname": "Robbie", 
+    "Colour": "#62cae7", 
+    "Constituency_Name": "Lagan Valley", 
+    "Constituency_Number": "6", 
+    "Party_Name": "Ulster Unionist Party", 
+    "Candidate_Id": "129"
+},
+{
     "Candidate_First_Pref_Votes": "5364", 
     "Status": "Elected", 
     "Occurred_On_Count": "6", 
@@ -192,6 +204,18 @@
     "Candidate_Id": "133"
 },
 {
+    "Candidate_First_Pref_Votes": "4236", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "HALE", 
+    "Firstname": "Brenda", 
+    "Colour": "#ff8000", 
+    "Constituency_Name": "Lagan Valley", 
+    "Constituency_Number": "6", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "134"
+},
+{
     "Candidate_First_Pref_Votes": "3871", 
     "Status": "", 
     "Occurred_On_Count": "", 
@@ -202,6 +226,18 @@
     "Constituency_Number": "6", 
     "Party_Name": "Ulster Unionist Party", 
     "Candidate_Id": "141"
+},
+{
+    "Candidate_First_Pref_Votes": "4638", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "POOTS", 
+    "Firstname": "Edwin", 
+    "Colour": "#ff8000", 
+    "Constituency_Name": "Lagan Valley", 
+    "Constituency_Number": "6", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "142"
 },
 {
     "Candidate_First_Pref_Votes": "5853", 
