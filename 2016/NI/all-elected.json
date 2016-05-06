@@ -1,3 +1,92 @@
 {"Constituencies": [
 {"Constituency_Name": "Belfast East",
-"Constituency_Number": 
+"Constituency_Number": 2,
+"Elected": [
+]
+},
+{"Constituency_Name": "Belfast North",
+"Constituency_Number": 10,
+"Elected": [
+]
+},
+{"Constituency_Name": "Belfast South",
+"Constituency_Number": 13,
+"Elected": [
+]
+},
+{"Constituency_Name": "Belfast West",
+"Constituency_Number": 17,
+"Elected": [
+]
+},
+{"Constituency_Name": "East Antrim",
+"Constituency_Number": 1,
+"Elected": [
+]
+},
+{"Constituency_Name": "East Londonderry",
+"Constituency_Number": 3,
+"Elected": [
+]
+},
+{"Constituency_Name": "Fermanagh and South Tyrone",
+"Constituency_Number": 4,
+"Elected": [
+]
+},
+{"Constituency_Name": "Foyle",
+"Constituency_Number": 5,
+"Elected": [
+]
+},
+{"Constituency_Name": "Lagan Valley",
+"Constituency_Number": 6,
+"Elected": [
+]
+},
+{"Constituency_Name": "Mid Ulster",
+"Constituency_Number": 7,
+"Elected": [
+]
+},
+{"Constituency_Name": "Newry and Armagh",
+"Constituency_Number": 8,
+"Elected": [
+]
+},
+{"Constituency_Name": "North Antrim",
+"Constituency_Number": 9,
+"Elected": [
+]
+},
+{"Constituency_Name": "North Down",
+"Constituency_Number": 11,
+"Elected": [
+]
+},
+{"Constituency_Name": "South Antrim",
+"Constituency_Number": 12,
+"Elected": [
+]
+},
+{"Constituency_Name": "South Down",
+"Constituency_Number": 14,
+"Elected": [
+]
+},
+{"Constituency_Name": "Strangford",
+"Constituency_Number": 15,
+"Elected": [
+]
+},
+{"Constituency_Name": "Upper Bann",
+"Constituency_Number": 16,
+"Elected": [
+]
+},
+{"Constituency_Name": "West Tyrone",
+"Constituency_Number": 18,
+"Elected": [
+]
+}
+]}

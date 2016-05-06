@@ -59,7 +59,6 @@ with open(jsonMain, 'wb') as main:
             for option in partiesReader:
                 if option['Party_Name'] == row['Party_Name']:
                     colour = option['Hex_Col']
-                    print colour
             row['Constituency_Name'] = constituencyName
             row['Colour'] = colour
             del row['Transfers']

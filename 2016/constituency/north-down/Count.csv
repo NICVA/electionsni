@@ -1,2 +1,17 @@
 Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_Pref_Votes,Transfers,Total_Votes,Status,Occurred_On_Count,Party_Name
-11,,,,,,,,,,
+11,185,1,Steven,AGNEW,,0,,,,Green Party
+11,186,1,John,BRENNAN,,0,,,,Traditional Unionist Voice
+11,187,1,Conal,BROWNE,,0,,,,Social Democratic and Labour Party
+11,188,1,Alan,CHAMBERS,,0,,,,Ulster Unionist Party
+11,189,1,Gordon Mervyn,DUNNE,,0,,,,Democratic Unionist Party
+11,190,1,Alex,EASTON,,0,,,,Democratic Unionist Party
+11,191,1,Chris,EISENSTADT,,0,,,,Ulster Unionist Party
+11,192,1,Stephen,FARRY,,0,,,,Alliance Party
+11,193,1,Maria,LOURENCO,,0,,,,NI Labour Representation Committee
+11,194,1,Therese,MCCARTNEY,,0,,,,Sinn Fein
+11,195,1,Carl,MCCLEAN,,0,,,,Ulster Unionist Party
+11,196,1,Andrew,MUIR,,0,,,,Alliance Party
+11,197,1,Bill,PIPER,,0,,,,UK Independence Party
+11,198,1,Frank,SHIVERS,,0,,,,NI Conservatives
+11,199,1,Peter James,WEIR,,0,,,,Democratic Unionist Party
+11,200,1,Brian,WILSON,,0,,,,Independent

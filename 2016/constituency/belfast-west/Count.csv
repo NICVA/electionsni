@@ -1,2 +1,13 @@
 Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_Pref_Votes,Transfers,Total_Votes,Status,Occurred_On_Count,Party_Name
-17,,,,,,,,,,
+17,55,1,Alex,ATTWOOD,,0,,,,Social Democratic and Labour Party
+17,56,1,Conor,CAMPBELL,,0,,,,Workers Party
+17,57,1,Gerry,CARROLL,,0,,,,People Before Profit Alliance
+17,58,1,Jemima,HIGGINS,,0,,,,Alliance Party
+17,59,1,Gareth Thomas,MARTIN,,0,,,,Ulster Unionist Party
+17,60,1,Alex,MASKEY,,0,,,,Sinn Fein
+17,61,1,Fra,MCCANN,,0,,,,Sinn Fein
+17,62,1,Jennifer,MCCANN,,0,,,,Sinn Fein
+17,63,1,Rosie,MCCORLEY,,0,,,,Sinn Fein
+17,64,1,Frank,MCCOUBREY,,0,,,,Democratic Unionist Party
+17,65,1,Ellen,MURRAY,,0,,,,Green Party
+17,66,1,Pat,SHEEHAN,,0,,,,Sinn Fein

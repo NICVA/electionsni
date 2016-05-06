@@ -1,3 +1,16 @@
 Constituency_Name,Constituency_Number,Candidate_Id,Firstname,Surname,Outgoing_Member,Party_Id,Party_Name,Photo_URL,Directory,Gender,Twitter,Email
-East Antrim,1,80,John Robert,STEWART,0,26,Ulster Unionist Party,,east-antrim,M,@JohnStewart1983,sfassembly@hotmail.com
-East Antrim,1,81,Ruth,WILSON,0,141,Traditional Unionist Voice,,east-antrim,F,@RuthWilsonTUV,sfassembly@hotmail.com
+East Antrim,1,67,Roy,BEGGS,1,26,Ulster Unionist Party,,east-antrim,M,@roybeggs,
+East Antrim,1,68,Stewart Clyde,DICKSON,1,19,Alliance Party,,east-antrim,M,@stewartcdickson,
+East Antrim,1,69,Danny,DONNELLY,0,19,Alliance Party,,east-antrim,M,@DannyDonnelly1,
+East Antrim,1,70,David,HILDITCH,1,20,Democratic Unionist Party,,east-antrim,M,@dwh_crfc,
+East Antrim,1,71,Noel,JORDAN,0,689,UK Independence Party,,east-antrim,M,,
+East Antrim,1,72,Gordon,LYONS,1,20,Democratic Unionist Party,,east-antrim,M,@gordonlyons1,
+East Antrim,1,73,Jim,MCCAW,0,994,Progressive Unionist Party,,east-antrim,M,,
+East Antrim,1,74,Margaret Anne,MCKILLOP,0,23,Social Democratic and Labour Party,,east-antrim,F,@a_margaretanne,
+East Antrim,1,75,Oliver,MCMULLAN,0,24,Sinn Fein,,east-antrim,M,@OliverMcMullan,
+East Antrim,1,76,Maureen,MORROW,0,26,Ulster Unionist Party,,east-antrim,F,@maureen45morrow,
+East Antrim,1,77,Dawn,PATTERSON,0,111,Green Party,,east-antrim,F,@DawnPEastAntri1,
+East Antrim,1,78,Alastair,ROSS,1,20,Democratic Unionist Party,,east-antrim,M,@alastairianross,
+East Antrim,1,79,Conor John,SHERIDAN,0,997,Cross-Community Labour Alternative,,east-antrim,M,@conorjsheridan1,
+East Antrim,1,80,John Robert,STEWART,0,26,Ulster Unionist Party,,east-antrim,M,@JohnStewart1983,
+East Antrim,1,81,Ruth,WILSON,0,141,Traditional Unionist Voice,,east-antrim,F,@RuthWilsonTUV,

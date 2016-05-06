@@ -1,2 +1,19 @@
 Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_Pref_Votes,Transfers,Total_Votes,Status,Occurred_On_Count,Party_Name
-13,,,,,,,,,,
+13,37,1,Brigitte,ANTON,,0,,,,NI Labour Representation Committee
+13,38,1,Clare,BAILEY,,0,,,,Green Party
+13,39,1,Paula,BRADSHAW,,0,,,,Alliance Party
+13,40,1,Sean,BURNS,,0,,,,Labour Alternative
+13,41,1,William,DICKSON,,0,,,,South Belfast Unionists
+13,42,1,Claire,HANNA,,0,,,,Social Democratic and Labour Party
+13,43,1,John Andrew,HIDDLESTON,,0,,,,Traditional Unionist Voice
+13,44,1,Lily,KERR,,0,,,,Workers Party
+13,45,1,Emma,LITTLE PENGELLY,,0,,,,Democratic Unionist Party
+13,46,1,Ben,MANTON,,0,,,,NI Conservatives
+13,47,1,Rodney James,MCCUNE,,0,,,,Ulster Unionist Party
+13,48,1,Fearghal,MCKINNEY,,0,,,,Social Democratic and Labour Party
+13,49,1,Duncan,MORROW,,0,,,,Alliance Party
+13,50,1,Mairtin,O MUILLEOIR,,0,,,,Sinn Fein
+13,51,1,Ruth,PATTERSON,,0,,,,Independent
+13,52,1,Ian,SHANKS,,0,,,,Progressive Unionist Party
+13,53,1,Christopher,STALFORD,,0,,,,Democratic Unionist Party
+13,54,1,Bob,STOKER,,0,,,,UK Independence Party

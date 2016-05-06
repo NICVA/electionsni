@@ -1,2 +1,19 @@
 Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_Pref_Votes,Transfers,Total_Votes,Status,Occurred_On_Count,Party_Name
-10,,,,,,,,,,
+10,19,1,Ken,BOYLE,,0,,,,UK Independence Party
+10,20,1,Paula Jane,BRADLEY,,0,,,,Democratic Unionist Party
+10,21,1,Tom,BURNS,,0,,,,Independent
+10,22,1,Lesley,CARROLL,,0,,,,Ulster Unionist Party
+10,23,1,Geoff,DOWEY,,0,,,,Northern Ireland First
+10,24,1,Fiona,FERGUSON,,0,,,,People Before Profit Alliance
+10,25,1,Fra,HUGHES,,0,,,,Independent
+10,26,1,William,HUMPHREY,,0,,,,Democratic Unionist Party
+10,27,1,Billy,HUTCHINSON,,0,,,,Progressive Unionist Party
+10,28,1,Gerry,KELLY,,0,,,,Sinn Fein
+10,29,1,Nichola,MALLON,,0,,,,Social Democratic and Labour Party
+10,30,1,Nuala,MCALLISTER,,0,,,,Alliance Party
+10,31,1,Nelson,MCCAUSLAND,,0,,,,Democratic Unionist Party
+10,32,1,John,MILLER,,0,,,,Traditional Unionist Voice
+10,33,1,Caral,NI CHUILIN,,0,,,,Sinn Fein
+10,34,1,Malachai,OHARA,,0,,,,Green Party
+10,35,1,Abdo,THABETH,,0,,,,NI Labour Representation Committee
+10,36,1,Gemma,WEIR,,0,,,,Workers Party
