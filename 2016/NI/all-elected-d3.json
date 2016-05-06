@@ -132,6 +132,18 @@
     "Candidate_Id": "190"
 },
 {
+    "Candidate_First_Pref_Votes": "5014", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "2", 
+    "Surname": "GIRVAN", 
+    "Firstname": "Paul", 
+    "Colour": "#ff8000", 
+    "Constituency_Name": "South Antrim", 
+    "Constituency_Number": "12", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "208"
+},
+{
     "Candidate_First_Pref_Votes": "4663", 
     "Status": "Elected", 
     "Occurred_On_Count": "1", 
