@@ -11,3 +11,15 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 14,224,1,Sean,ROGERS,3564,0,3564,,,Social Democratic and Labour Party
 14,225,1,Caitriona,RUANE,4191,0,4191,,,Sinn Fein
 14,226,1,Jim,WELLS,5033,0,5033,,,Democratic Unionist Party
+14,215,2,Sinead,BRADLEY,5059,172,5231,,,Social Democratic and Labour Party
+14,216,2,Patrick,BROWN,2200,641,2841,,,Alliance Party
+14,217,2,Michael,GRAY-SLOAN,3520,51,3571,,,Sinn Fein
+14,218,2,John,HARDY,820,-820,0,Excluded,1,Green Party
+14,219,2,Chris,HAZZARD,5045,97,5142,,,Sinn Fein
+14,220,2,John,MCCALLISTER,1156,-1156,0,Excluded,1,Independent
+14,221,2,Colin,MCGRATH,4288,141,4429,,,Social Democratic and Labour Party
+14,222,2,Harold,MCKEE,3481,331,3812,,,Ulster Unionist Party
+14,223,2,Henry,REILLY,2718,82,2800,,,Traditional Unionist Voice
+14,224,2,Sean,ROGERS,3564,135,3699,,,Social Democratic and Labour Party
+14,225,2,Caitriona,RUANE,4191,49,4240,,,Sinn Fein
+14,226,2,Jim,WELLS,5033,150,5183,,,Democratic Unionist Party
