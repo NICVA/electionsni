@@ -103,7 +103,25 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 13,48,6,Fearghal,MCKINNEY,2845,1,2878,,,Social Democratic and Labour Party
 13,49,6,Duncan,MORROW,2691,3,2736,,,Alliance Party
 13,50,6,Mairtin,O MUILLEOIR,5207,0,5247,Elected,5,Sinn Fein
-13,51,6,Ruth,PATTERSON,475,69,571,,,Independent
+13,51,6,Ruth,PATTERSON,475,69,571,Excluded,6,Independent
 13,52,6,Ian,SHANKS,430,-444,0,Excluded,6,Progressive Unionist Party
 13,53,6,Christopher,STALFORD,3570,102,3717,,,Democratic Unionist Party
 13,54,6,Bob,STOKER,794,76,908,,,UK Independence Party
+13,37,7,Brigitte,ANTON,246,0,0,Excluded,3,NI Labour Representation Committee
+13,38,7,Clare,BAILEY,3521,16,3707,,,Green Party
+13,39,7,Paula,BRADSHAW,3332,12,3437,,,Alliance Party
+13,40,7,Sean,BURNS,871,4,989,,,Labour Alternative
+13,41,7,William,DICKSON,351,0,0,,,South Belfast Unionists
+13,42,7,Claire,HANNA,4516,9,4591,,,Social Democratic and Labour Party
+13,43,7,John Andrew,HIDDLESTON,495,95,685,Excluded,7,Traditional Unionist Voice
+13,44,7,Lily,KERR,241,0,0,Excluded,2,Workers Party
+13,45,7,Emma,LITTLE PENGELLY,4511,59,4703,,,Democratic Unionist Party
+13,46,7,Ben,MANTON,161,0,0,Excluded,1,NI Conservatives
+13,47,7,Rodney James,MCCUNE,2466,78,2755,,,Ulster Unionist Party
+13,48,7,Fearghal,MCKINNEY,2845,0,2878,,,Social Democratic and Labour Party
+13,49,7,Duncan,MORROW,2691,8,2744,,,Alliance Party
+13,50,7,Mairtin,O MUILLEOIR,5207,0,5247,Elected,5,Sinn Fein
+13,51,7,Ruth,PATTERSON,475,-571,0,Excluded,6,Independent
+13,52,7,Ian,SHANKS,430,0,0,Excluded,6,Progressive Unionist Party
+13,53,7,Christopher,STALFORD,3570,149,3866,,,Democratic Unionist Party
+13,54,7,Bob,STOKER,794,117,1025,,,UK Independence Party

@@ -70,4 +70,22 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 2,15,4,Robin,NEWTON,3875,2.46,3901.75,,,Democratic Unionist Party
 2,16,4,Niall,O DONNGHAILE,946,1.71,965.37,,,Sinn Fein
 2,17,4,Courtney,ROBINSON,517,2.37,547.34,,,Labour Alternative
-2,18,4,Neil,WILSON,477,1.14,483.5,,,NI Conservatives
+2,18,4,Neil,WILSON,477,1.14,483.5,Excluded,4,NI Conservatives
+2,1,5,Andy,ALLEN,3047,107.15,3176.72,,,Ulster Unionist Party
+2,2,5,Ross,BROWN,2183,50.2,2283.49,,,Green Party
+2,3,5,Joanne,BUNTING,5538,0,5311,Elected,1,Democratic Unionist Party
+2,4,5,Amy,DOHERTY,141,0,0,Excluded,2,Social Democratic and Labour Party
+2,5,5,Sammy,DOUGLAS,4230,25.07,4436.26,,,Democratic Unionist Party
+2,6,5,Andrew,GIRVIN,887,15.04,907.03,,,Traditional Unionist Voice
+2,7,5,Erskine,HOLMES,78,0,0,Excluded,1,NI Labour Representation Committee
+2,8,5,Maggie,HUTTON,1099,5,1110.15,,,Independent
+2,9,5,John,KYLE,1772,0.06,1845.67,,,Progressive Unionist Party
+2,10,5,Jonny,LAVERY,631,59,463.52,,,UK Independence Party
+2,11,5,Naomi,LONG,5482,0,5656.31,Elected,1,Alliance Party
+2,12,5,Chris,LYTTLE,2805,57.52,2922.41,,,Alliance Party
+2,13,5,Chris,MCGIMPSEY,1095,61.06,1142.95,,,Ulster Unionist Party
+2,14,5,Tim,MORROW,2372,26.1,2428.94,,,Alliance Party
+2,15,5,Robin,NEWTON,3875,36.12,3903.75,,,Democratic Unionist Party
+2,16,5,Niall,O DONNGHAILE,946,2,973.37,,,Sinn Fein
+2,17,5,Courtney,ROBINSON,517,8,63.84,,,Labour Alternative
+2,18,5,Neil,WILSON,477,-483.5,0,Excluded,4,NI Conservatives
