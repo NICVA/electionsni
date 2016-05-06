@@ -10,6 +10,20 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 12,209,1,Robert,HILL,574,0,574,,,UK Independence Party
 12,210,1,Declan,KEARNEY,4632,0,4632,,,Sinn Fein
 12,211,1,Roisin,LYNCH,3366,0,3366,,,Social Democratic and Labour Party
-12,212,1,David,MCMASTER,483,0,483,,,Independent
+12,212,1,David,MCMASTER,483,0,483,Excluded,1,Independent
 12,213,1,Paul,MICHAEL,2565,0,2565,,,Ulster Unionist Party
-12,214,1,Mark David,YOUNG,72,0,72,,,NI Conservatives
+12,214,1,Mark David,YOUNG,72,0,72,Excluded,1,NI Conservatives
+12,201,2,Steve,AIKEN,3280,62,3342,,,Ulster Unionist Party
+12,202,2,Richard William,CAIRNS,1318,12,1330,,,Traditional Unionist Voice
+12,203,2,Pam,CAMERON,4589,17,4606,,,Democratic Unionist Party
+12,204,2,Trevor,CLARKE,3585,13,3598,,,Democratic Unionist Party
+12,205,2,Adrian David,COCHRANE-WATSON,1947,17,1964,,,Ulster Unionist Party
+12,206,2,Helen,FARLEY,569,100,669,,,Green Party
+12,207,2,David RJ,FORD,3119,130,3249,,,Alliance Party
+12,208,2,Paul,GIRVAN,5014,22,5036,,,Democratic Unionist Party
+12,209,2,Robert,HILL,574,25,599,,,UK Independence Party
+12,210,2,Declan,KEARNEY,4632,22,4654,,,Sinn Fein
+12,211,2,Roisin,LYNCH,3366,34,3400,,,Social Democratic and Labour Party
+12,212,2,David,MCMASTER,483,0,483,Excluded,1,Independent
+12,213,2,Paul,MICHAEL,2565,52,2617,,,Ulster Unionist Party
+12,214,2,Mark David,YOUNG,72,0,72,Excluded,1,NI Conservatives
