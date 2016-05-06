@@ -56,7 +56,36 @@
 {"Constituency_Name": "Mid Ulster",
 "Constituency_Number": 7,
 "Elected": [
-]
+{
+    "Candidate_First_Pref_Votes": "", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "DILLON", 
+    "Firstname": "Linda", 
+    "Constituency_Number": "7", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "146"
+},
+{
+    "Candidate_First_Pref_Votes": "", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "MCGLONE", 
+    "Firstname": "Patsy", 
+    "Constituency_Number": "7", 
+    "Party_Name": "Social Democratic and Labour Party", 
+    "Candidate_Id": "150"
+},
+{
+    "Candidate_First_Pref_Votes": "", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "MILNE", 
+    "Firstname": "Ian", 
+    "Constituency_Number": "7", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "151"
+}]
 },
 {"Constituency_Name": "Newry and Armagh",
 "Constituency_Number": 8,
