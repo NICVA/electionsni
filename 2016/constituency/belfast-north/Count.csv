@@ -161,3 +161,39 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 10,34,9,Malachai,OHARA,796,0,0,Excluded,8,Green Party
 10,35,9,Abdo,THABETH,127,0,0,Excluded,3,NI Labour Representation Committee
 10,36,9,Gemma,WEIR,476,0,0,Excluded,4,Workers Party
+10,19,10,Ken,BOYLE,751,0,0,Excluded,6,UK Independence Party
+10,20,10,Paula Jane,BRADLEY,4591,27.08,5080.8,,,Democratic Unionist Party
+10,21,10,Tom,BURNS,87,0,0,Excluded,2,Independent
+10,22,10,Lesley,CARROLL,1972,55,2782.32,Elected,10,Ulster Unionist Party
+10,23,10,Geoff,DOWEY,32,0,0,Excluded,2,Northern Ireland First
+10,24,10,Fiona,FERGUSON,1286,-1832.76,0,Excluded,9,People Before Profit Alliance
+10,25,10,Fra,HUGHES,243,0,0,Excluded,3,Independent
+10,26,10,William,HUMPHREY,4105,21.08,4781.4,,,Democratic Unionist Party
+10,27,10,Billy,HUTCHINSON,1238,0,0,Excluded,6,Progressive Unionist Party
+10,28,10,Gerry,KELLY,5695,0,5225,Elected,1,Sinn Fein
+10,29,10,Nichola,MALLON,3866,468.56,4748.48,,,Social Democratic and Labour Party
+10,30,10,Nuala,MCALLISTER,2569,390.64,3481.64,Excluded,9,Alliance Party
+10,31,10,Nelson,MCCAUSLAND,4087,6,4561.24,,,Democratic Unionist Party
+10,32,10,John,MILLER,644,0,0,Excluded,5,Traditional Unionist Voice
+10,33,10,Caral,NI CHUILIN,4009,357,4904.24,,,Sinn Fein
+10,34,10,Malachai,OHARA,796,0,0,Excluded,8,Green Party
+10,35,10,Abdo,THABETH,127,0,0,Excluded,3,NI Labour Representation Committee
+10,36,10,Gemma,WEIR,476,0,0,Excluded,4,Workers Party
+10,19,11,Ken,BOYLE,751,0,0,Excluded,,
+10,20,11,Paula Jane,BRADLEY,4591,828.08,5908.88,Elected,11,
+10,21,11,Tom,BURNS,87,0,0,Excluded,,
+10,22,11,Lesley,CARROLL,1972,-2782.32,0,Excluded,10,
+10,23,11,Geoff,DOWEY,32,0,0,Excluded,,
+10,24,11,Fiona,FERGUSON,1286,0,0,Excluded,9,
+10,25,11,Fra,HUGHES,243,0,0,Excluded,,
+10,26,11,William,HUMPHREY,4105,505,5286.4,Elected,11,
+10,27,11,Billy,HUTCHINSON,1238,0,0,Excluded,,
+10,28,11,Gerry,KELLY,5695,0,5225,Elected,,
+10,29,11,Nichola,MALLON,3866,99,4847.48,Elected,11,
+10,30,11,Nuala,MCALLISTER,2569,354.16,3835.8,Excluded,,
+10,31,11,Nelson,MCCAUSLAND,4087,418,4979.24,Elected,11,
+10,32,11,John,MILLER,644,0,0,Excluded,,
+10,33,11,Caral,NI CHUILIN,4009,7,4911.24,Elected,11,
+10,34,11,Malachai,OHARA,796,0,0,Excluded,,
+10,35,11,Abdo,THABETH,127,0,0,Excluded,,
+10,36,11,Gemma,WEIR,476,0,0,Excluded,,

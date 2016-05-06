@@ -27,14 +27,64 @@
 "Constituency_Number": 10,
 "Elected": [
 {
+    "Candidate_First_Pref_Votes": "4591", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "11", 
+    "Surname": "BRADLEY", 
+    "Firstname": "Paula Jane", 
+    "Constituency_Number": "10", 
+    "Party_Name": "", 
+    "Candidate_Id": "20"
+},
+{
+    "Candidate_First_Pref_Votes": "4105", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "11", 
+    "Surname": "HUMPHREY", 
+    "Firstname": "William", 
+    "Constituency_Number": "10", 
+    "Party_Name": "", 
+    "Candidate_Id": "26"
+},
+{
     "Candidate_First_Pref_Votes": "5695", 
     "Status": "Elected", 
-    "Occurred_On_Count": "1", 
+    "Occurred_On_Count": "", 
     "Surname": "KELLY", 
     "Firstname": "Gerry", 
     "Constituency_Number": "10", 
-    "Party_Name": "Sinn Fein", 
+    "Party_Name": "", 
     "Candidate_Id": "28"
+},
+{
+    "Candidate_First_Pref_Votes": "3866", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "11", 
+    "Surname": "MALLON", 
+    "Firstname": "Nichola", 
+    "Constituency_Number": "10", 
+    "Party_Name": "", 
+    "Candidate_Id": "29"
+},
+{
+    "Candidate_First_Pref_Votes": "4087", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "11", 
+    "Surname": "MCCAUSLAND", 
+    "Firstname": "Nelson", 
+    "Constituency_Number": "10", 
+    "Party_Name": "", 
+    "Candidate_Id": "31"
+},
+{
+    "Candidate_First_Pref_Votes": "4009", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "11", 
+    "Surname": "NI CHUILIN", 
+    "Firstname": "Caral", 
+    "Constituency_Number": "10", 
+    "Party_Name": "", 
+    "Candidate_Id": "33"
 }]
 },
 {"Constituency_Name": "Belfast South",
@@ -52,8 +102,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "4516", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "11", 
     "Surname": "HANNA", 
     "Firstname": "Claire", 
     "Constituency_Number": "13", 
