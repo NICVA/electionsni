@@ -182,6 +182,7 @@ function getTransfersData(year) {
 				$.each(transfers, function (recipient, amount) { // loop thru recipient parties
 	//                console.log(transfers);
 					if (recipient != "total") {
+						console.log(parties[recepient].Party_Abbreviation);
 						data.push({
 							donor: donor,
 							donor_short: parties[donor].Party_Abbreviation,
