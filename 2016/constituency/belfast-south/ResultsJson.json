@@ -1,6 +1,6 @@
-{"Constituency": {"countInfo": {"Valid_Poll": "", "Number_Of_Seats": "6", "Total_Poll": "37147", "Voting_Age_Pop": "91756", "Quota": "", "Constituency_Name": "Belfast South", "Constituency_Number": "13", "Total_Electorate": "68469", "Spoiled": ""},
+{"Constituency": {"countInfo": {"Valid_Poll": "36723", "Number_Of_Seats": "6", "Total_Poll": "37147", "Voting_Age_Pop": "91756", "Quota": "5247", "Constituency_Name": "Belfast South", "Constituency_Number": "13", "Total_Electorate": "68469", "Spoiled": "424"},
 "countGroup": [{
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "246", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "ANTON", 
@@ -11,10 +11,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 0, 
-    "Total_Votes": ""
+    "Total_Votes": "246"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "3521", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "BAILEY", 
@@ -25,10 +25,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 1, 
-    "Total_Votes": ""
+    "Total_Votes": "3521"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "3332", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "BRADSHAW", 
@@ -39,10 +39,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 2, 
-    "Total_Votes": ""
+    "Total_Votes": "3332"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "871", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "BURNS", 
@@ -53,10 +53,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 3, 
-    "Total_Votes": ""
+    "Total_Votes": "871"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "351", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "DICKSON", 
@@ -67,10 +67,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 4, 
-    "Total_Votes": ""
+    "Total_Votes": "351"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "4516", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "HANNA", 
@@ -81,10 +81,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 5, 
-    "Total_Votes": ""
+    "Total_Votes": "4516"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "495", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "HIDDLESTON", 
@@ -95,10 +95,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 6, 
-    "Total_Votes": ""
+    "Total_Votes": "495"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "241", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "KERR", 
@@ -109,10 +109,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 7, 
-    "Total_Votes": ""
+    "Total_Votes": "241"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "4511", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "LITTLE PENGELLY", 
@@ -123,10 +123,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 8, 
-    "Total_Votes": ""
+    "Total_Votes": "4511"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "161", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "MANTON", 
@@ -137,10 +137,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 9, 
-    "Total_Votes": ""
+    "Total_Votes": "161"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "2466", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "MCCUNE", 
@@ -151,10 +151,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 10, 
-    "Total_Votes": ""
+    "Total_Votes": "2466"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "2845", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "MCKINNEY", 
@@ -165,10 +165,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 11, 
-    "Total_Votes": ""
+    "Total_Votes": "2845"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "2691", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "MORROW", 
@@ -179,10 +179,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 12, 
-    "Total_Votes": ""
+    "Total_Votes": "2691"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "5207", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "O MUILLEOIR", 
@@ -193,10 +193,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 13, 
-    "Total_Votes": ""
+    "Total_Votes": "5207"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "475", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "PATTERSON", 
@@ -207,10 +207,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 14, 
-    "Total_Votes": ""
+    "Total_Votes": "475"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "430", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "SHANKS", 
@@ -221,10 +221,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 15, 
-    "Total_Votes": ""
+    "Total_Votes": "430"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "3570", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "STALFORD", 
@@ -235,10 +235,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 16, 
-    "Total_Votes": ""
+    "Total_Votes": "3570"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "794", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "STOKER", 
@@ -249,6 +249,6 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 17, 
-    "Total_Votes": ""
+    "Total_Votes": "794"
 }
 ]}}
