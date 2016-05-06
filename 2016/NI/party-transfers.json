@@ -36,7 +36,11 @@
 ,
 	{"Constituency_Name": "Belfast West", "Counts": 
 		[
-
+		{"Count_Number": 2,
+			"From": {"People Before Profit Alliance": -3117.0},
+			"To": {"Workers Party": 234.52, "Social Democratic and Labour Party": 760.76, "Democratic Unionist Party": 14.52, "Ulster Unionist Party": 14.96, "Green Party": 378.84, "People Before Profit Alliance": 0, "Sinn Fein": 1546.16, "Alliance Party": 136.4},
+			"Not_transferred": 30.84
+		}
 		]
 	}
 ,

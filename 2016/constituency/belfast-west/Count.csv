@@ -11,3 +11,15 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 17,64,1,Frank,MCCOUBREY,3766,0,3766,,,Democratic Unionist Party
 17,65,1,Ellen,MURRAY,327,0,327,,,Green Party
 17,66,1,Pat,SHEEHAN,3516,0,3516,,,Sinn Fein
+17,55,2,Alex,ATTWOOD,2647,760.76,3407.76,,,Social Democratic and Labour Party
+17,56,2,Conor,CAMPBELL,532,234.52,766.52,,,Workers Party
+17,57,2,Gerry,CARROLL,8299,-3117,5182,Elected,1,People Before Profit Alliance
+17,58,2,Jemima,HIGGINS,291,136.4,427.4,,,Alliance Party
+17,59,2,Gareth Thomas,MARTIN,654,14.96,668.96,,,Ulster Unionist Party
+17,60,2,Alex,MASKEY,4769,591.8,5360.8,Elected,2,Sinn Fein
+17,61,2,Fra,MCCANN,4028,255.2,4283.2,,,Sinn Fein
+17,62,2,Jennifer,MCCANN,4386,262.68,4648.68,,,Sinn Fein
+17,63,2,Rosie,MCCORLEY,3053,191.4,3244.4,,,Sinn Fein
+17,64,2,Frank,MCCOUBREY,3766,14.52,3780.52,,,Democratic Unionist Party
+17,65,2,Ellen,MURRAY,327,378.84,705.84,,,Green Party
+17,66,2,Pat,SHEEHAN,3516,245.08,3761.08,,,Sinn Fein

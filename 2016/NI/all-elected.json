@@ -54,6 +54,16 @@
     "Constituency_Number": "17", 
     "Party_Name": "People Before Profit Alliance", 
     "Candidate_Id": "57"
+},
+{
+    "Candidate_First_Pref_Votes": "4769", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "2", 
+    "Surname": "MASKEY", 
+    "Firstname": "Alex", 
+    "Constituency_Number": "17", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "60"
 }]
 },
 {"Constituency_Name": "East Antrim",
@@ -146,7 +156,36 @@
 {"Constituency_Name": "Newry and Armagh",
 "Constituency_Number": 8,
 "Elected": [
-]
+{
+    "Candidate_First_Pref_Votes": "", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "BOYLAN", 
+    "Firstname": "Cathal Damian", 
+    "Constituency_Number": "8", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "157"
+},
+{
+    "Candidate_First_Pref_Votes": "", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "FEARON", 
+    "Firstname": "Megan", 
+    "Constituency_Number": "8", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "159"
+},
+{
+    "Candidate_First_Pref_Votes": "", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "IRWIN", 
+    "Firstname": "William George", 
+    "Constituency_Number": "8", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "160"
+}]
 },
 {"Constituency_Name": "North Antrim",
 "Constituency_Number": 9,
