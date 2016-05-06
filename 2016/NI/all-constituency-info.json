@@ -63,7 +63,7 @@
     "Constituency_Name": "Newry and Armagh",
     "Constituency_Number": 8,
     "Directory": "newry-armagh",
-    "countInfo": {"Valid_Poll": "", "Number_Of_Seats": "6", "Total_Poll": "48498", "Voting_Age_Pop": "85884", "Quota": "", "Constituency_Name": "Newry and Armagh", "Constituency_Number": "8", "Total_Electorate": "81757", "Spoiled": ""}
+    "countInfo": {"Valid_Poll": "", "Number_Of_Seats": "6", "Total_Poll": "48498", "Voting_Age_Pop": "85884", "Quota": "", "Constituency_Name": "Newry and Armagh", "Constituency_Number": "8", "Total_Electorate": "81756", "Spoiled": ""}
     },
 {
     "Constituency_Name": "North Antrim",
@@ -99,7 +99,7 @@
     "Constituency_Name": "Upper Bann",
     "Constituency_Number": 16,
     "Directory": "upper-bann",
-    "countInfo": {"Valid_Poll": "", "Number_Of_Seats": "6", "Total_Poll": "", "Voting_Age_Pop": "92012", "Quota": "", "Constituency_Name": "Upper Bann", "Constituency_Number": "16", "Total_Electorate": "81061", "Spoiled": ""}
+    "countInfo": {"Valid_Poll": "", "Number_Of_Seats": "6", "Total_Poll": "46383", "Voting_Age_Pop": "92012", "Quota": "", "Constituency_Name": "Upper Bann", "Constituency_Number": "16", "Total_Electorate": "85204", "Spoiled": ""}
     },
 {
     "Constituency_Name": "West Tyrone",
