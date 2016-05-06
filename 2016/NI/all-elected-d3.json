@@ -36,6 +36,18 @@
     "Candidate_Id": "28"
 },
 {
+    "Candidate_First_Pref_Votes": "8299", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
+    "Surname": "CARROLL", 
+    "Firstname": "Gerry", 
+    "Colour": "#ff3399", 
+    "Constituency_Name": "Belfast West", 
+    "Constituency_Number": "17", 
+    "Party_Name": "People Before Profit Alliance", 
+    "Candidate_Id": "57"
+},
+{
     "Candidate_First_Pref_Votes": "5906", 
     "Status": "Elected", 
     "Occurred_On_Count": "1", 
