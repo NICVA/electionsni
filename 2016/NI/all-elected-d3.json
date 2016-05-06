@@ -10,4 +10,41 @@
     "Constituency_Number": "1", 
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "70"
+},
+{
+    "Candidate_First_Pref_Votes": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
+    "Surname": "DILLON", 
+    "Firstname": "Linda", 
+    "Colour": "#009900", 
+    "Constituency_Name": "Mid Ulster", 
+    "Constituency_Number": "7", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "146"
+},
+{
+    "Candidate_First_Pref_Votes": "6209", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
+    "Surname": "MCGLONE", 
+    "Firstname": "Patsy", 
+    "Colour": "#cc3300", 
+    "Constituency_Name": "Mid Ulster", 
+    "Constituency_Number": "7", 
+    "Party_Name": "Social Democratic and Labour Party", 
+    "Candidate_Id": "150"
+},
+{
+    "Candidate_First_Pref_Votes": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
+    "Surname": "MILNE", 
+    "Firstname": "Ian", 
+    "Colour": "#009900", 
+    "Constituency_Name": "Mid Ulster", 
+    "Constituency_Number": "7", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "151"
 }
+]

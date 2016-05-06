@@ -1,15 +1,15 @@
 Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_Pref_Votes,Transfers,Total_Votes,Status,Occurred_On_Count,Party_Name
-12,201,1,Steve,AIKEN,,0,,,,Ulster Unionist Party
-12,202,1,Richard William,CAIRNS,,0,,,,Traditional Unionist Voice
-12,203,1,Pam,CAMERON,,0,,,,Democratic Unionist Party
-12,204,1,Trevor,CLARKE,,0,,,,Democratic Unionist Party
-12,205,1,Adrian David,COCHRANE-WATSON,,0,,,,Ulster Unionist Party
-12,206,1,Helen,FARLEY,,0,,,,Green Party
-12,207,1,David RJ,FORD,,0,,,,Alliance Party
-12,208,1,Paul,GIRVAN,,0,,,,Democratic Unionist Party
-12,209,1,Robert,HILL,,0,,,,UK Independence Party
-12,210,1,Declan,KEARNEY,,0,,,,Sinn Fein
-12,211,1,Roisin,LYNCH,,0,,,,Social Democratic and Labour Party
-12,212,1,David,MCMASTER,,0,,,,Independent
-12,213,1,Paul,MICHAEL,,0,,,,Ulster Unionist Party
-12,214,1,Mark David,YOUNG,,0,,,,NI Conservatives
+12,201,1,Steve,AIKEN,3280,0,3280,,,Ulster Unionist Party
+12,202,1,Richard William,CAIRNS,1318,0,1318,,,Traditional Unionist Voice
+12,203,1,Pam,CAMERON,4589,0,4589,,,Democratic Unionist Party
+12,204,1,Trevor,CLARKE,3585,0,3585,,,Democratic Unionist Party
+12,205,1,Adrian David,COCHRANE-WATSON,1947,0,1947,,,Ulster Unionist Party
+12,206,1,Helen,FARLEY,569,0,569,,,Green Party
+12,207,1,David RJ,FORD,3119,0,3119,,,Alliance Party
+12,208,1,Paul,GIRVAN,5014,0,5014,,,Democratic Unionist Party
+12,209,1,Robert,HILL,574,0,574,,,UK Independence Party
+12,210,1,Declan,KEARNEY,4632,0,4632,,,Sinn Fein
+12,211,1,Roisin,LYNCH,3366,0,3366,,,Social Democratic and Labour Party
+12,212,1,David,MCMASTER,483,0,483,,,Independent
+12,213,1,Paul,MICHAEL,2565,0,2565,,,Ulster Unionist Party
+12,214,1,Mark David,YOUNG,72,0,72,,,NI Conservatives

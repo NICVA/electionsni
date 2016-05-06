@@ -29,8 +29,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
     "Surname": "DILLON", 
     "Firstname": "Linda", 
     "Constituency_Number": "7", 
@@ -42,7 +42,7 @@
     "Total_Votes": ""
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "471", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "HENDRON", 
@@ -84,9 +84,9 @@
     "Total_Votes": ""
 },
 {
-    "Candidate_First_Pref_Votes": "", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Candidate_First_Pref_Votes": "6209", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
     "Surname": "MCGLONE", 
     "Firstname": "Patsy", 
     "Constituency_Number": "7", 
@@ -95,12 +95,12 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 6, 
-    "Total_Votes": ""
+    "Total_Votes": "6209"
 },
 {
     "Candidate_First_Pref_Votes": "", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
     "Surname": "MILNE", 
     "Firstname": "Ian", 
     "Constituency_Number": "7", 
