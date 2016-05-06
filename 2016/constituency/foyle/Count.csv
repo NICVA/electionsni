@@ -2,16 +2,32 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 5,112,1,Kathleen,BRADLEY,902,0,902,,,Independent
 5,113,1,Maurice,DEVENNEY,1173,0,1173,,,Independent
 5,114,1,Gerard,DIVER,2700,0,2700,,,Social Democratic and Labour Party
-5,115,1,Alan,DUNLOP,26,0,26,,,NI Conservatives
+5,115,1,Alan,DUNLOP,26,0,26,Excluded,1,NI Conservatives
 5,116,1,Mark H,DURKAN,4197,0,4197,,,Social Democratic and Labour Party
 5,117,1,Colum,EASTWOOD,5000,0,5000,,,Social Democratic and Labour Party
-5,118,1,Mary,HASSAN,157,0,157,,,Green Party
+5,118,1,Mary,HASSAN,157,0,157,Excluded,1,Green Party
 5,119,1,Julia,KEE,1420,0,1420,,,Ulster Unionist Party
-5,120,1,John,LINDSAY,259,0,259,,,Cannabis Is Safer Than Alcohol
+5,120,1,John,LINDSAY,259,0,259,Excluded,1,Cannabis Is Safer Than Alcohol
 5,121,1,Eamonn,MCCANN,4176,0,4176,,,People Before Profit Alliance
 5,122,1,Raymond,MCCARTNEY,3198,0,3198,,,Sinn Fein
-5,123,1,Chris,MCCAW,238,0,238,,,Alliance Party
+5,123,1,Chris,MCCAW,238,0,238,Excluded,1,Alliance Party
 5,124,1,Anne,MCCLOSKEY,3410,0,3410,,,Independent
 5,125,1,Martin,MCGUINNESS,5037,0,5037,,,Sinn Fein
 5,126,1,Maeve,MCLAUGHLIN,3062,0,3062,,,Sinn Fein
 5,127,1,Gary,MIDDLETON,4737,0,4737,,,Democratic Unionist Party
+5,112,2,Kathleen,BRADLEY,902,26,928,,,Independent
+5,113,2,Maurice,DEVENNEY,1173,17,1190,,,Independent
+5,114,2,Gerard,DIVER,2700,43,2743,,,Social Democratic and Labour Party
+5,115,2,Alan,DUNLOP,26,-26,0,Excluded,1,NI Conservatives
+5,116,2,Mark H,DURKAN,4197,71,4268,,,Social Democratic and Labour Party
+5,117,2,Colum,EASTWOOD,5000,69,5069,,,Social Democratic and Labour Party
+5,118,2,Mary,HASSAN,157,-157,0,Excluded,1,Green Party
+5,119,2,Julia,KEE,1420,57,1477,,,Ulster Unionist Party
+5,120,2,John,LINDSAY,259,-259,0,Excluded,1,Cannabis Is Safer Than Alcohol
+5,121,2,Eamonn,MCCANN,4176,178,4354,,,People Before Profit Alliance
+5,122,2,Raymond,MCCARTNEY,3198,22,3220,,,Sinn Fein
+5,123,2,Chris,MCCAW,238,-238,0,Excluded,1,Alliance Party
+5,124,2,Anne,MCCLOSKEY,3410,74,3484,,,Independent
+5,125,2,Martin,MCGUINNESS,5037,33,5070,,,Sinn Fein
+5,126,2,Maeve,MCLAUGHLIN,3062,10,3072,,,Sinn Fein
+5,127,2,Gary,MIDDLETON,4737,33,4770,,,Democratic Unionist Party
