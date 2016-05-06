@@ -87,7 +87,11 @@
 }
 
 #party_matrix .name {
+<<<<<<< HEAD
   width: 230px;  
+=======
+  width: 200px;  
+>>>>>>> ecf9e2dda8a6a53b1554651848a16c60d9b0c4ff
 }
 
 #overview_matrix .results,
@@ -116,7 +120,7 @@
 }
 
 #thirtySeats:after {
-content: "30 seats";
+	content: "30 seats";
     bottom: 0px;
     position: absolute;
     width: 120px;
