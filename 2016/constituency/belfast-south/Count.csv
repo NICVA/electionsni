@@ -57,7 +57,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 13,38,4,Clare,BAILEY,3521,70,3670,,,Green Party
 13,39,4,Paula,BRADSHAW,3332,31,3400,,,Alliance Party
 13,40,4,Sean,BURNS,871,62,971,,,Labour Alternative
-13,41,4,William,DICKSON,351,1,359,,,South Belfast Unionists
+13,41,4,William,DICKSON,351,1,359,Excluded,4,South Belfast Unionists
 13,42,4,Claire,HANNA,4516,15,4574,,,Social Democratic and Labour Party
 13,43,4,John Andrew,HIDDLESTON,495,2,501,,,Traditional Unionist Voice
 13,44,4,Lily,KERR,241,0,0,Excluded,2,Workers Party
@@ -75,7 +75,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 13,38,5,Clare,BAILEY,3521,8,3678,,,Green Party
 13,39,5,Paula,BRADSHAW,3332,18,3418,,,Alliance Party
 13,40,5,Sean,BURNS,871,3,974,,,Labour Alternative
-13,41,5,William,DICKSON,351,-359,0,,,South Belfast Unionists
+13,41,5,William,DICKSON,351,-359,0,Excluded,4,South Belfast Unionists
 13,42,5,Claire,HANNA,4516,7,4581,,,Social Democratic and Labour Party
 13,43,5,John Andrew,HIDDLESTON,495,57,558,,,Traditional Unionist Voice
 13,44,5,Lily,KERR,241,0,0,Excluded,2,Workers Party
@@ -93,7 +93,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 13,38,6,Clare,BAILEY,3521,13,3691,,,Green Party
 13,39,6,Paula,BRADSHAW,3332,7,3425,,,Alliance Party
 13,40,6,Sean,BURNS,871,11,985,,,Labour Alternative
-13,41,6,William,DICKSON,351,0,0,,,South Belfast Unionists
+13,41,6,William,DICKSON,351,0,0,Excluded,4,South Belfast Unionists
 13,42,6,Claire,HANNA,4516,1,4582,,,Social Democratic and Labour Party
 13,43,6,John Andrew,HIDDLESTON,495,32,590,,,Traditional Unionist Voice
 13,44,6,Lily,KERR,241,0,0,Excluded,2,Workers Party
@@ -111,7 +111,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 13,38,7,Clare,BAILEY,3521,16,3707,,,Green Party
 13,39,7,Paula,BRADSHAW,3332,12,3437,,,Alliance Party
 13,40,7,Sean,BURNS,871,4,989,,,Labour Alternative
-13,41,7,William,DICKSON,351,0,0,,,South Belfast Unionists
+13,41,7,William,DICKSON,351,0,0,Excluded,4,South Belfast Unionists
 13,42,7,Claire,HANNA,4516,9,4591,,,Social Democratic and Labour Party
 13,43,7,John Andrew,HIDDLESTON,495,95,685,Excluded,7,Traditional Unionist Voice
 13,44,7,Lily,KERR,241,0,0,Excluded,2,Workers Party

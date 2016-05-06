@@ -73,6 +73,16 @@
     "Constituency_Number": "17", 
     "Party_Name": "Sinn Fein", 
     "Candidate_Id": "60"
+},
+{
+    "Candidate_First_Pref_Votes": "3516", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "SHEEHAN", 
+    "Firstname": "Pat", 
+    "Constituency_Number": "17", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "66"
 }]
 },
 {"Constituency_Name": "East Antrim",
@@ -287,8 +297,8 @@
 "Elected": [
 {
     "Candidate_First_Pref_Votes": "4589", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "5", 
     "Surname": "CAMERON", 
     "Firstname": "Pam", 
     "Constituency_Number": "12", 
@@ -309,6 +319,16 @@
 {"Constituency_Name": "South Down",
 "Constituency_Number": 14,
 "Elected": [
+{
+    "Candidate_First_Pref_Votes": "3481", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "MCKEE", 
+    "Firstname": "Harold", 
+    "Constituency_Number": "14", 
+    "Party_Name": "Ulster Unionist Party", 
+    "Candidate_Id": "222"
+},
 {
     "Candidate_First_Pref_Votes": "5033", 
     "Status": "Elected", 
