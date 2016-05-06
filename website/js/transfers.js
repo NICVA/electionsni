@@ -134,7 +134,7 @@ var parties = {
     "Party_Abbreviation": "LRC",
     "Hex_Col": "#800000"
   },
-  "not_transferred": {
+  "Not_transferred": {
     "Party_Id": 0,
     "Party_Abbreviation": "N/T",
     "Hex_Col": "#fff"
