@@ -15,7 +15,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 5,125,1,Martin,MCGUINNESS,5037,0,5037,,,Sinn Fein
 5,126,1,Maeve,MCLAUGHLIN,3062,0,3062,,,Sinn Fein
 5,127,1,Gary,MIDDLETON,4737,0,4737,,,Democratic Unionist Party
-5,112,2,Kathleen,BRADLEY,902,26,928,,,Independent
+5,112,2,Kathleen,BRADLEY,902,26,928,Excluded,2,Independent
 5,113,2,Maurice,DEVENNEY,1173,17,1190,,,Independent
 5,114,2,Gerard,DIVER,2700,43,2743,,,Social Democratic and Labour Party
 5,115,2,Alan,DUNLOP,26,-26,0,Excluded,1,NI Conservatives
@@ -31,3 +31,19 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 5,125,2,Martin,MCGUINNESS,5037,33,5070,,,Sinn Fein
 5,126,2,Maeve,MCLAUGHLIN,3062,10,3072,,,Sinn Fein
 5,127,2,Gary,MIDDLETON,4737,33,4770,,,Democratic Unionist Party
+5,112,3,Kathleen,BRADLEY,902,-928,0,Excluded,2,Independent
+5,113,3,Maurice,DEVENNEY,1173,23,1213,Excluded,3,Independent
+5,114,3,Gerard,DIVER,2700,54,2797,,,Social Democratic and Labour Party
+5,115,3,Alan,DUNLOP,26,0,0,Excluded,1,NI Conservatives
+5,116,3,Mark H,DURKAN,4197,127,4395,,,Social Democratic and Labour Party
+5,117,3,Colum,EASTWOOD,5000,42,5111,,,Social Democratic and Labour Party
+5,118,3,Mary,HASSAN,157,0,0,Excluded,1,Green Party
+5,119,3,Julia,KEE,1420,7,1484,Excluded,3,Ulster Unionist Party
+5,120,3,John,LINDSAY,259,0,0,Excluded,1,Cannabis Is Safer Than Alcohol
+5,121,3,Eamonn,MCCANN,4176,197,4551,,,People Before Profit Alliance
+5,122,3,Raymond,MCCARTNEY,3198,50,3270,,,Sinn Fein
+5,123,3,Chris,MCCAW,238,0,0,Excluded,1,Alliance Party
+5,124,3,Anne,MCCLOSKEY,3410,199,3683,,,Independent
+5,125,3,Martin,MCGUINNESS,5037,98,5168,,,Sinn Fein
+5,126,3,Maeve,MCLAUGHLIN,3062,42,3114,,,Sinn Fein
+5,127,3,Gary,MIDDLETON,4737,2,4772,,,Democratic Unionist Party

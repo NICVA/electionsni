@@ -82,7 +82,11 @@
 ,
 	{"Constituency_Name": "Foyle", "Counts": 
 		[
-
+		{"Count_Number": 3,
+			"From": {"Independent": -928.0},
+			"To": {"Independent": 222.0, "Social Democratic and Labour Party": 223.0, "Democratic Unionist Party": 2.0, "Sinn Fein": 190.0, "People Before Profit Alliance": 197.0, "Cannabis Is Safer Than Alcohol": 0, "Green Party": 0, "Ulster Unionist Party": 7.0, "Alliance Party": 0, "NI Conservatives": 0},
+			"Not_transferred": 87.0
+		}
 		]
 	}
 ,
@@ -132,7 +136,11 @@
 ,
 	{"Constituency_Name": "South Antrim", "Counts": 
 		[
-
+		{"Count_Number": 4,
+			"From": {"Traditional Unionist Voice": -1505.0},
+			"To": {"Independent": 0, "Social Democratic and Labour Party": 12.0, "Traditional Unionist Voice": 0, "Democratic Unionist Party": 609.0, "Sinn Fein": 0, "Green Party": 0, "UK Independence Party": 0, "Ulster Unionist Party": 664.0, "Alliance Party": 32.0, "NI Conservatives": 0},
+			"Not_transferred": 188.0
+		}
 		]
 	}
 ,

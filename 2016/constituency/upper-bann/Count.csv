@@ -1,18 +1,18 @@
 Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_Pref_Votes,Transfers,Total_Votes,Status,Occurred_On_Count,Party_Name
-16,242,1,Sydney Alexander,ANDERSON,,0,,,,Democratic Unionist Party
-16,243,1,Doug,BEATTIE,,0,,,,Ulster Unionist Party
-16,244,1,Jo-Anne,DOBSON,,0,,,,Ulster Unionist Party
-16,245,1,Roy,FERGUSON,,0,,,,Traditional Unionist Voice
-16,246,1,Harry,HAMILTON,,0,,,,Alliance Party
-16,247,1,Emma,HUTCHINSON,,0,,,,NI Labour Representation Committee
-16,248,1,David,JONES,,0,,,,UK Independence Party
-16,249,1,Dolores,KELLY,,0,,,,Social Democratic and Labour Party
-16,250,1,Martin,KELLY,,0,,,,Cannabis Is Safer Than Alcohol
-16,251,1,Simon,LEE,,0,,,,Green Party
-16,252,1,Carla,LOCKHART,,0,,,,Democratic Unionist Party
-16,253,1,Sophie,LONG,,0,,,,Progressive Unionist Party
-16,254,1,Stephen,MCCARROLL,,0,,,,Independent
-16,255,1,Ian Keith,NICKELS,,0,,,,NI Conservatives
-16,256,1,John,ODOWD,,0,,,,Sinn Fein
-16,257,1,Kyle,SAVAGE,,0,,,,Ulster Unionist Party
-16,258,1,Catherine,SEELEY,,0,,,,Sinn Fein
+16,242,1,Sydney Alexander,ANDERSON,6195,0,6195,,,Democratic Unionist Party
+16,243,1,Doug,BEATTIE,2969,0,2969,,,Ulster Unionist Party
+16,244,1,Jo-Anne,DOBSON,5155,0,5155,,,Ulster Unionist Party
+16,245,1,Roy,FERGUSON,1177,0,1177,,,Traditional Unionist Voice
+16,246,1,Harry,HAMILTON,1424,0,1424,,,Alliance Party
+16,247,1,Emma,HUTCHINSON,250,0,250,,,NI Labour Representation Committee
+16,248,1,David,JONES,1072,0,1072,,,UK Independence Party
+16,249,1,Dolores,KELLY,4335,0,4335,,,Social Democratic and Labour Party
+16,250,1,Martin,KELLY,672,0,672,,,Cannabis Is Safer Than Alcohol
+16,251,1,Simon,LEE,495,0,495,,,Green Party
+16,252,1,Carla,LOCKHART,7993,0,7993,Elected,1,Democratic Unionist Party
+16,253,1,Sophie,LONG,704,0,704,,,Progressive Unionist Party
+16,254,1,Stephen,MCCARROLL,33,0,33,,,Independent
+16,255,1,Ian Keith,NICKELS,79,0,79,,,NI Conservatives
+16,256,1,John,ODOWD,5209,0,5209,,,Sinn Fein
+16,257,1,Kyle,SAVAGE,1760,0,1760,,,Ulster Unionist Party
+16,258,1,Catherine,SEELEY,6164,0,6164,,,Sinn Fein
