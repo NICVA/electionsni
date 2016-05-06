@@ -17,3 +17,39 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 13,52,1,Ian,SHANKS,430,0,430,,,Progressive Unionist Party
 13,53,1,Christopher,STALFORD,3570,0,3570,,,Democratic Unionist Party
 13,54,1,Bob,STOKER,794,0,794,,,UK Independence Party
+13,37,2,Brigitte,ANTON,246,2,248,,,NI Labour Representation Committee
+13,38,2,Clare,BAILEY,3521,13,3534,,,Green Party
+13,39,2,Paula,BRADSHAW,3332,20,3352,,,Alliance Party
+13,40,2,Sean,BURNS,871,0,871,,,Labour Alternative
+13,41,2,William,DICKSON,351,6,357,,,South Belfast Unionists
+13,42,2,Claire,HANNA,4516,6,4522,,,Social Democratic and Labour Party
+13,43,2,John Andrew,HIDDLESTON,495,3,498,,,Traditional Unionist Voice
+13,44,2,Lily,KERR,241,0,241,Excluded,2,Workers Party
+13,45,2,Emma,LITTLE PENGELLY,4511,15,4526,,,Democratic Unionist Party
+13,46,2,Ben,MANTON,161,-161,0,Excluded,1,NI Conservatives
+13,47,2,Rodney James,MCCUNE,2466,48,2514,,,Ulster Unionist Party
+13,48,2,Fearghal,MCKINNEY,2845,5,2850,,,Social Democratic and Labour Party
+13,49,2,Duncan,MORROW,2691,7,2698,,,Alliance Party
+13,50,2,Mairtin,O MUILLEOIR,5207,1,5208,,,Sinn Fein
+13,51,2,Ruth,PATTERSON,475,3,478,,,Independent
+13,52,2,Ian,SHANKS,430,2,432,,,Progressive Unionist Party
+13,53,2,Christopher,STALFORD,3570,12,3582,,,Democratic Unionist Party
+13,54,2,Bob,STOKER,794,7,801,,,UK Independence Party
+13,37,3,Brigitte,ANTON,246,10,258,Excluded,3,NI Labour Representation Committee
+13,38,3,Clare,BAILEY,3521,66,3600,,,Green Party
+13,39,3,Paula,BRADSHAW,3332,17,3369,,,Alliance Party
+13,40,3,Sean,BURNS,871,38,909,,,Labour Alternative
+13,41,3,William,DICKSON,351,1,358,,,South Belfast Unionists
+13,42,3,Claire,HANNA,4516,37,4559,,,Social Democratic and Labour Party
+13,43,3,John Andrew,HIDDLESTON,495,1,499,,,Traditional Unionist Voice
+13,44,3,Lily,KERR,241,-241,0,Excluded,2,Workers Party
+13,45,3,Emma,LITTLE PENGELLY,4511,0,4526,,,Democratic Unionist Party
+13,46,3,Ben,MANTON,161,0,0,Excluded,1,NI Conservatives
+13,47,3,Rodney James,MCCUNE,2466,1,2515,,,Ulster Unionist Party
+13,48,3,Fearghal,MCKINNEY,2845,19,2869,,,Social Democratic and Labour Party
+13,49,3,Duncan,MORROW,2691,9,2707,,,Alliance Party
+13,50,3,Mairtin,O MUILLEOIR,5207,26,5234,,,Sinn Fein
+13,51,3,Ruth,PATTERSON,475,1,479,,,Independent
+13,52,3,Ian,SHANKS,430,3,435,,,Progressive Unionist Party
+13,53,3,Christopher,STALFORD,3570,0,3582,,,Democratic Unionist Party
+13,54,3,Bob,STOKER,794,2,803,,,UK Independence Party
