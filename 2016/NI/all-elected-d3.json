@@ -72,6 +72,18 @@
     "Candidate_Id": "60"
 },
 {
+    "Candidate_First_Pref_Votes": "3516", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "SHEEHAN", 
+    "Firstname": "Pat", 
+    "Colour": "#009900", 
+    "Constituency_Name": "Belfast West", 
+    "Constituency_Number": "17", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "66"
+},
+{
     "Candidate_First_Pref_Votes": "5906", 
     "Status": "Elected", 
     "Occurred_On_Count": "1", 
@@ -298,6 +310,18 @@
     "Constituency_Number": "12", 
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "208"
+},
+{
+    "Candidate_First_Pref_Votes": "3481", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "MCKEE", 
+    "Firstname": "Harold", 
+    "Colour": "#62cae7", 
+    "Constituency_Name": "South Down", 
+    "Constituency_Number": "14", 
+    "Party_Name": "Ulster Unionist Party", 
+    "Candidate_Id": "222"
 },
 {
     "Candidate_First_Pref_Votes": "5033", 
