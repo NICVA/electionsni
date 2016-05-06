@@ -160,15 +160,15 @@ $.ajax({
           thisResult.hover(
             function () {
               $(this).css("opacity", 0.5);
-              $("#matrixtooltip").show();
-              $("#matrixtooltip").html(
+              $("#tooltip").show();
+              $("#tooltip").html(
                 name + " (" + party + ")<br>" +
                 votes + " first pref votes"
               );
             },
             function () {
               $(this).css("opacity", 1);
-              $("#matrixtooltip").hide();
+              $("#tooltip").hide();
             });
         });
      }); 
