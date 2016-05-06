@@ -9,7 +9,7 @@
     "Constituency_Name": "Belfast North",
     "Constituency_Number": 10,
     "Directory": "belfast-north",
-    "countInfo": {"Valid_Poll": "", "Number_Of_Seats": "6", "Total_Poll": "37193", "Voting_Age_Pop": "78914", "Quota": "", "Constituency_Name": "Belfast North", "Constituency_Number": "10", "Total_Electorate": "70872", "Spoiled": ""}
+    "countInfo": {"Valid_Poll": "36574", "Number_Of_Seats": "6", "Total_Poll": "37193", "Voting_Age_Pop": "78914", "Quota": "5225", "Constituency_Name": "Belfast North", "Constituency_Number": "10", "Total_Electorate": "70872", "Spoiled": "619"}
     },
 {
     "Constituency_Name": "Belfast South",

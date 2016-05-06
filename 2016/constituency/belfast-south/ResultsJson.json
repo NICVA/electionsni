@@ -127,8 +127,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "161", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Excluded", 
+    "Occurred_On_Count": "1", 
     "Surname": "MANTON", 
     "Firstname": "Ben", 
     "Constituency_Number": "13", 

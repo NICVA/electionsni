@@ -1,6 +1,6 @@
-{"Constituency": {"countInfo": {"Valid_Poll": "", "Number_Of_Seats": "6", "Total_Poll": "37193", "Voting_Age_Pop": "78914", "Quota": "", "Constituency_Name": "Belfast North", "Constituency_Number": "10", "Total_Electorate": "70872", "Spoiled": ""},
+{"Constituency": {"countInfo": {"Valid_Poll": "36574", "Number_Of_Seats": "6", "Total_Poll": "37193", "Voting_Age_Pop": "78914", "Quota": "5225", "Constituency_Name": "Belfast North", "Constituency_Number": "10", "Total_Electorate": "70872", "Spoiled": "619"},
 "countGroup": [{
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "751", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "BOYLE", 
@@ -11,10 +11,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 0, 
-    "Total_Votes": ""
+    "Total_Votes": "751"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "4591", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "BRADLEY", 
@@ -25,10 +25,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 1, 
-    "Total_Votes": ""
+    "Total_Votes": "4591"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "87", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "BURNS", 
@@ -39,10 +39,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 2, 
-    "Total_Votes": ""
+    "Total_Votes": "87"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "1972", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "CARROLL", 
@@ -53,10 +53,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 3, 
-    "Total_Votes": ""
+    "Total_Votes": "1972"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "32", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "DOWEY", 
@@ -67,10 +67,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 4, 
-    "Total_Votes": ""
+    "Total_Votes": "32"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "1286", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "FERGUSON", 
@@ -81,10 +81,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 5, 
-    "Total_Votes": ""
+    "Total_Votes": "1286"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "243", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "HUGHES", 
@@ -95,10 +95,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 6, 
-    "Total_Votes": ""
+    "Total_Votes": "243"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "4105", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "HUMPHREY", 
@@ -109,10 +109,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 7, 
-    "Total_Votes": ""
+    "Total_Votes": "4105"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "1238", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "HUTCHINSON", 
@@ -123,12 +123,12 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 8, 
-    "Total_Votes": ""
+    "Total_Votes": "1238"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Candidate_First_Pref_Votes": "5695", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
     "Surname": "KELLY", 
     "Firstname": "Gerry", 
     "Constituency_Number": "10", 
@@ -137,10 +137,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 9, 
-    "Total_Votes": ""
+    "Total_Votes": "5695"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "3866", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "MALLON", 
@@ -151,10 +151,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 10, 
-    "Total_Votes": ""
+    "Total_Votes": "3866"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "2569", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "MCALLISTER", 
@@ -165,10 +165,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 11, 
-    "Total_Votes": ""
+    "Total_Votes": "2569"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "4087", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "MCCAUSLAND", 
@@ -179,10 +179,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 12, 
-    "Total_Votes": ""
+    "Total_Votes": "4087"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "644", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "MILLER", 
@@ -193,10 +193,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 13, 
-    "Total_Votes": ""
+    "Total_Votes": "644"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "4009", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "NI CHUILIN", 
@@ -207,10 +207,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 14, 
-    "Total_Votes": ""
+    "Total_Votes": "4009"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "796", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "OHARA", 
@@ -221,10 +221,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 15, 
-    "Total_Votes": ""
+    "Total_Votes": "796"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "127", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "THABETH", 
@@ -235,10 +235,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 16, 
-    "Total_Votes": ""
+    "Total_Votes": "127"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "476", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "WEIR", 
@@ -249,6 +249,6 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 17, 
-    "Total_Votes": ""
+    "Total_Votes": "476"
 }
 ]}}

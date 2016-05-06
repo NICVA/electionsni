@@ -24,6 +24,18 @@
     "Candidate_Id": "11"
 },
 {
+    "Candidate_First_Pref_Votes": "5695", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
+    "Surname": "KELLY", 
+    "Firstname": "Gerry", 
+    "Colour": "#009900", 
+    "Constituency_Name": "Belfast North", 
+    "Constituency_Number": "10", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "28"
+},
+{
     "Candidate_First_Pref_Votes": "5906", 
     "Status": "Elected", 
     "Occurred_On_Count": "1", 
