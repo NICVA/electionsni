@@ -9,7 +9,7 @@
     "Constituency_Name": "Belfast North",
     "Constituency_Number": 10,
     "Directory": "belfast-north",
-    "countInfo": {"Valid_Poll": "", "Number_Of_Seats": "6", "Total_Poll": "", "Voting_Age_Pop": "78914", "Quota": "", "Constituency_Name": "Belfast North", "Constituency_Number": "10", "Total_Electorate": "69358", "Spoiled": ""}
+    "countInfo": {"Valid_Poll": "", "Number_Of_Seats": "6", "Total_Poll": "37193", "Voting_Age_Pop": "78914", "Quota": "", "Constituency_Name": "Belfast North", "Constituency_Number": "10", "Total_Electorate": "70872", "Spoiled": ""}
     },
 {
     "Constituency_Name": "Belfast South",
@@ -45,7 +45,7 @@
     "Constituency_Name": "Foyle",
     "Constituency_Number": 5,
     "Directory": "foyle",
-    "countInfo": {"Valid_Poll": "", "Number_Of_Seats": "6", "Total_Poll": "40187", "Voting_Age_Pop": "76503", "Quota": "", "Constituency_Name": "Foyle", "Constituency_Number": "5", "Total_Electorate": "71151", "Spoiled": ""}
+    "countInfo": {"Valid_Poll": "", "Number_Of_Seats": "6", "Total_Poll": "40187", "Voting_Age_Pop": "76503", "Quota": "", "Constituency_Name": "Foyle", "Constituency_Number": "5", "Total_Electorate": "71759", "Spoiled": ""}
     },
 {
     "Constituency_Name": "Lagan Valley",
@@ -57,7 +57,7 @@
     "Constituency_Name": "Mid Ulster",
     "Constituency_Number": 7,
     "Directory": "mid-ulster",
-    "countInfo": {"Valid_Poll": "", "Number_Of_Seats": "6", "Total_Poll": "", "Voting_Age_Pop": "75342", "Quota": "", "Constituency_Name": "Mid Ulster", "Constituency_Number": "7", "Total_Electorate": "68633", "Spoiled": ""}
+    "countInfo": {"Valid_Poll": "", "Number_Of_Seats": "6", "Total_Poll": "41381", "Voting_Age_Pop": "75342", "Quota": "", "Constituency_Name": "Mid Ulster", "Constituency_Number": "7", "Total_Electorate": "68633", "Spoiled": ""}
     },
 {
     "Constituency_Name": "Newry and Armagh",
