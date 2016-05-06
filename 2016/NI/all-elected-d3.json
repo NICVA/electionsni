@@ -60,6 +60,18 @@
     "Candidate_Id": "70"
 },
 {
+    "Candidate_First_Pref_Votes": "8801", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
+    "Surname": "FOSTER", 
+    "Firstname": "Arlene", 
+    "Colour": "#ff8000", 
+    "Constituency_Name": "Fermanagh and South Tyrone", 
+    "Constituency_Number": "4", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "104"
+},
+{
     "Candidate_First_Pref_Votes": "5853", 
     "Status": "Elected", 
     "Occurred_On_Count": "1", 

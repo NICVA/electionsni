@@ -4,7 +4,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 4,101,1,Donald,CRAWFORD,1164,0,1164,,,Traditional Unionist Voice
 4,102,1,John,FEELY,4002,0,4002,,,Sinn Fein
 4,103,1,Phil,FLANAGAN,3449,0,3449,,,Sinn Fein
-4,104,1,Arlene,FOSTER,8801,0,8801,,,Democratic Unionist Party
+4,104,1,Arlene,FOSTER,8801,0,8801,Elected,1,Democratic Unionist Party
 4,105,1,Michelle,GILDERNEW,6614,0,6614,,,Sinn Fein
 4,106,1,Damien,HARRIS,285,0,285,,,NI Labour Representation Committee
 4,107,1,Tanya,JONES,897,0,897,,,Green Party

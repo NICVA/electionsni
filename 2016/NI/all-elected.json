@@ -78,7 +78,16 @@
 {"Constituency_Name": "Fermanagh and South Tyrone",
 "Constituency_Number": 4,
 "Elected": [
-]
+{
+    "Candidate_First_Pref_Votes": "8801", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
+    "Surname": "FOSTER", 
+    "Firstname": "Arlene", 
+    "Constituency_Number": "4", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "104"
+}]
 },
 {"Constituency_Name": "Foyle",
 "Constituency_Number": 5,
