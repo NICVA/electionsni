@@ -434,7 +434,7 @@
 {
     "Candidate_First_Pref_Votes": "4176", 
     "Status": "Elected", 
-    "Occurred_On_Count": "7", 
+    "Occurred_On_Count": "8", 
     "Surname": "MCCANN", 
     "Firstname": "Eamonn", 
     "Colour": "#ff3399", 
@@ -1033,8 +1033,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "6164", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "8", 
     "Surname": "SEELEY", 
     "Firstname": "Catherine", 
     "Colour": "#009900", 

@@ -104,10 +104,26 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 5,118,7,Mary,HASSAN,157,0,0,Excluded,1,Green Party
 5,119,7,Julia,KEE,1420,0,0,Excluded,3,Ulster Unionist Party
 5,120,7,John,LINDSAY,259,0,0,Excluded,1,Cannabis Is Safer Than Alcohol
-5,121,7,Eamonn,MCCANN,4176,148,4927,Elected,7,People Before Profit Alliance
+5,121,7,Eamonn,MCCANN,4176,148,4927,,,People Before Profit Alliance
 5,122,7,Raymond,MCCARTNEY,3198,0,5676,Elected,6,Sinn Fein
 5,123,7,Chris,MCCAW,238,0,0,Excluded,1,Alliance Party
-5,124,7,Anne,MCCLOSKEY,3410,88,3974,Excluded,7,Independent
+5,124,7,Anne,MCCLOSKEY,3410,88,3974,,,Independent
 5,125,7,Martin,MCGUINNESS,5037,56,5712,Elected,7,Sinn Fein
 5,126,7,Maeve,MCLAUGHLIN,3062,0,0,Excluded,5,Sinn Fein
 5,127,7,Gary,MIDDLETON,4737,0,5672,Elected,4,Democratic Unionist Party
+5,112,8,Kathleen,BRADLEY,902,0,0,Excluded,2,Independent
+5,113,8,Maurice,DEVENNEY,1173,0,0,Excluded,3,Independent
+5,114,8,Gerard,DIVER,2700,0,0,Excluded,6,Social Democratic and Labour Party
+5,115,8,Alan,DUNLOP,26,0,0,Excluded,1,NI Conservatives
+5,116,8,Mark H,DURKAN,4197,-1233,5672,Elected,7,Social Democratic and Labour Party
+5,117,8,Colum,EASTWOOD,5000,0,5804,Elected,7,Social Democratic and Labour Party
+5,118,8,Mary,HASSAN,157,0,0,Excluded,1,Green Party
+5,119,8,Julia,KEE,1420,0,0,Excluded,3,Ulster Unionist Party
+5,120,8,John,LINDSAY,259,0,0,Excluded,1,Cannabis Is Safer Than Alcohol
+5,121,8,Eamonn,MCCANN,4176,467,5394,Elected,8,People Before Profit Alliance
+5,122,8,Raymond,MCCARTNEY,3198,0,5676,Elected,6,Sinn Fein
+5,123,8,Chris,MCCAW,238,0,0,Excluded,1,Alliance Party
+5,124,8,Anne,MCCLOSKEY,3410,253,4227,Excluded,8,Independent
+5,125,8,Martin,MCGUINNESS,5037,0,5712,Elected,7,Sinn Fein
+5,126,8,Maeve,MCLAUGHLIN,3062,0,0,Excluded,5,Sinn Fein
+5,127,8,Gary,MIDDLETON,4737,0,5672,Elected,4,Democratic Unionist Party

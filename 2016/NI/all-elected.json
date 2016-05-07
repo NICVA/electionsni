@@ -393,7 +393,7 @@
 {
     "Candidate_First_Pref_Votes": "4176", 
     "Status": "Elected", 
-    "Occurred_On_Count": "7", 
+    "Occurred_On_Count": "8", 
     "Surname": "MCCANN", 
     "Firstname": "Eamonn", 
     "Constituency_Number": "5", 
@@ -928,8 +928,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "6164", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "8", 
     "Surname": "SEELEY", 
     "Firstname": "Catherine", 
     "Constituency_Number": "16", 
