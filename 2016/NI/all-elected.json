@@ -377,6 +377,16 @@
     "Candidate_Id": "105"
 },
 {
+    "Candidate_First_Pref_Votes": "4014", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "MCPHILLIPS", 
+    "Firstname": "Richie", 
+    "Constituency_Number": "4", 
+    "Party_Name": "Social Democratic and Labour Party", 
+    "Candidate_Id": "109"
+},
+{
     "Candidate_First_Pref_Votes": "6602", 
     "Status": "Elected", 
     "Occurred_On_Count": "2", 

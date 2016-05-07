@@ -97,7 +97,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 10,24,6,Fiona,FERGUSON,1286,1.08,1508.36,,,People Before Profit Alliance
 10,25,6,Fra,HUGHES,243,0,0,Excluded,3,Independent
 10,26,6,William,HUMPHREY,4105,105,4221.24,,,Democratic Unionist Party
-10,27,6,Billy,HUTCHINSON,1238,89,1340.32,Excluded,6,Progressive Unionist Party
+10,27,6,Billy,HUTCHINSON,1238,89,1340.32,,,Progressive Unionist Party
 10,28,6,Gerry,KELLY,5695,0,5225,Elected,1,Sinn Fein
 10,29,6,Nichola,MALLON,3866,4.24,4138.36,,,Social Democratic and Labour Party
 10,30,6,Nuala,MCALLISTER,2569,0,2709.76,,,Alliance Party
@@ -115,7 +115,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 10,24,7,Fiona,FERGUSON,1286,37.08,1545.44,,,People Before Profit Alliance
 10,25,7,Fra,HUGHES,243,0,0,Excluded,3,Independent
 10,26,7,William,HUMPHREY,4105,105,4326.24,,,Democratic Unionist Party
-10,27,7,Billy,HUTCHINSON,1238,169,1509.32,Excluded,6,Progressive Unionist Party
+10,27,7,Billy,HUTCHINSON,1238,169,1509.32,,,Progressive Unionist Party
 10,28,7,Gerry,KELLY,5695,0,5225,Elected,1,Sinn Fein
 10,29,7,Nichola,MALLON,3866,22.08,4160.44,,,Social Democratic and Labour Party
 10,30,7,Nuala,MCALLISTER,2569,24.08,2733.84,,,Alliance Party
@@ -133,7 +133,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 10,24,8,Fiona,FERGUSON,1286,253.32,1798.76,,,People Before Profit Alliance
 10,25,8,Fra,HUGHES,243,0,0,Excluded,3,Independent
 10,26,8,William,HUMPHREY,4105,9,4335.24,,,Democratic Unionist Party
-10,27,8,Billy,HUTCHINSON,1238,14,1523.32,Excluded,6,Progressive Unionist Party
+10,27,8,Billy,HUTCHINSON,1238,14,1523.32,Excluded,8,Progressive Unionist Party
 10,28,8,Gerry,KELLY,5695,0,5225,Elected,1,Sinn Fein
 10,29,8,Nichola,MALLON,3866,108.4,4268.84,,,Social Democratic and Labour Party
 10,30,8,Nuala,MCALLISTER,2569,333.16,3067,,,Alliance Party
@@ -148,13 +148,13 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 10,21,9,Tom,BURNS,87,0,0,Excluded,2,Independent
 10,22,9,Lesley,CARROLL,1972,436,2727.32,,,Ulster Unionist Party
 10,23,9,Geoff,DOWEY,32,0,0,Excluded,2,Northern Ireland First
-10,24,9,Fiona,FERGUSON,1286,34,1832.76,,,People Before Profit Alliance
+10,24,9,Fiona,FERGUSON,1286,34,1832.76,Excluded,9,People Before Profit Alliance
 10,25,9,Fra,HUGHES,243,0,0,Excluded,3,Independent
 10,26,9,William,HUMPHREY,4105,425.08,4760.32,,,Democratic Unionist Party
 10,27,9,Billy,HUTCHINSON,1238,-1523.32,0,Excluded,6,Progressive Unionist Party
 10,28,9,Gerry,KELLY,5695,0,5225,Elected,1,Sinn Fein
 10,29,9,Nichola,MALLON,3866,11.08,4279.92,,,Social Democratic and Labour Party
-10,30,9,Nuala,MCALLISTER,2569,24,3091,Excluded,9,Alliance Party
+10,30,9,Nuala,MCALLISTER,2569,24,3091,,,Alliance Party
 10,31,9,Nelson,MCCAUSLAND,4087,265.08,4555.24,,,Democratic Unionist Party
 10,32,9,John,MILLER,644,0,0,Excluded,5,Traditional Unionist Voice
 10,33,9,Caral,NI CHUILIN,4009,2,4547.24,,,Sinn Fein
@@ -172,7 +172,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 10,27,10,Billy,HUTCHINSON,1238,0,0,Excluded,6,Progressive Unionist Party
 10,28,10,Gerry,KELLY,5695,0,5225,Elected,1,Sinn Fein
 10,29,10,Nichola,MALLON,3866,468.56,4748.48,,,Social Democratic and Labour Party
-10,30,10,Nuala,MCALLISTER,2569,390.64,3481.64,Excluded,9,Alliance Party
+10,30,10,Nuala,MCALLISTER,2569,390.64,3481.64,,,Alliance Party
 10,31,10,Nelson,MCCAUSLAND,4087,6,4561.24,,,Democratic Unionist Party
 10,32,10,John,MILLER,644,0,0,Excluded,5,Traditional Unionist Voice
 10,33,10,Caral,NI CHUILIN,4009,357,4904.24,,,Sinn Fein
@@ -190,7 +190,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 10,27,11,Billy,HUTCHINSON,1238,0,0,Excluded,6,Progressive Unionist Party
 10,28,11,Gerry,KELLY,5695,0,5225,Elected,1,Sinn Fein
 10,29,11,Nichola,MALLON,3866,99,4847.48,Elected,11,Social Democratic and Labour Party
-10,30,11,Nuala,MCALLISTER,2569,354.16,3835.8,Excluded,9,Alliance Party
+10,30,11,Nuala,MCALLISTER,2569,354.16,3835.8,Excluded,11,Alliance Party
 10,31,11,Nelson,MCCAUSLAND,4087,418,4979.24,Elected,11,Democratic Unionist Party
 10,32,11,John,MILLER,644,0,0,Excluded,5,Traditional Unionist Voice
 10,33,11,Caral,NI CHUILIN,4009,7,4911.24,Elected,11,Sinn Fein

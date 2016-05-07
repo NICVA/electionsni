@@ -1373,8 +1373,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "1238", 
-    "Status": "Excluded", 
-    "Occurred_On_Count": "6", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
     "Surname": "HUTCHINSON", 
     "Firstname": "Billy", 
     "Constituency_Number": "10", 
@@ -1625,8 +1625,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "1238", 
-    "Status": "Excluded", 
-    "Occurred_On_Count": "6", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
     "Surname": "HUTCHINSON", 
     "Firstname": "Billy", 
     "Constituency_Number": "10", 
@@ -1878,7 +1878,7 @@
 {
     "Candidate_First_Pref_Votes": "1238", 
     "Status": "Excluded", 
-    "Occurred_On_Count": "6", 
+    "Occurred_On_Count": "8", 
     "Surname": "HUTCHINSON", 
     "Firstname": "Billy", 
     "Constituency_Number": "10", 
@@ -2087,8 +2087,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "1286", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Excluded", 
+    "Occurred_On_Count": "9", 
     "Surname": "FERGUSON", 
     "Firstname": "Fiona", 
     "Constituency_Number": "10", 
@@ -2171,8 +2171,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "2569", 
-    "Status": "Excluded", 
-    "Occurred_On_Count": "9", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
     "Surname": "MCALLISTER", 
     "Firstname": "Nuala", 
     "Constituency_Number": "10", 
@@ -2423,8 +2423,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "2569", 
-    "Status": "Excluded", 
-    "Occurred_On_Count": "9", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
     "Surname": "MCALLISTER", 
     "Firstname": "Nuala", 
     "Constituency_Number": "10", 
@@ -2676,7 +2676,7 @@
 {
     "Candidate_First_Pref_Votes": "2569", 
     "Status": "Excluded", 
-    "Occurred_On_Count": "9", 
+    "Occurred_On_Count": "11", 
     "Surname": "MCALLISTER", 
     "Firstname": "Nuala", 
     "Constituency_Number": "10", 
