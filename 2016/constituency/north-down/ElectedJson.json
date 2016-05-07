@@ -1,5 +1,15 @@
 [
 {
+    "Candidate_First_Pref_Votes": "4109", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "AGNEW", 
+    "Firstname": "Steven", 
+    "Constituency_Number": "11", 
+    "Party_Name": "Green Party", 
+    "Candidate_Id": "185"
+},
+{
     "Candidate_First_Pref_Votes": "4004", 
     "Status": "Elected", 
     "Occurred_On_Count": "2", 

@@ -300,6 +300,18 @@
     "Candidate_Id": "67"
 },
 {
+    "Candidate_First_Pref_Votes": "3115", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "DICKSON", 
+    "Firstname": "Stewart Clyde", 
+    "Colour": "#ffe600", 
+    "Constituency_Name": "East Antrim", 
+    "Constituency_Number": "1", 
+    "Party_Name": "Alliance Party", 
+    "Candidate_Id": "68"
+},
+{
     "Candidate_First_Pref_Votes": "5906", 
     "Status": "Elected", 
     "Occurred_On_Count": "1", 
@@ -706,6 +718,18 @@
     "Constituency_Number": "9", 
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "182"
+},
+{
+    "Candidate_First_Pref_Votes": "4109", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "AGNEW", 
+    "Firstname": "Steven", 
+    "Colour": "#33ff33", 
+    "Constituency_Name": "North Down", 
+    "Constituency_Number": "11", 
+    "Party_Name": "Green Party", 
+    "Candidate_Id": "185"
 },
 {
     "Candidate_First_Pref_Votes": "4004", 
