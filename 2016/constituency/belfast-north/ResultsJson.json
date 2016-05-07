@@ -1723,8 +1723,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "796", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Excluded", 
+    "Occurred_On_Count": "7", 
     "Surname": "OHARA", 
     "Firstname": "Malachai", 
     "Constituency_Number": "10", 
@@ -1976,7 +1976,7 @@
 {
     "Candidate_First_Pref_Votes": "796", 
     "Status": "Excluded", 
-    "Occurred_On_Count": "8", 
+    "Occurred_On_Count": "7", 
     "Surname": "OHARA", 
     "Firstname": "Malachai", 
     "Constituency_Number": "10", 
@@ -2228,7 +2228,7 @@
 {
     "Candidate_First_Pref_Votes": "796", 
     "Status": "Excluded", 
-    "Occurred_On_Count": "8", 
+    "Occurred_On_Count": "7", 
     "Surname": "OHARA", 
     "Firstname": "Malachai", 
     "Constituency_Number": "10", 
@@ -2480,7 +2480,7 @@
 {
     "Candidate_First_Pref_Votes": "796", 
     "Status": "Excluded", 
-    "Occurred_On_Count": "8", 
+    "Occurred_On_Count": "7", 
     "Surname": "OHARA", 
     "Firstname": "Malachai", 
     "Constituency_Number": "10", 
@@ -2522,7 +2522,7 @@
 {
     "Candidate_First_Pref_Votes": "751", 
     "Status": "Excluded", 
-    "Occurred_On_Count": "", 
+    "Occurred_On_Count": "6", 
     "Surname": "BOYLE", 
     "Firstname": "Ken", 
     "Constituency_Number": "10", 
@@ -2550,7 +2550,7 @@
 {
     "Candidate_First_Pref_Votes": "87", 
     "Status": "Excluded", 
-    "Occurred_On_Count": "", 
+    "Occurred_On_Count": "2", 
     "Surname": "BURNS", 
     "Firstname": "Tom", 
     "Constituency_Number": "10", 
@@ -2578,7 +2578,7 @@
 {
     "Candidate_First_Pref_Votes": "32", 
     "Status": "Excluded", 
-    "Occurred_On_Count": "", 
+    "Occurred_On_Count": "2", 
     "Surname": "DOWEY", 
     "Firstname": "Geoff", 
     "Constituency_Number": "10", 
@@ -2606,7 +2606,7 @@
 {
     "Candidate_First_Pref_Votes": "243", 
     "Status": "Excluded", 
-    "Occurred_On_Count": "", 
+    "Occurred_On_Count": "3", 
     "Surname": "HUGHES", 
     "Firstname": "Fra", 
     "Constituency_Number": "10", 
@@ -2634,7 +2634,7 @@
 {
     "Candidate_First_Pref_Votes": "1238", 
     "Status": "Excluded", 
-    "Occurred_On_Count": "", 
+    "Occurred_On_Count": "6", 
     "Surname": "HUTCHINSON", 
     "Firstname": "Billy", 
     "Constituency_Number": "10", 
@@ -2648,7 +2648,7 @@
 {
     "Candidate_First_Pref_Votes": "5695", 
     "Status": "Elected", 
-    "Occurred_On_Count": "", 
+    "Occurred_On_Count": "1", 
     "Surname": "KELLY", 
     "Firstname": "Gerry", 
     "Constituency_Number": "10", 
@@ -2676,7 +2676,7 @@
 {
     "Candidate_First_Pref_Votes": "2569", 
     "Status": "Excluded", 
-    "Occurred_On_Count": "", 
+    "Occurred_On_Count": "9", 
     "Surname": "MCALLISTER", 
     "Firstname": "Nuala", 
     "Constituency_Number": "10", 
@@ -2704,7 +2704,7 @@
 {
     "Candidate_First_Pref_Votes": "644", 
     "Status": "Excluded", 
-    "Occurred_On_Count": "", 
+    "Occurred_On_Count": "5", 
     "Surname": "MILLER", 
     "Firstname": "John", 
     "Constituency_Number": "10", 
@@ -2732,7 +2732,7 @@
 {
     "Candidate_First_Pref_Votes": "796", 
     "Status": "Excluded", 
-    "Occurred_On_Count": "", 
+    "Occurred_On_Count": "7", 
     "Surname": "OHARA", 
     "Firstname": "Malachai", 
     "Constituency_Number": "10", 
@@ -2746,7 +2746,7 @@
 {
     "Candidate_First_Pref_Votes": "127", 
     "Status": "Excluded", 
-    "Occurred_On_Count": "", 
+    "Occurred_On_Count": "3", 
     "Surname": "THABETH", 
     "Firstname": "Abdo", 
     "Constituency_Number": "10", 
@@ -2760,7 +2760,7 @@
 {
     "Candidate_First_Pref_Votes": "476", 
     "Status": "Excluded", 
-    "Occurred_On_Count": "", 
+    "Occurred_On_Count": "4", 
     "Surname": "WEIR", 
     "Firstname": "Gemma", 
     "Constituency_Number": "10", 
