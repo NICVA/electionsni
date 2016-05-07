@@ -1,5 +1,15 @@
 [
 {
+    "Candidate_First_Pref_Votes": "4002", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "ARCHIBALD", 
+    "Firstname": "Caoimhe", 
+    "Constituency_Number": "3", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "82"
+},
+{
     "Candidate_First_Pref_Votes": "4630", 
     "Status": "Elected", 
     "Occurred_On_Count": "4", 
@@ -18,6 +28,16 @@
     "Constituency_Number": "3", 
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "92"
+},
+{
+    "Candidate_First_Pref_Votes": "3265", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "MULLAN", 
+    "Firstname": "Gerry", 
+    "Constituency_Number": "3", 
+    "Party_Name": "Social Democratic and Labour Party", 
+    "Candidate_Id": "93"
 },
 {
     "Candidate_First_Pref_Votes": "4567", 
