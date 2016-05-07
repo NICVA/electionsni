@@ -1200,6 +1200,18 @@
     "Candidate_Id": "252"
 },
 {
+    "Candidate_First_Pref_Votes": "6164", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "SEELEY", 
+    "Firstname": "Catherine", 
+    "Colour": "#009900", 
+    "Constituency_Name": "Upper Bann", 
+    "Constituency_Number": "16", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "258"
+},
+{
     "Candidate_First_Pref_Votes": "4460", 
     "Status": "Elected", 
     "Occurred_On_Count": "11", 
