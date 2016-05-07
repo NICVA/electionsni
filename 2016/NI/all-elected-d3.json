@@ -348,6 +348,18 @@
     "Candidate_Id": "117"
 },
 {
+    "Candidate_First_Pref_Votes": "4176", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "MCCANN", 
+    "Firstname": "Eamonn", 
+    "Colour": "#ff3399", 
+    "Constituency_Name": "Foyle", 
+    "Constituency_Number": "5", 
+    "Party_Name": "People Before Profit Alliance", 
+    "Candidate_Id": "121"
+},
+{
     "Candidate_First_Pref_Votes": "3198", 
     "Status": "Elected", 
     "Occurred_On_Count": "6", 
