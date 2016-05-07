@@ -289,8 +289,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "4197", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "7", 
     "Surname": "DURKAN", 
     "Firstname": "Mark H", 
     "Colour": "#cc3300", 
@@ -301,8 +301,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "5000", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "7", 
     "Surname": "EASTWOOD", 
     "Firstname": "Colum", 
     "Colour": "#cc3300", 
@@ -313,8 +313,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "3198", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "6", 
     "Surname": "MCCARTNEY", 
     "Firstname": "Raymond", 
     "Colour": "#009900", 
@@ -325,8 +325,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "5037", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "7", 
     "Surname": "MCGUINNESS", 
     "Firstname": "Martin", 
     "Colour": "#009900", 
@@ -337,8 +337,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "4737", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "4", 
     "Surname": "MIDDLETON", 
     "Firstname": "Gary", 
     "Colour": "#ff8000", 
@@ -517,8 +517,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "5399", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "7", 
     "Surname": "ALLISTER", 
     "Firstname": "Jim", 
     "Colour": "#0000e6", 
@@ -526,6 +526,30 @@
     "Constituency_Number": "9", 
     "Party_Name": "Traditional Unionist Voice", 
     "Candidate_Id": "170"
+},
+{
+    "Candidate_First_Pref_Votes": "5429", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "8", 
+    "Surname": "FREW", 
+    "Firstname": "Paul", 
+    "Colour": "#ff8000", 
+    "Constituency_Name": "North Antrim", 
+    "Constituency_Number": "9", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "174"
+},
+{
+    "Candidate_First_Pref_Votes": "5382", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "9", 
+    "Surname": "STOREY", 
+    "Firstname": "Mervyn", 
+    "Colour": "#ff8000", 
+    "Constituency_Name": "North Antrim", 
+    "Constituency_Number": "9", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "182"
 },
 {
     "Candidate_First_Pref_Votes": "4004", 

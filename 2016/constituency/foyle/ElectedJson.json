@@ -1,8 +1,8 @@
 [
 {
     "Candidate_First_Pref_Votes": "4197", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "7", 
     "Surname": "DURKAN", 
     "Firstname": "Mark H", 
     "Constituency_Number": "5", 
@@ -11,8 +11,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "5000", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "7", 
     "Surname": "EASTWOOD", 
     "Firstname": "Colum", 
     "Constituency_Number": "5", 
@@ -21,8 +21,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "3198", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "6", 
     "Surname": "MCCARTNEY", 
     "Firstname": "Raymond", 
     "Constituency_Number": "5", 
@@ -31,8 +31,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "5037", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "7", 
     "Surname": "MCGUINNESS", 
     "Firstname": "Martin", 
     "Constituency_Number": "5", 
@@ -41,8 +41,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "4737", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "4", 
     "Surname": "MIDDLETON", 
     "Firstname": "Gary", 
     "Constituency_Number": "5", 

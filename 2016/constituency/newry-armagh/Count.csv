@@ -13,3 +13,31 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 8,167,1,Sam,NICHOLSON,1841,0,1841,,,Ulster Unionist Party
 8,168,1,Michael,WATTERS,335,0,335,,,Green Party
 8,169,1,Craig,WEIR,493,0,493,,,Alliance Party
+8,156,2,Paul,BERRY ,1663,198.6,1861.6,,,Independent
+8,157,2,Cathal Damian,BOYLAN,6822,0,6822,Elected,1,Sinn Fein
+8,158,2,Emmet,CROSSAN,1032,4.5,1036.5,,,Cannabis Is Safer Than Alcohol
+8,159,2,Megan,FEARON,6838,0,6838,Elected,1,Sinn Fein
+8,160,2,William George,IRWIN,7980,-1163,6817,Elected,1,Democratic Unionist Party
+8,161,2,Danny,KENNEDY,4904,698.25,5602.25,,,Ulster Unionist Party
+8,162,2,Alan,LOVE,315,31.05,346.05,,,UK Independence Party
+8,163,2,Martin,MCALLISTER,940,1.2,941.2,,,Independent
+8,164,2,Karen,MCKEVITT,3923,6.45,3929.45,,,Social Democratic and Labour Party
+8,165,2,Justin,MCNULTY,4775,4.05,4779.05,,,Social Democratic and Labour Party
+8,166,2,Conor,MURPHY,5854,1.05,5855.05,,,Sinn Fein
+8,167,2,Sam,NICHOLSON,1841,204.75,2045.75,,,Ulster Unionist Party
+8,168,2,Michael,WATTERS,335,2.4,337.4,,,Green Party
+8,169,2,Craig,WEIR,493,5.75,498.75,,,Alliance Party
+8,156,3,Paul,BERRY ,1663,4,1865.6,,,Independent
+8,157,3,Cathal Damian,BOYLAN,6822,0,6822,Elected,1,Sinn Fein
+8,158,3,Emmet,CROSSAN,1032,75.6,1112.1,,,Cannabis Is Safer Than Alcohol
+8,159,3,Megan,FEARON,6838,0,6838,Elected,1,Sinn Fein
+8,160,3,William George,IRWIN,7980,0,6817,Elected,1,Democratic Unionist Party
+8,161,3,Danny,KENNEDY,4904,14.45,5616.7,,,Ulster Unionist Party
+8,162,3,Alan,LOVE,315,3.15,349.2,Excluded,3,UK Independence Party
+8,163,3,Martin,MCALLISTER,940,16,957.2,,,Independent
+8,164,3,Karen,MCKEVITT,3923,34.15,3963.6,,,Social Democratic and Labour Party
+8,165,3,Justin,MCNULTY,4775,27,4806.05,,,Social Democratic and Labour Party
+8,166,3,Conor,MURPHY,5854,28,5883.05,,,Sinn Fein
+8,167,3,Sam,NICHOLSON,1841,3.45,2049.2,,,Ulster Unionist Party
+8,168,3,Michael,WATTERS,335,-337.4,0,Excluded,2,Green Party
+8,169,3,Craig,WEIR,493,98.3,597.05,Excluded,3,Alliance Party

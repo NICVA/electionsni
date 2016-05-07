@@ -1,11 +1,31 @@
 [
 {
     "Candidate_First_Pref_Votes": "5399", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "7", 
     "Surname": "ALLISTER", 
     "Firstname": "Jim", 
     "Constituency_Number": "9", 
     "Party_Name": "Traditional Unionist Voice", 
     "Candidate_Id": "170"
+},
+{
+    "Candidate_First_Pref_Votes": "5429", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "8", 
+    "Surname": "FREW", 
+    "Firstname": "Paul", 
+    "Constituency_Number": "9", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "174"
+},
+{
+    "Candidate_First_Pref_Votes": "5382", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "9", 
+    "Surname": "STOREY", 
+    "Firstname": "Mervyn", 
+    "Constituency_Number": "9", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "182"
 }]
