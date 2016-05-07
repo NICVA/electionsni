@@ -1,5 +1,15 @@
 [
 {
+    "Candidate_First_Pref_Votes": "4460", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "BOYLE", 
+    "Firstname": "Michaela", 
+    "Constituency_Number": "18", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "259"
+},
+{
     "Candidate_First_Pref_Votes": "4650", 
     "Status": "Elected", 
     "Occurred_On_Count": "9", 
@@ -20,6 +30,16 @@
     "Candidate_Id": "266"
 },
 {
+    "Candidate_First_Pref_Votes": "3565", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "MCALEER", 
+    "Firstname": "Declan", 
+    "Constituency_Number": "18", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "269"
+},
+{
     "Candidate_First_Pref_Votes": "4287", 
     "Status": "Elected", 
     "Occurred_On_Count": "8", 
@@ -28,4 +48,14 @@
     "Constituency_Number": "18", 
     "Party_Name": "Social Democratic and Labour Party", 
     "Candidate_Id": "273"
+},
+{
+    "Candidate_First_Pref_Votes": "4568", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "MCELDUFF", 
+    "Firstname": "Barry", 
+    "Constituency_Number": "18", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "275"
 }]
