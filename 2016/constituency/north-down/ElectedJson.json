@@ -38,4 +38,14 @@
     "Constituency_Number": "11", 
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "190"
+},
+{
+    "Candidate_First_Pref_Votes": "3012", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "FARRY", 
+    "Firstname": "Stephen", 
+    "Constituency_Number": "11", 
+    "Party_Name": "Alliance Party", 
+    "Candidate_Id": "192"
 }]

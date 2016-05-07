@@ -888,6 +888,18 @@
     "Candidate_Id": "190"
 },
 {
+    "Candidate_First_Pref_Votes": "3012", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "FARRY", 
+    "Firstname": "Stephen", 
+    "Colour": "#ffe600", 
+    "Constituency_Name": "North Down", 
+    "Constituency_Number": "11", 
+    "Party_Name": "Alliance Party", 
+    "Candidate_Id": "192"
+},
+{
     "Candidate_First_Pref_Votes": "3280", 
     "Status": "Elected", 
     "Occurred_On_Count": "7", 
