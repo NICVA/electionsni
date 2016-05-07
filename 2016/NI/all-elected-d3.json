@@ -1164,6 +1164,18 @@
     "Candidate_Id": "242"
 },
 {
+    "Candidate_First_Pref_Votes": "2969", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "BEATTIE", 
+    "Firstname": "Doug", 
+    "Colour": "#62cae7", 
+    "Constituency_Name": "Upper Bann", 
+    "Constituency_Number": "16", 
+    "Party_Name": "Ulster Unionist Party", 
+    "Candidate_Id": "243"
+},
+{
     "Candidate_First_Pref_Votes": "5155", 
     "Status": "Elected", 
     "Occurred_On_Count": "9", 
@@ -1186,6 +1198,30 @@
     "Constituency_Number": "16", 
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "252"
+},
+{
+    "Candidate_First_Pref_Votes": "5209", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "ODOWD", 
+    "Firstname": "John", 
+    "Colour": "#009900", 
+    "Constituency_Name": "Upper Bann", 
+    "Constituency_Number": "16", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "256"
+},
+{
+    "Candidate_First_Pref_Votes": "6164", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "SEELEY", 
+    "Firstname": "Catherine", 
+    "Colour": "#009900", 
+    "Constituency_Name": "Upper Bann", 
+    "Constituency_Number": "16", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "258"
 },
 {
     "Candidate_First_Pref_Votes": "4460", 
