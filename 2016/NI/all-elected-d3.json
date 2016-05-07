@@ -336,6 +336,18 @@
     "Candidate_Id": "72"
 },
 {
+    "Candidate_First_Pref_Votes": "2633", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "MCMULLAN", 
+    "Firstname": "Oliver", 
+    "Colour": "#009900", 
+    "Constituency_Name": "East Antrim", 
+    "Constituency_Number": "1", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "75"
+},
+{
     "Candidate_First_Pref_Votes": "4630", 
     "Status": "Elected", 
     "Occurred_On_Count": "4", 
@@ -418,6 +430,18 @@
     "Constituency_Number": "4", 
     "Party_Name": "Sinn Fein", 
     "Candidate_Id": "105"
+},
+{
+    "Candidate_First_Pref_Votes": "4782", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "LYNCH", 
+    "Firstname": "Sean", 
+    "Colour": "#009900", 
+    "Constituency_Name": "Fermanagh and South Tyrone", 
+    "Constituency_Number": "4", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "108"
 },
 {
     "Candidate_First_Pref_Votes": "4014", 

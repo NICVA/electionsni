@@ -297,6 +297,16 @@
     "Constituency_Number": "1", 
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "72"
+},
+{
+    "Candidate_First_Pref_Votes": "2633", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "MCMULLAN", 
+    "Firstname": "Oliver", 
+    "Constituency_Number": "1", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "75"
 }]
 },
 {"Constituency_Name": "East Londonderry",
@@ -375,6 +385,16 @@
     "Constituency_Number": "4", 
     "Party_Name": "Sinn Fein", 
     "Candidate_Id": "105"
+},
+{
+    "Candidate_First_Pref_Votes": "4782", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "LYNCH", 
+    "Firstname": "Sean", 
+    "Constituency_Number": "4", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "108"
 },
 {
     "Candidate_First_Pref_Votes": "4014", 
