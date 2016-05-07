@@ -853,8 +853,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "3275", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "11", 
     "Surname": "CHAMBERS", 
     "Firstname": "Alan", 
     "Colour": "#62cae7", 
@@ -889,8 +889,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "3012", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "11", 
     "Surname": "FARRY", 
     "Firstname": "Stephen", 
     "Colour": "#ffe600", 
@@ -901,8 +901,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "3085", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "11", 
     "Surname": "WEIR", 
     "Firstname": "Peter James", 
     "Colour": "#ff8000", 

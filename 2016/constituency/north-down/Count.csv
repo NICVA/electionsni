@@ -146,16 +146,32 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 11,185,10,Steven,AGNEW,4109,0,4607.2,Elected,8,Green Party
 11,186,10,John,BRENNAN,610,0,0,Excluded,6,Traditional Unionist Voice
 11,187,10,Conal,BROWNE,426,0,0,Excluded,5,Social Democratic and Labour Party
-11,188,10,Alan,CHAMBERS,3275,234.64,4165.92,,,Ulster Unionist Party
+11,188,10,Alan,CHAMBERS,3275,243.64,4174.92,,,Ulster Unionist Party
 11,189,10,Gordon Mervyn,DUNNE,4004,0,4610.48,Elected,2,Democratic Unionist Party
 11,190,10,Alex,EASTON,6357,0,4605,Elected,1,Democratic Unionist Party
 11,191,10,Chris,EISENSTADT,217,0,0,Excluded,3,Ulster Unionist Party
 11,192,10,Stephen,FARRY,3012,424.24,3834.96,,,Alliance Party
 11,193,10,Maria,LOURENCO,177,0,0,Excluded,2,NI Labour Representation Committee
 11,194,10,Therese,MCCARTNEY,307,0,0,Excluded,4,Sinn Fein
-11,195,10,Carl,MCCLEAN,1495,151.52,2054.38,,,Ulster Unionist Party
+11,195,10,Carl,MCCLEAN,1495,151.52,2054.38,Excluded,10,Ulster Unionist Party
 11,196,10,Andrew,MUIR,2387,306.84,2920.64,,,Alliance Party
 11,197,10,Bill,PIPER,681,0,0,Excluded,8,UK Independence Party
 11,198,10,Frank,SHIVERS,672,0,0,Excluded,7,NI Conservatives
 11,199,10,Peter James,WEIR,3085,203.04,4588.76,,,Democratic Unionist Party
 11,200,10,Brian,WILSON,1415,-1678.48,0,Excluded,9,Independent
+11,185,11,Steven,AGNEW,4109,0,4607.2,Elected,8,Green Party
+11,186,11,John,BRENNAN,610,0,0,Excluded,6,Traditional Unionist Voice
+11,187,11,Conal,BROWNE,426,0,0,Excluded,5,Social Democratic and Labour Party
+11,188,11,Alan,CHAMBERS,3275,1090,5264.92,Elected,11,Ulster Unionist Party
+11,189,11,Gordon Mervyn,DUNNE,4004,0,4610.48,Elected,2,Democratic Unionist Party
+11,190,11,Alex,EASTON,6357,0,4605,Elected,1,Democratic Unionist Party
+11,191,11,Chris,EISENSTADT,217,0,0,Excluded,3,Ulster Unionist Party
+11,192,11,Stephen,FARRY,3012,214.4,4049.36,Elected,11,Alliance Party
+11,193,11,Maria,LOURENCO,177,0,0,Excluded,2,NI Labour Representation Committee
+11,194,11,Therese,MCCARTNEY,307,0,0,Excluded,4,Sinn Fein
+11,195,11,Carl,MCCLEAN,1495,-2054.38,0,Excluded,10,Ulster Unionist Party
+11,196,11,Andrew,MUIR,2387,155.56,3076.2,Excluded,11,Alliance Party
+11,197,11,Bill,PIPER,681,0,0,Excluded,8,UK Independence Party
+11,198,11,Frank,SHIVERS,672,0,0,Excluded,7,NI Conservatives
+11,199,11,Peter James,WEIR,3085,124,4712.76,Elected,11,Democratic Unionist Party
+11,200,11,Brian,WILSON,1415,0,0,Excluded,9,Independent

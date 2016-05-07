@@ -762,8 +762,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "3275", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "11", 
     "Surname": "CHAMBERS", 
     "Firstname": "Alan", 
     "Constituency_Number": "11", 
@@ -792,8 +792,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "3012", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "11", 
     "Surname": "FARRY", 
     "Firstname": "Stephen", 
     "Constituency_Number": "11", 
@@ -802,8 +802,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "3085", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "11", 
     "Surname": "WEIR", 
     "Firstname": "Peter James", 
     "Constituency_Number": "11", 
