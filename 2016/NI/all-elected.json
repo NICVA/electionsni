@@ -111,6 +111,16 @@
 "Constituency_Number": 13,
 "Elected": [
 {
+    "Candidate_First_Pref_Votes": "3521", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "12", 
+    "Surname": "BAILEY", 
+    "Firstname": "Clare", 
+    "Constituency_Number": "13", 
+    "Party_Name": "Green Party", 
+    "Candidate_Id": "38"
+},
+{
     "Candidate_First_Pref_Votes": "3332", 
     "Status": "Elected", 
     "Occurred_On_Count": "9", 
@@ -131,6 +141,16 @@
     "Candidate_Id": "42"
 },
 {
+    "Candidate_First_Pref_Votes": "4511", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "12", 
+    "Surname": "LITTLE PENGELLY", 
+    "Firstname": "Emma", 
+    "Constituency_Number": "13", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "45"
+},
+{
     "Candidate_First_Pref_Votes": "5207", 
     "Status": "Elected", 
     "Occurred_On_Count": "5", 
@@ -139,6 +159,16 @@
     "Constituency_Number": "13", 
     "Party_Name": "Sinn Fein", 
     "Candidate_Id": "50"
+},
+{
+    "Candidate_First_Pref_Votes": "3570", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "12", 
+    "Surname": "STALFORD", 
+    "Firstname": "Christopher", 
+    "Constituency_Number": "13", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "53"
 }]
 },
 {"Constituency_Name": "Belfast West",
