@@ -111,7 +111,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 18,260,7,Allan,BRESLAND,3884,17,3941,,,Democratic Unionist Party
 18,261,7,Barry,BROWN,547,0,0,Excluded,4,Cannabis Is Safer Than Alcohol
 18,262,7,Thomas,BUCHANAN,4650,19,4728,,,Democratic Unionist Party
-18,263,7,Josephine Anne,DEENAN,1778,541,2607,,,Independent
+18,263,7,Josephine Anne,DEENAN,1778,541,2607,Excluded,7,Independent
 18,264,7,Stephen,DONNELLY,494,0,0,Excluded,3,Alliance Party
 18,265,7,Corey,FRENCH,124,0,0,Excluded,2,Independent
 18,266,7,Ross,HUSSEY,4441,42,4705,,,Ulster Unionist Party
@@ -125,3 +125,21 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 18,274,7,Grace,MCDERMOTT,3711,91,3865,,,Sinn Fein
 18,275,7,Barry,MCELDUFF,4568,201,4916,,,Sinn Fein
 18,276,7,Susan-Anne,WHITE,85,0,0,Excluded,2,Independent
+18,259,8,Michaela,BOYLE,4460,147,4953,,,Sinn Fein
+18,260,8,Allan,BRESLAND,3884,11,3952,,,Democratic Unionist Party
+18,261,8,Barry,BROWN,547,0,0,Excluded,4,Cannabis Is Safer Than Alcohol
+18,262,8,Thomas,BUCHANAN,4650,38,4766,,,Democratic Unionist Party
+18,263,8,Josephine Anne,DEENAN,1778,-2607,0,Excluded,7,Independent
+18,264,8,Stephen,DONNELLY,494,0,0,Excluded,3,Alliance Party
+18,265,8,Corey,FRENCH,124,0,0,Excluded,2,Independent
+18,266,8,Ross,HUSSEY,4441,143,4848,,,Ulster Unionist Party
+18,267,8,Patsy,KELLY,661,0,0,Excluded,6,Independent
+18,268,8,Roger,LOMAS,44,0,0,Excluded,1,NI Conservatives
+18,269,8,Declan,MCALEER,3565,234,4009,,,Sinn Fein
+18,270,8,Laura,MCANEA,224,0,0,Excluded,2,Animal Welfare Party
+18,271,8,Sorcha,MCANESPY,828,0,0,Excluded,6,Independent
+18,272,8,Ciaran,MCCLEAN,458,0,0,Excluded,5,Green Party
+18,273,8,Daniel,MCCROSSAN,4287,672,5552,Elected,8,Social Democratic and Labour Party
+18,274,8,Grace,MCDERMOTT,3711,109,3974,,,Sinn Fein
+18,275,8,Barry,MCELDUFF,4568,334,5250,,,Sinn Fein
+18,276,8,Susan-Anne,WHITE,85,0,0,Excluded,2,Independent

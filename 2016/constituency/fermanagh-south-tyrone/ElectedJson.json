@@ -1,8 +1,8 @@
 [
 {
     "Candidate_First_Pref_Votes": "3018", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "6", 
     "Surname": "BARTON", 
     "Firstname": "Rosemary", 
     "Constituency_Number": "4", 
@@ -21,8 +21,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "6614", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "4", 
     "Surname": "GILDERNEW", 
     "Firstname": "Michelle", 
     "Constituency_Number": "4", 

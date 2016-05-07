@@ -38,4 +38,14 @@
     "Constituency_Number": "9", 
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "182"
+},
+{
+    "Candidate_First_Pref_Votes": "3585", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "SWANN", 
+    "Firstname": "Robin", 
+    "Constituency_Number": "9", 
+    "Party_Name": "Ulster Unionist Party", 
+    "Candidate_Id": "183"
 }]
