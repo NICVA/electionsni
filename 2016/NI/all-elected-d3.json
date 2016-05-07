@@ -301,8 +301,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "3115", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "10", 
     "Surname": "DICKSON", 
     "Firstname": "Stewart Clyde", 
     "Colour": "#ffe600", 
@@ -358,6 +358,18 @@
     "Constituency_Number": "3", 
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "96"
+},
+{
+    "Candidate_First_Pref_Votes": "3018", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "BARTON", 
+    "Firstname": "Rosemary", 
+    "Colour": "#62cae7", 
+    "Constituency_Name": "Fermanagh and South Tyrone", 
+    "Constituency_Number": "4", 
+    "Party_Name": "Ulster Unionist Party", 
+    "Candidate_Id": "99"
 },
 {
     "Candidate_First_Pref_Votes": "8801", 

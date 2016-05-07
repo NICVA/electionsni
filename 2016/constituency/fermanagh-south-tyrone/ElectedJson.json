@@ -1,5 +1,15 @@
 [
 {
+    "Candidate_First_Pref_Votes": "3018", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "BARTON", 
+    "Firstname": "Rosemary", 
+    "Constituency_Number": "4", 
+    "Party_Name": "Ulster Unionist Party", 
+    "Candidate_Id": "99"
+},
+{
     "Candidate_First_Pref_Votes": "8801", 
     "Status": "Elected", 
     "Occurred_On_Count": "1", 
