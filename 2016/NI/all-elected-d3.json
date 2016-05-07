@@ -348,6 +348,18 @@
     "Candidate_Id": "75"
 },
 {
+    "Candidate_First_Pref_Votes": "2323", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "ROSS", 
+    "Firstname": "Alastair", 
+    "Colour": "#ff8000", 
+    "Constituency_Name": "East Antrim", 
+    "Constituency_Number": "1", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "78"
+},
+{
     "Candidate_First_Pref_Votes": "4630", 
     "Status": "Elected", 
     "Occurred_On_Count": "4", 
