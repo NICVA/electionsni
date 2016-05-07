@@ -852,6 +852,18 @@
     "Candidate_Id": "185"
 },
 {
+    "Candidate_First_Pref_Votes": "3275", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "CHAMBERS", 
+    "Firstname": "Alan", 
+    "Colour": "#62cae7", 
+    "Constituency_Name": "North Down", 
+    "Constituency_Number": "11", 
+    "Party_Name": "Ulster Unionist Party", 
+    "Candidate_Id": "188"
+},
+{
     "Candidate_First_Pref_Votes": "4004", 
     "Status": "Elected", 
     "Occurred_On_Count": "2", 
@@ -1150,6 +1162,18 @@
     "Constituency_Number": "18", 
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "262"
+},
+{
+    "Candidate_First_Pref_Votes": "4441", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "HUSSEY", 
+    "Firstname": "Ross", 
+    "Colour": "#62cae7", 
+    "Constituency_Name": "West Tyrone", 
+    "Constituency_Number": "18", 
+    "Party_Name": "Ulster Unionist Party", 
+    "Candidate_Id": "266"
 },
 {
     "Candidate_First_Pref_Votes": "4287", 
