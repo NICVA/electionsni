@@ -197,3 +197,39 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 2,16,11,Niall,O DONNGHAILE,946,0,0,Excluded,7,Sinn Fein
 2,17,11,Courtney,ROBINSON,517,0,0,Excluded,5,Labour Alternative
 2,18,11,Neil,WILSON,477,0,0,Excluded,4,NI Conservatives
+2,1,12,Andy,ALLEN,3047,576,5332.53,Elected,12,Ulster Unionist Party
+2,2,12,Ross,BROWN,2183,242.41,3293.25,,,Green Party
+2,3,12,Joanne,BUNTING,5538,0,5311,Elected,1,Democratic Unionist Party
+2,4,12,Amy,DOHERTY,141,0,0,Excluded,2,Social Democratic and Labour Party
+2,5,12,Sammy,DOUGLAS,4230,416,5461.16,Elected,12,Democratic Unionist Party
+2,6,12,Andrew,GIRVIN,887,0,0,Excluded,8,Traditional Unionist Voice
+2,7,12,Erskine,HOLMES,78,0,0,Excluded,1,NI Labour Representation Committee
+2,8,12,Maggie,HUTTON,1099,0,0,Excluded,9,Independent
+2,9,12,John,KYLE,1772,-2533.87,0,Excluded,11,Progressive Unionist Party
+2,10,12,Jonny,LAVERY,631,0,0,Excluded,6,UK Independence Party
+2,11,12,Naomi,LONG,5482,0,5311,Elected,1,Alliance Party
+2,12,12,Chris,LYTTLE,2805,182.54,3500.9,,,Alliance Party
+2,13,12,Chris,MCGIMPSEY,1095,0,0,Excluded,10,Ulster Unionist Party
+2,14,12,Tim,MORROW,2372,68.55,2636.62,Excluded,12,Alliance Party
+2,15,12,Robin,NEWTON,3875,477.67,4745.5,,,Democratic Unionist Party
+2,16,12,Niall,O DONNGHAILE,946,0,0,Excluded,7,Sinn Fein
+2,17,12,Courtney,ROBINSON,517,0,0,Excluded,5,Labour Alternative
+2,18,12,Neil,WILSON,477,0,0,Excluded,4,NI Conservatives
+2,1,13,Andy,ALLEN,3047,0,5332.53,Elected,12,Ulster Unionist Party
+2,2,13,Ross,BROWN,2183,194.44,3050.84,Excluded,13,Green Party
+2,3,13,Joanne,BUNTING,5538,0,5311,Elected,1,Democratic Unionist Party
+2,4,13,Amy,DOHERTY,141,0,0,Excluded,2,Social Democratic and Labour Party
+2,5,13,Sammy,DOUGLAS,4230,0,5461.16,Elected,12,Democratic Unionist Party
+2,6,13,Andrew,GIRVIN,887,0,0,Excluded,8,Traditional Unionist Voice
+2,7,13,Erskine,HOLMES,78,0,0,Excluded,1,NI Labour Representation Committee
+2,8,13,Maggie,HUTTON,1099,0,0,Excluded,9,Independent
+2,9,13,John,KYLE,1772,0,0,Excluded,11,Progressive Unionist Party
+2,10,13,Jonny,LAVERY,631,0,0,Excluded,6,UK Independence Party
+2,11,13,Naomi,LONG,5482,0,5311,Elected,1,Alliance Party
+2,12,13,Chris,LYTTLE,2805,2185,5685.9,Elected,13,Alliance Party
+2,13,13,Chris,MCGIMPSEY,1095,0,0,Excluded,10,Ulster Unionist Party
+2,14,13,Tim,MORROW,2372,-2536.62,0,Excluded,12,Alliance Party
+2,15,13,Robin,NEWTON,3875,67.04,4812.54,Elected,13,Democratic Unionist Party
+2,16,13,Niall,O DONNGHAILE,946,0,0,Excluded,7,Sinn Fein
+2,17,13,Courtney,ROBINSON,517,0,0,Excluded,5,Labour Alternative
+2,18,13,Neil,WILSON,477,0,0,Excluded,4,NI Conservatives

@@ -4,8 +4,8 @@
 "Elected": [
 {
     "Candidate_First_Pref_Votes": "3047", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "12", 
     "Surname": "ALLEN", 
     "Firstname": "Andy", 
     "Constituency_Number": "2", 
@@ -24,8 +24,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "4230", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "12", 
     "Surname": "DOUGLAS", 
     "Firstname": "Sammy", 
     "Constituency_Number": "2", 
@@ -41,6 +41,26 @@
     "Constituency_Number": "2", 
     "Party_Name": "Alliance Party", 
     "Candidate_Id": "11"
+},
+{
+    "Candidate_First_Pref_Votes": "2805", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "13", 
+    "Surname": "LYTTLE", 
+    "Firstname": "Chris", 
+    "Constituency_Number": "2", 
+    "Party_Name": "Alliance Party", 
+    "Candidate_Id": "12"
+},
+{
+    "Candidate_First_Pref_Votes": "3875", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "13", 
+    "Surname": "NEWTON", 
+    "Firstname": "Robin", 
+    "Constituency_Number": "2", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "15"
 }]
 },
 {"Constituency_Name": "Belfast North",
@@ -352,8 +372,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "4176", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "7", 
     "Surname": "MCCANN", 
     "Firstname": "Eamonn", 
     "Constituency_Number": "5", 
