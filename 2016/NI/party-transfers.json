@@ -454,8 +454,13 @@
 		},
 		{"Count_Number": 9,
 			"From": {"UK Independence Party": -955.72},
-			"To": {"Independent": 96.12, "Social Democratic and Labour Party": 0, "Traditional Unionist Voice": 0, "Democratic Unionist Party": 272.76, "Sinn Fein": 0, "Green Party": 0, "UK Independence Party": 0, "Ulster Unionist Party": 257.64, "Alliance Party": 68.12, "NI Labour Representation Committee": 0, "NI Conservatives": 0},
-			"Not_transferred": 261.08
+			"To": {"Independent": 98.12, "Social Democratic and Labour Party": 0, "Traditional Unionist Voice": 0, "Democratic Unionist Party": 272.76, "Sinn Fein": 0, "Green Party": 0, "UK Independence Party": 0, "Ulster Unionist Party": 257.64, "Alliance Party": 68.12, "NI Labour Representation Committee": 0, "NI Conservatives": 0},
+			"Not_transferred": 259.08
+		},
+		{"Count_Number": 10,
+			"From": {"Independent": -1678.48},
+			"To": {"Independent": 0, "Social Democratic and Labour Party": 0, "Traditional Unionist Voice": 0, "Democratic Unionist Party": 203.04, "Sinn Fein": 0, "Green Party": 0, "UK Independence Party": 0, "Ulster Unionist Party": 386.15999999999997, "Alliance Party": 731.0799999999999, "NI Labour Representation Committee": 0, "NI Conservatives": 0},
+			"Not_transferred": 358.2
 		}
 		]
 	}
@@ -606,6 +611,11 @@
 			"From": {"Independent": -2607.0},
 			"To": {"Independent": 0, "Social Democratic and Labour Party": 672.0, "Animal Welfare Party": 0, "Democratic Unionist Party": 49.0, "Sinn Fein": 824.0, "Cannabis Is Safer Than Alcohol": 0, "Green Party": 0, "Ulster Unionist Party": 143.0, "Alliance Party": 0, "NI Conservatives": 0},
 			"Not_transferred": 919.0
+		},
+		{"Count_Number": 9,
+			"From": {"Democratic Unionist Party": -3952.0},
+			"To": {"Independent": 0, "Social Democratic and Labour Party": 0, "Animal Welfare Party": 0, "Democratic Unionist Party": 3604.0, "Sinn Fein": 4.0, "Cannabis Is Safer Than Alcohol": 0, "Green Party": 0, "Ulster Unionist Party": 276.0, "Alliance Party": 0, "NI Conservatives": 0},
+			"Not_transferred": 68.0
 		}
 		]
 	}

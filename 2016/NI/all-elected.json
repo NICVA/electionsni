@@ -982,8 +982,8 @@
 "Elected": [
 {
     "Candidate_First_Pref_Votes": "4650", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "9", 
     "Surname": "BUCHANAN", 
     "Firstname": "Thomas", 
     "Constituency_Number": "18", 

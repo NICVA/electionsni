@@ -117,4 +117,21 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 3,95,7,Steven,PARKHILL,274,0,0,Excluded,1,UK Independence Party
 3,96,7,George,ROBINSON,4567,0,4915,Elected,4,Democratic Unionist Party
 3,97,7,Claire,SUGDEN,3270,486,4105.92,,,Independent
-3,98,7,Russell,WATTON,1356,7,1552.96,,,Progressive Unionist Party
+3,98,7,Russell,WATTON,1356,7,1552.96,Excluded,7,Progressive Unionist Party
+3,82,8,Caoimhe,ARCHIBALD,4002,6,4127,,,Sinn Fein
+3,83,8,Jordan,ARMSTRONG,1191,0,0,Excluded,3,Traditional Unionist Voice
+3,84,8,Yvonne,BOYLE,1257,-1541.12,0,Excluded,6,Alliance Party
+3,85,8,Maurice,BRADLEY,4630,0,4915,Elected,4,Democratic Unionist Party
+3,86,8,Aaron,CALLAN,1067,0,0,Excluded,2,Ulster Unionist Party
+3,87,8,Stuart,CANNING,50,0,0,Excluded,1,NI Conservatives
+3,88,8,Tor,CHRISTIE,61,0,0,Excluded,1,Independent
+3,89,8,Amber,HAMMILL,434,0,0,Excluded,1,Green Party
+3,90,8,David,HARDING,216,0,0,Excluded,1,NI Conservatives
+3,91,8,William,MCCANDLESS,1789,240.56,3407.24,Excluded,8,Ulster Unionist Party
+3,92,8,Adrian,MCQUILLAN,3477,742.36,4607.6,,,Democratic Unionist Party
+3,93,8,Gerry,MULLAN,3265,0,3800.68,,,Social Democratic and Labour Party
+3,94,8,Cathal,O HOISIN,3493,2,3524,,,Sinn Fein
+3,95,8,Steven,PARKHILL,274,0,0,Excluded,1,UK Independence Party
+3,96,8,George,ROBINSON,4567,0,4915,Elected,4,Democratic Unionist Party
+3,97,8,Claire,SUGDEN,3270,352.68,4458.6,,,Independent
+3,98,8,Russell,WATTON,1356,-1552.96,0,Excluded,7,Progressive Unionist Party
