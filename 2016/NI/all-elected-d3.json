@@ -348,6 +348,18 @@
     "Candidate_Id": "85"
 },
 {
+    "Candidate_First_Pref_Votes": "3477", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "MCQUILLAN", 
+    "Firstname": "Adrian", 
+    "Colour": "#ff8000", 
+    "Constituency_Name": "East Londonderry", 
+    "Constituency_Number": "3", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "92"
+},
+{
     "Candidate_First_Pref_Votes": "4567", 
     "Status": "Elected", 
     "Occurred_On_Count": "4", 
@@ -1078,6 +1090,18 @@
     "Constituency_Number": "16", 
     "Party_Name": "Sinn Fein", 
     "Candidate_Id": "258"
+},
+{
+    "Candidate_First_Pref_Votes": "4650", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "BUCHANAN", 
+    "Firstname": "Thomas", 
+    "Colour": "#ff8000", 
+    "Constituency_Name": "West Tyrone", 
+    "Constituency_Number": "18", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "262"
 },
 {
     "Candidate_First_Pref_Votes": "4287", 
