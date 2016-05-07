@@ -1055,16 +1055,6 @@
     "Constituency_Number": "16", 
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "252"
-},
-{
-    "Candidate_First_Pref_Votes": "6164", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
-    "Surname": "SEELEY", 
-    "Firstname": "Catherine", 
-    "Constituency_Number": "16", 
-    "Party_Name": "Sinn Fein", 
-    "Candidate_Id": "258"
 }]
 },
 {"Constituency_Name": "West Tyrone",
@@ -1072,8 +1062,8 @@
 "Elected": [
 {
     "Candidate_First_Pref_Votes": "4460", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "11", 
     "Surname": "BOYLE", 
     "Firstname": "Michaela", 
     "Constituency_Number": "18", 
@@ -1102,8 +1092,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "3565", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "11", 
     "Surname": "MCALEER", 
     "Firstname": "Declan", 
     "Constituency_Number": "18", 
@@ -1122,8 +1112,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "4568", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "11", 
     "Surname": "MCELDUFF", 
     "Firstname": "Barry", 
     "Constituency_Number": "18", 

@@ -641,6 +641,11 @@
 			"From": {"Democratic Unionist Party": -2825.0},
 			"To": {"Independent": 0, "Social Democratic and Labour Party": 0, "Animal Welfare Party": 0, "Democratic Unionist Party": 0, "Sinn Fein": 3.52, "Cannabis Is Safer Than Alcohol": 0, "Green Party": 0, "Ulster Unionist Party": 2808.08, "Alliance Party": 0, "NI Conservatives": 0},
 			"Not_transferred": 13.4
+		},
+		{"Count_Number": 11,
+			"From": {"Ulster Unionist Party": -2387.08},
+			"To": {"Independent": 0, "Social Democratic and Labour Party": 0, "Animal Welfare Party": 0, "Democratic Unionist Party": 0, "Sinn Fein": 74.80000000000001, "Cannabis Is Safer Than Alcohol": 0, "Green Party": 0, "Ulster Unionist Party": 0, "Alliance Party": 0, "NI Conservatives": 0},
+			"Not_transferred": 2312.28
 		}
 		]
 	}
