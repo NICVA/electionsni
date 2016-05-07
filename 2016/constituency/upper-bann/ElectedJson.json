@@ -11,8 +11,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "5155", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "9", 
     "Surname": "DOBSON", 
     "Firstname": "Jo-Anne", 
     "Constituency_Number": "16", 
@@ -31,8 +31,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "6164", 
-    "Status": "Elected", 
-    "Occurred_On_Count": "8", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
     "Surname": "SEELEY", 
     "Firstname": "Catherine", 
     "Constituency_Number": "16", 

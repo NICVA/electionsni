@@ -104,7 +104,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 16,242,7,Sydney Alexander,ANDERSON,6195,0,6527,Elected,2,Democratic Unionist Party
 16,243,7,Doug,BEATTIE,2969,37.91,3333,,,Ulster Unionist Party
 16,244,7,Jo-Anne,DOBSON,5155,37.04,5901,,,Ulster Unionist Party
-16,245,7,Roy,FERGUSON,1177,10.24,1387,Excluded,7,Traditional Unionist Voice
+16,245,7,Roy,FERGUSON,1177,10.24,1387,,,Traditional Unionist Voice
 16,246,7,Harry,HAMILTON,1424,139.1,1876,,,Alliance Party
 16,247,7,Emma,HUTCHINSON,250,0,0,Excluded,3,NI Labour Representation Committee
 16,248,7,David,JONES,1072,70.36,1333.04,Excluded,7,UK Independence Party
@@ -121,7 +121,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 16,242,8,Sydney Alexander,ANDERSON,6195,0,6527,Elected,2,Democratic Unionist Party
 16,243,8,Doug,BEATTIE,2969,324.9,3657.9,,,Ulster Unionist Party
 16,244,8,Jo-Anne,DOBSON,5155,235.02,6136.02,,,Ulster Unionist Party
-16,245,8,Roy,FERGUSON,1177,319.93,1706.93,Excluded,7,Traditional Unionist Voice
+16,245,8,Roy,FERGUSON,1177,319.93,1706.93,Excluded,8,Traditional Unionist Voice
 16,246,8,Harry,HAMILTON,1424,67.04,1943.04,,,Alliance Party
 16,247,8,Emma,HUTCHINSON,250,0,0,Excluded,3,NI Labour Representation Committee
 16,248,8,David,JONES,1072,-1333.04,0,Excluded,7,UK Independence Party
@@ -134,4 +134,21 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 16,255,8,Ian Keith,NICKELS,79,0,0,Excluded,3,NI Conservatives
 16,256,8,John,ODOWD,5209,18,5381,,,Sinn Fein
 16,257,8,Kyle,SAVAGE,1760,88.12,2232.12,,,Ulster Unionist Party
-16,258,8,Catherine,SEELEY,6164,14.31,6358.31,Elected,8,Sinn Fein
+16,258,8,Catherine,SEELEY,6164,14.31,6358.31,,,Sinn Fein
+16,242,9,Sydney Alexander,ANDERSON,6195,0,6527,Elected,2,Democratic Unionist Party
+16,243,9,Doug,BEATTIE,2969,460.1,4118,,,Ulster Unionist Party
+16,244,9,Jo-Anne,DOBSON,5155,411.98,6548,Elected,9,Ulster Unionist Party
+16,245,9,Roy,FERGUSON,1177,-1706.93,0,Excluded,8,Traditional Unionist Voice
+16,246,9,Harry,HAMILTON,1424,29.96,1973,,,Alliance Party
+16,247,9,Emma,HUTCHINSON,250,0,0,Excluded,3,NI Labour Representation Committee
+16,248,9,David,JONES,1072,0,0,Excluded,7,UK Independence Party
+16,249,9,Dolores,KELLY,4335,16.88,4597,,,Social Democratic and Labour Party
+16,250,9,Martin,KELLY,672,0,0,Excluded,6,Cannabis Is Safer Than Alcohol
+16,251,9,Simon,LEE,495,0,0,Excluded,4,Green Party
+16,252,9,Carla,LOCKHART,7993,0,6527,Elected,1,Democratic Unionist Party
+16,253,9,Sophie,LONG,704,0,0,Excluded,5,Progressive Unionist Party
+16,254,9,Stephen,MCCARROLL,33,0,0,Excluded,3,Independent
+16,255,9,Ian Keith,NICKELS,79,0,0,Excluded,3,NI Conservatives
+16,256,9,John,ODOWD,5209,11,5392,,,Sinn Fein
+16,257,9,Kyle,SAVAGE,1760,401.88,2634,,,Ulster Unionist Party
+16,258,9,Catherine,SEELEY,6164,0.69,6359,,,Sinn Fein

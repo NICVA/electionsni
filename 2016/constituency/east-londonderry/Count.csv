@@ -135,3 +135,20 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 3,96,8,George,ROBINSON,4567,0,4915,Elected,4,Democratic Unionist Party
 3,97,8,Claire,SUGDEN,3270,352.68,4458.6,,,Independent
 3,98,8,Russell,WATTON,1356,-1552.96,0,Excluded,7,Progressive Unionist Party
+3,82,9,Caoimhe,ARCHIBALD,4002,0,4127,,,Sinn Fein
+3,83,9,Jordan,ARMSTRONG,1191,0,0,Excluded,3,Traditional Unionist Voice
+3,84,9,Yvonne,BOYLE,1257,-1541.12,0,Excluded,6,Alliance Party
+3,85,9,Maurice,BRADLEY,4630,0,4915,Elected,4,Democratic Unionist Party
+3,86,9,Aaron,CALLAN,1067,0,0,Excluded,2,Ulster Unionist Party
+3,87,9,Stuart,CANNING,50,0,0,Excluded,1,NI Conservatives
+3,88,9,Tor,CHRISTIE,61,0,0,Excluded,1,Independent
+3,89,9,Amber,HAMMILL,434,0,0,Excluded,1,Green Party
+3,90,9,David,HARDING,216,0,0,Excluded,1,NI Conservatives
+3,91,9,William,MCCANDLESS,1789,-3407.24,0,Excluded,8,Ulster Unionist Party
+3,92,9,Adrian,MCQUILLAN,3477,0,4607.6,,,Democratic Unionist Party
+3,93,9,Gerry,MULLAN,3265,0,3800.68,,,Social Democratic and Labour Party
+3,94,9,Cathal,O HOISIN,3493,0,3524,,,Sinn Fein
+3,95,9,Steven,PARKHILL,274,0,0,Excluded,1,UK Independence Party
+3,96,9,George,ROBINSON,4567,0,4915,Elected,4,Democratic Unionist Party
+3,97,9,Claire,SUGDEN,3270,0,4458.6,Elected,9,Independent
+3,98,9,Russell,WATTON,1356,0,0,Excluded,7,Progressive Unionist Party

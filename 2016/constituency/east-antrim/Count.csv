@@ -164,7 +164,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 1,79,11,Conor John,SHERIDAN,551,0,0,Excluded,3,Cross-Community Labour Alternative
 1,80,11,John Robert,STEWART,1985,305.28,2926.89,Excluded,11,Ulster Unionist Party
 1,81,11,Ruth,WILSON,1643,0,0,Excluded,7,Traditional Unionist Voice
-1,67,12,Roy,BEGGS,3848,0,4707.67,Elected,8,Ulster Unionist Party
+1,67,12,Roy,BEGGS,3848,0,4707.67,t ,8,Ulster Unionist Party
 1,68,12,Stewart Clyde,DICKSON,3115,0,5233.55,Elected,10,Alliance Party
 1,69,12,Danny,DONNELLY,1632,0,0,Excluded,9,Alliance Party
 1,70,12,David,HILDITCH,5906,0,4631,Elected,1,Democratic Unionist Party
