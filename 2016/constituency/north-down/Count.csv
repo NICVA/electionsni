@@ -130,16 +130,16 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 11,185,9,Steven,AGNEW,4109,0,4607.2,Elected,8,Green Party
 11,186,9,John,BRENNAN,610,0,0,Excluded,6,Traditional Unionist Voice
 11,187,9,Conal,BROWNE,426,0,0,Excluded,5,Social Democratic and Labour Party
-11,188,9,Alan,CHAMBERS,3275,,3757.76,,,Ulster Unionist Party
+11,188,9,Alan,CHAMBERS,3275,173.52,3931.28,,,Ulster Unionist Party
 11,189,9,Gordon Mervyn,DUNNE,4004,0,4610.48,Elected,2,Democratic Unionist Party
 11,190,9,Alex,EASTON,6357,0,4605,Elected,1,Democratic Unionist Party
 11,191,9,Chris,EISENSTADT,217,0,0,Excluded,3,Ulster Unionist Party
-11,192,9,Stephen,FARRY,3012,,3372.6,,,Alliance Party
+11,192,9,Stephen,FARRY,3012,38.12,3410.72,,,Alliance Party
 11,193,9,Maria,LOURENCO,177,0,0,Excluded,2,NI Labour Representation Committee
 11,194,9,Therese,MCCARTNEY,307,0,0,Excluded,4,Sinn Fein
-11,195,9,Carl,MCCLEAN,1495,,1818.74,,,Ulster Unionist Party
-11,196,9,Andrew,MUIR,2387,,2583.8,,,Alliance Party
-11,197,9,Bill,PIPER,681,0,955.72,Excluded,8,UK Independence Party
+11,195,9,Carl,MCCLEAN,1495,84.12,1902.86,,,Ulster Unionist Party
+11,196,9,Andrew,MUIR,2387,30,2613.8,,,Alliance Party
+11,197,9,Bill,PIPER,681,-955.72,0,Excluded,8,UK Independence Party
 11,198,9,Frank,SHIVERS,672,0,0,Excluded,7,NI Conservatives
-11,199,9,Peter James,WEIR,3085,0,4112.96,,,Democratic Unionist Party
-11,200,9,Brian,WILSON,1415,,1580.36,Excluded,9,Independent
+11,199,9,Peter James,WEIR,3085,272.76,4385.72,,,Democratic Unionist Party
+11,200,9,Brian,WILSON,1415,96.12,1676.48,Excluded,9,Independent
