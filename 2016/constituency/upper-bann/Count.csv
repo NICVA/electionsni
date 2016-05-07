@@ -139,7 +139,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 16,243,9,Doug,BEATTIE,2969,460.1,4118,,,Ulster Unionist Party
 16,244,9,Jo-Anne,DOBSON,5155,411.98,6548,Elected,9,Ulster Unionist Party
 16,245,9,Roy,FERGUSON,1177,-1706.93,0,Excluded,8,Traditional Unionist Voice
-16,246,9,Harry,HAMILTON,1424,29.96,1973,,,Alliance Party
+16,246,9,Harry,HAMILTON,1424,29.96,1973,Excluded,9,Alliance Party
 16,247,9,Emma,HUTCHINSON,250,0,0,Excluded,3,NI Labour Representation Committee
 16,248,9,David,JONES,1072,0,0,Excluded,7,UK Independence Party
 16,249,9,Dolores,KELLY,4335,16.88,4597,,,Social Democratic and Labour Party
@@ -152,3 +152,20 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 16,256,9,John,ODOWD,5209,11,5392,,,Sinn Fein
 16,257,9,Kyle,SAVAGE,1760,401.88,2634,,,Ulster Unionist Party
 16,258,9,Catherine,SEELEY,6164,0.69,6359,,,Sinn Fein
+16,242,10,Sydney Alexander,ANDERSON,6195,0,6527,Elected,2,Democratic Unionist Party
+16,243,10,Doug,BEATTIE,2969,336,4454,,,Ulster Unionist Party
+16,244,10,Jo-Anne,DOBSON,5155,0,6548,Elected,9,Ulster Unionist Party
+16,245,10,Roy,FERGUSON,1177,0,0,Excluded,8,Traditional Unionist Voice
+16,246,10,Harry,HAMILTON,1424,-1973,0,Excluded,9,Alliance Party
+16,247,10,Emma,HUTCHINSON,250,0,0,Excluded,3,NI Labour Representation Committee
+16,248,10,David,JONES,1072,0,0,Excluded,7,UK Independence Party
+16,249,10,Dolores,KELLY,4335,640,5237,,,Social Democratic and Labour Party
+16,250,10,Martin,KELLY,672,0,0,Excluded,6,Cannabis Is Safer Than Alcohol
+16,251,10,Simon,LEE,495,0,0,Excluded,4,Green Party
+16,252,10,Carla,LOCKHART,7993,0,6527,Elected,1,Democratic Unionist Party
+16,253,10,Sophie,LONG,704,0,0,Excluded,5,Progressive Unionist Party
+16,254,10,Stephen,MCCARROLL,33,0,0,Excluded,3,Independent
+16,255,10,Ian Keith,NICKELS,79,0,0,Excluded,3,NI Conservatives
+16,256,10,John,ODOWD,5209,76,5468,,,Sinn Fein
+16,257,10,Kyle,SAVAGE,1760,126,2760,Excluded,10,Ulster Unionist Party
+16,258,10,Catherine,SEELEY,6164,80,6439,,,Sinn Fein

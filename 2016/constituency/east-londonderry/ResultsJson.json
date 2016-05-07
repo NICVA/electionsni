@@ -1913,9 +1913,9 @@
     "Party_Name": "Sinn Fein", 
     "Candidate_Id": "82", 
     "Count_Number": "9", 
-    "Transfers": "0", 
+    "Transfers": "12", 
     "id": 136, 
-    "Total_Votes": "4127"
+    "Total_Votes": "4139"
 },
 {
     "Candidate_First_Pref_Votes": "1191", 
@@ -2045,45 +2045,45 @@
 },
 {
     "Candidate_First_Pref_Votes": "3477", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "9", 
     "Surname": "MCQUILLAN", 
     "Firstname": "Adrian", 
     "Constituency_Number": "3", 
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "92", 
     "Count_Number": "9", 
-    "Transfers": "0", 
+    "Transfers": "777", 
     "id": 146, 
-    "Total_Votes": "4607.6"
+    "Total_Votes": "5384.6"
 },
 {
     "Candidate_First_Pref_Votes": "3265", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "9", 
     "Surname": "MULLAN", 
     "Firstname": "Gerry", 
     "Constituency_Number": "3", 
     "Party_Name": "Social Democratic and Labour Party", 
     "Candidate_Id": "93", 
     "Count_Number": "9", 
-    "Transfers": "0", 
+    "Transfers": "371.48", 
     "id": 147, 
-    "Total_Votes": "3800.68"
+    "Total_Votes": "4172.16"
 },
 {
     "Candidate_First_Pref_Votes": "3493", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Excluded", 
+    "Occurred_On_Count": "9", 
     "Surname": "O HOISIN", 
     "Firstname": "Cathal", 
     "Constituency_Number": "3", 
     "Party_Name": "Sinn Fein", 
     "Candidate_Id": "94", 
     "Count_Number": "9", 
-    "Transfers": "0", 
+    "Transfers": "11.68", 
     "id": 148, 
-    "Total_Votes": "3524"
+    "Total_Votes": "3535.68"
 },
 {
     "Candidate_First_Pref_Votes": "274", 
@@ -2123,9 +2123,9 @@
     "Party_Name": "Independent", 
     "Candidate_Id": "97", 
     "Count_Number": "9", 
-    "Transfers": "0", 
+    "Transfers": "544", 
     "id": 151, 
-    "Total_Votes": "4458.6"
+    "Total_Votes": "5002.6"
 },
 {
     "Candidate_First_Pref_Votes": "1356", 
