@@ -10,6 +10,26 @@
     "Candidate_Id": "227"
 },
 {
+    "Candidate_First_Pref_Votes": "3393", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "BELL", 
+    "Firstname": "Jonathan", 
+    "Constituency_Number": "15", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "228"
+},
+{
+    "Candidate_First_Pref_Votes": "3964", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "HAMILTON", 
+    "Firstname": "Simon", 
+    "Constituency_Number": "15", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "233"
+},
+{
     "Candidate_First_Pref_Votes": "4663", 
     "Status": "Elected", 
     "Occurred_On_Count": "1", 
@@ -28,4 +48,14 @@
     "Constituency_Number": "15", 
     "Party_Name": "Ulster Unionist Party", 
     "Candidate_Id": "240"
+},
+{
+    "Candidate_First_Pref_Votes": "1694", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "SMITH", 
+    "Firstname": "Philip", 
+    "Constituency_Number": "15", 
+    "Party_Name": "Ulster Unionist Party", 
+    "Candidate_Id": "241"
 }]

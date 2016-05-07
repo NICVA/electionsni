@@ -132,6 +132,18 @@
     "Candidate_Id": "50"
 },
 {
+    "Candidate_First_Pref_Votes": "2647", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "ATTWOOD", 
+    "Firstname": "Alex", 
+    "Colour": "#cc3300", 
+    "Constituency_Name": "Belfast West", 
+    "Constituency_Number": "17", 
+    "Party_Name": "Social Democratic and Labour Party", 
+    "Candidate_Id": "55"
+},
+{
     "Candidate_First_Pref_Votes": "8299", 
     "Status": "Elected", 
     "Occurred_On_Count": "1", 
@@ -420,6 +432,18 @@
     "Candidate_Id": "142"
 },
 {
+    "Candidate_First_Pref_Votes": "3628", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "BUCHANAN", 
+    "Firstname": "Keith Alexandra", 
+    "Colour": "#ff8000", 
+    "Constituency_Name": "Mid Ulster", 
+    "Constituency_Number": "7", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "144"
+},
+{
     "Candidate_First_Pref_Votes": "5853", 
     "Status": "Elected", 
     "Occurred_On_Count": "1", 
@@ -526,6 +550,18 @@
     "Constituency_Number": "8", 
     "Party_Name": "Ulster Unionist Party", 
     "Candidate_Id": "161"
+},
+{
+    "Candidate_First_Pref_Votes": "4775", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "MCNULTY", 
+    "Firstname": "Justin", 
+    "Colour": "#cc3300", 
+    "Constituency_Name": "Newry and Armagh", 
+    "Constituency_Number": "8", 
+    "Party_Name": "Social Democratic and Labour Party", 
+    "Candidate_Id": "165"
 },
 {
     "Candidate_First_Pref_Votes": "5854", 
