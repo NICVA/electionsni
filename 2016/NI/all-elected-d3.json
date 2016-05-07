@@ -516,6 +516,30 @@
     "Candidate_Id": "160"
 },
 {
+    "Candidate_First_Pref_Votes": "4904", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "KENNEDY", 
+    "Firstname": "Danny", 
+    "Colour": "#62cae7", 
+    "Constituency_Name": "Newry and Armagh", 
+    "Constituency_Number": "8", 
+    "Party_Name": "Ulster Unionist Party", 
+    "Candidate_Id": "161"
+},
+{
+    "Candidate_First_Pref_Votes": "5854", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "MURPHY", 
+    "Firstname": "Conor", 
+    "Colour": "#009900", 
+    "Constituency_Name": "Newry and Armagh", 
+    "Constituency_Number": "8", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "166"
+},
+{
     "Candidate_First_Pref_Votes": "5399", 
     "Status": "Elected", 
     "Occurred_On_Count": "7", 
@@ -732,6 +756,30 @@
     "Candidate_Id": "227"
 },
 {
+    "Candidate_First_Pref_Votes": "3393", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "BELL", 
+    "Firstname": "Jonathan", 
+    "Colour": "#ff8000", 
+    "Constituency_Name": "Strangford", 
+    "Constituency_Number": "15", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "228"
+},
+{
+    "Candidate_First_Pref_Votes": "3964", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "HAMILTON", 
+    "Firstname": "Simon", 
+    "Colour": "#ff8000", 
+    "Constituency_Name": "Strangford", 
+    "Constituency_Number": "15", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "233"
+},
+{
     "Candidate_First_Pref_Votes": "4663", 
     "Status": "Elected", 
     "Occurred_On_Count": "1", 
@@ -754,6 +802,18 @@
     "Constituency_Number": "15", 
     "Party_Name": "Ulster Unionist Party", 
     "Candidate_Id": "240"
+},
+{
+    "Candidate_First_Pref_Votes": "1694", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "SMITH", 
+    "Firstname": "Philip", 
+    "Colour": "#62cae7", 
+    "Constituency_Name": "Strangford", 
+    "Constituency_Number": "15", 
+    "Party_Name": "Ulster Unionist Party", 
+    "Candidate_Id": "241"
 },
 {
     "Candidate_First_Pref_Votes": "6195", 
