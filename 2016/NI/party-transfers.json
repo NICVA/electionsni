@@ -176,10 +176,15 @@
 			"To": {"Workers Party": 0, "Social Democratic and Labour Party": 8.46, "Democratic Unionist Party": 1.41, "Ulster Unionist Party": 0, "Green Party": 0, "People Before Profit Alliance": 0, "Sinn Fein": 1190.98, "Alliance Party": 0},
 			"Not_transferred": 10.35
 		},
-		{"Count_Number": 7,
+		{"Count_Number": 6,
 			"From": {"Sinn Fein": -581.53},
+			"To": {"Workers Party": 0, "Social Democratic and Labour Party": 2.4, "Democratic Unionist Party": 0, "Ulster Unionist Party": 0, "Green Party": 0, "People Before Profit Alliance": 0, "Sinn Fein": 705.3, "Alliance Party": 0},
+			"Not_transferred": 126.17
+		},
+		{"Count_Number": 7,
+			"From": {"Sinn Fein": -568.11},
 			"To": {"Workers Party": 0, "Social Democratic and Labour Party": 70.86, "Democratic Unionist Party": 0, "Ulster Unionist Party": 0, "Green Party": 0, "People Before Profit Alliance": 0, "Sinn Fein": 0, "Alliance Party": 0},
-			"Not_transferred": 510.67
+			"Not_transferred": 497.25
 		},
 		{"Count_Number": 8,
 			"From": {"Sinn Fein": -178.8},

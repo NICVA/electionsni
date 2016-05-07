@@ -300,8 +300,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "2633", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "12", 
     "Surname": "MCMULLAN", 
     "Firstname": "Oliver", 
     "Constituency_Number": "1", 
@@ -310,8 +310,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "2323", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "12", 
     "Surname": "ROSS", 
     "Firstname": "Alastair", 
     "Constituency_Number": "1", 

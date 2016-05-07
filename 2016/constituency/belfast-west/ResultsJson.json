@@ -933,9 +933,9 @@
     "Party_Name": "Sinn Fein", 
     "Candidate_Id": "61", 
     "Count_Number": "6", 
-    "Transfers": "0", 
+    "Transfers": "-581.53", 
     "id": 66, 
-    "Total_Votes": "5763.53"
+    "Total_Votes": "5182"
 },
 {
     "Candidate_First_Pref_Votes": "4386", 
@@ -1101,7 +1101,7 @@
     "Party_Name": "Sinn Fein", 
     "Candidate_Id": "61", 
     "Count_Number": "7", 
-    "Transfers": "-581.53", 
+    "Transfers": "0", 
     "id": 78, 
     "Total_Votes": "5182"
 },
@@ -1115,9 +1115,9 @@
     "Party_Name": "Sinn Fein", 
     "Candidate_Id": "62", 
     "Count_Number": "7", 
-    "Transfers": "0", 
+    "Transfers": "-568.11", 
     "id": 79, 
-    "Total_Votes": "5750.11"
+    "Total_Votes": "5182"
 },
 {
     "Candidate_First_Pref_Votes": "3053", 
@@ -1285,7 +1285,7 @@
     "Count_Number": "8", 
     "Transfers": "0", 
     "id": 91, 
-    "Total_Votes": "5750.11"
+    "Total_Votes": "5182"
 },
 {
     "Candidate_First_Pref_Votes": "3053", 

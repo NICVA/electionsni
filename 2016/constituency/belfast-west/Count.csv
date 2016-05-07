@@ -65,7 +65,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 17,58,6,Jemima,HIGGINS,291,0,0,Excluded,2,Alliance Party
 17,59,6,Gareth Thomas,MARTIN,654,0,0,Excluded,2,Ulster Unionist Party
 17,60,6,Alex,MASKEY,4769,0,5360.8,Elected,2,Sinn Fein
-17,61,6,Fra,MCCANN,4028,0,5763.53,Elected,5,Sinn Fein
+17,61,6,Fra,MCCANN,4028,-581.53,5182,Elected,5,Sinn Fein
 17,62,6,Jennifer,MCCANN,4386,705.3,5750.11,Elected,6,Sinn Fein
 17,63,6,Rosie,MCCORLEY,3053,0,0,Excluded,3,Sinn Fein
 17,64,6,Frank,MCCOUBREY,3766,0,4337.69,,,Democratic Unionist Party
@@ -77,8 +77,8 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 17,58,7,Jemima,HIGGINS,291,0,0,Excluded,2,Alliance Party
 17,59,7,Gareth Thomas,MARTIN,654,0,0,Excluded,2,Ulster Unionist Party
 17,60,7,Alex,MASKEY,4769,0,5360.8,Elected,2,Sinn Fein
-17,61,7,Fra,MCCANN,4028,-581.53,5182,Elected,5,Sinn Fein
-17,62,7,Jennifer,MCCANN,4386,0,5750.11,Elected,6,Sinn Fein
+17,61,7,Fra,MCCANN,4028,0,5182,Elected,5,Sinn Fein
+17,62,7,Jennifer,MCCANN,4386,-568.11,5182,Elected,6,Sinn Fein
 17,63,7,Rosie,MCCORLEY,3053,0,0,Excluded,3,Sinn Fein
 17,64,7,Frank,MCCOUBREY,3766,0,4337.69,,,Democratic Unionist Party
 17,65,7,Ellen,MURRAY,327,0,0,Excluded,2,Green Party
@@ -90,7 +90,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 17,59,8,Gareth Thomas,MARTIN,654,0,0,Excluded,2,Ulster Unionist Party
 17,60,8,Alex,MASKEY,4769,-178.8,5182,Elected,2,Sinn Fein
 17,61,8,Fra,MCCANN,4028,0,5182,Elected,5,Sinn Fein
-17,62,8,Jennifer,MCCANN,4386,0,5750.11,Elected,6,Sinn Fein
+17,62,8,Jennifer,MCCANN,4386,0,5182,Elected,6,Sinn Fein
 17,63,8,Rosie,MCCORLEY,3053,0,0,Excluded,3,Sinn Fein
 17,64,8,Frank,MCCOUBREY,3766,3.52,4341.21,,,Democratic Unionist Party
 17,65,8,Ellen,MURRAY,327,0,0,Excluded,2,Green Party
