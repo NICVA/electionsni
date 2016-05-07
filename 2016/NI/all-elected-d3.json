@@ -1034,7 +1034,7 @@
 {
     "Candidate_First_Pref_Votes": "4288", 
     "Status": "Elected", 
-    "Occurred_On_Count": "6", 
+    "Occurred_On_Count": "7", 
     "Surname": "MCGRATH", 
     "Firstname": "Colin", 
     "Colour": "#cc3300", 
@@ -1058,7 +1058,7 @@
 {
     "Candidate_First_Pref_Votes": "4191", 
     "Status": "Elected", 
-    "Occurred_On_Count": "6", 
+    "Occurred_On_Count": "7", 
     "Surname": "RUANE", 
     "Firstname": "Caitriona", 
     "Colour": "#009900", 
@@ -1165,8 +1165,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "2969", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "11", 
     "Surname": "BEATTIE", 
     "Firstname": "Doug", 
     "Colour": "#62cae7", 
@@ -1201,8 +1201,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "5209", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "11", 
     "Surname": "ODOWD", 
     "Firstname": "John", 
     "Colour": "#009900", 
@@ -1213,8 +1213,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "6164", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "11", 
     "Surname": "SEELEY", 
     "Firstname": "Catherine", 
     "Colour": "#009900", 

@@ -77,16 +77,16 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 4,109,6,Richie,MCPHILLIPS,4014,382.1,5205.63,,,Social Democratic and Labour Party
 4,110,6,Maurice,MORROW,6602,0,6740,Elected,2,Democratic Unionist Party
 4,111,6,Alastair,PATTERSON,3010,-4207.18,0,Excluded,5,Ulster Unionist Party
-4,99,7,Rosemary,BARTON,3018,0,7659.94,Elected,6,Ulster Unionist Party
+4,99,7,Rosemary,BARTON,3018,-919.94,6740,Elected,6,Ulster Unionist Party
 4,100,7,Kerri,BLYBERG,539,0,0,Excluded,3,Alliance Party
 4,101,7,Donald,CRAWFORD,1164,0,0,Excluded,3,Traditional Unionist Voice
-4,102,7,John,FEELY,4002,0,5585.57,Excluded,7,Sinn Fein
+4,102,7,John,FEELY,4002,4.8,5590.37,Excluded,7,Sinn Fein
 4,103,7,Phil,FLANAGAN,3449,0,0,Excluded,4,Sinn Fein
 4,104,7,Arlene,FOSTER,8801,0,6740,Elected,1,Democratic Unionist Party
 4,105,7,Michelle,GILDERNEW,6614,0,6838.37,Elected,4,Sinn Fein
 4,106,7,Damien,HARRIS,285,0,0,Excluded,3,NI Labour Representation Committee
 4,107,7,Tanya,JONES,897,0,0,Excluded,3,Green Party
-4,108,7,Sean,LYNCH,4782,0,6557.81,Elected,7,Sinn Fein
-4,109,7,Richie,MCPHILLIPS,4014,0,5205.63,Elected,7,Social Democratic and Labour Party
+4,108,7,Sean,LYNCH,4782,8,6565.81,Elected,7,Sinn Fein
+4,109,7,Richie,MCPHILLIPS,4014,901.6,6107.23,Elected,7,Social Democratic and Labour Party
 4,110,7,Maurice,MORROW,6602,0,6740,Elected,2,Democratic Unionist Party
 4,111,7,Alastair,PATTERSON,3010,0,0,Excluded,5,Ulster Unionist Party

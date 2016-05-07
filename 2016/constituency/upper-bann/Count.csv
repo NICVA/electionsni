@@ -169,3 +169,20 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 16,256,10,John,ODOWD,5209,76,5468,,,Sinn Fein
 16,257,10,Kyle,SAVAGE,1760,126,2760,Excluded,10,Ulster Unionist Party
 16,258,10,Catherine,SEELEY,6164,80,6439,,,Sinn Fein
+16,242,11,Sydney Alexander,ANDERSON,6195,0,6527,Elected,2,Democratic Unionist Party
+16,243,11,Doug,BEATTIE,2969,2115,6569,Elected,11,Ulster Unionist Party
+16,244,11,Jo-Anne,DOBSON,5155,0,6548,Elected,9,Ulster Unionist Party
+16,245,11,Roy,FERGUSON,1177,0,0,Excluded,8,Traditional Unionist Voice
+16,246,11,Harry,HAMILTON,1424,0,0,Excluded,9,Alliance Party
+16,247,11,Emma,HUTCHINSON,250,0,0,Excluded,3,NI Labour Representation Committee
+16,248,11,David,JONES,1072,0,0,Excluded,7,UK Independence Party
+16,249,11,Dolores,KELLY,4335,72,5309,Excluded,11,Social Democratic and Labour Party
+16,250,11,Martin,KELLY,672,0,0,Excluded,6,Cannabis Is Safer Than Alcohol
+16,251,11,Simon,LEE,495,0,0,Excluded,4,Green Party
+16,252,11,Carla,LOCKHART,7993,0,6527,Elected,1,Democratic Unionist Party
+16,253,11,Sophie,LONG,704,0,0,Excluded,5,Progressive Unionist Party
+16,254,11,Stephen,MCCARROLL,33,0,0,Excluded,3,Independent
+16,255,11,Ian Keith,NICKELS,79,0,0,Excluded,3,NI Conservatives
+16,256,11,John,ODOWD,5209,9,5477,Elected,11,Sinn Fein
+16,257,11,Kyle,SAVAGE,1760,-2760,0,Excluded,10,Ulster Unionist Party
+16,258,11,Catherine,SEELEY,6164,9,6448,Elected,11,Sinn Fein
