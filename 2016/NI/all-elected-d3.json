@@ -1,5 +1,17 @@
 [
 {
+    "Candidate_First_Pref_Votes": "3047", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "ALLEN", 
+    "Firstname": "Andy", 
+    "Colour": "#62cae7", 
+    "Constituency_Name": "Belfast East", 
+    "Constituency_Number": "2", 
+    "Party_Name": "Ulster Unionist Party", 
+    "Candidate_Id": "1"
+},
+{
     "Candidate_First_Pref_Votes": "5538", 
     "Status": "Elected", 
     "Occurred_On_Count": "1", 
@@ -10,6 +22,18 @@
     "Constituency_Number": "2", 
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "3"
+},
+{
+    "Candidate_First_Pref_Votes": "4230", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "DOUGLAS", 
+    "Firstname": "Sammy", 
+    "Colour": "#ff8000", 
+    "Constituency_Name": "Belfast East", 
+    "Constituency_Number": "2", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "5"
 },
 {
     "Candidate_First_Pref_Votes": "5482", 
