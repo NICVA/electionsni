@@ -321,6 +321,16 @@
     "Constituency_Number": "3", 
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "96"
+},
+{
+    "Candidate_First_Pref_Votes": "3270", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "SUGDEN", 
+    "Firstname": "Claire", 
+    "Constituency_Number": "3", 
+    "Party_Name": "Independent", 
+    "Candidate_Id": "97"
 }]
 },
 {"Constituency_Name": "Fermanagh and South Tyrone",

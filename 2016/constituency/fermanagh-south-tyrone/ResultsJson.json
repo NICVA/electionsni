@@ -919,9 +919,9 @@
     "Party_Name": "Ulster Unionist Party", 
     "Candidate_Id": "99", 
     "Count_Number": "6", 
-    "Transfers": "0", 
+    "Transfers": "2900", 
     "id": 65, 
-    "Total_Votes": "4759.94"
+    "Total_Votes": "7659.94"
 },
 {
     "Candidate_First_Pref_Votes": "539", 
@@ -961,9 +961,9 @@
     "Party_Name": "Sinn Fein", 
     "Candidate_Id": "102", 
     "Count_Number": "6", 
-    "Transfers": "0", 
+    "Transfers": "3.66", 
     "id": 68, 
-    "Total_Votes": "5581.91"
+    "Total_Votes": "5585.57"
 },
 {
     "Candidate_First_Pref_Votes": "3449", 
@@ -1045,9 +1045,9 @@
     "Party_Name": "Sinn Fein", 
     "Candidate_Id": "108", 
     "Count_Number": "6", 
-    "Transfers": "0", 
+    "Transfers": "6.79", 
     "id": 74, 
-    "Total_Votes": "6551.02"
+    "Total_Votes": "6557.81"
 },
 {
     "Candidate_First_Pref_Votes": "4014", 
@@ -1059,9 +1059,9 @@
     "Party_Name": "Social Democratic and Labour Party", 
     "Candidate_Id": "109", 
     "Count_Number": "6", 
-    "Transfers": "0", 
+    "Transfers": "382.1", 
     "id": 75, 
-    "Total_Votes": "4823.53"
+    "Total_Votes": "5205.63"
 },
 {
     "Candidate_First_Pref_Votes": "6602", 
@@ -1087,8 +1087,8 @@
     "Party_Name": "Ulster Unionist Party", 
     "Candidate_Id": "111", 
     "Count_Number": "6", 
-    "Transfers": "0", 
+    "Transfers": "-4207.18", 
     "id": 77, 
-    "Total_Votes": "4207.18"
+    "Total_Votes": "0"
 }
 ]}}
