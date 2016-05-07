@@ -95,3 +95,19 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 11,198,6,Frank,SHIVERS,672,2,696.04,,,NI Conservatives
 11,199,6,Peter James,WEIR,3085,4.28,3910.32,,,Democratic Unionist Party
 11,200,6,Brian,WILSON,1415,45,1512.24,,,Independent
+11,185,7,Steven,AGNEW,4109,33.08,4523.2,,,Green Party
+11,186,7,John,BRENNAN,610,-650.76,0,Excluded,6,Traditional Unionist Voice
+11,187,7,Conal,BROWNE,426,0,0,Excluded,5,Social Democratic and Labour Party
+11,188,7,Alan,CHAMBERS,3275,161.84,3644.08,,,Ulster Unionist Party
+11,189,7,Gordon Mervyn,DUNNE,4004,0,4610.48,Elected,2,Democratic Unionist Party
+11,190,7,Alex,EASTON,6357,0,4605,Elected,1,Democratic Unionist Party
+11,191,7,Chris,EISENSTADT,217,0,0,Excluded,3,Ulster Unionist Party
+11,192,7,Stephen,FARRY,3012,9,3298.04,,,Alliance Party
+11,193,7,Maria,LOURENCO,177,0,0,Excluded,2,NI Labour Representation Committee
+11,194,7,Therese,MCCARTNEY,307,0,0,Excluded,4,Sinn Fein
+11,195,7,Carl,MCCLEAN,1495,67.06,1719.06,,,Ulster Unionist Party
+11,196,7,Andrew,MUIR,2387,5,2526.8,,,Alliance Party
+11,197,7,Bill,PIPER,681,172,902.6,,,UK Independence Party
+11,198,7,Frank,SHIVERS,672,17,713.04,Excluded,7,NI Conservatives
+11,199,7,Peter James,WEIR,3085,122.28,4032.6,,,Democratic Unionist Party
+11,200,7,Brian,WILSON,1415,7.56,1519.8,,,Independent
