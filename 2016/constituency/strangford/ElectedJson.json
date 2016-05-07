@@ -1,8 +1,8 @@
 [
 {
     "Candidate_First_Pref_Votes": "3499", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "10", 
     "Surname": "ARMSTRONG", 
     "Firstname": "Kellie", 
     "Constituency_Number": "15", 
@@ -11,8 +11,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "3393", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "7", 
     "Surname": "BELL", 
     "Firstname": "Jonathan", 
     "Constituency_Number": "15", 
@@ -21,8 +21,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "3964", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "7", 
     "Surname": "HAMILTON", 
     "Firstname": "Simon", 
     "Constituency_Number": "15", 
@@ -51,8 +51,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "1694", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "10", 
     "Surname": "SMITH", 
     "Firstname": "Philip", 
     "Constituency_Number": "15", 
