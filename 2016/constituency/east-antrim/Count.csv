@@ -124,7 +124,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 1,69,9,Danny,DONNELLY,1632,0.79,2242.1,Excluded,9,Alliance Party
 1,70,9,David,HILDITCH,5906,0,4631,Elected,1,Democratic Unionist Party
 1,71,9,Noel,JORDAN,2207,23.7,2953.32,,,UK Independence Party
-1,72,9,Gordon,LYONS,3472,0,4857.17,Elected,8,Democratic Unionist Party
+1,72,9,Gordon,LYONS,3472,-226.17,4631,Elected,8,Democratic Unionist Party
 1,73,9,Jim,MCCAW,455,0,0,Excluded,2,Progressive Unionist Party
 1,74,9,Margaret Anne,MCKILLOP,1229,0,0,Excluded,6,Social Democratic and Labour Party
 1,75,9,Oliver,MCMULLAN,2633,0,3282.42,,,Sinn Fein
@@ -139,7 +139,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 1,69,10,Danny,DONNELLY,1632,-2242.1,0,Excluded,9,Alliance Party
 1,70,10,David,HILDITCH,5906,0,4631,Elected,1,Democratic Unionist Party
 1,71,10,Noel,JORDAN,2207,32.79,2986.11,,,UK Independence Party
-1,72,10,Gordon,LYONS,3472,0,4857.17,Elected,8,Democratic Unionist Party
+1,72,10,Gordon,LYONS,3472,0,4631,Elected,8,Democratic Unionist Party
 1,73,10,Jim,MCCAW,455,0,0,Excluded,2,Progressive Unionist Party
 1,74,10,Margaret Anne,MCKILLOP,1229,0,0,Excluded,6,Social Democratic and Labour Party
 1,75,10,Oliver,MCMULLAN,2633,187.21,3469.63,,,Sinn Fein
@@ -154,7 +154,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 1,69,11,Danny,DONNELLY,1632,0,0,Excluded,9,Alliance Party
 1,70,11,David,HILDITCH,5906,0,4631,Elected,1,Democratic Unionist Party
 1,71,11,Noel,JORDAN,2207,67.2,3053.31,,,UK Independence Party
-1,72,11,Gordon,LYONS,3472,0,4857.17,Elected,8,Democratic Unionist Party
+1,72,11,Gordon,LYONS,3472,0,4631,Elected,8,Democratic Unionist Party
 1,73,11,Jim,MCCAW,455,0,0,Excluded,2,Progressive Unionist Party
 1,74,11,Margaret Anne,MCKILLOP,1229,0,0,Excluded,6,Social Democratic and Labour Party
 1,75,11,Oliver,MCMULLAN,2633,159.36,3628.99,,,Sinn Fein
@@ -164,12 +164,12 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 1,79,11,Conor John,SHERIDAN,551,0,0,Excluded,3,Cross-Community Labour Alternative
 1,80,11,John Robert,STEWART,1985,305.28,2926.89,Excluded,11,Ulster Unionist Party
 1,81,11,Ruth,WILSON,1643,0,0,Excluded,7,Traditional Unionist Voice
-1,67,12,Roy,BEGGS,3848,0,4707.67,t ,8,Ulster Unionist Party
-1,68,12,Stewart Clyde,DICKSON,3115,0,5233.55,Elected,10,Alliance Party
+1,67,12,Roy,BEGGS,3848,0,4707.67,Elected,8,Ulster Unionist Party
+1,68,12,Stewart Clyde,DICKSON,3115,0,4631,Elected,10,Alliance Party
 1,69,12,Danny,DONNELLY,1632,0,0,Excluded,9,Alliance Party
 1,70,12,David,HILDITCH,5906,0,4631,Elected,1,Democratic Unionist Party
 1,71,12,Noel,JORDAN,2207,514.17,3567.48,Excluded,12,UK Independence Party
-1,72,12,Gordon,LYONS,3472,0,4857.17,Elected,8,Democratic Unionist Party
+1,72,12,Gordon,LYONS,3472,0,4631,Elected,8,Democratic Unionist Party
 1,73,12,Jim,MCCAW,455,0,0,Excluded,2,Progressive Unionist Party
 1,74,12,Margaret Anne,MCKILLOP,1229,0,0,Excluded,6,Social Democratic and Labour Party
 1,75,12,Oliver,MCMULLAN,2633,43.28,3672.27,Elected,12,Sinn Fein
@@ -177,5 +177,5 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 1,77,12,Dawn,PATTERSON,693,0,0,Excluded,5,Green Party
 1,78,12,Alastair,ROSS,2323,923.3,4096.44,Elected,12,Democratic Unionist Party
 1,79,12,Conor John,SHERIDAN,551,0,0,Excluded,3,Cross-Community Labour Alternative
-1,80,12,John Robert,STEWART,1985,0,2926.89,Excluded,11,Ulster Unionist Party
+1,80,12,John Robert,STEWART,1985,-2926.89,0,Excluded,11,Ulster Unionist Party
 1,81,12,Ruth,WILSON,1643,0,0,Excluded,7,Traditional Unionist Voice
