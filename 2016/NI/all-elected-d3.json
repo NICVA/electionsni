@@ -721,8 +721,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "3635", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "10", 
     "Surname": "LOGAN", 
     "Firstname": "Phillip", 
     "Colour": "#ff8000", 
@@ -730,6 +730,18 @@
     "Constituency_Number": "9", 
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "177"
+},
+{
+    "Candidate_First_Pref_Votes": "5297", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "10", 
+    "Surname": "MCKAY", 
+    "Firstname": "Daithi Gerard", 
+    "Colour": "#009900", 
+    "Constituency_Name": "North Antrim", 
+    "Constituency_Number": "9", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "180"
 },
 {
     "Candidate_First_Pref_Votes": "5382", 
@@ -745,8 +757,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "3585", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "10", 
     "Surname": "SWANN", 
     "Firstname": "Robin", 
     "Colour": "#62cae7", 
@@ -1018,6 +1030,18 @@
     "Constituency_Number": "16", 
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "242"
+},
+{
+    "Candidate_First_Pref_Votes": "5155", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "DOBSON", 
+    "Firstname": "Jo-Anne", 
+    "Colour": "#62cae7", 
+    "Constituency_Name": "Upper Bann", 
+    "Constituency_Number": "16", 
+    "Party_Name": "Ulster Unionist Party", 
+    "Candidate_Id": "244"
 },
 {
     "Candidate_First_Pref_Votes": "7993", 
