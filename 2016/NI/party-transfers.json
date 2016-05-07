@@ -361,7 +361,41 @@
 ,
 	{"Constituency_Name": "Mid Ulster", "Counts": 
 		[
-
+		{"Count_Number": 4,
+			"From": {"UK Independence Party": -276.96},
+			"To": {"Workers Party": 9.2, "Social Democratic and Labour Party": 0, "Traditional Unionist Voice": 93.0, "Democratic Unionist Party": 73.6, "Ulster Unionist Party": 33.24, "Green Party": 10.6, "UK Independence Party": 0, "Sinn Fein": 0, "Alliance Party": 14.08},
+			"Not_transferred": 43.24
+		},
+		{"Count_Number": 5,
+			"From": {"Sinn Fein": -1213.0},
+			"To": {"Workers Party": 144.99, "Social Democratic and Labour Party": 0, "Traditional Unionist Voice": 1.62, "Democratic Unionist Party": 7.02, "Ulster Unionist Party": 7.02, "Green Party": 76.95, "UK Independence Party": 0, "Sinn Fein": 0, "Alliance Party": 83.43},
+			"Not_transferred": 891.97
+		},
+		{"Count_Number": 6,
+			"From": {"Green Party": -727.47},
+			"To": {"Workers Party": 216.92, "Social Democratic and Labour Party": 0, "Traditional Unionist Voice": 7.72, "Democratic Unionist Party": 10.32, "Ulster Unionist Party": 23.22, "Green Party": 0, "UK Independence Party": 0, "Sinn Fein": 0, "Alliance Party": 203.18},
+			"Not_transferred": 266.11
+		},
+		{"Count_Number": 7,
+			"From": {"Alliance Party": -1162.57},
+			"To": {"Workers Party": 364.2, "Social Democratic and Labour Party": 0, "Traditional Unionist Voice": 15.83, "Democratic Unionist Party": 19.18, "Ulster Unionist Party": 171.92, "Green Party": 0, "UK Independence Party": 0, "Sinn Fein": 0, "Alliance Party": 0},
+			"Not_transferred": 591.44
+		},
+		{"Count_Number": 8,
+			"From": {"Workers Party": -1778.95},
+			"To": {"Workers Party": 0, "Social Democratic and Labour Party": 0, "Traditional Unionist Voice": 40.47, "Democratic Unionist Party": 69.64, "Ulster Unionist Party": 167.2, "Green Party": 0, "UK Independence Party": 0, "Sinn Fein": 0, "Alliance Party": 0},
+			"Not_transferred": 1501.64
+		},
+		{"Count_Number": 9,
+			"From": {"Traditional Unionist Voice": -2046.68},
+			"To": {"Workers Party": 0, "Social Democratic and Labour Party": 0, "Traditional Unionist Voice": 0, "Democratic Unionist Party": 1044.99, "Ulster Unionist Party": 827.0, "Green Party": 0, "UK Independence Party": 0, "Sinn Fein": 0, "Alliance Party": 0},
+			"Not_transferred": 174.69
+		},
+		{"Count_Number": 10,
+			"From": {"Ulster Unionist Party": -6155.48},
+			"To": {"Workers Party": 0, "Social Democratic and Labour Party": 0, "Traditional Unionist Voice": 0, "Democratic Unionist Party": 329.96999999999997, "Ulster Unionist Party": 0, "Green Party": 0, "UK Independence Party": 0, "Sinn Fein": 0, "Alliance Party": 0},
+			"Not_transferred": 5825.51
+		}
 		]
 	}
 ,
@@ -376,6 +410,21 @@
 			"From": {"Green Party": -337.4},
 			"To": {"Independent": 20.0, "Social Democratic and Labour Party": 61.15, "Democratic Unionist Party": 0, "Sinn Fein": 28.0, "Cannabis Is Safer Than Alcohol": 75.6, "Green Party": 0, "UK Independence Party": 3.15, "Ulster Unionist Party": 17.9, "Alliance Party": 98.3},
 			"Not_transferred": 33.3
+		},
+		{"Count_Number": 5,
+			"From": {"Independent": -1003.5},
+			"To": {"Independent": 16.6, "Social Democratic and Labour Party": 462.29999999999995, "Democratic Unionist Party": 0, "Sinn Fein": 203.0, "Cannabis Is Safer Than Alcohol": 80.0, "Green Party": 0, "UK Independence Party": 0, "Ulster Unionist Party": 20.0, "Alliance Party": 0},
+			"Not_transferred": 221.6
+		},
+		{"Count_Number": 6,
+			"From": {"Cannabis Is Safer Than Alcohol": -1308.6},
+			"To": {"Independent": 41.9, "Social Democratic and Labour Party": 356.45000000000005, "Democratic Unionist Party": 0, "Sinn Fein": 296.3, "Cannabis Is Safer Than Alcohol": 0, "Green Party": 0, "UK Independence Party": 0, "Ulster Unionist Party": 141.25, "Alliance Party": 0},
+			"Not_transferred": 472.7
+		},
+		{"Count_Number": 8,
+			"From": {"Ulster Unionist Party": -2778.3},
+			"To": {"Independent": 0, "Social Democratic and Labour Party": 813.0, "Democratic Unionist Party": 0, "Sinn Fein": 7.0, "Cannabis Is Safer Than Alcohol": 0, "Green Party": 0, "UK Independence Party": 0, "Ulster Unionist Party": 0, "Alliance Party": 0},
+			"Not_transferred": 1958.3
 		}
 		]
 	}
@@ -604,18 +653,18 @@
 		},
 		{"Count_Number": 9,
 			"From": {"Traditional Unionist Voice": -1706.93},
-			"To": {"Independent": 0, "Social Democratic and Labour Party": 16.88, "Traditional Unionist Voice": 0, "Democratic Unionist Party": 0, "Sinn Fein": 11.69, "Cannabis Is Safer Than Alcohol": 0, "Green Party": 0, "UK Independence Party": 0, "Ulster Unionist Party": 1273.96, "Alliance Party": 29.96, "NI Labour Representation Committee": 0, "NI Conservatives": 0, "Progressive Unionist Party": 0},
-			"Not_transferred": 374.44
+			"To": {"Independent": 0, "Social Democratic and Labour Party": 16.98, "Traditional Unionist Voice": 0, "Democratic Unionist Party": 0, "Sinn Fein": 13.33, "Cannabis Is Safer Than Alcohol": 0, "Green Party": 0, "UK Independence Party": 0, "Ulster Unionist Party": 1274.75, "Alliance Party": 30.72, "NI Labour Representation Committee": 0, "NI Conservatives": 0, "Progressive Unionist Party": 0},
+			"Not_transferred": 371.15
 		},
 		{"Count_Number": 10,
-			"From": {"Alliance Party": -1973.0},
-			"To": {"Independent": 0, "Social Democratic and Labour Party": 640.0, "Traditional Unionist Voice": 0, "Democratic Unionist Party": 0, "Sinn Fein": 156.0, "Cannabis Is Safer Than Alcohol": 0, "Green Party": 0, "UK Independence Party": 0, "Ulster Unionist Party": 462.0, "Alliance Party": 0, "NI Labour Representation Committee": 0, "NI Conservatives": 0, "Progressive Unionist Party": 0},
-			"Not_transferred": 715.0
+			"From": {"Alliance Party": -1973.76},
+			"To": {"Independent": 0, "Social Democratic and Labour Party": 640.78, "Traditional Unionist Voice": 0, "Democratic Unionist Party": 0, "Sinn Fein": 155.54000000000002, "Cannabis Is Safer Than Alcohol": 0, "Green Party": 0, "UK Independence Party": 0, "Ulster Unionist Party": 461.78, "Alliance Party": 0, "NI Labour Representation Committee": 0, "NI Conservatives": 0, "Progressive Unionist Party": 0},
+			"Not_transferred": 715.66
 		},
 		{"Count_Number": 11,
 			"From": {"Ulster Unionist Party": -2760.0},
-			"To": {"Independent": 0, "Social Democratic and Labour Party": 72.0, "Traditional Unionist Voice": 0, "Democratic Unionist Party": 0, "Sinn Fein": 18.0, "Cannabis Is Safer Than Alcohol": 0, "Green Party": 0, "UK Independence Party": 0, "Ulster Unionist Party": 2115.0, "Alliance Party": 0, "NI Labour Representation Committee": 0, "NI Conservatives": 0, "Progressive Unionist Party": 0},
-			"Not_transferred": 555.0
+			"To": {"Independent": 0, "Social Democratic and Labour Party": 71.91, "Traditional Unionist Voice": 0, "Democratic Unionist Party": 0, "Sinn Fein": 18.130000000000003, "Cannabis Is Safer Than Alcohol": 0, "Green Party": 0, "UK Independence Party": 0, "Ulster Unionist Party": 2115.22, "Alliance Party": 0, "NI Labour Representation Committee": 0, "NI Conservatives": 0, "Progressive Unionist Party": 0},
+			"Not_transferred": 554.74
 		}
 		]
 	}

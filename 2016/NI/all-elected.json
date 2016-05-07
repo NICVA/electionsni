@@ -580,8 +580,8 @@
 "Elected": [
 {
     "Candidate_First_Pref_Votes": "3628", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "10", 
     "Surname": "BUCHANAN", 
     "Firstname": "Keith Alexandra", 
     "Constituency_Number": "7", 
@@ -630,8 +630,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "4862", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "9", 
     "Surname": "OVEREND", 
     "Firstname": "Sandra", 
     "Constituency_Number": "7", 
@@ -674,8 +674,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "4904", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "7", 
     "Surname": "KENNEDY", 
     "Firstname": "Danny", 
     "Constituency_Number": "8", 
@@ -684,8 +684,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "4775", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "8", 
     "Surname": "MCNULTY", 
     "Firstname": "Justin", 
     "Constituency_Number": "8", 
@@ -694,8 +694,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "5854", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "8", 
     "Surname": "MURPHY", 
     "Firstname": "Conor", 
     "Constituency_Number": "8", 

@@ -31,8 +31,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "4904", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "7", 
     "Surname": "KENNEDY", 
     "Firstname": "Danny", 
     "Constituency_Number": "8", 
@@ -41,8 +41,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "4775", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "8", 
     "Surname": "MCNULTY", 
     "Firstname": "Justin", 
     "Constituency_Number": "8", 
@@ -51,8 +51,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "5854", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "8", 
     "Surname": "MURPHY", 
     "Firstname": "Conor", 
     "Constituency_Number": "8", 

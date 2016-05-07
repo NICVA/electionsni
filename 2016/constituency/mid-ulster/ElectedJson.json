@@ -1,8 +1,8 @@
 [
 {
     "Candidate_First_Pref_Votes": "3628", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "10", 
     "Surname": "BUCHANAN", 
     "Firstname": "Keith Alexandra", 
     "Constituency_Number": "7", 
@@ -51,8 +51,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "4862", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "9", 
     "Surname": "OVEREND", 
     "Firstname": "Sandra", 
     "Constituency_Number": "7", 
