@@ -3,7 +3,7 @@
 var constituencies = ["Belfast East", "Belfast North", "Belfast South", "Belfast West", "East Antrim", "East Londonderry", "Fermanagh and South Tyrone", "Foyle", "Lagan Valley", "Mid Ulster", "Newry and Armagh", "North Antrim", "North Down", "South Antrim", "South Down", "Strangford", "Upper Bann", "West Tyrone"];
 
 
-var parties = {
+var parties_info = {
   "Alliance Party": {
     "Party_Id": 19,
     "Party_Abbreviation": "APNI",
@@ -134,12 +134,13 @@ var parties = {
     "Party_Abbreviation": "LRC",
     "Hex_Col": "#800000"
   },
-  "Not_transferred": {
+  "not_transferred": {
     "Party_Id": 0,
     "Party_Abbreviation": "N/T",
     "Hex_Col": "#fff"
   }
 }
+
 
 var transferData = {};
 function getTransfersData(year) {
@@ -157,7 +158,7 @@ function getTransfersData(year) {
 				} else {
 					transfers[con][donor].total += count.From[donor]; // add to existing total
 				}
-				if (!transfers[con][donor]["Not Transferred"]) {
+				if (!transfers[con][donor]["Not_transferred"]) {
 					transfers[con][donor].not_transferred = count.Not_transferred; // create not_transferred value
 				} else {
 					transfers[con][donor].not_transferred += count.Not_transferred; // add to exisiting n_t value
@@ -178,15 +179,15 @@ function getTransfersData(year) {
 			var data = [];
 			$.each(constituency, function (donor, transfers) { // loop thru donor parties
 				var totalTransfers = -transfers.total || 0;
-	//            console.log(donor, totalTransfers);
+	   //         console.log(donor, totalTransfers);
 				$.each(transfers, function (recipient, amount) { // loop thru recipient parties
 	//                console.log(transfers);
 					if (recipient != "total") {
 						data.push({
 							donor: donor,
-							donor_short: parties[donor].Party_Abbreviation,
-							recipient: parties[recipient].Party_Abbreviation,
-							color: parties[donor].Hex_Col,
+							donor_short: parties_info[donor].Party_Abbreviation,
+							recipient: parties_info[recipient].Party_Abbreviation,
+							color: parties_info[donor].Hex_Col,
 							amount: amount / totalTransfers * 100 
 						});
 					}
