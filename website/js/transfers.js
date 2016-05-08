@@ -202,6 +202,7 @@ function getTransfersData(year) {
 			$.get("/website/jsonspec/transferSpec.json", function (json) {
 				var spec = JSON5.parse(json);
 				var constituency = $("#constituencySelect :selected").text();
+                document.getElementById('transfers_constituency').innerHTML = constituency;
 				console.log("CONST", constituency);
 				var data = transferData[constituency];
 				console.log("DATA", data)

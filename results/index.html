@@ -87,7 +87,7 @@
                     <div id="thirtySeats"></div>
                 </div>
             </div>
-		<h2>Elected Candidates Hexchart</h2>
+		<h2 id="number-elected"></h2>
 		<form id="year">
 			<b>Choose year:</b>
 					<input type="radio" name="year" value="2016" checked onchange="getdata(2016)"/> 2016
@@ -101,7 +101,6 @@
 			</p>
 		</form>
 		<div id="chart"></div>
-		<div id="number-elected"></div>
 		
 		<div id="charttooltip" class="hidden">
 			<span id="constituencyname" style="font-weight: bold"></span></br>
@@ -136,6 +135,7 @@
 		
 		<h3>Party to Party Transfers</h3>
 		<p>This matrix summarises the percentage of transfers between candidates from each party. It is based on only those count stages with a transfer from one single candidate. It is only indicative of the transfers that were calculated during the actual count process, and cannot account for all ballots cast in a constituency.</p>
+        <h4 id="transfers_constituency"></h4>
 		<div id="transfers"></div>
 		
 		<p>Thanks to James Bligh (<a href="http://twitter.com/anamates" target="_blank" title="External Link">@anamates</a>) for sharing the <a href="https://github.com/NICVA/electionsni/blob/master/website/js/stages.js" target="_blank" title="External Link">code</a> for the transfers animation.</p>
