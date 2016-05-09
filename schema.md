@@ -57,6 +57,7 @@ Quota               | Pass mark for total number of votes to be elected in any s
 Total_Electorate    | Total number of eligible voters
 Number_Of_Seats     | Number of seats to be filled in constituency
 Constituency_Code   | As with the NI/constituencies table
+Voting_Age_Pop      | Total population aged 18+ (n.b. some may not be entitled to vote due to residency status)
 
 ### /[Constituency_Directory]/Count
 The results for each candidate and each count stage, representing the Single Transferable Vote system. Note that there is no {key} value (as the Candidate_Id will appear more than once), but that a number of keys from other tables are included. There is a row for each candidate at each count stage, even if they have already been excluded from the process.
