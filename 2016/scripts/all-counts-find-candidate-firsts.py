@@ -48,14 +48,14 @@ with open(jsonMain, 'wb') as main:
     keys = newrow.keys()
     dict_writer = csv.DictWriter(main, keys)        # new method in 2.7; use writerow() in 2.6
     dict_writer.writeheader()
-    others = open('../NI/other-elected.csv', 'r')
-    others_fields = csv.reader(others).next()
-    others_reader = csv.DictReader(others, others_fields)
-    others_ids = []
-    for line in others_reader:
-        others_ids.append(line['Candidate_Id'])
+#    others = open('../NI/other-elected.csv', 'r')
+#    others_fields = csv.reader(others).next()
+#    others_reader = csv.DictReader(others, others_fields)
+#    others_ids = []
+#    for line in others_reader:
+#        others_ids.append(line['Candidate_Id'])
     for line in csv_to_write:
-        if line['Candidate_Id'] in others_ids:
-            line['Status'] = 'Elected'
-            print line
+#        if line['Candidate_Id'] in others_ids:
+#            line['Status'] = 'Elected'
+#            print line
         dict_writer.writerow(line)
