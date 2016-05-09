@@ -140,7 +140,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 15,230,10,Stephen,COOPER,1407,0,0,Excluded,5,Traditional Unionist Voice
 15,231,10,Stephen,CROSBY,759,0,0,Excluded,3,UK Independence Party
 15,232,10,Georgia,GRAINGER,924,0,0,Excluded,4,Green Party
-15,233,10,Simon,HAMILTON,3964,0,4983,Elected,7,Democratic Unionist Party
+15,233,10,Simon,HAMILTON,3964,-320,4663,Elected,7,Democratic Unionist Party
 15,234,10,Harry,HARVEY,2017,0,0,Excluded,6,Democratic Unionist Party
 15,235,10,Dermot,KENNEDY,661,0,0,Excluded,2,Sinn Fein
 15,236,10,Rab,MCCARTNEY,107,0,0,Excluded,1,Independent

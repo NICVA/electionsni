@@ -1177,7 +1177,7 @@
 },
 {
     "Candidate_First_Pref_Votes": "2647", 
-    "Status": "", 
+    "Status": "Elected", 
     "Occurred_On_Count": "", 
     "Surname": "ATTWOOD", 
     "Firstname": "Alex", 
@@ -1187,7 +1187,7 @@
     "Count_Number": "8", 
     "Transfers": "131.12", 
     "id": 84, 
-    "Total_Votes": "4299.08"
+    "Total_Votes": "4430.2"
 },
 {
     "Candidate_First_Pref_Votes": "532", 
@@ -1303,8 +1303,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "3766", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Excluded", 
+    "Occurred_On_Count": "8", 
     "Surname": "MCCOUBREY", 
     "Firstname": "Frank", 
     "Constituency_Number": "17", 

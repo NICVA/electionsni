@@ -83,7 +83,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 17,64,7,Frank,MCCOUBREY,3766,0,4337.69,,,Democratic Unionist Party
 17,65,7,Ellen,MURRAY,327,0,0,Excluded,2,Green Party
 17,66,7,Pat,SHEEHAN,3516,0,5182,Elected,4,Sinn Fein
-17,55,8,Alex,ATTWOOD,2647,131.12,4299.08,,,Social Democratic and Labour Party
+17,55,8,Alex,ATTWOOD,2647,131.12,4430.2,Elected,,Social Democratic and Labour Party
 17,56,8,Conor,CAMPBELL,532,0,0,Excluded,2,Workers Party
 17,57,8,Gerry,CARROLL,8299,0,5182,Elected,1,People Before Profit Alliance
 17,58,8,Jemima,HIGGINS,291,0,0,Excluded,2,Alliance Party
@@ -92,6 +92,6 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 17,61,8,Fra,MCCANN,4028,0,5182,Elected,5,Sinn Fein
 17,62,8,Jennifer,MCCANN,4386,0,5182,Elected,6,Sinn Fein
 17,63,8,Rosie,MCCORLEY,3053,0,0,Excluded,3,Sinn Fein
-17,64,8,Frank,MCCOUBREY,3766,3.52,4341.21,,,Democratic Unionist Party
+17,64,8,Frank,MCCOUBREY,3766,3.52,4341.21,Excluded,8,Democratic Unionist Party
 17,65,8,Ellen,MURRAY,327,0,0,Excluded,2,Green Party
 17,66,8,Pat,SHEEHAN,3516,0,5182,Elected,4,Sinn Fein
