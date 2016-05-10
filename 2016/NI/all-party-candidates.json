@@ -16,7 +16,7 @@
         "Candidate_Id": "227", 
         "Directory": "strangford", 
         "Party_Id": "19", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -31,7 +31,7 @@
         "Candidate_Id": "100", 
         "Directory": "fermanagh-south-tyrone", 
         "Party_Id": "19", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -46,7 +46,7 @@
         "Candidate_Id": "84", 
         "Directory": "east-londonderry", 
         "Party_Id": "19", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -61,7 +61,7 @@
         "Candidate_Id": "39", 
         "Directory": "belfast-south", 
         "Party_Id": "19", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -76,7 +76,7 @@
         "Candidate_Id": "216", 
         "Directory": "south-down", 
         "Party_Id": "19", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -91,7 +91,7 @@
         "Candidate_Id": "68", 
         "Directory": "east-antrim", 
         "Party_Id": "19", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -106,7 +106,7 @@
         "Candidate_Id": "69", 
         "Directory": "east-antrim", 
         "Party_Id": "19", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -121,7 +121,7 @@
         "Candidate_Id": "264", 
         "Directory": "west-tyrone", 
         "Party_Id": "19", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -136,7 +136,7 @@
         "Candidate_Id": "192", 
         "Directory": "north-down", 
         "Party_Id": "19", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -151,7 +151,7 @@
         "Candidate_Id": "207", 
         "Directory": "south-antrim", 
         "Party_Id": "19", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -166,7 +166,7 @@
         "Candidate_Id": "246", 
         "Directory": "upper-bann", 
         "Party_Id": "19", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -181,7 +181,7 @@
         "Candidate_Id": "147", 
         "Directory": "mid-ulster", 
         "Party_Id": "19", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -196,7 +196,7 @@
         "Candidate_Id": "58", 
         "Directory": "belfast-west", 
         "Party_Id": "19", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -226,7 +226,7 @@
         "Candidate_Id": "137", 
         "Directory": "lagan-valley", 
         "Party_Id": "19", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -256,7 +256,7 @@
         "Candidate_Id": "30", 
         "Directory": "belfast-north", 
         "Party_Id": "19", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -271,7 +271,7 @@
         "Candidate_Id": "123", 
         "Directory": "foyle", 
         "Party_Id": "19", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -286,7 +286,7 @@
         "Candidate_Id": "178", 
         "Directory": "north-antrim", 
         "Party_Id": "19", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -316,7 +316,7 @@
         "Candidate_Id": "49", 
         "Directory": "belfast-south", 
         "Party_Id": "19", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -331,7 +331,7 @@
         "Candidate_Id": "196", 
         "Directory": "north-down", 
         "Party_Id": "19", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -346,7 +346,7 @@
         "Candidate_Id": "169", 
         "Directory": "newry-armagh", 
         "Party_Id": "19", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 }
     ]},
@@ -366,7 +366,7 @@
         "Candidate_Id": "270", 
         "Directory": "west-tyrone", 
         "Party_Id": "985", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 }
     ]},
@@ -386,7 +386,7 @@
         "Candidate_Id": "261", 
         "Directory": "west-tyrone", 
         "Party_Id": "993", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -401,7 +401,7 @@
         "Candidate_Id": "158", 
         "Directory": "newry-armagh", 
         "Party_Id": "993", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -416,7 +416,7 @@
         "Candidate_Id": "250", 
         "Directory": "upper-bann", 
         "Party_Id": "993", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -431,7 +431,7 @@
         "Candidate_Id": "120", 
         "Directory": "foyle", 
         "Party_Id": "993", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 }
     ]},
@@ -451,7 +451,7 @@
         "Candidate_Id": "79", 
         "Directory": "East-antrim", 
         "Party_Id": "997", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 }
     ]},
@@ -471,7 +471,7 @@
         "Candidate_Id": "138", 
         "Directory": "lagan-valley", 
         "Party_Id": "986", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 }
     ]},
@@ -491,7 +491,7 @@
         "Candidate_Id": "242", 
         "Directory": "upper-bann", 
         "Party_Id": "20", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -506,7 +506,7 @@
         "Candidate_Id": "228", 
         "Directory": "strangford", 
         "Party_Id": "20", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -536,7 +536,7 @@
         "Candidate_Id": "85", 
         "Directory": "east-londonderry", 
         "Party_Id": "20", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -551,7 +551,7 @@
         "Candidate_Id": "260", 
         "Directory": "west-tyrone", 
         "Party_Id": "20", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -566,7 +566,7 @@
         "Candidate_Id": "144", 
         "Directory": "mid-ulster", 
         "Party_Id": "20", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -581,7 +581,7 @@
         "Candidate_Id": "262", 
         "Directory": "west-tyrone", 
         "Party_Id": "20", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -611,7 +611,7 @@
         "Candidate_Id": "203", 
         "Directory": "south-antrim", 
         "Party_Id": "20", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -626,7 +626,7 @@
         "Candidate_Id": "204", 
         "Directory": "south-antrim", 
         "Party_Id": "20", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -641,7 +641,7 @@
         "Candidate_Id": "131", 
         "Directory": "lagan-valley", 
         "Party_Id": "20", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -671,7 +671,7 @@
         "Candidate_Id": "189", 
         "Directory": "north-down", 
         "Party_Id": "20", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -686,7 +686,7 @@
         "Candidate_Id": "190", 
         "Directory": "north-down", 
         "Party_Id": "20", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -701,7 +701,7 @@
         "Candidate_Id": "104", 
         "Directory": "fermanagh-south-tyrone", 
         "Party_Id": "20", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -716,7 +716,7 @@
         "Candidate_Id": "174", 
         "Directory": "north-antrim", 
         "Party_Id": "20", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -731,7 +731,7 @@
         "Candidate_Id": "208", 
         "Directory": "south-antrim", 
         "Party_Id": "20", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -746,7 +746,7 @@
         "Candidate_Id": "133", 
         "Directory": "lagan-valley", 
         "Party_Id": "20", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -761,7 +761,7 @@
         "Candidate_Id": "134", 
         "Directory": "lagan-valley", 
         "Party_Id": "20", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -776,7 +776,7 @@
         "Candidate_Id": "233", 
         "Directory": "strangford", 
         "Party_Id": "20", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -791,7 +791,7 @@
         "Candidate_Id": "234", 
         "Directory": "strangford", 
         "Party_Id": "20", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -806,7 +806,7 @@
         "Candidate_Id": "70", 
         "Directory": "east-antrim", 
         "Party_Id": "20", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -836,7 +836,7 @@
         "Candidate_Id": "160", 
         "Directory": "newry-armagh", 
         "Party_Id": "20", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -851,7 +851,7 @@
         "Candidate_Id": "45", 
         "Directory": "belfast-south", 
         "Party_Id": "20", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -866,7 +866,7 @@
         "Candidate_Id": "252", 
         "Directory": "upper-bann", 
         "Party_Id": "20", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -881,7 +881,7 @@
         "Candidate_Id": "177", 
         "Directory": "north-antrim", 
         "Party_Id": "20", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -896,7 +896,7 @@
         "Candidate_Id": "72", 
         "Directory": "east-antrim", 
         "Party_Id": "20", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -911,7 +911,7 @@
         "Candidate_Id": "31", 
         "Directory": "belfast-north", 
         "Party_Id": "20", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -926,7 +926,7 @@
         "Candidate_Id": "64", 
         "Directory": "belfast-west", 
         "Party_Id": "20", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -941,7 +941,7 @@
         "Candidate_Id": "149", 
         "Directory": "mid-ulster", 
         "Party_Id": "20", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -956,7 +956,7 @@
         "Candidate_Id": "179", 
         "Directory": "north-antrim", 
         "Party_Id": "20", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -971,7 +971,7 @@
         "Candidate_Id": "237", 
         "Directory": "strangford", 
         "Party_Id": "20", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -986,7 +986,7 @@
         "Candidate_Id": "92", 
         "Directory": "east-londonderry", 
         "Party_Id": "20", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -1001,7 +1001,7 @@
         "Candidate_Id": "127", 
         "Directory": "foyle", 
         "Party_Id": "20", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -1016,7 +1016,7 @@
         "Candidate_Id": "110", 
         "Directory": "fermanagh-south-tyrone", 
         "Party_Id": "20", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -1046,7 +1046,7 @@
         "Candidate_Id": "142", 
         "Directory": "lagan-valley", 
         "Party_Id": "20", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -1061,7 +1061,7 @@
         "Candidate_Id": "96", 
         "Directory": "east-londonderry", 
         "Party_Id": "20", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -1076,7 +1076,7 @@
         "Candidate_Id": "78", 
         "Directory": "east-antrim", 
         "Party_Id": "20", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -1091,7 +1091,7 @@
         "Candidate_Id": "53", 
         "Directory": "belfast-south", 
         "Party_Id": "20", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -1106,7 +1106,7 @@
         "Candidate_Id": "182", 
         "Directory": "north-antrim", 
         "Party_Id": "20", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -1121,7 +1121,7 @@
         "Candidate_Id": "199", 
         "Directory": "north-down", 
         "Party_Id": "20", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -1136,7 +1136,7 @@
         "Candidate_Id": "226", 
         "Directory": "south-down", 
         "Party_Id": "20", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 }
     ]},
@@ -1156,7 +1156,7 @@
         "Candidate_Id": "185", 
         "Directory": "north-down", 
         "Party_Id": "111", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -1171,7 +1171,7 @@
         "Candidate_Id": "38", 
         "Directory": "belfast-south", 
         "Party_Id": "111", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -1186,7 +1186,7 @@
         "Candidate_Id": "128", 
         "Directory": "lagan-valley", 
         "Party_Id": "111", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -1201,7 +1201,7 @@
         "Candidate_Id": "172", 
         "Directory": "north-antrim", 
         "Party_Id": "111", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -1231,7 +1231,7 @@
         "Candidate_Id": "206", 
         "Directory": "south-antrim", 
         "Party_Id": "111", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -1246,7 +1246,7 @@
         "Candidate_Id": "232", 
         "Directory": "strangford", 
         "Party_Id": "111", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -1261,7 +1261,7 @@
         "Candidate_Id": "89", 
         "Directory": "east-londonderry", 
         "Party_Id": "111", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -1276,7 +1276,7 @@
         "Candidate_Id": "218", 
         "Directory": "south-down", 
         "Party_Id": "111", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -1291,7 +1291,7 @@
         "Candidate_Id": "118", 
         "Directory": "foyle", 
         "Party_Id": "111", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -1306,7 +1306,7 @@
         "Candidate_Id": "107", 
         "Directory": "fermanagh-south-tyrone", 
         "Party_Id": "111", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -1321,7 +1321,7 @@
         "Candidate_Id": "251", 
         "Directory": "upper-bann", 
         "Party_Id": "111", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -1336,7 +1336,7 @@
         "Candidate_Id": "272", 
         "Directory": "west-tyrone", 
         "Party_Id": "111", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -1351,7 +1351,7 @@
         "Candidate_Id": "65", 
         "Directory": "belfast-west", 
         "Party_Id": "111", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -1366,7 +1366,7 @@
         "Candidate_Id": "34", 
         "Directory": "belfast-north", 
         "Party_Id": "111", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -1381,7 +1381,7 @@
         "Candidate_Id": "77", 
         "Directory": "east-antrim", 
         "Party_Id": "111", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -1396,7 +1396,7 @@
         "Candidate_Id": "155", 
         "Directory": "mid-ulster", 
         "Party_Id": "111", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -1411,7 +1411,7 @@
         "Candidate_Id": "168", 
         "Directory": "newry-armagh", 
         "Party_Id": "111", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 }
     ]},
@@ -1431,7 +1431,7 @@
         "Candidate_Id": "156", 
         "Directory": "newry-armagh", 
         "Party_Id": "21", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -1446,7 +1446,7 @@
         "Candidate_Id": "112", 
         "Directory": "foyle", 
         "Party_Id": "21", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -1476,7 +1476,7 @@
         "Candidate_Id": "88", 
         "Directory": "east-londonderry", 
         "Party_Id": "21", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -1491,7 +1491,7 @@
         "Candidate_Id": "263", 
         "Directory": "west-tyrone", 
         "Party_Id": "21", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -1506,7 +1506,7 @@
         "Candidate_Id": "113", 
         "Directory": "foyle", 
         "Party_Id": "21", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -1521,7 +1521,7 @@
         "Candidate_Id": "265", 
         "Directory": "west-tyrone", 
         "Party_Id": "21", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -1566,7 +1566,7 @@
         "Candidate_Id": "267", 
         "Directory": "west-tyrone", 
         "Party_Id": "21", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -1581,7 +1581,7 @@
         "Candidate_Id": "163", 
         "Directory": "newry-armagh", 
         "Party_Id": "21", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -1596,7 +1596,7 @@
         "Candidate_Id": "271", 
         "Directory": "west-tyrone", 
         "Party_Id": "21", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -1611,7 +1611,7 @@
         "Candidate_Id": "220", 
         "Directory": "south-down", 
         "Party_Id": "21", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -1626,7 +1626,7 @@
         "Candidate_Id": "254", 
         "Directory": "upper-bann", 
         "Party_Id": "21", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -1641,7 +1641,7 @@
         "Candidate_Id": "236", 
         "Directory": "strangford", 
         "Party_Id": "21", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -1656,7 +1656,7 @@
         "Candidate_Id": "124", 
         "Directory": "foyle", 
         "Party_Id": "21", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -1671,7 +1671,7 @@
         "Candidate_Id": "212", 
         "Directory": "south-antrim", 
         "Party_Id": "21", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -1686,7 +1686,7 @@
         "Candidate_Id": "239", 
         "Directory": "strangford", 
         "Party_Id": "21", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -1701,7 +1701,7 @@
         "Candidate_Id": "140", 
         "Directory": "lagan-valley", 
         "Party_Id": "21", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -1716,7 +1716,7 @@
         "Candidate_Id": "51", 
         "Directory": "belfast-south", 
         "Party_Id": "21", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -1731,7 +1731,7 @@
         "Candidate_Id": "97", 
         "Directory": "east-londonderry", 
         "Party_Id": "21", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -1761,7 +1761,7 @@
         "Candidate_Id": "200", 
         "Directory": "north-down", 
         "Party_Id": "21", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 }
     ]},
@@ -1781,7 +1781,7 @@
         "Candidate_Id": "40", 
         "Directory": "belfast-south", 
         "Party_Id": "992", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -1816,7 +1816,7 @@
         "Candidate_Id": "87", 
         "Directory": "east-londonderry", 
         "Party_Id": "991", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -1831,7 +1831,7 @@
         "Candidate_Id": "115", 
         "Directory": "foyle", 
         "Party_Id": "991", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -1846,7 +1846,7 @@
         "Candidate_Id": "90", 
         "Directory": "east-londonderry", 
         "Party_Id": "991", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -1861,7 +1861,7 @@
         "Candidate_Id": "136", 
         "Directory": "lagan-valley", 
         "Party_Id": "991", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -1876,7 +1876,7 @@
         "Candidate_Id": "268", 
         "Directory": "west-tyrone", 
         "Party_Id": "991", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -1891,7 +1891,7 @@
         "Candidate_Id": "46", 
         "Directory": "belfast-south", 
         "Party_Id": "991", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -1906,7 +1906,7 @@
         "Candidate_Id": "238", 
         "Directory": "strangford", 
         "Party_Id": "991", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -1921,7 +1921,7 @@
         "Candidate_Id": "255", 
         "Directory": "upper-bann", 
         "Party_Id": "991", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -1936,7 +1936,7 @@
         "Candidate_Id": "198", 
         "Directory": "north-down", 
         "Party_Id": "991", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -1951,7 +1951,7 @@
         "Candidate_Id": "181", 
         "Directory": "north-antrim", 
         "Party_Id": "991", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -1981,7 +1981,7 @@
         "Candidate_Id": "214", 
         "Directory": "south-antrim", 
         "Party_Id": "991", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 }
     ]},
@@ -2001,7 +2001,7 @@
         "Candidate_Id": "37", 
         "Directory": "belfast-south", 
         "Party_Id": "989", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -2016,7 +2016,7 @@
         "Candidate_Id": "132", 
         "Directory": "lagan-valley", 
         "Party_Id": "989", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -2031,7 +2031,7 @@
         "Candidate_Id": "106", 
         "Directory": "fermanagh-south-tyrone", 
         "Party_Id": "989", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -2061,7 +2061,7 @@
         "Candidate_Id": "247", 
         "Directory": "upper-bann", 
         "Party_Id": "989", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -2076,7 +2076,7 @@
         "Candidate_Id": "176", 
         "Directory": "north-antrim", 
         "Party_Id": "989", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -2091,7 +2091,7 @@
         "Candidate_Id": "193", 
         "Directory": "north-down", 
         "Party_Id": "989", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -2106,7 +2106,7 @@
         "Candidate_Id": "35", 
         "Directory": "belfast-north", 
         "Party_Id": "989", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 }
     ]},
@@ -2146,7 +2146,7 @@
         "Candidate_Id": "57", 
         "Directory": "belfast-west", 
         "Party_Id": "999", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -2176,7 +2176,7 @@
         "Candidate_Id": "121", 
         "Directory": "foyle", 
         "Party_Id": "999", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 }
     ]},
@@ -2226,7 +2226,7 @@
         "Candidate_Id": "253", 
         "Directory": "upper-bann", 
         "Party_Id": "994", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -2241,7 +2241,7 @@
         "Candidate_Id": "73", 
         "Directory": "east-antrim", 
         "Party_Id": "994", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -2256,7 +2256,7 @@
         "Candidate_Id": "52", 
         "Directory": "belfast-south", 
         "Party_Id": "994", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -2271,7 +2271,7 @@
         "Candidate_Id": "98", 
         "Directory": "east-londonderry", 
         "Party_Id": "994", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 }
     ]},
@@ -2881,7 +2881,7 @@
         "Candidate_Id": "55", 
         "Directory": "belfast-west", 
         "Party_Id": "23", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -2896,7 +2896,7 @@
         "Candidate_Id": "229", 
         "Directory": "strangford", 
         "Party_Id": "23", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -2911,7 +2911,7 @@
         "Candidate_Id": "215", 
         "Directory": "south-down", 
         "Party_Id": "23", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -2926,7 +2926,7 @@
         "Candidate_Id": "187", 
         "Directory": "north-down", 
         "Party_Id": "23", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -2941,7 +2941,7 @@
         "Candidate_Id": "130", 
         "Directory": "lagan-valley", 
         "Party_Id": "23", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -2956,7 +2956,7 @@
         "Candidate_Id": "114", 
         "Directory": "foyle", 
         "Party_Id": "23", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -2986,7 +2986,7 @@
         "Candidate_Id": "173", 
         "Directory": "north-antrim", 
         "Party_Id": "23", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -3001,7 +3001,7 @@
         "Candidate_Id": "116", 
         "Directory": "foyle", 
         "Party_Id": "23", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -3016,7 +3016,7 @@
         "Candidate_Id": "117", 
         "Directory": "foyle", 
         "Party_Id": "23", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -3031,7 +3031,7 @@
         "Candidate_Id": "42", 
         "Directory": "belfast-south", 
         "Party_Id": "23", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -3046,7 +3046,7 @@
         "Candidate_Id": "249", 
         "Directory": "upper-bann", 
         "Party_Id": "23", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -3061,7 +3061,7 @@
         "Candidate_Id": "211", 
         "Directory": "south-antrim", 
         "Party_Id": "23", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -3076,7 +3076,7 @@
         "Candidate_Id": "29", 
         "Directory": "belfast-north", 
         "Party_Id": "23", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -3091,7 +3091,7 @@
         "Candidate_Id": "273", 
         "Directory": "west-tyrone", 
         "Party_Id": "23", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -3106,7 +3106,7 @@
         "Candidate_Id": "150", 
         "Directory": "mid-ulster", 
         "Party_Id": "23", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -3121,7 +3121,7 @@
         "Candidate_Id": "221", 
         "Directory": "south-down", 
         "Party_Id": "23", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -3136,7 +3136,7 @@
         "Candidate_Id": "164", 
         "Directory": "newry-armagh", 
         "Party_Id": "23", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -3151,7 +3151,7 @@
         "Candidate_Id": "74", 
         "Directory": "east-antrim", 
         "Party_Id": "23", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -3166,7 +3166,7 @@
         "Candidate_Id": "48", 
         "Directory": "belfast-south", 
         "Party_Id": "23", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -3181,7 +3181,7 @@
         "Candidate_Id": "165", 
         "Directory": "newry-armagh", 
         "Party_Id": "23", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -3196,7 +3196,7 @@
         "Candidate_Id": "109", 
         "Directory": "fermanagh-south-tyrone", 
         "Party_Id": "23", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -3211,7 +3211,7 @@
         "Candidate_Id": "93", 
         "Directory": "east-londonderry", 
         "Party_Id": "23", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -3226,7 +3226,7 @@
         "Candidate_Id": "224", 
         "Directory": "south-down", 
         "Party_Id": "23", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 }
     ]},
@@ -3246,7 +3246,7 @@
         "Candidate_Id": "41", 
         "Directory": "belfast-south", 
         "Party_Id": "990", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 }
     ]},
@@ -3266,7 +3266,7 @@
         "Candidate_Id": "170", 
         "Directory": "north-antrim", 
         "Party_Id": "141", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -3281,7 +3281,7 @@
         "Candidate_Id": "83", 
         "Directory": "east-londonderry", 
         "Party_Id": "141", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -3296,7 +3296,7 @@
         "Candidate_Id": "186", 
         "Directory": "north-down", 
         "Party_Id": "141", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -3311,7 +3311,7 @@
         "Candidate_Id": "202", 
         "Directory": "south-antrim", 
         "Party_Id": "141", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -3326,7 +3326,7 @@
         "Candidate_Id": "230", 
         "Directory": "strangford", 
         "Party_Id": "141", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -3341,7 +3341,7 @@
         "Candidate_Id": "101", 
         "Directory": "fermanagh-south-tyrone", 
         "Party_Id": "141", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -3356,7 +3356,7 @@
         "Candidate_Id": "245", 
         "Directory": "upper-bann", 
         "Party_Id": "141", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -3371,7 +3371,7 @@
         "Candidate_Id": "175", 
         "Directory": "north-antrim", 
         "Party_Id": "141", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -3401,7 +3401,7 @@
         "Candidate_Id": "43", 
         "Directory": "belfast-south", 
         "Party_Id": "141", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -3416,7 +3416,7 @@
         "Candidate_Id": "148", 
         "Directory": "mid-ulster", 
         "Party_Id": "141", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -3431,7 +3431,7 @@
         "Candidate_Id": "32", 
         "Directory": "belfast-north", 
         "Party_Id": "141", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -3446,7 +3446,7 @@
         "Candidate_Id": "143", 
         "Directory": "lagan-valley", 
         "Party_Id": "141", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -3461,7 +3461,7 @@
         "Candidate_Id": "223", 
         "Directory": "south-down", 
         "Party_Id": "141", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -3476,7 +3476,7 @@
         "Candidate_Id": "81", 
         "Directory": "east-antrim", 
         "Party_Id": "141", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 }
     ]},
@@ -3496,7 +3496,7 @@
         "Candidate_Id": "171", 
         "Directory": "north-antrim", 
         "Party_Id": "689", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -3526,7 +3526,7 @@
         "Candidate_Id": "231", 
         "Directory": "strangford", 
         "Party_Id": "689", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -3541,7 +3541,7 @@
         "Candidate_Id": "145", 
         "Directory": "mid-ulster", 
         "Party_Id": "689", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -3556,7 +3556,7 @@
         "Candidate_Id": "135", 
         "Directory": "lagan-valley", 
         "Party_Id": "689", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -3571,7 +3571,7 @@
         "Candidate_Id": "209", 
         "Directory": "south-antrim", 
         "Party_Id": "689", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -3586,7 +3586,7 @@
         "Candidate_Id": "248", 
         "Directory": "upper-bann", 
         "Party_Id": "689", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -3601,7 +3601,7 @@
         "Candidate_Id": "71", 
         "Directory": "east-antrim", 
         "Party_Id": "689", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -3631,7 +3631,7 @@
         "Candidate_Id": "162", 
         "Directory": "newry-armagh", 
         "Party_Id": "689", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -3646,7 +3646,7 @@
         "Candidate_Id": "95", 
         "Directory": "east-londonderry", 
         "Party_Id": "689", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -3661,7 +3661,7 @@
         "Candidate_Id": "197", 
         "Directory": "north-down", 
         "Party_Id": "689", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -3676,7 +3676,7 @@
         "Candidate_Id": "54", 
         "Directory": "belfast-south", 
         "Party_Id": "689", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 }
     ]},
@@ -3696,7 +3696,7 @@
         "Candidate_Id": "201", 
         "Directory": "south-antrim", 
         "Party_Id": "26", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -3726,7 +3726,7 @@
         "Candidate_Id": "99", 
         "Directory": "fermanagh-south-tyrone", 
         "Party_Id": "26", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -3741,7 +3741,7 @@
         "Candidate_Id": "243", 
         "Directory": "upper-bann", 
         "Party_Id": "26", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -3756,7 +3756,7 @@
         "Candidate_Id": "67", 
         "Directory": "east-antrim", 
         "Party_Id": "26", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -3771,7 +3771,7 @@
         "Candidate_Id": "129", 
         "Directory": "lagan-valley", 
         "Party_Id": "26", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -3786,7 +3786,7 @@
         "Candidate_Id": "86", 
         "Directory": "east-londonderry", 
         "Party_Id": "26", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -3816,7 +3816,7 @@
         "Candidate_Id": "188", 
         "Directory": "north-down", 
         "Party_Id": "26", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -3831,7 +3831,7 @@
         "Candidate_Id": "205", 
         "Directory": "south-antrim", 
         "Party_Id": "26", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -3846,7 +3846,7 @@
         "Candidate_Id": "244", 
         "Directory": "upper-bann", 
         "Party_Id": "26", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -3861,7 +3861,7 @@
         "Candidate_Id": "191", 
         "Directory": "north-down", 
         "Party_Id": "26", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -3876,7 +3876,7 @@
         "Candidate_Id": "266", 
         "Directory": "west-tyrone", 
         "Party_Id": "26", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -3891,7 +3891,7 @@
         "Candidate_Id": "119", 
         "Directory": "foyle", 
         "Party_Id": "26", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -3906,7 +3906,7 @@
         "Candidate_Id": "161", 
         "Directory": "newry-armagh", 
         "Party_Id": "26", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -3921,7 +3921,7 @@
         "Candidate_Id": "59", 
         "Directory": "belfast-west", 
         "Party_Id": "26", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -3936,7 +3936,7 @@
         "Candidate_Id": "91", 
         "Directory": "east-londonderry", 
         "Party_Id": "26", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -3951,7 +3951,7 @@
         "Candidate_Id": "195", 
         "Directory": "north-down", 
         "Party_Id": "26", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -3966,7 +3966,7 @@
         "Candidate_Id": "47", 
         "Directory": "belfast-south", 
         "Party_Id": "26", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -3996,7 +3996,7 @@
         "Candidate_Id": "222", 
         "Directory": "south-down", 
         "Party_Id": "26", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -4011,7 +4011,7 @@
         "Candidate_Id": "213", 
         "Directory": "south-antrim", 
         "Party_Id": "26", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -4026,7 +4026,7 @@
         "Candidate_Id": "76", 
         "Directory": "east-antrim", 
         "Party_Id": "26", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -4041,7 +4041,7 @@
         "Candidate_Id": "240", 
         "Directory": "strangford", 
         "Party_Id": "26", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -4056,7 +4056,7 @@
         "Candidate_Id": "167", 
         "Directory": "newry-armagh", 
         "Party_Id": "26", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -4071,7 +4071,7 @@
         "Candidate_Id": "153", 
         "Directory": "mid-ulster", 
         "Party_Id": "26", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -4086,7 +4086,7 @@
         "Candidate_Id": "141", 
         "Directory": "lagan-valley", 
         "Party_Id": "26", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -4101,7 +4101,7 @@
         "Candidate_Id": "111", 
         "Directory": "fermanagh-south-tyrone", 
         "Party_Id": "26", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -4116,7 +4116,7 @@
         "Candidate_Id": "257", 
         "Directory": "upper-bann", 
         "Party_Id": "26", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -4131,7 +4131,7 @@
         "Candidate_Id": "241", 
         "Directory": "strangford", 
         "Party_Id": "26", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -4146,7 +4146,7 @@
         "Candidate_Id": "80", 
         "Directory": "east-antrim", 
         "Party_Id": "26", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -4161,7 +4161,7 @@
         "Candidate_Id": "183", 
         "Directory": "north-antrim", 
         "Party_Id": "26", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -4176,7 +4176,7 @@
         "Candidate_Id": "184", 
         "Directory": "north-antrim", 
         "Party_Id": "26", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 }
     ]},
@@ -4196,7 +4196,7 @@
         "Candidate_Id": "56", 
         "Directory": "belfast-west", 
         "Party_Id": "998", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -4211,7 +4211,7 @@
         "Candidate_Id": "44", 
         "Directory": "belfast-south", 
         "Party_Id": "998", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -4226,7 +4226,7 @@
         "Candidate_Id": "154", 
         "Directory": "mid-ulster", 
         "Party_Id": "998", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 },
     {
@@ -4241,7 +4241,7 @@
         "Candidate_Id": "36", 
         "Directory": "belfast-north", 
         "Party_Id": "998", 
-        "Email": "sfassembly@hotmail.com", 
+        "Email": "", 
         "Photo_URL": ""
 }
     ]}

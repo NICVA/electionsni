@@ -1,0 +1,109 @@
+Constituency_Name,Constituency_Number,Candidate_Id,Firstname,Surname,Outgoing_Member,Party_Id,Party_Name,Candidate_First_Pref_Votes,Status,Occurred_On_Count,Gender,Twitter
+Belfast East,2,1,Andy,ALLEN,1,26,Ulster Unionist Party,3047,Elected,12,M,@AndyAllen88
+Belfast East,2,3,Joanne,BUNTING,0,20,Democratic Unionist Party,5538,Elected,1,F,@Joanne_Bunting
+Belfast East,2,5,Sammy,DOUGLAS,1,20,Democratic Unionist Party,4230,Elected,12,M,@sammydouglasdup
+Belfast East,2,11,Naomi,LONG,0,19,Alliance Party,5482,Elected,1,F,@naomi_long
+Belfast East,2,12,Chris,LYTTLE,1,19,Alliance Party,2805,Elected,13,M,@Chris_Lyttle
+Belfast East,2,15,Robin,NEWTON,1,20,Democratic Unionist Party,3875,Elected,13,M,@RobinNewton4MLA
+Belfast North,10,20,Paula Jane,BRADLEY,1,20,Democratic Unionist Party,4591,Elected,11,F,@Vote_Bradley1
+Belfast North,10,26,William,HUMPHREY,1,20,Democratic Unionist Party,4105,Elected,11,M,
+Belfast North,10,28,Gerry,KELLY,1,24,Sinn Fein,5695,Elected,1,M,@GerryKellyMLA
+Belfast North,10,29,Nichola,MALLON,0,23,Social Democratic and Labour Party,3866,Elected,11,F,@NicholaMallon
+Belfast North,10,31,Nelson,MCCAUSLAND,1,20,Democratic Unionist Party,4087,Elected,11,M,
+Belfast North,10,33,Caral,NI CHUILIN,1,24,Sinn Fein,4009,Elected,11,M,@CaralNiChuilin
+Belfast South,13,38,Clare,BAILEY,0,111,Green Party,3521,Elected,12,F,@ClareBaileyGPNI
+Belfast South,13,39,Paula,BRADSHAW,0,19,Alliance Party,3332,Elected,9,F,@PaulaJaneB
+Belfast South,13,42,Claire,HANNA,1,23,Social Democratic and Labour Party,4516,Elected,11,F,@ClaireHanna
+Belfast South,13,45,Emma,LITTLE PENGELLY,1,20,Democratic Unionist Party,4511,Elected,12,F,@little_pengelly
+Belfast South,13,50,Mairtin,O MUILLEOIR,1,24,Sinn Fein,5207,Elected,5,M,@newbelfast
+Belfast South,13,53,Christopher,STALFORD,0,20,Democratic Unionist Party,3570,Elected,12,M,@CDMStalfordDUP
+Belfast West,17,55,Alex,ATTWOOD,1,23,Social Democratic and Labour Party,2647,Elected,8,M,@AlexAttwoodMLA
+Belfast West,17,57,Gerry,CARROLL,0,999,People Before Profit Alliance,8299,Elected,1,M,@GerryCarrollPBP
+Belfast West,17,60,Alex,MASKEY,1,24,Sinn Fein,4769,Elected,2,M,@AlexMaskeyMLA
+Belfast West,17,61,Fra,MCCANN,1,24,Sinn Fein,4028,Elected,5,M,@FramccannMLA
+Belfast West,17,62,Jennifer,MCCANN,1,24,Sinn Fein,4386,Elected,6,F,@jennifermccann0
+Belfast West,17,66,Pat,SHEEHAN,1,24,Sinn Fein,3516,Elected,4,M,@PatSheehanMLA
+East Antrim,1,67,Roy,BEGGS,1,26,Ulster Unionist Party,3848,Elected,8,M,@roybeggs
+East Antrim,1,68,Stewart Clyde,DICKSON,1,19,Alliance Party,3115,Elected,10,M,@stewartcdickson
+East Antrim,1,70,David,HILDITCH,1,20,Democratic Unionist Party,5906,Elected,1,M,@dwh_crfc
+East Antrim,1,72,Gordon,LYONS,1,20,Democratic Unionist Party,3472,Elected,8,M,@gordonlyons1
+East Antrim,1,75,Oliver,MCMULLAN,1,24,Sinn Fein,2633,Elected,12,M,@OliverMcMullan
+East Antrim,1,78,Alastair,ROSS,1,20,Democratic Unionist Party,2323,Elected,12,M,@alastairianross
+East Londonderry,3,82,Caoimhe,ARCHIBALD,0,24,Sinn Fein,4002,Elected,9,F,@CArchibald_SF
+East Londonderry,3,85,Maurice,BRADLEY,0,20,Democratic Unionist Party,4630,Elected,4,M,
+East Londonderry,3,92,Adrian,MCQUILLAN,1,20,Democratic Unionist Party,3477,Elected,9,M,
+East Londonderry,3,93,Gerry,MULLAN,0,23,Social Democratic and Labour Party,3265,Elected,9,M,@aidenville
+East Londonderry,3,96,George,ROBINSON,1,20,Democratic Unionist Party,4567,Elected,4,M,
+East Londonderry,3,97,Claire,SUGDEN,1,21,Independent,3270,Elected,9,F,@ClaireSugden
+Fermanagh and South Tyrone,4,99,Rosemary,BARTON,0,26,Ulster Unionist Party,3018,Elected,6,F,@RosemaryBarton1
+Fermanagh and South Tyrone,4,104,Arlene,FOSTER,1,20,Democratic Unionist Party,8801,Elected,1,F,@DUPleader
+Fermanagh and South Tyrone,4,105,Michelle,GILDERNEW,0,24,Sinn Fein,6614,Elected,4,F,@gildernewm
+Fermanagh and South Tyrone,4,108,Sean,LYNCH,1,24,Sinn Fein,4782,Elected,7,M,@seanlynch122
+Fermanagh and South Tyrone,4,109,Richie,MCPHILLIPS,0,23,Social Democratic and Labour Party,4014,Elected,7,F,
+Fermanagh and South Tyrone,4,110,Maurice,MORROW,1,20,Democratic Unionist Party,6602,Elected,2,M,
+Foyle,5,116,Mark H,DURKAN,1,23,Social Democratic and Labour Party,4197,Elected,7,M,@MarkHDurkan
+Foyle,5,117,Colum,EASTWOOD,1,23,Social Democratic and Labour Party,5000,Elected,7,M,@columeastwood
+Foyle,5,121,Eamonn,MCCANN,0,999,People Before Profit Alliance,4176,Elected,8,M,@eamonderry
+Foyle,5,122,Raymond,MCCARTNEY,1,24,Sinn Fein,3198,Elected,6,M,@RaymondMcCartn1
+Foyle,5,125,Martin,MCGUINNESS,1,24,Sinn Fein,5037,Elected,7,M,@M_McGuinness_SF
+Foyle,5,127,Gary,MIDDLETON,1,20,Democratic Unionist Party,4737,Elected,4,M,@Gary_Middleton
+Lagan Valley,6,129,Robbie,BUTLER,0,26,Ulster Unionist Party,4376,Elected,8,M,@T3robbie
+Lagan Valley,6,133,Paul,GIVAN,1,20,Democratic Unionist Party,5364,Elected,6,M,@paulgivan
+Lagan Valley,6,134,Brenda,HALE,1,20,Democratic Unionist Party,4236,Elected,8,F,@BrendaHaleMLA
+Lagan Valley,6,137,Trevor,LUNN,1,19,Alliance Party,3707,Elected,7,M,@TrevorLunnLV
+Lagan Valley,6,141,Jenny,PALMER,0,26,Ulster Unionist Party,3871,Elected,8,F,@cllr_j
+Lagan Valley,6,142,Edwin,POOTS,1,20,Democratic Unionist Party,4638,Elected,8,M,@poots_edwin
+Mid Ulster,7,144,Keith Alexandra,BUCHANAN,0,20,Democratic Unionist Party,3628,Elected,10,M,@Buchanan_dup
+Mid Ulster,7,146,Linda,DILLON,0,24,Sinn Fein,5853,Elected,1,F,@LindaDillon81
+Mid Ulster,7,150,Patsy,MCGLONE,1,23,Social Democratic and Labour Party,6209,Elected,1,M,@patsymcglone
+Mid Ulster,7,151,Ian,MILNE,1,24,Sinn Fein,7035,Elected,1,M,@Ianmilnesf
+Mid Ulster,7,152,Michelle,ONEILL,1,24,Sinn Fein,6147,Elected,1,F,@DBarriosONeill
+Mid Ulster,7,153,Sandra,OVEREND,1,26,Ulster Unionist Party,4862,Elected,9,F,@over2sandra
+Newry and Armagh,8,157,Cathal Damian,BOYLAN,1,24,Sinn Fein,6822,Elected,1,M,@cathalboylansf
+Newry and Armagh,8,159,Megan,FEARON,1,24,Sinn Fein,6838,Elected,1,F,@mfearonsf
+Newry and Armagh,8,160,William George,IRWIN,1,20,Democratic Unionist Party,7980,Elected,1,M,
+Newry and Armagh,8,161,Danny,KENNEDY,1,26,Ulster Unionist Party,4904,Elected,7,M,@DKennedy_UUP
+Newry and Armagh,8,165,Justin,MCNULTY,0,23,Social Democratic and Labour Party,4775,Elected,8,M,@JustinMcNu1ty
+Newry and Armagh,8,166,Conor,MURPHY,1,24,Sinn Fein,5854,Elected,8,M,@conormurphysf
+North Antrim,9,170,Jim,ALLISTER,1,141,Traditional Unionist Voice,5399,Elected,7,M,@JimAllister
+North Antrim,9,174,Paul,FREW,1,20,Democratic Unionist Party,5429,Elected,8,M,@paulfrewDUP
+North Antrim,9,177,Phillip,LOGAN,0,20,Democratic Unionist Party,3635,Elected,10,M,@philliplogan
+North Antrim,9,180,Daithi Gerard,MCKAY,1,24,Sinn Fein,5297,Elected,10,M,@daithimckay
+North Antrim,9,182,Mervyn,STOREY,1,20,Democratic Unionist Party,5382,Elected,9,M,
+North Antrim,9,183,Robin,SWANN,1,26,Ulster Unionist Party,3585,Elected,10,M,@RobinSwannUUP
+North Down,11,185,Steven,AGNEW,1,111,Green Party,4109,Elected,8,M,@StevenAgnew
+North Down,11,188,Alan,CHAMBERS,0,26,Ulster Unionist Party,3275,Elected,11,M,@alcham49
+North Down,11,189,Gordon Mervyn,DUNNE,1,20,Democratic Unionist Party,4004,Elected,2,M,@GordonDunneMLA 
+North Down,11,190,Alex,EASTON,1,20,Democratic Unionist Party,6357,Elected,1,M,
+North Down,11,192,Stephen,FARRY,1,19,Alliance Party,3012,Elected,11,M,@StephenFarryMLA
+North Down,11,199,Peter James,WEIR,1,20,Democratic Unionist Party,3085,Elected,11,M,@peterweirmla
+South Antrim,12,201,Steve,AIKEN,0,26,Ulster Unionist Party,3280,Elected,7,M,@SteveAikenUUP
+South Antrim,12,203,Pam,CAMERON,1,20,Democratic Unionist Party,4589,Elected,5,F,@Cameron1Vote
+South Antrim,12,204,Trevor,CLARKE,1,20,Democratic Unionist Party,3585,Elected,7,M,@VoteClarke1
+South Antrim,12,207,David RJ,FORD,1,19,Alliance Party,3119,Elected,6,M,@DavidFordMLA
+South Antrim,12,208,Paul,GIRVAN,1,20,Democratic Unionist Party,5014,Elected,2,M,@VoteGirvan1
+South Antrim,12,210,Declan,KEARNEY,0,24,Sinn Fein,4632,Elected,6,M,@DeclanKearneySF
+South Down,14,215,Sinead,BRADLEY,0,23,Social Democratic and Labour Party,5059,Elected,6,F,@SineadBradleySD
+South Down,14,219,Chris,HAZZARD,1,24,Sinn Fein,5045,Elected,6,M,@ChrisHazzardSF
+South Down,14,221,Colin,MCGRATH,0,23,Social Democratic and Labour Party,4288,Elected,7,M,@ColinSDLP
+South Down,14,222,Harold,MCKEE,0,26,Ulster Unionist Party,3481,Elected,5,M,
+South Down,14,225,Caitriona,RUANE,1,24,Sinn Fein,4191,Elected,7,F,@caitrionaruane
+South Down,14,226,Jim,WELLS,1,20,Democratic Unionist Party,5033,Elected,3,M,@Jim_Wells_MLA
+Strangford,15,227,Kellie,ARMSTRONG,0,19,Alliance Party,3499,Elected,10,F,@Kelmba
+Strangford,15,228,Jonathan,BELL,1,20,Democratic Unionist Party,3393,Elected,7,M,@jonathanfbell
+Strangford,15,233,Simon,HAMILTON,1,20,Democratic Unionist Party,3964,Elected,7,M,@SimonHamilton
+Strangford,15,237,Michelle,MCILVEEN,1,20,Democratic Unionist Party,4663,Elected,1,F,@MMcIlveenMLA
+Strangford,15,240,Mike,NESBITT,1,26,Ulster Unionist Party,4673,Elected,1,M,@mikenesbittni
+Strangford,15,241,Philip,SMITH,0,26,Ulster Unionist Party,1694,Elected,10,M,
+Upper Bann,16,242,Sydney Alexander,ANDERSON,1,20,Democratic Unionist Party,6195,Elected,2,M,@AndersonDUP
+Upper Bann,16,243,Doug,BEATTIE,0,26,Ulster Unionist Party,2969,Elected,11,M,@BeattieDoug
+Upper Bann,16,244,Jo-Anne,DOBSON,1,26,Ulster Unionist Party,5155,Elected,9,F,@JoAnne_Dobson
+Upper Bann,16,252,Carla,LOCKHART,0,20,Democratic Unionist Party,7993,Elected,1,F,@carlalockhart
+Upper Bann,16,256,John,ODOWD,1,24,Sinn Fein,5209,Elected,11,M,@JohnODowdSF
+Upper Bann,16,258,Catherine,SEELEY,0,24,Sinn Fein,6164,Elected,11,F,@CatSeeley
+West Tyrone,18,259,Michaela,BOYLE,1,24,Sinn Fein,4460,Elected,11,F,@MichaelaBoyleSF
+West Tyrone,18,262,Thomas,BUCHANAN,1,20,Democratic Unionist Party,4650,Elected,9,M,
+West Tyrone,18,266,Ross,HUSSEY,1,26,Ulster Unionist Party,4441,Elected,10,M,@RossHusseyMLA
+West Tyrone,18,269,Declan,MCALEER,1,24,Sinn Fein,3565,Elected,11,M,@mc_mla
+West Tyrone,18,273,Daniel,MCCROSSAN,1,23,Social Democratic and Labour Party,4287,Elected,8,M,@McCrossanMLA
+West Tyrone,18,275,Barry,MCELDUFF,1,24,Sinn Fein,4568,Elected,11,M,@BarryMcElduff
