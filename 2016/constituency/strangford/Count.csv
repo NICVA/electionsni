@@ -86,8 +86,8 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 15,236,6,Rab,MCCARTNEY,107,0,0,Excluded,1,Independent
 15,237,6,Michelle,MCILVEEN,4663,0,4663,Elected,1,Democratic Unionist Party
 15,238,6,Bill,MCKENDRY,314,0,0,Excluded,1,NI Conservatives
-15,239,6,Jimmy,MENAGH,1840,201,2249,,,Independent
-15,240,6,Mike,NESBITT,4673,-4206,467,Elected,1,Ulster Unionist Party
+15,239,6,Jimmy,MENAGH,1840,201,2249,Excluded,6,Independent
+15,240,6,Mike,NESBITT,4673,0,4673,Elected,1,Ulster Unionist Party
 15,241,6,Philip,SMITH,1694,372,2335,,,Ulster Unionist Party
 15,227,7,Kellie,ARMSTRONG,3499,25,4393,,,Alliance Party
 15,228,7,Jonathan,BELL,3393,1390,5164,Elected,7,Democratic Unionist Party
@@ -102,7 +102,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 15,237,7,Michelle,MCILVEEN,4663,0,4663,Elected,1,Democratic Unionist Party
 15,238,7,Bill,MCKENDRY,314,0,0,Excluded,1,NI Conservatives
 15,239,7,Jimmy,MENAGH,1840,27,2276,,,Independent
-15,240,7,Mike,NESBITT,4673,4206,4673,Elected,1,Ulster Unionist Party
+15,240,7,Mike,NESBITT,4673,0,4673,Elected,1,Ulster Unionist Party
 15,241,7,Philip,SMITH,1694,140,2475,,,Ulster Unionist Party
 15,227,8,Kellie,ARMSTRONG,3499,19.84,4412.84,,,Alliance Party
 15,228,8,Jonathan,BELL,3393,-501,4663,Elected,7,Democratic Unionist Party

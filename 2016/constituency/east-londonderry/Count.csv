@@ -120,7 +120,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 3,98,7,Russell,WATTON,1356,7,1552.96,Excluded,7,Progressive Unionist Party
 3,82,8,Caoimhe,ARCHIBALD,4002,6,4127,,,Sinn Fein
 3,83,8,Jordan,ARMSTRONG,1191,0,0,Excluded,3,Traditional Unionist Voice
-3,84,8,Yvonne,BOYLE,1257,-1541.12,0,Excluded,6,Alliance Party
+3,84,8,Yvonne,BOYLE,1257,0,0,Excluded,6,Alliance Party
 3,85,8,Maurice,BRADLEY,4630,0,4915,Elected,4,Democratic Unionist Party
 3,86,8,Aaron,CALLAN,1067,0,0,Excluded,2,Ulster Unionist Party
 3,87,8,Stuart,CANNING,50,0,0,Excluded,1,NI Conservatives
@@ -137,7 +137,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 3,98,8,Russell,WATTON,1356,-1552.96,0,Excluded,7,Progressive Unionist Party
 3,82,9,Caoimhe,ARCHIBALD,4002,12,4139,Elected,9,Sinn Fein
 3,83,9,Jordan,ARMSTRONG,1191,0,0,Excluded,3,Traditional Unionist Voice
-3,84,9,Yvonne,BOYLE,1257,-1541.12,0,Excluded,6,Alliance Party
+3,84,9,Yvonne,BOYLE,1257,0,0,Excluded,6,Alliance Party
 3,85,9,Maurice,BRADLEY,4630,0,4915,Elected,4,Democratic Unionist Party
 3,86,9,Aaron,CALLAN,1067,0,0,Excluded,2,Ulster Unionist Party
 3,87,9,Stuart,CANNING,50,0,0,Excluded,1,NI Conservatives

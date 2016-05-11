@@ -25,7 +25,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 4,109,2,Richie,MCPHILLIPS,4014,18.63,4032.63,,,Social Democratic and Labour Party
 4,110,2,Maurice,MORROW,6602,1470.85,8072.85,Elected,2,Democratic Unionist Party
 4,111,2,Alastair,PATTERSON,3010,130.41,3140.41,,,Ulster Unionist Party
-4,99,3,Rosemary,BARTON,3018,0,3973.08,,,Ulster Unionist Party
+4,99,3,Rosemary,BARTON,3018,955.08,3973.08,,,Ulster Unionist Party
 4,100,3,Kerri,BLYBERG,539,7.7,552.91,Excluded,3,Alliance Party
 4,101,3,Donald,CRAWFORD,1164,158.84,1381.95,Excluded,3,Traditional Unionist Voice
 4,102,3,John,FEELY,4002,1.1,4004.25,,,Sinn Fein
@@ -38,7 +38,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 4,109,3,Richie,MCPHILLIPS,4014,16.72,4049.35,,,Social Democratic and Labour Party
 4,110,3,Maurice,MORROW,6602,-1332.85,6740,Elected,2,Democratic Unionist Party
 4,111,3,Alastair,PATTERSON,3010,422.84,3563.25,,,Ulster Unionist Party
-4,99,4,Rosemary,BARTON,3018,0,4750.48,,,Ulster Unionist Party
+4,99,4,Rosemary,BARTON,3018,777.4,4750.48,,,Ulster Unionist Party
 4,100,4,Kerri,BLYBERG,539,-552.91,0,Excluded,3,Alliance Party
 4,101,4,Donald,CRAWFORD,1164,-1381.95,0,Excluded,3,Traditional Unionist Voice
 4,102,4,John,FEELY,4002,83.83,4088.08,,,Sinn Fein
@@ -51,7 +51,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 4,109,4,Richie,MCPHILLIPS,4014,604.49,4653.84,,,Social Democratic and Labour Party
 4,110,4,Maurice,MORROW,6602,0,6740,Elected,2,Democratic Unionist Party
 4,111,4,Alastair,PATTERSON,3010,641.93,4205.18,,,Ulster Unionist Party
-4,99,5,Rosemary,BARTON,3018,0,4759.94,,,Ulster Unionist Party
+4,99,5,Rosemary,BARTON,3018,9.46,4759.94,,,Ulster Unionist Party
 4,100,5,Kerri,BLYBERG,539,0,0,Excluded,3,Alliance Party
 4,101,5,Donald,CRAWFORD,1164,0,0,Excluded,3,Traditional Unionist Voice
 4,102,5,John,FEELY,4002,1493.83,5581.91,,,Sinn Fein
