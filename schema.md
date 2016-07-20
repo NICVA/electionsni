@@ -24,9 +24,9 @@ Identifiers for all constituencies in election
 
 |Name|Type|Description|
 |----|----|-----------|
-|Constituency_Number|URI|{key} unique ID number given to each constituency, based on NI Assembly Open Data codes|
+|Constituency_Number|URI|{key} unique ID number given to each constituency, based on NI Assembly Open Data codes. See http://data.niassembly.gov.uk/members_json.ashx?m=GetAllConstituencies|
 |Constituency_Name|String|Full (official) name|
-|ONS_Code|URI|Office of National Statistics identifying code for the analogous Westminster Parliamentary Constituency 
+|ONS_Code|URI|Office of National Statistics identifying code for the analogous Westminster Parliamentary Constituency. See https://geoportal.statistics.gov.uk/geoportal/catalog/search/resource/details.page?uuid=%7B7E721144-C4DD-43A4-AEA3-BF94EB77A633%7D|
 |Constituency_Code|URI|Abbreviation of constituency name (generally 2-letter, but 3-letter in case of Newry & Armagh: NYA)|
 |Constituency_Directory|String|Constituency name in the /constituency directory|
 
@@ -35,7 +35,7 @@ Identifiers for all political parties (N.B. there is a 'party' for Independent c
 
 |Name|Type|Description|
 |----|----|-----------|
-|Party_Id|URI|{key} unique ID number given to each party|
+|Party_Id|URI|{key} unique ID number given to each party. Parties currently represented in the Assembly will be given the same Party_Id code as http://data.niassembly.gov.uk/organisations_json.ashx?m=GetPartiesListCurrent|
 |Party_Name|String|Political party title|
 |Party_Abbreviation|String|Short acronym for party|
 |Hex_Col|String|6-digit html color code|
@@ -52,7 +52,7 @@ Candidate information for the constituency
 |Candidate_Id|URI|{key} unique ID number given to each candidate|
 |Firstname|String|Candidate's first name|
 |Surname|String|Candidate's surname|
-|Outgoing_Member|String|If the member was an incumbent MLA at the end of the previous Assembly mandate ('1' true; '0' false)|
+|Outgoing_Member|Boolean|If the member was an incumbent MLA at the end of the previous Assembly mandate ('1' true; '0' false)|
 |Party_Id|URI|As with the NI/parties table|
 |Party_Name|String|As with the NI/parties table|
 |Photo_URL|URI|Link to the candidate's profile picture|
