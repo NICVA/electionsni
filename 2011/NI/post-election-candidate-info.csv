@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Candidate_First_Pref_Votes,Status,Occurred_On_Count,Surname,Firstname,Constituency_Name,Constituency_Number,Outgoing_Member,Party_Name,Candidate_Id,Party_Id,Count_Number,Directory,Transfers,Total_Votes
 201,Excluded,4,BLACK,Tommy,Belfast East,2,,Socialist Party,40,996,11,belfast-east,0,0
 4329,Elected,7,COCHRANE,Judith,Belfast East,2,,Alliance Party,41,19,11,belfast-east,0,4754.71
@@ -217,3 +218,224 @@ Candidate_First_Pref_Votes,Status,Occurred_On_Count,Surname,Firstname,Constituen
 6008,Elected,1,MCELDUFF,Barry,West Tyrone,18,,Sinn Fein,111,24,5,west-tyrone,0,5615
 1145,Excluded,2,MCGOWAN,Paddy,West Tyrone,18,,Independent,112,21,5,west-tyrone,0,0
 1096,Excluded,2,MCMENAMIN,Eugene,West Tyrone,18,,Independent,113,21,5,west-tyrone,0,0
+=======
+Candidate_First_Pref_Votes,Status,Occurred_On_Count,Surname,Firstname,Constituency_Name,Constituency_Number,Outgoing_Member,Party_Name,Candidate_Id,Party_Id,Count_Number,Directory,Transfers,Total_Votes
+201,Excluded,4,BLACK,Tommy,Belfast East,2,,Socialist Party,40,996,11,belfast-east,0,0
+4329,Elected,7,COCHRANE,Judith,Belfast East,2,,Alliance Party,41,19,11,belfast-east,0,4754.71
+337,Excluded,5,COOPER,Ann,Belfast East,2,,British Nationalist Party,42,995,11,belfast-east,0,0
+2194,Elected,11,COPELAND,Michael,Belfast East,2,,Ulster Unionist Party,43,26,11,belfast-east,498.43,3723.34
+2668,Elected,11,DOUGLAS,Sammy,Belfast East,2,,Democratic Unionist Party,44,20,11,belfast-east,328,4783.11
+1493,Excluded,10,ERVINE,Brian,Belfast East,2,,Progressive Unionist Party,45,994,11,belfast-east,-1963.3,0
+572,Excluded,6,GREGG,Martin,Belfast East,2,,Green Party,46,111,11,belfast-east,0,0
+4183,Elected,11,LYTTLE,Chris,Belfast East,2,,Alliance Party,47,19,11,belfast-east,0,4695.5
+102,Excluded,3,MCNALLY,Kevin,Belfast East,2,,Workers Party,48,998,11,belfast-east,0,0
+2436,Elected,2,NEWTON,Robin,Belfast East,2,,Democratic Unionist Party,49,20,11,belfast-east,0,4622
+1030,Excluded,8,O DONNGHAILE,Niall,Belfast East,2,,Sinn Fein,50,24,11,belfast-east,0,0
+1702,Excluded,11,PURVIS,Dawn,Belfast East,2,,Independent,51,21,11,belfast-east,468.86,2789.29
+9149,Elected,1,ROBINSON,Peter,Belfast East,2,,Democratic Unionist Party,52,20,11,belfast-east,0,4622
+943,Excluded,9,ROBINSON,Philip,Belfast East,2,,Ulster Unionist Party,53,26,11,belfast-east,0,0
+46,Excluded,3,STEWART,Stephen,Belfast East,2,,Independent,54,21,11,belfast-east,0,0
+712,Excluded,7,TOAN,Harry,Belfast East,2,,Traditional Unionist Voice,55,141,11,belfast-east,0,0
+250,Excluded,5,WOLSKA,Magdalena,Belfast East,2,,Social Democratic and Labour Party,56,23,11,belfast-east,0,0
+3488,Elected,7,BRADLEY,Paula,Belfast North,10,,Democratic Unionist Party,1,20,7,belfast-north,330.16,4065.2
+2758,Excluded,7,COBAIN,Fred,Belfast North,10,,Ulster Unionist Party,2,26,7,belfast-north,629.16,3622.68
+3724,Elected,7,HUMPHREY,William,Belfast North,10,,Democratic Unionist Party,3,20,7,belfast-north,166.04,4331.76
+6674,Elected,1,KELLY,Gerry,Belfast North,10,,Sinn Fein,4,24,7,belfast-north,0,4782
+332,Excluded,2,LAVERY,John,Belfast North,10,,Workers Party,5,998,7,belfast-north,0,0
+998,Excluded,5,MAGEE,JJ,Belfast North,10,,Sinn Fein,6,24,7,belfast-north,0,0
+4025,Elected,6,MAGINNESS,Alban,Belfast North,10,,Social Democratic and Labour Party,7,23,7,belfast-north,0,5004.32
+5200,Elected,1,MCCAUSLAND,Nelson,Belfast North,10,,Democratic Unionist Party,8,20,7,belfast-north,0,4782
+1176,Excluded,4,MCCORD,Raymond,Belfast North,10,,Independent,9,21,7,belfast-north,0,0
+2999,Elected,7,NI CUILIN,Caral,Belfast North,10,,Sinn Fein,10,24,7,belfast-north,0,4868.48
+2096,Excluded,6,WEBB,Billy,Belfast North,10,,Alliance Party,11,19,7,belfast-north,-2458.16,0
+889,Excluded,4,BAILEY,Clare,Belfast South,13,,Green Party,12,111,5,belfast-south,-1655.6,0
+414,Excluded,4,FALOON,Brian,Belfast South,13,,People Before Profit Alliance,13,999,5,belfast-south,0,0
+1394,Excluded,4,FINLAY,Mark,Belfast South,13,,Ulster Unionist Party,14,26,5,belfast-south,-1617.7,0
+6390,Elected,1,LO,Anna,Belfast South,13,,Alliance Party,15,19,5,belfast-south,0,4616
+135,Excluded,3,LYNN,Paddy,Belfast South,13,,Workers Party,16,998,5,belfast-south,0,0
+4038,Elected,5,MASKEY,Alex,Belfast South,13,,Sinn Fein,17,24,5,belfast-south,183.9,4452.05
+3191,Elected,5,MCDEVITT,Conall Patrick,Belfast South,13,,Social Democratic and Labour Party,18,23,5,belfast-south,592.7,4444.8
+4527,Elected,2,MCDONNELL,Alasdair,Belfast South,13,,Social Democratic and Labour Party,19,23,5,belfast-south,0,4616
+2988,Elected,5,MCGIMPSEY,Michael,Belfast South,13,,Ulster Unionist Party,20,26,5,belfast-south,1299.1,4622.05
+234,Excluded,3,MEEHAN,Paddy,Belfast South,13,,Socialist Party,21,996,5,belfast-south,0,0.7
+3800,Excluded,5,PATTERSON,Ruth Frances,Belfast South,13,,Democratic Unionist Party,22,20,5,belfast-south,210.35,4163.4
+29,Excluded,2,SMYTH,Samuel Charles,Belfast South,13,,Procapitalism,23,997,5,belfast-south,0,0.5
+4045,Elected,5,SPRATT,Jimmy,Belfast South,13,,Democratic Unionist Party,24,20,5,belfast-south,117.6,4281.45
+234,Excluded,3,TORREGROSA,Nico,Belfast South,13,,UK Independence Party,25,689,5,belfast-south,0,0
+3765,Elected,10,ATTWOOD,Alex,Belfast West,17,,Social Democratic and Labour Party,26,23,11,belfast-west,0,5151.65
+1661,Excluded,9,CARROLL,Gerry,Belfast West,17,,People Before Profit Alliance,27,999,11,belfast-west,0,0
+802,Excluded,7,KEENAN,Colin,Belfast West,17,,Social Democratic and Labour Party,28,23,11,belfast-west,0,0
+2587,Excluded,11,KINGSTON,Brian,Belfast West,17,,Democratic Unionist Party,29,20,11,belfast-west,0,3866.57
+384,Excluded,5,LAWLOR,Pat,Belfast West,17,,Socialist Party,30,996,11,belfast-west,0,0
+586,Excluded,6,LOWRY,John Terence,Belfast West,17,,Workers Party,31,998,11,belfast-west,0,0
+1471,Excluded,8,MANWARING,Bill,Belfast West,17,,Ulster Unionist Party,32,26,11,belfast-west,0,0
+5343,Elected,1,MASKEY,Paul,Belfast West,17,,Sinn Fein,33,24,11,belfast-west,0,4950
+4481,Elected,10,MCCANN,Fra,Belfast West,17,,Sinn Fein,34,24,11,belfast-west,-217.34,4950
+5239,Elected,1,MCCANN,Jennifer,Belfast West,17,,Sinn Fein,35,24,11,belfast-west,0,4950
+365,Excluded,4,MCGUINNESS,Dan,Belfast West,17,,Alliance Party,36,19,11,belfast-west,0,0
+122,Excluded,3,PELAN,Brian,Belfast West,17,,Independent,37,21,11,belfast-west,0,0
+4116,Elected,11,RAMSEY,Sue,Belfast West,17,,Sinn Fein,38,24,11,belfast-west,139.16,4823.06
+3723,Elected,11,SHEEHAN,Pat,Belfast West,17,,Sinn Fein,39,24,11,belfast-west,77.42,4327.19
+3042,Elected,9,BEGGS,Roy,East Antrim,1,,Ulster Unionist Party,57,26,10,east-antrim,0,4194.17
+2889,Elected,9,DICKSON,Stewart,East Antrim,1,,Alliance Party,58,19,10,east-antrim,-629.69,4147
+664,Excluded,2,DONNELLY,Daniel,East Antrim,1,,Green Party,59,111,10,east-antrim,0,0
+3288,Elected,2,HILDITCH,David,East Antrim,1,,Democratic Unionist Party,60,20,10,east-antrim,0,4147
+1321,Excluded,5,LYONS,Gordon,East Antrim,1,,Democratic Unionist Party,61,20,10,east-antrim,0,0
+1333,Excluded,3,MCCAMPHILL,Justin,East Antrim,1,,Social Democratic and Labour Party,62,23,10,east-antrim,0,0
+1851,Excluded,10,MCCUNE,Rodney,East Antrim,1,,Ulster Unionist Party,63,26,10,east-antrim,287,2890.11
+2369,Elected,10,MCMULLAN,Oliver,East Antrim,1,,Sinn Fein,64,24,10,east-antrim,139,3388.8
+511,Excluded,2,MOORE,Steven,East Antrim,1,,British Nationalist Party,65,995,10,east-antrim,0,0
+1620,Excluded,8,MULVENNA,Gerardine Marie,East Antrim,1,,Alliance Party,66,19,10,east-antrim,0,0
+1608,Elected,6,ROSS,Alastair,East Antrim,1,,Democratic Unionist Party,67,20,10,east-antrim,0,4147
+1346,Excluded,4,WILSON,Ruth,East Antrim,1,,Traditional Unionist Voice,68,141,10,east-antrim,0,0
+7181,Elected,1,WILSON,Sammy,East Antrim,1,,Democratic Unionist Party,69,20,10,east-antrim,0,4147
+2639,Excluded,6,ARCHIBALD,Bernadette,East Londonderry,3,,Sinn Fein,70,24,7,east-londonderry,-2771.2,0
+6319,Elected,1,CAMPBELL,Gregory,East Londonderry,3,,Democratic Unionist Party,71,20,7,east-londonderry,0,4961
+2222,Excluded,5,CONWAY,Thomas Joseph,East Londonderry,3,,Social Democratic and Labour Party,72,23,7,east-londonderry,0,0
+2967,Elected,6,DALLAT,John,East Londonderry,3,,Social Democratic and Labour Party,73,23,7,east-londonderry,0,5207.08
+1568,Excluded,3,BOYD,Douglas,East Londonderry,3,,Traditional Unionist Voice,74,141,7,east-londonderry,0,0
+1905,Excluded,4,FITZPATRICK,Barry,East Londonderry,3,,Alliance Party,75,19,7,east-londonderry,0,0
+1458,Excluded,7,HARDING,David,East Londonderry,3,,Ulster Unionist Party,76,26,7,east-londonderry,33.22,3460.6
+1472,Excluded,2,MACAULAY,Lesley,East Londonderry,3,,Ulster Unionist Party,77,26,7,east-londonderry,0,0
+3003,Elected,7,MCCLARTY,David,East Londonderry,3,,Independent,78,21,7,east-londonderry,251,4405.08
+2633,Elected,7,MCQUILLAN,Adrian,East Londonderry,3,,Democratic Unionist Party,79,20,7,east-londonderry,63.22,3781.66
+4681,Elected,6,O HOISIN,Cathal,East Londonderry,3,,Sinn Fein,80,24,7,east-londonderry,0,4962.2
+3855,Elected,7,ROBINSON,George,East Londonderry,3,,Democratic Unionist Party,81,20,7,east-londonderry,38.22,4823.1
+997,Excluded,3,COX,Pat,Fermanagh and South Tyrone,4,,Independent,92,21,6,fermanagh-south-tyrone,0,0
+2366,Excluded,4,DONALDSON,Kenny,Fermanagh and South Tyrone,4,,Ulster Unionist Party,93,26,6,fermanagh-south-tyrone,0,0
+1231,Excluded,3,ELLIOTT,Alex,Fermanagh and South Tyrone,4,,Traditional Unionist Voice,94,141,6,fermanagh-south-tyrone,0,0
+6896,Elected,1,ELLIOTT,Tom,Fermanagh and South Tyrone,4,,Ulster Unionist Party,95,26,6,fermanagh-south-tyrone,0,6896
+5082,Elected,6,FLANAGAN,Phil,Fermanagh and South Tyrone,4,,Sinn Fein,96,24,6,fermanagh-south-tyrone,9,6136.72
+6876,Elected,1,FOSTER,Arlene,Fermanagh and South Tyrone,4,,Democratic Unionist Party,97,20,6,fermanagh-south-tyrone,0,6876
+4606,Excluded,6,GALLAGHER,Tommy,Fermanagh and South Tyrone,4,,Social Democratic and Labour Party,98,23,6,fermanagh-south-tyrone,134,6074.74
+9110,Elected,1,GILDERNEW,Michelle,Fermanagh and South Tyrone,4,,Sinn Fein,99,24,6,fermanagh-south-tyrone,0,6858
+5146,Elected,6,LYNCH,Sean,Fermanagh and South Tyrone,4,,Sinn Fein,100,24,6,fermanagh-south-tyrone,1,6476.04
+4844,Elected,5,MORROW,Maurice,Fermanagh and South Tyrone,4,,Democratic Unionist Party,101,20,6,fermanagh-south-tyrone,-371.24,6858
+845,Excluded,2,SU,Hannah,Fermanagh and South Tyrone,4,,Alliance Party,102,19,6,fermanagh-south-tyrone,0,0
+6950,Elected,1,ANDERSON,Martina,Foyle,5,,Sinn Fein,114,24,7,foyle,0,5550
+2624,Excluded,4,CALLAGHAN,Pol,Foyle,5,,Social Democratic and Labour Party,115,23,7,foyle,0,0
+60,Excluded,3,DOHERTY,Terry,Foyle,5,,Independent,116,21,7,foyle,0,0
+4970,Elected,4,DURKAN,Mark H,Foyle,5,,Social Democratic and Labour Party,117,23,7,foyle,0,5550
+2967,Elected,7,EASTWOOD,Colum,Foyle,5,,Social Democratic and Labour Party,118,23,7,foyle,62,5562.76
+2612,Excluded,6,FLEMING,Paul,Foyle,5,,Sinn Fein,119,24,7,foyle,-3615.08,0
+7154,Elected,1,HAY,William,Foyle,5,,Democratic Unionist Party,120,20,7,foyle,0,5550
+3120,Excluded,7,MCCANN,Eamonn,Foyle,5,,People Before Profit Alliance,121,999,7,foyle,195.88,3915.68
+3638,Elected,7,MCCARTNEY,Raymond,Foyle,5,,Sinn Fein,122,24,7,foyle,2129,6245.36
+1280,Excluded,3,MCFADDEN,Paul,Foyle,5,,Independent,123,21,7,foyle,0,0
+334,Excluded,3,MCGRELLIS,Keith,Foyle,5,,Alliance Party,124,19,7,foyle,0,0
+3138,Elected,7,RAMSEY,Pat,Foyle,5,,Social Democratic and Labour Party,125,23,7,foyle,249.6,4875.92
+2165,Excluded,7,CATNEY,Pat,Lagan Valley,6,,Social Democratic and Labour Party,126,23,7,lagan-valley,210.71,3405.92
+4263,Elected,5,CRAIG,Jonathan,Lagan Valley,6,,Democratic Unionist Party,127,20,7,lagan-valley,0,5080.86
+4352,Elected,7,GIVAN,Paul,Lagan Valley,6,,Democratic Unionist Party,128,20,7,lagan-valley,526,5517.7
+2910,Elected,7,HALE,Brenda,Lagan Valley,6,,Democratic Unionist Party,129,20,7,lagan-valley,724.1,4791.23
+1482,Excluded,6,HILL,Mark,Lagan Valley,6,,Ulster Unionist Party,130,26,7,lagan-valley,-2433.86,0
+4389,Elected,6,LUNN,Trevor,Lagan Valley,6,,Alliance Party,131,19,7,lagan-valley,0,5120
+5771,Elected,1,MCCREA,Basil,Lagan Valley,6,,Ulster Unionist Party,132,26,7,lagan-valley,0,5070
+7329,Elected,1,POOTS,Edwin,Lagan Valley,6,,Democratic Unionist Party,133,20,7,lagan-valley,0,5070
+592,Excluded,3,QUINN,Conor,Lagan Valley,6,,Green Party,134,111,7,lagan-valley,0,0
+1203,Excluded,5,QUINN,Mary-Kate,Lagan Valley,6,,Sinn Fein,135,24,7,lagan-valley,0,0
+1031,Excluded,4,REA,Lyle,Lagan Valley,6,,Traditional Unionist Voice,136,141,7,lagan-valley,0,0
+243,Excluded,3,HUTCHINSON,Harry,Mid Ulster,7,,People Before Profit Alliance,137,999,7,mid-ulster,0,0
+1214,Excluded,5,KELLY,Austin,Mid Ulster,7,,Social Democratic and Labour Party,138,23,7,mid-ulster,0,0
+241,Excluded,3,MCCANN,Gary,Mid Ulster,7,,Independent,139,21,7,mid-ulster,0,0
+933,Excluded,4,MCCLOY,Hugh,Mid Ulster,7,,Independent,140,21,7,mid-ulster,0,0
+7127,Elected,1,MCCREA,Ian,Mid Ulster,7,,Democratic Unionist Party,141,20,7,mid-ulster,0,6106
+398,Excluded,3,MCDONALD,Michael,Mid Ulster,7,,Alliance Party,142,19,7,mid-ulster,0,0
+5065,Elected,5,MCGLONE,Patsy,Mid Ulster,7,,Social Democratic and Labour Party,143,23,7,mid-ulster,0,6109.77
+8957,Elected,1,MCGUINNESS,Martin,Mid Ulster,7,,Sinn Fein,144,24,7,mid-ulster,0,6106
+2075,Excluded,5,MILLAR,Walter,Mid Ulster,7,,Traditional Unionist Voice,145,141,7,mid-ulster,0,0
+2635,Excluded,7,MILNE,Ian Patrick,Mid Ulster,7,,Sinn Fein,146,24,7,mid-ulster,45,4457.21
+4263,Elected,7,MOLLOY,Francie,Mid Ulster,7,,Sinn Fein,147,24,7,mid-ulster,11,5190.5
+5178,Elected,7,ONEILL,Michelle,Mid Ulster,7,,Sinn Fein,148,24,7,mid-ulster,25,5735.25
+4409,Elected,6,OVEREND,Sandra,Mid Ulster,7,,Ulster Unionist Party,149,26,7,mid-ulster,-1024.14,6106
+6614,Elected,2,BOYLAN,Cathal,Newry and Armagh,8,,Sinn Fein,150,24,6,newry-armagh,0,6645
+7123,Elected,1,BRADLEY,Dominic,Newry and Armagh,8,,Social Democratic and Labour Party,151,23,6,newry-armagh,0,7123
+3254,Elected,6,BRADY,Mickey,Newry and Armagh,8,,Sinn Fein,152,24,6,newry-armagh,9.62,5624.92
+830,Excluded,4,HALLIDAY,Barrie,Newry and Armagh,8,,Traditional Unionist Voice,153,141,6,newry-armagh,0,0
+6101,Elected,3,IRWIN,William George,Newry and Armagh,8,,Democratic Unionist Party,154,20,6,newry-armagh,-857.46,6645
+8718,Elected,1,KENNEDY,Danny,Newry and Armagh,8,,Ulster Unionist Party,155,26,6,newry-armagh,0,6645
+90,Excluded,4,MALONE,James,Newry and Armagh,8,,Independent,156,21,6,newry-armagh,0,0
+9127,Elected,1,MURPHY,Conor,Newry and Armagh,8,,Sinn Fein,157,24,6,newry-armagh,0,6645
+734,Excluded,4,MURPHY,David,Newry and Armagh,8,,Alliance Party,158,19,6,newry-armagh,0,0
+3825,Excluded,6,OHANLON,Thomas,Newry and Armagh,8,,Social Democratic and Labour Party,159,23,6,newry-armagh,373.36,5014.06
+98,Excluded,4,WOODS,Robert Stewart,Newry and Armagh,8,,Independent,160,21,6,newry-armagh,0,0
+4061,Elected,9,ALLISTER,Jim,North Antrim,9,,Traditional Unionist Voice,161,141,9,north-antrim,240.57,5429.99
+1848,Excluded,4,DUNLOP,Jayne,North Antrim,9,,Alliance Party,162,19,9,north-antrim,0,0
+6581,Elected,1,FREW,Paul,North Antrim,9,,Democratic Unionist Party,163,20,9,north-antrim,0,5760
+2189,Excluded,6,KENNEDY,Bill,North Antrim,9,,Ulster Unionist Party,164,26,9,north-antrim,0,0
+3275,Elected,8,MCILVEEN,David,North Antrim,9,,Democratic Unionist Party,165,20,9,north-antrim,-833.54,5760
+6152,Elected,1,MCKAY,Daithi,North Antrim,9,,Sinn Fein,166,24,9,north-antrim,0,5760
+3682,Excluded,9,OLOAN,Declan,North Antrim,9,,Social Democratic and Labour Party,167,23,9,north-antrim,18.63,4816.37
+668,Excluded,2,PATTERSON,Audrey,North Antrim,9,,Traditional Unionist Voice,168,141,9,north-antrim,0,0
+3256,Excluded,7,ROBINSON,Evelyne,North Antrim,9,,Democratic Unionist Party,169,20,9,north-antrim,0,0
+6083,Elected,1,STOREY,Mervyn,North Antrim,9,,Democratic Unionist Party,170,20,9,north-antrim,0,5760
+2518,Elected,9,SWANN,Robin,North Antrim,9,,Ulster Unionist Party,171,26,9,north-antrim,565.38,5556.6
+2207,Elected,11,AGNEW,Steven,North Down,11,,Green Party,172,111,11,north-down,36,3229.37
+1343,Excluded,5,BREEN,Colin,North Down,11,,Ulster Unionist Party,173,26,11,north-down,0,0
+1765,Excluded,7,CHAMBERS,Alan,North Down,11,,Independent,174,21,11,north-down,0,0
+1585,Elected,10,CREE,Leslie,North Down,11,,Ulster Unionist Party,175,26,11,north-down,-95.02,4015
+3741,Elected,2,DUNNE,Gordon,North Down,11,,Democratic Unionist Party,176,20,11,north-down,0,4015
+5175,Elected,1,EASTON,Alex,North Down,11,,Democratic Unionist Party,177,20,11,north-down,0,4015
+3131,Elected,11,FARRY,Stephen,North Down,11,,Alliance Party,178,19,11,north-down,0,4077.89
+293,Excluded,2,KEENAN,Conor,North Down,11,,Sinn Fein,179,24,11,north-down,0,0
+768,Excluded,4,LOGAN,Liam,North Down,11,,Social Democratic and Labour Party,180,23,11,north-down,0,0
+1879,Excluded,9,MCFARLAND,Alan,North Down,11,,Independent,181,21,11,north-down,0,0
+615,Excluded,3,MCGLADE,Fred,North Down,11,,UK Independence Party,182,689,11,north-down,0,0
+3496,Elected,2,WEIR,Peter,North Down,11,,Democratic Unionist Party,183,20,11,north-down,0,4015
+2100,Excluded,11,WILSON,Anne,North Down,11,,Alliance Party,184,19,11,north-down,52,3130.03
+3406,Excluded,4,BURNS,Thomas,South Antrim,12,,Social Democratic and Labour Party,82,23,4,south-antrim,108.56,3590.56
+4607,Elected,1,CLARKE,Trevor,South Antrim,12,,Democratic Unionist Party,83,20,4,south-antrim,0,4607
+2285,Excluded,3,COCHRANE-WATSON,Adrian David,South Antrim,12,,Ulster Unionist Party,84,26,4,south-antrim,0,0
+4554,Elected,2,FORD,David RJ,South Antrim,12,,Alliance Party,85,19,4,south-antrim,0,4660
+4844,Elected,1,GIRVAN,Paul,South Antrim,12,,Democratic Unionist Party,86,20,4,south-antrim,0,4844
+3445,Elected,3,KINAHAN,Danny,South Antrim,12,,Ulster Unionist Party,87,26,4,south-antrim,-990,4595
+2866,Elected,4,LEWIS,Pam,South Antrim,12,,Democratic Unionist Party,88,20,4,south-antrim,871.24,4668.24
+1091,Excluded,2,LUCAS,Mel,South Antrim,12,,Traditional Unionist Voice,89,141,4,south-antrim,0,0
+4662,Elected,1,MCLAUGHLIN,Mitchel,South Antrim,12,,Sinn Fein,90,24,4,south-antrim,0,4662
+404,Excluded,2,PARKES,Stephen,South Antrim,12,,British Nationalist Party,91,995,4,south-antrim,0,0
+3050,Excluded,6,BAILIE,Naomi,South Down,14,Sinn Fein,Sinn Fein,185,24,9,south-down,0,0
+3882,Elected,7,CLARKE,Willie,South Down,14,Sinn Fein,Sinn Fein,186,24,9,south-down,0,5961
+1107,Excluded,3,ENRIGHT,Cadogan,South Down,14,Green Party,Green Party,187,111,9,south-down,0,0
+864,Excluded,2,GRIFFIN,David,South Down,14,Alliance Party,Alliance Party,188,19,9,south-down,0,0
+4409,Elected,6,MCCALLISTER,John,South Down,14,UUP,Ulster Unionist Party,189,26,9,south-down,-278.6,5961
+3758,Elected,9,MCKEVITT,Karen,South Down,14,SDLP,Social Democratic and Labour Party,190,23,9,south-down,70.18,5347.46
+2663,Excluded,9,ONEILL,Eamonn,South Down,14,SDLP,Social Democratic and Labour Party,191,23,9,south-down,56.84,4882.98
+2332,Excluded,4,REILLY,Henry,South Down,14,UKIP,UK Independence Party,192,689,9,south-down,0,0
+8506,Elected,1,RITCHIE,Margaret,South Down,14,SDLP,Social Democratic and Labour Party,193,23,9,south-down,0,5961
+5955,Elected,2,RUANE,Caitriona,South Down,14,Sinn Fein,Sinn Fein,194,24,9,south-down,0,6192.15
+5200,Elected,5,WELLS,Jim,South Down,14,DUP,Democratic Unionist Party,195,20,9,south-down,0,5961
+601,Excluded,2,ANDREWS,Cecil,Strangford,15,,UK Independence Party,196,689,6,strangford,0,0
+4265,Elected,1,BELL,Jonathan,Strangford,15,,Democratic Unionist Party,197,20,6,strangford,0,4265
+2525,Excluded,6,BOYLE,Joe,Strangford,15,,Social Democratic and Labour Party,198,23,6,strangford,27,3308.36
+902,Excluded,3,COOGAN,Mickey,Strangford,15,,Sinn Fein,199,24,6,strangford,0,0
+3456,Elected,5,HAMILTON,Simon,Strangford,15,,Democratic Unionist Party,200,20,6,strangford,-1506.4,4239
+4284,Elected,1,MCCARTHY,Kieran,Strangford,15,,Alliance Party,201,19,6,strangford,0,4284
+4573,Elected,1,MCILVEEN,Michelle,Strangford,15,,Democratic Unionist Party,202,20,6,strangford,0,4239
+2773,Elected,6,MCNARRY,David,Strangford,15,,Ulster Unionist Party,203,26,6,strangford,507,3766.88
+3273,Elected,6,NESBITT,Mike,Strangford,15,,Ulster Unionist Party,204,26,6,strangford,289,4069.92
+2175,Excluded,4,WALKER,Billy,Strangford,15,,Democratic Unionist Party,205,20,6,strangford,0,0
+841,Excluded,3,WILLIAMS,Terry,Strangford,15,,Traditional Unionist Voice,206,141,6,strangford,0,0
+5854,Elected,5,ANDERSON,Sydney Alexander,Upper Bann,16,,Democratic Unionist Party,207,20,7,upper-bann,0,6052
+3348,Elected,7,DOBSON,Joanne Elizabeth,Upper Bann,16,,Ulster Unionist Party,208,26,7,upper-bann,1784,5826.99
+3676,Elected,7,GARDINER,Samuel,Upper Bann,16,,Ulster Unionist Party,209,26,7,upper-bann,1767.09,6012.36
+1979,Excluded,4,HAMILTON,Sam,Upper Bann,16,,Alliance Party,210,19,7,upper-bann,0,0
+4846,Elected,7,KELLY,Dolores,Upper Bann,16,,Social Democratic and Labour Party,211,23,7,upper-bann,42.36,5787.07
+3402,Excluded,6,MCCUSKER,Colin Craig,Upper Bann,16,,Ulster Unionist Party,212,26,7,upper-bann,-3885.26,0
+4879,Excluded,7,MCGIBBON,Johnny,Upper Bann,16,,Sinn Fein,213,24,7,upper-bann,8.27,5437.5
+786,Excluded,3,MCQUAID,Sheila Mary,Upper Bann,16,,Alliance Party,214,19,7,upper-bann,0,0
+5645,Elected,5,MOUTRAY,Stephen,Upper Bann,16,,Democratic Unionist Party,215,20,7,upper-bann,0,6085.9
+6649,Elected,1,O'DOWD,John,Upper Bann,16,,Sinn Fein,216,24,7,upper-bann,0,6052
+272,Excluded,2,TROTTER,Barbara,Upper Bann,16,,UK Independence Party,217,689,7,upper-bann,0,0
+1026,Excluded,3,VANCE,David,Upper Bann,16,,Traditional Unionist Voice,218,141,7,upper-bann,0,0
+5053,Elected,4,BOYLE,Michaela,West Tyrone,18,,Sinn Fein,103,24,5,west-tyrone,-2176.94,5615
+4059,Excluded,5,BRESLAND,Allan,West Tyrone,18,,Democratic Unionist Party,104,20,5,west-tyrone,7,4123.78
+5027,Elected,5,BUCHANAN,Thomas,West Tyrone,18,,Democratic Unionist Party,105,20,5,west-tyrone,19,5162.8
+852,Excluded,2,BULLICK,Eric Herbert Anton,West Tyrone,18,,Alliance Party,106,19,5,west-tyrone,0,0
+3353,Elected,5,BYRNE,Joe,West Tyrone,18,,Social Democratic and Labour Party,107,23,5,west-tyrone,402,5320.98
+5630,Elected,1,DOHERTY,Pat,West Tyrone,18,,Sinn Fein,108,24,5,west-tyrone,0,5630
+4072,Elected,5,HUSSEY,Ross,West Tyrone,18,,Ulster Unionist Party,109,26,5,west-tyrone,3,4397.94
+3008,Excluded,3,MCALEER,Declan,West Tyrone,18,,Sinn Fein,110,24,5,west-tyrone,0,0
+6008,Elected,1,MCELDUFF,Barry,West Tyrone,18,,Sinn Fein,111,24,5,west-tyrone,0,5615
+1145,Excluded,2,MCGOWAN,Paddy,West Tyrone,18,,Independent,112,21,5,west-tyrone,0,0
+1096,Excluded,2,MCMENAMIN,Eugene,West Tyrone,18,,Independent,113,21,5,west-tyrone,0,0
+>>>>>>> 0fb18f03098df57debd6d49c7dd55d0c07981180
