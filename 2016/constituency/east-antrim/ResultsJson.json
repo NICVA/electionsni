@@ -583,9 +583,9 @@
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "78", 
     "Count_Number": "3", 
-    "Transfers": "37.78", 
+    "Transfers": "37.73", 
     "id": 41, 
-    "Total_Votes": "2536.76"
+    "Total_Votes": "2536.71"
 },
 {
     "Candidate_First_Pref_Votes": "551", 
@@ -795,7 +795,7 @@
     "Count_Number": "4", 
     "Transfers": "9", 
     "id": 56, 
-    "Total_Votes": "2545.76"
+    "Total_Votes": "2545.71"
 },
 {
     "Candidate_First_Pref_Votes": "551", 
@@ -1005,7 +1005,7 @@
     "Count_Number": "5", 
     "Transfers": "34.47", 
     "id": 71, 
-    "Total_Votes": "2580.23"
+    "Total_Votes": "2580.18"
 },
 {
     "Candidate_First_Pref_Votes": "551", 
@@ -1215,7 +1215,7 @@
     "Count_Number": "6", 
     "Transfers": "12.21", 
     "id": 86, 
-    "Total_Votes": "2592.44"
+    "Total_Votes": "2592.39"
 },
 {
     "Candidate_First_Pref_Votes": "551", 
@@ -1425,7 +1425,7 @@
     "Count_Number": "7", 
     "Transfers": "15", 
     "id": 101, 
-    "Total_Votes": "2607.44"
+    "Total_Votes": "2607.39"
 },
 {
     "Candidate_First_Pref_Votes": "551", 
@@ -1633,9 +1633,9 @@
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "78", 
     "Count_Number": "8", 
-    "Transfers": "0", 
+    "Transfers": "275.98", 
     "id": 116, 
-    "Total_Votes": "2607.44"
+    "Total_Votes": "2883.37"
 },
 {
     "Candidate_First_Pref_Votes": "551", 
@@ -1845,7 +1845,7 @@
     "Count_Number": "9", 
     "Transfers": "188.02", 
     "id": 131, 
-    "Total_Votes": "2795.46"
+    "Total_Votes": "3071.39"
 },
 {
     "Candidate_First_Pref_Votes": "551", 
@@ -1871,9 +1871,9 @@
     "Party_Name": "Ulster Unionist Party", 
     "Candidate_Id": "80", 
     "Count_Number": "9", 
-    "Transfers": "0", 
+    "Transfers": "11.06", 
     "id": 133, 
-    "Total_Votes": "2534.55"
+    "Total_Votes": "2545.61"
 },
 {
     "Candidate_First_Pref_Votes": "1643", 
@@ -2053,7 +2053,7 @@
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "78", 
     "Count_Number": "10", 
-    "Transfers": "312.4", 
+    "Transfers": "36.47", 
     "id": 146, 
     "Total_Votes": "3107.86"
 },
@@ -2081,7 +2081,7 @@
     "Party_Name": "Ulster Unionist Party", 
     "Candidate_Id": "80", 
     "Count_Number": "10", 
-    "Transfers": "0", 
+    "Transfers": "76", 
     "id": 148, 
     "Total_Votes": "2621.61"
 },
@@ -2123,9 +2123,9 @@
     "Party_Name": "Alliance Party", 
     "Candidate_Id": "68", 
     "Count_Number": "11", 
-    "Transfers": "0", 
+    "Transfers": "-602.55", 
     "id": 151, 
-    "Total_Votes": "5233.55"
+    "Total_Votes": "4631"
 },
 {
     "Candidate_First_Pref_Votes": "1632", 

@@ -117,7 +117,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 9,180,8,Daithi Gerard,MCKAY,5297,4,5466,,,Sinn Fein
 9,181,8,James,SIMPSON,92,0,0,Excluded,1,NI Conservatives
 9,182,8,Mervyn,STOREY,5382,118,5710,,,Democratic Unionist Party
-9,183,8,Robin,SWANN,3585,376,5217,,,Ulster Unionist Party
+9,183,8,Robin,SWANN,3585,432,5273,,,Ulster Unionist Party
 9,184,8,Andrew,WRIGHT,821,0,0,Excluded,3,Ulster Unionist Party
 9,170,9,Jim,ALLISTER,5399,0,5857,Elected,7,Traditional Unionist Voice
 9,171,9,Donna,ANDERSON,1027,0,0,Excluded,4,UK Independence Party
@@ -126,13 +126,13 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 9,174,9,Paul,FREW,5429,0,6095,Elected,8,Democratic Unionist Party
 9,175,9,Timothy,GASTON,1955,0,0,Excluded,6,Traditional Unionist Voice
 9,176,9,Kathryn,JOHNSTON,243,0,0,Excluded,1,NI Labour Representation Committee
-9,177,9,Phillip,LOGAN,3635,593,4724,,,Democratic Unionist Party
+9,177,9,Phillip,LOGAN,3635,596,4727,,,Democratic Unionist Party
 9,178,9,Stephen,MCFARLAND,1318,0,0,Excluded,5,Alliance Party
 9,179,9,David,MCILVEEN,3209,-3604,0,Excluded,8,Democratic Unionist Party
 9,180,9,Daithi Gerard,MCKAY,5297,7,5473,,,Sinn Fein
 9,181,9,James,SIMPSON,92,0,0,Excluded,1,NI Conservatives
 9,182,9,Mervyn,STOREY,5382,2733,8443,Elected,9,Democratic Unionist Party
-9,183,9,Robin,SWANN,3585,203,5420,,,Ulster Unionist Party
+9,183,9,Robin,SWANN,3585,147,5420,,,Ulster Unionist Party
 9,184,9,Andrew,WRIGHT,821,0,0,Excluded,3,Ulster Unionist Party
 9,170,10,Jim,ALLISTER,5399,0,5857,Elected,7,Traditional Unionist Voice
 9,171,10,Donna,ANDERSON,1027,0,0,Excluded,4,UK Independence Party
@@ -141,7 +141,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 9,174,10,Paul,FREW,5429,0,6095,Elected,8,Democratic Unionist Party
 9,175,10,Timothy,GASTON,1955,0,0,Excluded,6,Traditional Unionist Voice
 9,176,10,Kathryn,JOHNSTON,243,0,0,Excluded,1,NI Labour Representation Committee
-9,177,10,Phillip,LOGAN,3635,2441.24,7165.24,Elected,10,Democratic Unionist Party
+9,177,10,Phillip,LOGAN,3635,2438.24,7165.24,Elected,10,Democratic Unionist Party
 9,178,10,Stephen,MCFARLAND,1318,0,0,Excluded,5,Alliance Party
 9,179,10,David,MCILVEEN,3209,0,0,Excluded,8,Democratic Unionist Party
 9,180,10,Daithi Gerard,MCKAY,5297,0.98,5473.98,Elected,10,Sinn Fein

@@ -129,7 +129,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 3,90,8,David,HARDING,216,0,0,Excluded,1,NI Conservatives
 3,91,8,William,MCCANDLESS,1789,240.56,3407.24,Excluded,8,Ulster Unionist Party
 3,92,8,Adrian,MCQUILLAN,3477,742.36,4607.6,,,Democratic Unionist Party
-3,93,8,Gerry,MULLAN,3265,0,3800.68,,,Social Democratic and Labour Party
+3,93,8,Gerry,MULLAN,3265,8,3808.68,,,Social Democratic and Labour Party
 3,94,8,Cathal,O HOISIN,3493,2,3524,,,Sinn Fein
 3,95,8,Steven,PARKHILL,274,0,0,Excluded,1,UK Independence Party
 3,96,8,George,ROBINSON,4567,0,4915,Elected,4,Democratic Unionist Party
@@ -146,8 +146,8 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 3,90,9,David,HARDING,216,0,0,Excluded,1,NI Conservatives
 3,91,9,William,MCCANDLESS,1789,-3407.24,0,Excluded,8,Ulster Unionist Party
 3,92,9,Adrian,MCQUILLAN,3477,777,5384.6,Elected,9,Democratic Unionist Party
-3,93,9,Gerry,MULLAN,3265,371.48,4172.16,Elected,9,Social Democratic and Labour Party
-3,94,9,Cathal,O HOISIN,3493,11.68,3535.68,Excluded,9,Sinn Fein
+3,93,9,Gerry,MULLAN,3265,363.48,4172.16,Elected,9,Social Democratic and Labour Party
+3,94,9,Cathal,O HOISIN,3493,8.68,3532.68,Excluded,9,Sinn Fein
 3,95,9,Steven,PARKHILL,274,0,0,Excluded,1,UK Independence Party
 3,96,9,George,ROBINSON,4567,0,4915,Elected,4,Democratic Unionist Party
 3,97,9,Claire,SUGDEN,3270,544,5002.6,Elected,9,Independent

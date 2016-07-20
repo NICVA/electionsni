@@ -1829,9 +1829,9 @@
     "Party_Name": "Social Democratic and Labour Party", 
     "Candidate_Id": "93", 
     "Count_Number": "8", 
-    "Transfers": "0", 
+    "Transfers": "8", 
     "id": 130, 
-    "Total_Votes": "3800.68"
+    "Total_Votes": "3808.68"
 },
 {
     "Candidate_First_Pref_Votes": "3493", 
@@ -2067,7 +2067,7 @@
     "Party_Name": "Social Democratic and Labour Party", 
     "Candidate_Id": "93", 
     "Count_Number": "9", 
-    "Transfers": "371.48", 
+    "Transfers": "363.48", 
     "id": 147, 
     "Total_Votes": "4172.16"
 },
@@ -2081,9 +2081,9 @@
     "Party_Name": "Sinn Fein", 
     "Candidate_Id": "94", 
     "Count_Number": "9", 
-    "Transfers": "11.68", 
+    "Transfers": "8.68", 
     "id": 148, 
-    "Total_Votes": "3535.68"
+    "Total_Votes": "3532.68"
 },
 {
     "Candidate_First_Pref_Votes": "274", 

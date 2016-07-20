@@ -863,9 +863,9 @@
     "Party_Name": "NI Conservatives", 
     "Candidate_Id": "198", 
     "Count_Number": "4", 
-    "Transfers": "6.64", 
+    "Transfers": "6.28", 
     "id": 61, 
-    "Total_Votes": "693.4"
+    "Total_Votes": "693.04"
 },
 {
     "Candidate_First_Pref_Votes": "3085", 
@@ -1087,7 +1087,7 @@
     "Party_Name": "NI Conservatives", 
     "Candidate_Id": "198", 
     "Count_Number": "5", 
-    "Transfers": "0.64", 
+    "Transfers": "1", 
     "id": 77, 
     "Total_Votes": "694.04"
 },
@@ -1493,9 +1493,9 @@
     "Party_Name": "Ulster Unionist Party", 
     "Candidate_Id": "195", 
     "Count_Number": "7", 
-    "Transfers": "67.06", 
+    "Transfers": "67.08", 
     "id": 106, 
-    "Total_Votes": "1719.06"
+    "Total_Votes": "1719.08"
 },
 {
     "Candidate_First_Pref_Votes": "2387", 
@@ -1719,7 +1719,7 @@
     "Count_Number": "8", 
     "Transfers": "99.68", 
     "id": 122, 
-    "Total_Votes": "1818.74"
+    "Total_Votes": "1818.76"
 },
 {
     "Candidate_First_Pref_Votes": "2387", 
@@ -1943,7 +1943,7 @@
     "Count_Number": "9", 
     "Transfers": "84.12", 
     "id": 138, 
-    "Total_Votes": "1902.86"
+    "Total_Votes": "1902.88"
 },
 {
     "Candidate_First_Pref_Votes": "2387", 
@@ -2167,7 +2167,7 @@
     "Count_Number": "10", 
     "Transfers": "151.52", 
     "id": 154, 
-    "Total_Votes": "2054.38"
+    "Total_Votes": "2054.4"
 },
 {
     "Candidate_First_Pref_Votes": "2387", 
@@ -2389,7 +2389,7 @@
     "Party_Name": "Ulster Unionist Party", 
     "Candidate_Id": "195", 
     "Count_Number": "11", 
-    "Transfers": "-2054.38", 
+    "Transfers": "-2054.4", 
     "id": 170, 
     "Total_Votes": "0"
 },

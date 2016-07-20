@@ -4,7 +4,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 12,203,1,Pam,CAMERON,4589,0,4589,,,Democratic Unionist Party
 12,204,1,Trevor,CLARKE,3585,0,3585,,,Democratic Unionist Party
 12,205,1,Adrian David,COCHRANE-WATSON,1947,0,1947,,,Ulster Unionist Party
-12,206,1,Helen,FARLEY,569,0,569,,,Green Party
+12,206,1,Helen,FARLEY,589,0,589,,,Green Party
 12,207,1,David RJ,FORD,3119,0,3119,,,Alliance Party
 12,208,1,Paul,GIRVAN,5014,0,5014,,,Democratic Unionist Party
 12,209,1,Robert,HILL,574,0,574,,,UK Independence Party
@@ -18,7 +18,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 12,203,2,Pam,CAMERON,4589,17,4606,,,Democratic Unionist Party
 12,204,2,Trevor,CLARKE,3585,13,3598,,,Democratic Unionist Party
 12,205,2,Adrian David,COCHRANE-WATSON,1947,17,1964,,,Ulster Unionist Party
-12,206,2,Helen,FARLEY,569,100,669,Excluded,2,Green Party
+12,206,2,Helen,FARLEY,589,100,689,Excluded,2,Green Party
 12,207,2,David RJ,FORD,3119,130,3249,,,Alliance Party
 12,208,2,Paul,GIRVAN,5014,22,5036,Elected,2,Democratic Unionist Party
 12,209,2,Robert,HILL,574,25,599,Excluded,2,UK Independence Party
@@ -32,7 +32,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 12,203,3,Pam,CAMERON,4589,98,4704,,,Democratic Unionist Party
 12,204,3,Trevor,CLARKE,3585,70,3668,,,Democratic Unionist Party
 12,205,3,Adrian David,COCHRANE-WATSON,1947,37,2001,,,Ulster Unionist Party
-12,206,3,Helen,FARLEY,569,-669,0,Excluded,2,Green Party
+12,206,3,Helen,FARLEY,589,-689,0,Excluded,2,Green Party
 12,207,3,David RJ,FORD,3119,390,3639,,,Alliance Party
 12,208,3,Paul,GIRVAN,5014,0,5036,Elected,2,Democratic Unionist Party
 12,209,3,Robert,HILL,574,-599,0,Excluded,2,UK Independence Party
@@ -46,7 +46,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 12,203,4,Pam,CAMERON,4589,299,5003,,,Democratic Unionist Party
 12,204,4,Trevor,CLARKE,3585,310,3978,,,Democratic Unionist Party
 12,205,4,Adrian David,COCHRANE-WATSON,1947,199,2200,Excluded,4,Ulster Unionist Party
-12,206,4,Helen,FARLEY,569,0,0,Excluded,2,Green Party
+12,206,4,Helen,FARLEY,589,0,0,Excluded,2,Green Party
 12,207,4,David RJ,FORD,3119,32,3671,,,Alliance Party
 12,208,4,Paul,GIRVAN,5014,0,5036,Elected,2,Democratic Unionist Party
 12,209,4,Robert,HILL,574,0,0,Excluded,2,UK Independence Party
@@ -60,7 +60,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 12,203,5,Pam,CAMERON,4589,64,5067,Elected,5,Democratic Unionist Party
 12,204,5,Trevor,CLARKE,3585,234,4212,,,Democratic Unionist Party
 12,205,5,Adrian David,COCHRANE-WATSON,1947,-2200,0,Excluded,4,Ulster Unionist Party
-12,206,5,Helen,FARLEY,569,0,0,Excluded,2,Green Party
+12,206,5,Helen,FARLEY,589,0,0,Excluded,2,Green Party
 12,207,5,David RJ,FORD,3119,93,3764,,,Alliance Party
 12,208,5,Paul,GIRVAN,5014,0,5036,Elected,2,Democratic Unionist Party
 12,209,5,Robert,HILL,574,0,0,Excluded,2,UK Independence Party
@@ -74,7 +74,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 12,203,6,Pam,CAMERON,4589,0,5067,Elected,5,Democratic Unionist Party
 12,204,6,Trevor,CLARKE,3585,74,4286,,,Democratic Unionist Party
 12,205,6,Adrian David,COCHRANE-WATSON,1947,0,0,Excluded,4,Ulster Unionist Party
-12,206,6,Helen,FARLEY,569,0,0,Excluded,2,Green Party
+12,206,6,Helen,FARLEY,589,0,0,Excluded,2,Green Party
 12,207,6,David RJ,FORD,3119,1292,5056,Elected,6,Alliance Party
 12,208,6,Paul,GIRVAN,5014,0,5036,Elected,2,Democratic Unionist Party
 12,209,6,Robert,HILL,574,0,0,Excluded,2,UK Independence Party
@@ -88,7 +88,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 12,203,7,Pam,CAMERON,4589,0,5067,Elected,5,Democratic Unionist Party
 12,204,7,Trevor,CLARKE,3585,52,4338,Elected,7,Democratic Unionist Party
 12,205,7,Adrian David,COCHRANE-WATSON,1947,0,0,Excluded,4,Ulster Unionist Party
-12,206,7,Helen,FARLEY,569,0,0,Excluded,2,Green Party
+12,206,7,Helen,FARLEY,589,0,0,Excluded,2,Green Party
 12,207,7,David RJ,FORD,3119,0,5056,Elected,6,Alliance Party
 12,208,7,Paul,GIRVAN,5014,0,5036,Elected,2,Democratic Unionist Party
 12,209,7,Robert,HILL,574,0,0,Excluded,2,UK Independence Party

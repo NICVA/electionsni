@@ -527,9 +527,9 @@
     "Party_Name": "UK Independence Party", 
     "Candidate_Id": "145", 
     "Count_Number": "4", 
-    "Transfers": "0", 
+    "Transfers": "-276.96", 
     "id": 37, 
-    "Total_Votes": "276.96"
+    "Total_Votes": "0"
 },
 {
     "Candidate_First_Pref_Votes": "5853", 
@@ -625,9 +625,9 @@
     "Party_Name": "Sinn Fein", 
     "Candidate_Id": "152", 
     "Count_Number": "4", 
-    "Transfers": "-325", 
+    "Transfers": "0", 
     "id": 44, 
-    "Total_Votes": "5822"
+    "Total_Votes": "6147"
 },
 {
     "Candidate_First_Pref_Votes": "4862", 
@@ -695,7 +695,7 @@
     "Party_Name": "UK Independence Party", 
     "Candidate_Id": "145", 
     "Count_Number": "5", 
-    "Transfers": "-276.96", 
+    "Transfers": "0", 
     "id": 49, 
     "Total_Votes": "0"
 },
@@ -793,7 +793,7 @@
     "Party_Name": "Sinn Fein", 
     "Candidate_Id": "152", 
     "Count_Number": "5", 
-    "Transfers": "0", 
+    "Transfers": "-325", 
     "id": 56, 
     "Total_Votes": "5822"
 },
@@ -933,9 +933,9 @@
     "Party_Name": "Social Democratic and Labour Party", 
     "Candidate_Id": "150", 
     "Count_Number": "6", 
-    "Transfers": "387", 
+    "Transfers": "0", 
     "id": 66, 
-    "Total_Votes": "6209"
+    "Total_Votes": "5822"
 },
 {
     "Candidate_First_Pref_Votes": "7035", 
@@ -961,9 +961,9 @@
     "Party_Name": "Sinn Fein", 
     "Candidate_Id": "152", 
     "Count_Number": "6", 
-    "Transfers": "325", 
+    "Transfers": "0", 
     "id": 68, 
-    "Total_Votes": "6147"
+    "Total_Votes": "5822"
 },
 {
     "Candidate_First_Pref_Votes": "4862", 
@@ -1103,7 +1103,7 @@
     "Count_Number": "7", 
     "Transfers": "0", 
     "id": 78, 
-    "Total_Votes": "6209"
+    "Total_Votes": "5822"
 },
 {
     "Candidate_First_Pref_Votes": "7035", 
@@ -1131,7 +1131,7 @@
     "Count_Number": "7", 
     "Transfers": "0", 
     "id": 80, 
-    "Total_Votes": "6147"
+    "Total_Votes": "5822"
 },
 {
     "Candidate_First_Pref_Votes": "4862", 
@@ -1271,7 +1271,7 @@
     "Count_Number": "8", 
     "Transfers": "0", 
     "id": 90, 
-    "Total_Votes": "6209"
+    "Total_Votes": "5822"
 },
 {
     "Candidate_First_Pref_Votes": "7035", 
@@ -1299,7 +1299,7 @@
     "Count_Number": "8", 
     "Transfers": "0", 
     "id": 92, 
-    "Total_Votes": "6147"
+    "Total_Votes": "5822"
 },
 {
     "Candidate_First_Pref_Votes": "4862", 
@@ -1439,7 +1439,7 @@
     "Count_Number": "9", 
     "Transfers": "0", 
     "id": 102, 
-    "Total_Votes": "6209"
+    "Total_Votes": "5822"
 },
 {
     "Candidate_First_Pref_Votes": "7035", 
@@ -1467,7 +1467,7 @@
     "Count_Number": "9", 
     "Transfers": "0", 
     "id": 104, 
-    "Total_Votes": "6147"
+    "Total_Votes": "5822"
 },
 {
     "Candidate_First_Pref_Votes": "4862", 
@@ -1607,7 +1607,7 @@
     "Count_Number": "10", 
     "Transfers": "0", 
     "id": 114, 
-    "Total_Votes": "6209"
+    "Total_Votes": "5822"
 },
 {
     "Candidate_First_Pref_Votes": "7035", 
@@ -1635,7 +1635,7 @@
     "Count_Number": "10", 
     "Transfers": "0", 
     "id": 116, 
-    "Total_Votes": "6147"
+    "Total_Votes": "5822"
 },
 {
     "Candidate_First_Pref_Votes": "4862", 

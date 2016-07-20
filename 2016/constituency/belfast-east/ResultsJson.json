@@ -1339,9 +1339,9 @@
     "Party_Name": "Traditional Unionist Voice", 
     "Candidate_Id": "6", 
     "Count_Number": "6", 
-    "Transfers": "84", 
+    "Transfers": "4", 
     "id": 95, 
-    "Total_Votes": "991.03"
+    "Total_Votes": "911.03"
 },
 {
     "Candidate_First_Pref_Votes": "78", 
@@ -1591,7 +1591,7 @@
     "Party_Name": "Traditional Unionist Voice", 
     "Candidate_Id": "6", 
     "Count_Number": "7", 
-    "Transfers": "46.11", 
+    "Transfers": "126.11", 
     "id": 113, 
     "Total_Votes": "1037.14"
 },
@@ -3049,7 +3049,7 @@
     "Count_Number": "13", 
     "Transfers": "194.44", 
     "id": 217, 
-    "Total_Votes": "3050.84"
+    "Total_Votes": "3487.69"
 },
 {
     "Candidate_First_Pref_Votes": "5538", 
@@ -3215,7 +3215,7 @@
     "Party_Name": "Alliance Party", 
     "Candidate_Id": "14", 
     "Count_Number": "13", 
-    "Transfers": "-2536.62", 
+    "Transfers": "-2636.62", 
     "id": 229, 
     "Total_Votes": "0"
 },

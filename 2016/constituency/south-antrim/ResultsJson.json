@@ -70,7 +70,7 @@
     "Total_Votes": "1947"
 },
 {
-    "Candidate_First_Pref_Votes": "569", 
+    "Candidate_First_Pref_Votes": "589", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "FARLEY", 
@@ -81,7 +81,7 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 5, 
-    "Total_Votes": "569"
+    "Total_Votes": "589"
 },
 {
     "Candidate_First_Pref_Votes": "3119", 
@@ -266,7 +266,7 @@
     "Total_Votes": "1964"
 },
 {
-    "Candidate_First_Pref_Votes": "569", 
+    "Candidate_First_Pref_Votes": "589", 
     "Status": "Excluded", 
     "Occurred_On_Count": "2", 
     "Surname": "FARLEY", 
@@ -277,7 +277,7 @@
     "Count_Number": "2", 
     "Transfers": "100", 
     "id": 19, 
-    "Total_Votes": "669"
+    "Total_Votes": "689"
 },
 {
     "Candidate_First_Pref_Votes": "3119", 
@@ -462,7 +462,7 @@
     "Total_Votes": "2001"
 },
 {
-    "Candidate_First_Pref_Votes": "569", 
+    "Candidate_First_Pref_Votes": "589", 
     "Status": "Excluded", 
     "Occurred_On_Count": "2", 
     "Surname": "FARLEY", 
@@ -471,7 +471,7 @@
     "Party_Name": "Green Party", 
     "Candidate_Id": "206", 
     "Count_Number": "3", 
-    "Transfers": "-669", 
+    "Transfers": "-689", 
     "id": 33, 
     "Total_Votes": "0"
 },
@@ -658,7 +658,7 @@
     "Total_Votes": "2200"
 },
 {
-    "Candidate_First_Pref_Votes": "569", 
+    "Candidate_First_Pref_Votes": "589", 
     "Status": "Excluded", 
     "Occurred_On_Count": "2", 
     "Surname": "FARLEY", 
@@ -854,7 +854,7 @@
     "Total_Votes": "0"
 },
 {
-    "Candidate_First_Pref_Votes": "569", 
+    "Candidate_First_Pref_Votes": "589", 
     "Status": "Excluded", 
     "Occurred_On_Count": "2", 
     "Surname": "FARLEY", 
@@ -1050,7 +1050,7 @@
     "Total_Votes": "0"
 },
 {
-    "Candidate_First_Pref_Votes": "569", 
+    "Candidate_First_Pref_Votes": "589", 
     "Status": "Excluded", 
     "Occurred_On_Count": "2", 
     "Surname": "FARLEY", 
@@ -1246,7 +1246,7 @@
     "Total_Votes": "0"
 },
 {
-    "Candidate_First_Pref_Votes": "569", 
+    "Candidate_First_Pref_Votes": "589", 
     "Status": "Excluded", 
     "Occurred_On_Count": "2", 
     "Surname": "FARLEY", 
