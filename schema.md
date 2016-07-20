@@ -8,12 +8,12 @@ In the head directory, information on the election contest taking place, to prov
 
 |Name|Type|Description|
 |----|----|-----------|
-Contest ID|URI|A URI providing a unique identifier for the individual electoral contest|
+Contest_ID|URI|A URI providing a unique identifier for the individual electoral contest|
 Name|String|A name for the election, e.g. "UK Parliamentary Election 2015"|
-Election Type|String|The type of election. This should ideally draw from a controlled vocabulary|
-Electoral System|String|Identifies the electoral system being used in the election. Ideally this should draw from a controlled vocabulary|
-Start Date|Date|The date on which the electoral contest begun (i.e. voting day)|
-End Date|Date|The date on which the electoral contest ended. Some contests run for a single day, in which case the start and end dates will be the same|
+Election_Type|String|The type of election. This should ideally draw from a controlled vocabulary|
+Electoral_System|String|Identifies the electoral system being used in the election. Ideally this should draw from a controlled vocabulary|
+Start_Date|Date|The date on which the electoral contest begun (i.e. voting day)|
+End_Date|Date|The date on which the electoral contest ended. Some contests run for a single day, in which case the start and end dates will be the same|
 
 
 ## /NI
@@ -28,7 +28,19 @@ Identifiers for all constituencies in election
 |Constituency_Name|String|Full (official) name|
 |ONS_Code|URI|Office of National Statistics identifying code for the analogous Westminster Parliamentary Constituency. See https://geoportal.statistics.gov.uk/geoportal/catalog/search/resource/details.page?uuid=%7B7E721144-C4DD-43A4-AEA3-BF94EB77A633%7D|
 |Constituency_Code|URI|Abbreviation of constituency name (generally 2-letter, but 3-letter in case of Newry & Armagh: NYA)|
+|Number_Of_Seats|Integer|The number of seats available in the constituency|
 |Constituency_Directory|String|Constituency name in the /constituency directory|
+
+The post-election version contains additional columns with information about polling turnout from the individual ConstituencyCount tables:
+|Name|Type|Description|
+|----|----|-----------|
+|Voting_Age_Pop|Integer|Total population aged 18+ (n.b. some may not be entitled to vote due to residency status)|
+|Total_Poll|Integer|Total number of votes cast|
+|Spoiled|Integer|Total number of invalid votes|
+|Valid_Poll|Integer|Total number of valid votes to be counted =(Total_Poll - Spoiled)|
+|Quota|Integer|Pass mark for total number of votes to be elected in any stage|
+|Total_Electorate|Integer|Total number of eligible voters on the electoral register|
+|Turnout_pct|Float|The turnout: Total_Poll as a percentage of Total_Electorate|
 
 ### parties
 Identifiers for all political parties (N.B. there is a 'party' for Independent candidates).
@@ -42,7 +54,7 @@ Identifiers for all political parties (N.B. there is a 'party' for Independent c
 
 ## /constituency
 Each constituency has its own Directory within in /constituency, matching those in that in NI/constituencies.csv (above), each with the following set of tables.
-### /[Constituency_Directory]/Candidates
+### /[Constituency_Directory]/Candidate
 Candidate information for the constituency
 
 |Name|Type|Description|
@@ -69,9 +81,9 @@ Headline data on polling in the constituency.
 |Spoiled|Integer|Total number of invalid votes|
 |Valid_Poll|Integer|Total number of valid votes to be counted =(Total_Poll - Spoiled)|
 |Quota|Integer|Pass mark for total number of votes to be elected in any stage|
-|Total_Electorate|Integer|Total number of eligible voters|
+|Total_Electorate|Integer|Total number of eligible voters on the electoral register|
 |Number_Of_Seats|Integer|Number of seats to be filled in constituency|
-|Constituency_Code|URI|As with the NI/constituencies table|
+|Constituency_Code|String|As with the NI/constituencies table|
 |Voting_Age_Pop|Integer|Total population aged 18+ (n.b. some may not be entitled to vote due to residency status)|
 
 ### /[Constituency_Directory]/Count
@@ -96,4 +108,4 @@ The results for each candidate and each count stage, representing the Single Tra
 |----|----|-----------|
 |Constituency_Number|URI|As with /NI/constituencies table|
 |Count_Number|Integer|As with /[Constituency_Directory]/Count table (this will not include 1 as no votes will be transferred at this stage)|
-|Non_Transferable|Float|Number of votes not transferred to a candidate|
+|Non_Transferable|Float|Number of votes not transferred to any candidate|
