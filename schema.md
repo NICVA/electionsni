@@ -32,6 +32,7 @@ Identifiers for all constituencies in election
 |Constituency_Directory|String|Constituency name in the /constituency directory|
 
 The post-election version contains additional columns with information about polling turnout from the individual ConstituencyCount tables:
+
 |Name|Type|Description|
 |----|----|-----------|
 |Voting_Age_Pop|Integer|Total population aged 18+ (n.b. some may not be entitled to vote due to residency status)|
