@@ -1,0 +1,97 @@
+Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_Pref_Votes,Transfers,Total_Votes,Status,Occurred_On_Count,Party_Name
+14,215,1,Sinead,BRADLEY,5059,0,5059,,,Social Democratic and Labour Party
+14,216,1,Patrick,BROWN,2200,0,2200,,,Alliance Party
+14,217,1,Michael,GRAY-SLOAN,3520,0,3520,,,Sinn Fein
+14,218,1,John,HARDY,820,0,820,Excluded,1,Green Party
+14,219,1,Chris,HAZZARD,5045,0,5045,,,Sinn Fein
+14,220,1,John,MCCALLISTER,1156,0,1156,Excluded,1,Independent
+14,221,1,Colin,MCGRATH,4288,0,4288,,,Social Democratic and Labour Party
+14,222,1,Harold,MCKEE,3481,0,3481,,,Ulster Unionist Party
+14,223,1,Henry,REILLY,2718,0,2718,,,Traditional Unionist Voice
+14,224,1,Sean,ROGERS,3564,0,3564,,,Social Democratic and Labour Party
+14,225,1,Caitriona,RUANE,4191,0,4191,,,Sinn Fein
+14,226,1,Jim,WELLS,5033,0,5033,,,Democratic Unionist Party
+14,215,2,Sinead,BRADLEY,5059,172,5231,,,Social Democratic and Labour Party
+14,216,2,Patrick,BROWN,2200,641,2841,,,Alliance Party
+14,217,2,Michael,GRAY-SLOAN,3520,51,3571,,,Sinn Fein
+14,218,2,John,HARDY,820,-820,0,Excluded,1,Green Party
+14,219,2,Chris,HAZZARD,5045,97,5142,,,Sinn Fein
+14,220,2,John,MCCALLISTER,1156,-1156,0,Excluded,1,Independent
+14,221,2,Colin,MCGRATH,4288,141,4429,,,Social Democratic and Labour Party
+14,222,2,Harold,MCKEE,3481,331,3812,,,Ulster Unionist Party
+14,223,2,Henry,REILLY,2718,82,2800,Excluded,2,Traditional Unionist Voice
+14,224,2,Sean,ROGERS,3564,135,3699,,,Social Democratic and Labour Party
+14,225,2,Caitriona,RUANE,4191,49,4240,,,Sinn Fein
+14,226,2,Jim,WELLS,5033,150,5183,,,Democratic Unionist Party
+14,215,3,Sinead,BRADLEY,5059,10,5241,,,Social Democratic and Labour Party
+14,216,3,Patrick,BROWN,2200,28,2869,Excluded,3,Alliance Party
+14,217,3,Michael,GRAY-SLOAN,3520,1,3572,,,Sinn Fein
+14,218,3,John,HARDY,820,0,0,Excluded,1,Green Party
+14,219,3,Chris,HAZZARD,5045,2,5144,,,Sinn Fein
+14,220,3,John,MCCALLISTER,1156,0,0,Excluded,1,Independent
+14,221,3,Colin,MCGRATH,4288,11,4440,,,Social Democratic and Labour Party
+14,222,3,Harold,MCKEE,3481,1356,5168,,,Ulster Unionist Party
+14,223,3,Henry,REILLY,2718,-2800,0,Excluded,2,Traditional Unionist Voice
+14,224,3,Sean,ROGERS,3564,22,3721,,,Social Democratic and Labour Party
+14,225,3,Caitriona,RUANE,4191,4,4244,,,Sinn Fein
+14,226,3,Jim,WELLS,5033,1287,6470,Elected,3,Democratic Unionist Party
+14,215,4,Sinead,BRADLEY,5059,587,5828,,,Social Democratic and Labour Party
+14,216,4,Patrick,BROWN,2200,-2869,0,Excluded,3,Alliance Party
+14,217,4,Michael,GRAY-SLOAN,3520,93,3665,Excluded,4,Sinn Fein
+14,218,4,John,HARDY,820,0,0,Excluded,1,Green Party
+14,219,4,Chris,HAZZARD,5045,177,5321,,,Sinn Fein
+14,220,4,John,MCCALLISTER,1156,0,0,Excluded,1,Independent
+14,221,4,Colin,MCGRATH,4288,593,5033,,,Social Democratic and Labour Party
+14,222,4,Harold,MCKEE,3481,399,5567,,,Ulster Unionist Party
+14,223,4,Henry,REILLY,2718,0,0,Excluded,2,Traditional Unionist Voice
+14,224,4,Sean,ROGERS,3564,355,4076,,,Social Democratic and Labour Party
+14,225,4,Caitriona,RUANE,4191,91,4335,,,Sinn Fein
+14,226,4,Jim,WELLS,5033,0,6470,Elected,3,Democratic Unionist Party
+14,215,5,Sinead,BRADLEY,5059,6,5834,,,Social Democratic and Labour Party
+14,216,5,Patrick,BROWN,2200,0,0,Excluded,3,Alliance Party
+14,217,5,Michael,GRAY-SLOAN,3520,0,3665,Excluded,4,Sinn Fein
+14,218,5,John,HARDY,820,0,0,Excluded,1,Green Party
+14,219,5,Chris,HAZZARD,5045,0.5,5321.5,,,Sinn Fein
+14,220,5,John,MCCALLISTER,1156,0,0,Excluded,1,Independent
+14,221,5,Colin,MCGRATH,4288,5,5038,,,Social Democratic and Labour Party
+14,222,5,Harold,MCKEE,3481,574,6141,Elected,5,Ulster Unionist Party
+14,223,5,Henry,REILLY,2718,0,0,Excluded,2,Traditional Unionist Voice
+14,224,5,Sean,ROGERS,3564,10.5,4086.5,,,Social Democratic and Labour Party
+14,225,5,Caitriona,RUANE,4191,0,4335,,,Sinn Fein
+14,226,5,Jim,WELLS,5033,-602,5868,Elected,3,Democratic Unionist Party
+14,215,6,Sinead,BRADLEY,5059,310,6144,Elected,6,Social Democratic and Labour Party
+14,216,6,Patrick,BROWN,2200,0,0,Excluded,3,Alliance Party
+14,217,6,Michael,GRAY-SLOAN,3520,-3665,0,Excluded,4,Sinn Fein
+14,218,6,John,HARDY,820,0,0,Excluded,1,Green Party
+14,219,6,Chris,HAZZARD,5045,1956,7277.5,Elected,6,Sinn Fein
+14,220,6,John,MCCALLISTER,1156,0,0,Excluded,1,Independent
+14,221,6,Colin,MCGRATH,4288,83,5121,,,Social Democratic and Labour Party
+14,222,6,Harold,MCKEE,3481,0,6141,Elected,5,Ulster Unionist Party
+14,223,6,Henry,REILLY,2718,0,0,Excluded,2,Traditional Unionist Voice
+14,224,6,Sean,ROGERS,3564,141,4227.5,,,Social Democratic and Labour Party
+14,225,6,Caitriona,RUANE,4191,1080,5415,,,Sinn Fein
+14,226,6,Jim,WELLS,5033,0,5868,Elected,3,Democratic Unionist Party
+14,215,7,Sinead,BRADLEY,5059,0,6144,Elected,6,Social Democratic and Labour Party
+14,216,7,Patrick,BROWN,2200,0,0,Excluded,3,Alliance Party
+14,217,7,Michael,GRAY-SLOAN,3520,0,0,Excluded,4,Sinn Fein
+14,218,7,John,HARDY,820,0,0,Excluded,1,Green Party
+14,219,7,Chris,HAZZARD,5045,-1409.5,5868,Elected,6,Sinn Fein
+14,220,7,John,MCCALLISTER,1156,0,0,Excluded,1,Independent
+14,221,7,Colin,MCGRATH,4288,69,5190,,,Social Democratic and Labour Party
+14,222,7,Harold,MCKEE,3481,0,6141,Elected,5,Ulster Unionist Party
+14,223,7,Henry,REILLY,2718,0,0,Excluded,2,Traditional Unionist Voice
+14,224,7,Sean,ROGERS,3564,81.75,4309.25,,,Social Democratic and Labour Party
+14,225,7,Caitriona,RUANE,4191,1249.5,6664.5,Elected,7,Sinn Fein
+14,226,7,Jim,WELLS,5033,0,5868,Elected,3,Democratic Unionist Party
+14,215,8,Sinead,BRADLEY,5059,0,6144,Elected,6,Social Democratic and Labour Party
+14,216,8,Patrick,BROWN,2200,0,0,Excluded,3,Alliance Party
+14,217,8,Michael,GRAY-SLOAN,3520,0,0,Excluded,4,Sinn Fein
+14,218,8,John,HARDY,820,0,0,Excluded,1,Green Party
+14,219,8,Chris,HAZZARD,5045,0,5868,Elected,6,Sinn Fein
+14,220,8,John,MCCALLISTER,1156,0,0,Excluded,1,Independent
+14,221,8,Colin,MCGRATH,4288,207,5397,Elected,8,Social Democratic and Labour Party
+14,222,8,Harold,MCKEE,3481,0,6141,Elected,5,Ulster Unionist Party
+14,223,8,Henry,REILLY,2718,0,0,Excluded,2,Traditional Unionist Voice
+14,224,8,Sean,ROGERS,3564,286.5,4595.75,Excluded,8,Social Democratic and Labour Party
+14,225,8,Caitriona,RUANE,4191,-796.5,5868,Elected,7,Sinn Fein
+14,226,8,Jim,WELLS,5033,0,5868,Elected,3,Democratic Unionist Party

@@ -1,0 +1,111 @@
+{"Constituencies": [
+{
+    "Constituency_Name": "Belfast East",
+    "Constituency_Number": 2,
+    "Directory": "belfast-east",
+    "countInfo": {"Valid_Poll": "", "Number_Of_Seats": "5", "Total_Poll": "", "Voting_Age_Pop": "74065", "Quota": "", "Constituency_Name": "Belfast East", "Constituency_Number": "2", "Total_Electorate": "", "Spoiled": ""}
+    },
+{
+    "Constituency_Name": "Belfast North",
+    "Constituency_Number": 10,
+    "Directory": "belfast-north",
+    "countInfo": {"Valid_Poll": "", "Number_Of_Seats": "5", "Total_Poll": "", "Voting_Age_Pop": "78914", "Quota": "", "Constituency_Name": "Belfast North", "Constituency_Number": "10", "Total_Electorate": "", "Spoiled": ""}
+    },
+{
+    "Constituency_Name": "Belfast South",
+    "Constituency_Number": 13,
+    "Directory": "belfast-south",
+    "countInfo": {"Valid_Poll": "", "Number_Of_Seats": "5", "Total_Poll": "", "Voting_Age_Pop": "91756", "Quota": "", "Constituency_Name": "Belfast South", "Constituency_Number": "13", "Total_Electorate": "", "Spoiled": ""}
+    },
+{
+    "Constituency_Name": "Belfast West",
+    "Constituency_Number": 17,
+    "Directory": "belfast-west",
+    "countInfo": {"Valid_Poll": "", "Number_Of_Seats": "5", "Total_Poll": "", "Voting_Age_Pop": "69817", "Quota": "", "Constituency_Name": "Belfast West", "Constituency_Number": "17", "Total_Electorate": "", "Spoiled": ""}
+    },
+{
+    "Constituency_Name": "East Antrim",
+    "Constituency_Number": 1,
+    "Directory": "east-antrim",
+    "countInfo": {"Valid_Poll": "", "Number_Of_Seats": "5", "Total_Poll": "", "Voting_Age_Pop": "70652", "Quota": "", "Constituency_Name": "East Antrim", "Constituency_Number": "1", "Total_Electorate": "", "Spoiled": ""}
+    },
+{
+    "Constituency_Name": "East Londonderry",
+    "Constituency_Number": 3,
+    "Directory": "east-londonderry",
+    "countInfo": {"Valid_Poll": "", "Number_Of_Seats": "5", "Total_Poll": "", "Voting_Age_Pop": "77437", "Quota": "", "Constituency_Name": "East Londonderry", "Constituency_Number": "3", "Total_Electorate": "", "Spoiled": ""}
+    },
+{
+    "Constituency_Name": "Fermanagh and South Tyrone",
+    "Constituency_Number": 4,
+    "Directory": "fermanagh-south-tyrone",
+    "countInfo": {"Valid_Poll": "", "Number_Of_Seats": "5", "Total_Poll": "", "Voting_Age_Pop": "79405", "Quota": "", "Constituency_Name": "Fermanagh and South Tyrone", "Constituency_Number": "4", "Total_Electorate": "", "Spoiled": ""}
+    },
+{
+    "Constituency_Name": "Foyle",
+    "Constituency_Number": 5,
+    "Directory": "foyle",
+    "countInfo": {"Valid_Poll": "", "Number_Of_Seats": "5", "Total_Poll": "", "Voting_Age_Pop": "76503", "Quota": "", "Constituency_Name": "Foyle", "Constituency_Number": "5", "Total_Electorate": "", "Spoiled": ""}
+    },
+{
+    "Constituency_Name": "Lagan Valley",
+    "Constituency_Number": 6,
+    "Directory": "lagan-valley",
+    "countInfo": {"Valid_Poll": "", "Number_Of_Seats": "5", "Total_Poll": "", "Voting_Age_Pop": "80833", "Quota": "", "Constituency_Name": "Lagan Valley", "Constituency_Number": "6", "Total_Electorate": "", "Spoiled": ""}
+    },
+{
+    "Constituency_Name": "Mid Ulster",
+    "Constituency_Number": 7,
+    "Directory": "mid-ulster",
+    "countInfo": {"Valid_Poll": "", "Number_Of_Seats": "5", "Total_Poll": "", "Voting_Age_Pop": "75342", "Quota": "", "Constituency_Name": "Mid Ulster", "Constituency_Number": "7", "Total_Electorate": "", "Spoiled": ""}
+    },
+{
+    "Constituency_Name": "Newry and Armagh",
+    "Constituency_Number": 8,
+    "Directory": "newry-armagh",
+    "countInfo": {"Valid_Poll": "", "Number_Of_Seats": "5", "Total_Poll": "", "Voting_Age_Pop": "85884", "Quota": "", "Constituency_Name": "Newry and Armagh", "Constituency_Number": "8", "Total_Electorate": "", "Spoiled": ""}
+    },
+{
+    "Constituency_Name": "North Antrim",
+    "Constituency_Number": 9,
+    "Directory": "north-antrim",
+    "countInfo": {"Valid_Poll": "", "Number_Of_Seats": "5", "Total_Poll": "", "Voting_Age_Pop": "85122", "Quota": "", "Constituency_Name": "North Antrim", "Constituency_Number": "9", "Total_Electorate": "", "Spoiled": ""}
+    },
+{
+    "Constituency_Name": "North Down",
+    "Constituency_Number": 11,
+    "Directory": "north-down",
+    "countInfo": {"Valid_Poll": "", "Number_Of_Seats": "5", "Total_Poll": "", "Voting_Age_Pop": "71239", "Quota": "", "Constituency_Name": "North Down", "Constituency_Number": "11", "Total_Electorate": "", "Spoiled": ""}
+    },
+{
+    "Constituency_Name": "South Antrim",
+    "Constituency_Number": 12,
+    "Directory": "south-antrim",
+    "countInfo": {"Valid_Poll": "", "Number_Of_Seats": "6", "Total_Poll": "", "Voting_Age_Pop": "76066", "Quota": "", "Constituency_Name": "South Antrim", "Constituency_Number": "12", "Total_Electorate": "", "Spoiled": ""}
+    },
+{
+    "Constituency_Name": "South Down",
+    "Constituency_Number": 14,
+    "Directory": "south-down",
+    "countInfo": {"Valid_Poll": "", "Number_Of_Seats": "5", "Total_Poll": "", "Voting_Age_Pop": "82463", "Quota": "", "Constituency_Name": "South Down", "Constituency_Number": "14", "Total_Electorate": "", "Spoiled": ""}
+    },
+{
+    "Constituency_Name": "Strangford",
+    "Constituency_Number": 15,
+    "Directory": "strangford",
+    "countInfo": {"Valid_Poll": "", "Number_Of_Seats": "5", "Total_Poll": "", "Voting_Age_Pop": "70598", "Quota": "", "Constituency_Name": "Strangford", "Constituency_Number": "15", "Total_Electorate": "", "Spoiled": ""}
+    },
+{
+    "Constituency_Name": "Upper Bann",
+    "Constituency_Number": 16,
+    "Directory": "upper-bann",
+    "countInfo": {"Valid_Poll": "", "Number_Of_Seats": "5", "Total_Poll": "", "Voting_Age_Pop": "92012", "Quota": "", "Constituency_Name": "Upper Bann", "Constituency_Number": "16", "Total_Electorate": "", "Spoiled": ""}
+    },
+{
+    "Constituency_Name": "West Tyrone",
+    "Constituency_Number": 18,
+    "Directory": "west-tyrone",
+    "countInfo": {"Valid_Poll": "", "Number_Of_Seats": "5", "Total_Poll": "", "Voting_Age_Pop": "69229", "Quota": "", "Constituency_Name": "West Tyrone", "Constituency_Number": "18", "Total_Electorate": "", "Spoiled": ""}
+    }
+    ]
+}

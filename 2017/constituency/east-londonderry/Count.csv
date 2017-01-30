@@ -1,0 +1,154 @@
+Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_Pref_Votes,Transfers,Total_Votes,Status,Occurred_On_Count,Party_Name
+3,82,1,Caoimhe,ARCHIBALD,4002,0,4002,,,Sinn Fein
+3,83,1,Jordan,ARMSTRONG,1191,0,1191,,,Traditional Unionist Voice
+3,84,1,Yvonne,BOYLE,1257,0,1257,,,Alliance Party
+3,85,1,Maurice,BRADLEY,4630,0,4630,,,Democratic Unionist Party
+3,86,1,Aaron,CALLAN,1067,0,1067,,,Ulster Unionist Party
+3,87,1,Stuart,CANNING,50,0,50,Excluded,1,NI Conservatives
+3,88,1,Tor,CHRISTIE,61,0,61,Excluded,1,Independent
+3,89,1,Amber,HAMMILL,434,0,434,Excluded,1,Green Party
+3,90,1,David,HARDING,216,0,216,Excluded,1,NI Conservatives
+3,91,1,William,MCCANDLESS,1789,0,1789,,,Ulster Unionist Party
+3,92,1,Adrian,MCQUILLAN,3477,0,3477,,,Democratic Unionist Party
+3,93,1,Gerry,MULLAN,3265,0,3265,,,Social Democratic and Labour Party
+3,94,1,Cathal,O HOISIN,3493,0,3493,,,Sinn Fein
+3,95,1,Steven,PARKHILL,274,0,274,Excluded,1,UK Independence Party
+3,96,1,George,ROBINSON,4567,0,4567,,,Democratic Unionist Party
+3,97,1,Claire,SUGDEN,3270,0,3270,,,Independent
+3,98,1,Russell,WATTON,1356,0,1356,,,Progressive Unionist Party
+3,82,2,Caoimhe,ARCHIBALD,4002,41,4043,,,Sinn Fein
+3,83,2,Jordan,ARMSTRONG,1191,49,1240,,,Traditional Unionist Voice
+3,84,2,Yvonne,BOYLE,1257,235,1492,,,Alliance Party
+3,85,2,Maurice,BRADLEY,4630,59,4689,,,Democratic Unionist Party
+3,86,2,Aaron,CALLAN,1067,29,1096,Excluded,2,Ulster Unionist Party
+3,87,2,Stuart,CANNING,50,-50,0,Excluded,1,NI Conservatives
+3,88,2,Tor,CHRISTIE,61,-61,0,Excluded,1,Independent
+3,89,2,Amber,HAMMILL,434,-434,0,Excluded,1,Green Party
+3,90,2,David,HARDING,216,-216,0,Excluded,1,NI Conservatives
+3,91,2,William,MCCANDLESS,1789,78,1867,,,Ulster Unionist Party
+3,92,2,Adrian,MCQUILLAN,3477,46,3523,,,Democratic Unionist Party
+3,93,2,Gerry,MULLAN,3265,76,3341,,,Social Democratic and Labour Party
+3,94,2,Cathal,O HOISIN,3493,21,3514,,,Sinn Fein
+3,95,2,Steven,PARKHILL,274,-274,0,Excluded,1,UK Independence Party
+3,96,2,George,ROBINSON,4567,49,4616,,,Democratic Unionist Party
+3,97,2,Claire,SUGDEN,3270,218,3488,,,Independent
+3,98,2,Russell,WATTON,1356,43,1399,,,Progressive Unionist Party
+3,82,3,Caoimhe,ARCHIBALD,4002,1,4044,,,Sinn Fein
+3,83,3,Jordan,ARMSTRONG,1191,51,1291,Excluded,3,Traditional Unionist Voice
+3,84,3,Yvonne,BOYLE,1257,24,1516,,,Alliance Party
+3,85,3,Maurice,BRADLEY,4630,78,4767,,,Democratic Unionist Party
+3,86,3,Aaron,CALLAN,1067,-1096,0,Excluded,2,Ulster Unionist Party
+3,87,3,Stuart,CANNING,50,0,0,Excluded,1,NI Conservatives
+3,88,3,Tor,CHRISTIE,61,0,0,Excluded,1,Independent
+3,89,3,Amber,HAMMILL,434,0,0,Excluded,1,Green Party
+3,90,3,David,HARDING,216,0,0,Excluded,1,NI Conservatives
+3,91,3,William,MCCANDLESS,1789,762,2629,,,Ulster Unionist Party
+3,92,3,Adrian,MCQUILLAN,3477,28,3551,,,Democratic Unionist Party
+3,93,3,Gerry,MULLAN,3265,11,3352,,,Social Democratic and Labour Party
+3,94,3,Cathal,O HOISIN,3493,0,3514,,,Sinn Fein
+3,95,3,Steven,PARKHILL,274,0,0,Excluded,1,UK Independence Party
+3,96,3,George,ROBINSON,4567,95,4711,,,Democratic Unionist Party
+3,97,3,Claire,SUGDEN,3270,33,3521,,,Independent
+3,98,3,Russell,WATTON,1356,4,1403,,,Progressive Unionist Party
+3,82,4,Caoimhe,ARCHIBALD,4002,1,4045,,,Sinn Fein
+3,83,4,Jordan,ARMSTRONG,1191,-1291,0,Excluded,3,Traditional Unionist Voice
+3,84,4,Yvonne,BOYLE,1257,23,1539,,,Alliance Party
+3,85,4,Maurice,BRADLEY,4630,294,5061,Elected,4,Democratic Unionist Party
+3,86,4,Aaron,CALLAN,1067,0,0,Excluded,2,Ulster Unionist Party
+3,87,4,Stuart,CANNING,50,0,0,Excluded,1,NI Conservatives
+3,88,4,Tor,CHRISTIE,61,0,0,Excluded,1,Independent
+3,89,4,Amber,HAMMILL,434,0,0,Excluded,1,Green Party
+3,90,4,David,HARDING,216,0,0,Excluded,1,NI Conservatives
+3,91,4,William,MCCANDLESS,1789,292,2921,,,Ulster Unionist Party
+3,92,4,Adrian,MCQUILLAN,3477,152,3703,,,Democratic Unionist Party
+3,93,4,Gerry,MULLAN,3265,12,3364,,,Social Democratic and Labour Party
+3,94,4,Cathal,O HOISIN,3493,0,3514,,,Sinn Fein
+3,95,4,Steven,PARKHILL,274,0,0,Excluded,1,UK Independence Party
+3,96,4,George,ROBINSON,4567,220,4931,Elected,4,Democratic Unionist Party
+3,97,4,Claire,SUGDEN,3270,94,3615,,,Independent
+3,98,4,Russell,WATTON,1356,132,1535,,,Progressive Unionist Party
+3,82,5,Caoimhe,ARCHIBALD,4002,0,4045,,,Sinn Fein
+3,83,5,Jordan,ARMSTRONG,1191,0,0,Excluded,3,Traditional Unionist Voice
+3,84,5,Yvonne,BOYLE,1257,1.12,1540.12,,,Alliance Party
+3,85,5,Maurice,BRADLEY,4630,-146,4915,Elected,4,Democratic Unionist Party
+3,86,5,Aaron,CALLAN,1067,0,0,Excluded,2,Ulster Unionist Party
+3,87,5,Stuart,CANNING,50,0,0,Excluded,1,NI Conservatives
+3,88,5,Tor,CHRISTIE,61,0,0,Excluded,1,Independent
+3,89,5,Amber,HAMMILL,434,0,0,Excluded,1,Green Party
+3,90,5,David,HARDING,216,0,0,Excluded,1,NI Conservatives
+3,91,5,William,MCCANDLESS,1789,42.56,2963.56,,,Ulster Unionist Party
+3,92,5,Adrian,MCQUILLAN,3477,86.24,3789.24,,,Democratic Unionist Party
+3,93,5,Gerry,MULLAN,3265,1.68,3365.68,,,Social Democratic and Labour Party
+3,94,5,Cathal,O HOISIN,3493,0,3514,,,Sinn Fein
+3,95,5,Steven,PARKHILL,274,0,0,Excluded,1,UK Independence Party
+3,96,5,George,ROBINSON,4567,0,4931,Elected,4,Democratic Unionist Party
+3,97,5,Claire,SUGDEN,3270,3.92,3618.92,,,Independent
+3,98,5,Russell,WATTON,1356,8.96,1543.96,,,Progressive Unionist Party
+3,82,6,Caoimhe,ARCHIBALD,4002,1,4046,,,Sinn Fein
+3,83,6,Jordan,ARMSTRONG,1191,0,0,Excluded,3,Traditional Unionist Voice
+3,84,6,Yvonne,BOYLE,1257,1,1541.12,Excluded,6,Alliance Party
+3,85,6,Maurice,BRADLEY,4630,0,4915,Elected,4,Democratic Unionist Party
+3,86,6,Aaron,CALLAN,1067,0,0,Excluded,2,Ulster Unionist Party
+3,87,6,Stuart,CANNING,50,0,0,Excluded,1,NI Conservatives
+3,88,6,Tor,CHRISTIE,61,0,0,Excluded,1,Independent
+3,89,6,Amber,HAMMILL,434,0,0,Excluded,1,Green Party
+3,90,6,David,HARDING,216,0,0,Excluded,1,NI Conservatives
+3,91,6,William,MCCANDLESS,1789,1,2964.56,,,Ulster Unionist Party
+3,92,6,Adrian,MCQUILLAN,3477,5,3794.24,,,Democratic Unionist Party
+3,93,6,Gerry,MULLAN,3265,0,3365.68,,,Social Democratic and Labour Party
+3,94,6,Cathal,O HOISIN,3493,0,3514,,,Sinn Fein
+3,95,6,Steven,PARKHILL,274,0,0,Excluded,1,UK Independence Party
+3,96,6,George,ROBINSON,4567,-16,4915,Elected,4,Democratic Unionist Party
+3,97,6,Claire,SUGDEN,3270,1,3619.92,,,Independent
+3,98,6,Russell,WATTON,1356,2,1545.96,,,Progressive Unionist Party
+3,82,7,Caoimhe,ARCHIBALD,4002,75,4121,,,Sinn Fein
+3,83,7,Jordan,ARMSTRONG,1191,0,0,Excluded,3,Traditional Unionist Voice
+3,84,7,Yvonne,BOYLE,1257,-1541.12,0,Excluded,6,Alliance Party
+3,85,7,Maurice,BRADLEY,4630,0,4915,Elected,4,Democratic Unionist Party
+3,86,7,Aaron,CALLAN,1067,0,0,Excluded,2,Ulster Unionist Party
+3,87,7,Stuart,CANNING,50,0,0,Excluded,1,NI Conservatives
+3,88,7,Tor,CHRISTIE,61,0,0,Excluded,1,Independent
+3,89,7,Amber,HAMMILL,434,0,0,Excluded,1,Green Party
+3,90,7,David,HARDING,216,0,0,Excluded,1,NI Conservatives
+3,91,7,William,MCCANDLESS,1789,202.12,3166.68,,,Ulster Unionist Party
+3,92,7,Adrian,MCQUILLAN,3477,71,3865.24,,,Democratic Unionist Party
+3,93,7,Gerry,MULLAN,3265,435,3800.68,,,Social Democratic and Labour Party
+3,94,7,Cathal,O HOISIN,3493,8,3522,,,Sinn Fein
+3,95,7,Steven,PARKHILL,274,0,0,Excluded,1,UK Independence Party
+3,96,7,George,ROBINSON,4567,0,4915,Elected,4,Democratic Unionist Party
+3,97,7,Claire,SUGDEN,3270,486,4105.92,,,Independent
+3,98,7,Russell,WATTON,1356,7,1552.96,Excluded,7,Progressive Unionist Party
+3,82,8,Caoimhe,ARCHIBALD,4002,6,4127,,,Sinn Fein
+3,83,8,Jordan,ARMSTRONG,1191,0,0,Excluded,3,Traditional Unionist Voice
+3,84,8,Yvonne,BOYLE,1257,0,0,Excluded,6,Alliance Party
+3,85,8,Maurice,BRADLEY,4630,0,4915,Elected,4,Democratic Unionist Party
+3,86,8,Aaron,CALLAN,1067,0,0,Excluded,2,Ulster Unionist Party
+3,87,8,Stuart,CANNING,50,0,0,Excluded,1,NI Conservatives
+3,88,8,Tor,CHRISTIE,61,0,0,Excluded,1,Independent
+3,89,8,Amber,HAMMILL,434,0,0,Excluded,1,Green Party
+3,90,8,David,HARDING,216,0,0,Excluded,1,NI Conservatives
+3,91,8,William,MCCANDLESS,1789,240.56,3407.24,Excluded,8,Ulster Unionist Party
+3,92,8,Adrian,MCQUILLAN,3477,742.36,4607.6,,,Democratic Unionist Party
+3,93,8,Gerry,MULLAN,3265,8,3808.68,,,Social Democratic and Labour Party
+3,94,8,Cathal,O HOISIN,3493,2,3524,,,Sinn Fein
+3,95,8,Steven,PARKHILL,274,0,0,Excluded,1,UK Independence Party
+3,96,8,George,ROBINSON,4567,0,4915,Elected,4,Democratic Unionist Party
+3,97,8,Claire,SUGDEN,3270,352.68,4458.6,,,Independent
+3,98,8,Russell,WATTON,1356,-1552.96,0,Excluded,7,Progressive Unionist Party
+3,82,9,Caoimhe,ARCHIBALD,4002,12,4139,Elected,9,Sinn Fein
+3,83,9,Jordan,ARMSTRONG,1191,0,0,Excluded,3,Traditional Unionist Voice
+3,84,9,Yvonne,BOYLE,1257,0,0,Excluded,6,Alliance Party
+3,85,9,Maurice,BRADLEY,4630,0,4915,Elected,4,Democratic Unionist Party
+3,86,9,Aaron,CALLAN,1067,0,0,Excluded,2,Ulster Unionist Party
+3,87,9,Stuart,CANNING,50,0,0,Excluded,1,NI Conservatives
+3,88,9,Tor,CHRISTIE,61,0,0,Excluded,1,Independent
+3,89,9,Amber,HAMMILL,434,0,0,Excluded,1,Green Party
+3,90,9,David,HARDING,216,0,0,Excluded,1,NI Conservatives
+3,91,9,William,MCCANDLESS,1789,-3407.24,0,Excluded,8,Ulster Unionist Party
+3,92,9,Adrian,MCQUILLAN,3477,777,5384.6,Elected,9,Democratic Unionist Party
+3,93,9,Gerry,MULLAN,3265,363.48,4172.16,Elected,9,Social Democratic and Labour Party
+3,94,9,Cathal,O HOISIN,3493,8.68,3532.68,Excluded,9,Sinn Fein
+3,95,9,Steven,PARKHILL,274,0,0,Excluded,1,UK Independence Party
+3,96,9,George,ROBINSON,4567,0,4915,Elected,4,Democratic Unionist Party
+3,97,9,Claire,SUGDEN,3270,544,5002.6,Elected,9,Independent
+3,98,9,Russell,WATTON,1356,0,0,Excluded,7,Progressive Unionist Party

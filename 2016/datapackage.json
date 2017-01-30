@@ -1,0 +1,560 @@
+{
+	"name": "2016_archive",
+	"title": "Northern Ireland Assembly Election 2016",
+	"description": "From the Elections NI project, a database of the 5 May 2016 NI Assembly Elections,  including data on all of the candidates, constituencies, results (including stages and transfers) and outcomes. \n\nContains data from the Electoral Commission Northern Ireland and the Northern Ireland Assembly (Open Government Licence).\n\nElections NI is a partnership between ODI Belfast and the NI Open Government Network not affiliated with the Electoral Commission or the NI Assembly.",
+	"homepage": "http://electionsni.org",
+	"version": "1",
+	"license": {
+		"type": "ODC Open Database Licence (ODbL)",
+		"url": "http://opendatacommons.org/licenses/odbl/summary/"
+	},
+	"author": "Elections NI",
+	"resources": [{
+		"name": "contest",
+		"title": "Contest",
+		"description": "Information on the election contest taking place, to provide comparability with other Assembly elections as well as working towards a common system for describing elections across the world.",
+		"schema": {
+			"fields": [{
+				"name": "Contest_ID",
+				"title": "Contest",
+				"description": "A URI providing a unique identifier for the individual electoral contest",
+				"type": "string",
+				"format": "uri"
+			}, {
+				"name": "Name",
+				"description": "A name for the election",
+				"type": "string",
+				"format": "default"
+			}, {
+				"name": "Election_Type",
+				"title": "Election Type",
+				"description": "The type of election. This should ideally draw from a controlled vocabulary",
+				"type": "string",
+				"format": "default"
+			}, {
+				"name": "Electoral_System",
+				"title": "Electoral System",
+				"description": "Identifies the electoral system being used in the election. Ideally this should draw from a controlled vocabulary",
+				"type": "string",
+				"format": "default"
+			}, {
+				"name": "Start_Date",
+				"title": "Start Date",
+				"description": "The date on which the electoral contest begun (i.e. voting day)",
+				"type": "date",
+				"format": "default"
+			}, {
+				"name": "End_Date",
+				"title": "End Date",
+				"description": "The date on which the electoral contest ended. Some contests run for a single day, in which case the start and end dates will be the same",
+				"type": "date",
+				"format": "default"
+			}]
+		},
+		"path": "contest.csv",
+		"format": "CSV",
+		"mediatype": "text/csv",
+		"encoding": "UTF-8",
+		"bytes": 0
+	}, {
+		"name": "constituencies",
+		"title": "Constituencies",
+		"description": "Identifiers and voting information for all constituencies in election",
+		"schema": {
+			"fields": [{
+				"name": "Constituency_Number",
+				"description": "{key} unique ID number given to each constituency, based on NI Assembly Open Data codes. See http://data.niassembly.gov.uk/members_json.ashx?m=GetAllConstituencies",
+				"type": "string",
+				"format": "uri"
+			}, {
+				"name": "Constituency_Name",
+				"description": "Full (official) name",
+				"type": "string",
+				"format": "default"
+			}, {
+				"name": "ONS_Code",
+				"description": "Office of National Statistics identifying code for the analogous Westminster Parliamentary Constituency. See https://geoportal.statistics.gov.uk/geoportal/catalog/search/resource/details.page?uuid=%7B7E721144-C4DD-43A4-AEA3-BF94EB77A633%7D",
+				"type": "string",
+				"format": "uri"
+			}, {
+				"name": "Constituency_Code",
+				"description": "Abbreviation of constituency name (generally 2-letter, but 3-letter in case of Newry & Armagh: NYA)",
+				"type": "string",
+				"format": "default"
+			}, {
+				"name": "Number_Of_Seats",
+				"description": "The number of seats available in the constituency",
+				"type": "integer",
+				"format": "default"
+			}, {
+				"name": "Voting_Age_Pop",
+				"description": "Total population aged 18+ (n.b. some may not be entitled to vote due to residency status)",
+				"type": "integer",
+				"format": "default"
+			}, {
+				"name": "Total_Poll",
+				"description": "Total number of votes cast",
+				"type": "integer",
+				"format": "default"
+			}, {
+				"name": "Spoiled",
+				"description": "Total number of invalid votes",
+				"type": "integer",
+				"format": "default"
+			}, {
+				"name": "Valid_Poll",
+				"description": "Total number of valid votes to be counted =(Total_Poll - Spoiled)",
+				"type": "integer",
+				"format": "default"
+			}, {
+				"name": "Quota",
+				"description": "Pass mark for total number of votes to be elected in any stage",
+				"type": "integer",
+				"format": "default"
+			}, {
+				"name": "Total_Electorate",
+				"description": "Total number of eligible voters on the electoral register",
+				"type": "integer",
+				"format": "default"
+			}, {
+				"name": "Turnout_pct",
+				"description": "The turnout: Total_Poll as a percentage of Total_Electorate",
+				"type": "number",
+				"format": "default"
+			}, {
+				"name": "Directory",
+				"description": "Constituency name in the /constituency directory",
+				"type": "string",
+				"format": "default"
+			}]
+		},
+		"path": "NI/constituencies.csv",
+		"format": "CSV",
+		"mediatype": "text/csv",
+		"encoding": "UTF-8",
+		"bytes": 0
+	}, {
+		"name": "elected-candidates",
+		"title": "Elected Candidates",
+		"description": "Information on those candidates who were returned to the Northern Ireland Assembly through the contest",
+		"schema": {
+			"fields": [{
+				"name": "Candidate_First_Pref_Votes",
+				"description": "Number of First Preference Votes received by each candidate. The same value for each candidate should be present in each Count_Number as this does not change",
+				"type": "integer",
+				"format": "default"
+			}, {
+				"name": "Occurred_On_Count",
+				"description": "Count_Number that the candidate was elected on",
+				"type": "integer",
+				"format": "default"
+			}, {
+				"name": "Gender",
+				"description": "[M]Male/[F]Female/[O]Other",
+				"type": "string",
+				"format": "default"
+			}, {
+				"name": "Constituency_Name",
+				"description": "Name of the constituency in which the elected candidate stood",
+				"type": "string",
+				"format": "default"
+			}, {
+				"name": "Constituency_Number",
+				"description": "Identifier of the constituency in which the elected candidate stood",
+				"type": "string",
+				"format": "uri"
+			}, {
+				"name": "Party_Name",
+				"description": "Political party title",
+				"type": "string",
+				"format": "default"
+			}, {
+				"name": "Directory",
+				"title": "Directory",
+				"description": "As with the NI/constituencies table",
+				"type": "string",
+				"format": "default"
+			}, {
+				"name": "Email",
+				"description": "Contact email address for the candidate",
+				"type": "string",
+				"format": "email"
+			}, {
+				"name": "Total_Votes",
+				"description": "The total number of votes amassed by the candidate at the final stage of the count",
+				"type": "number",
+				"format": "default"
+			}, {
+				"name": "Status",
+				"description": "If the candidate has been elected or excluded in this or any previous stage. (‘Elected’, ‘Excluded’ or null)",
+				"type": "string",
+				"format": "default"
+			}, {
+				"name": "Outgoing_Member",
+				"description": "If the member was an incumbent MLA at the end of the previous Assembly mandate (‘1’ true; ‘0’ false)",
+				"type": "boolean",
+				"format": "default"
+			}, {
+				"name": "Surname",
+				"description": "Elected candidate surname",
+				"type": "string",
+				"format": "default"
+			}, {
+				"name": "Firstname",
+				"description": "Elected candidate first name",
+				"type": "string",
+				"format": "default"
+			}, {
+				"name": "Twitter",
+				"description": "Elected candidate's twitter handle",
+				"type": "string",
+				"format": "default"
+			}, {
+				"name": "Candidate_Id",
+				"description": "{key} unique ID number given to each candidate",
+				"type": "string",
+				"format": "uri"
+			}, {
+				"name": "Party_Id",
+				"description": "As with the NI/parties table",
+				"type": "string",
+				"format": "uri"
+			}, {
+				"name": "Photo_URL",
+				"description": "URL for a profile photograph of the candidate",
+				"type": "string",
+				"format": "uri"
+			}]
+		},
+		"path": "NI/elected-candidates.csv",
+		"format": "CSV",
+		"mediatype": "text/csv",
+		"encoding": "UTF-8",
+		"bytes": 0
+	}, {
+		"name": "full-candidates-list",
+		"title": "Full Candidates List",
+		"description": "Information describing each of the candidate competing in the contest",
+		"schema": {
+			"fields": [{
+				"name": "Constituency_Name",
+				"type": "string",
+				"format": "default"
+			}, {
+				"name": "Constituency_Number",
+				"type": "integer",
+				"format": "default"
+			}, {
+				"name": "Candidate_Id",
+				"type": "integer",
+				"format": "default"
+			}, {
+				"name": "Firstname",
+				"type": "string",
+				"format": "default"
+			}, {
+				"name": "Surname",
+				"type": "string",
+				"format": "default"
+			}, {
+				"name": "Outgoing_Member",
+				"type": "integer",
+				"format": "default"
+			}, {
+				"name": "Party_Id",
+				"type": "integer",
+				"format": "default"
+			}, {
+				"name": "Party_Name",
+				"type": "string",
+				"format": "default"
+			}, {
+				"name": "Photo_URL",
+				"type": "any",
+				"format": "default"
+			}, {
+				"name": "Directory",
+				"type": "string",
+				"format": "default"
+			}, {
+				"name": "Gender",
+				"type": "string",
+				"format": "default"
+			}, {
+				"name": "Twitter",
+				"type": "string",
+				"format": "default"
+			}, {
+				"name": "Email",
+				"type": "string",
+				"format": "default"
+			}]
+		},
+		"path": "NI/full-candidates-list.csv",
+		"format": "CSV",
+		"mediatype": "text/csv",
+		"encoding": "UTF-8",
+		"bytes": 0
+	}, {
+		"name": "parties",
+		"title": "Parties",
+		"description": "Information describing all political parties that have affiliated candidates in the contest (N.B. there is a ‘party’ for Independent candidates).",
+		"schema": {
+			"fields": [{
+				"name": "Party_Id",
+				"description": "{key} unique ID number given to each party. Parties currently represented in the Assembly will be given the same Party_Id code as http://data.niassembly.gov.uk/organisations_json.ashx?m=GetPartiesListCurrent",
+				"type": "integer",
+				"format": "default"
+			}, {
+				"name": "Party_Name",
+				"description": "Political party title",
+				"type": "string",
+				"format": "default"
+			}, {
+				"name": "Party_Abbreviation",
+				"description": "Short acronym for party",
+				"type": "string",
+				"format": "default"
+			}, {
+				"name": "Hex_Col",
+				"description": "6-digit html color code",
+				"type": "string",
+				"format": "default"
+			}]
+		},
+		"path": "NI/parties.csv",
+		"format": "CSV",
+		"mediatype": "text/csv",
+		"encoding": "UTF-8",
+		"bytes": 0
+	}, {
+		"name": "candidate",
+		"title": "Candidate",
+		"description": "Candidate information for the constituency",
+		"schema": {
+			"fields": [{
+				"name": "Constituency_Name",
+				"description": "Full (official) name of the constituency the candidate is standing in",
+				"type": "string",
+				"format": "default"
+			}, {
+				"name": "Constituency_Number",
+				"description": "unique ID number given to each constituency, based on NI Assembly Open Data codes. See http://data.niassembly.gov.uk/members_json.ashx?m=GetAllConstituencies",
+				"type": "string",
+				"format": "uri"
+			}, {
+				"name": "Candidate_Id",
+				"description": "{key} unique ID number given to each candidate",
+				"type": "string",
+				"format": "uri"
+			}, {
+				"name": "Firstname",
+				"description": "Candidate’s first name",
+				"type": "string",
+				"format": "default"
+			}, {
+				"name": "Surname",
+				"description": "Candidate’s surname",
+				"type": "string",
+				"format": "default"
+			}, {
+				"name": "Outgoing_Member",
+				"description": "If the member was an incumbent MLA at the end of the previous Assembly mandate (‘1’ true; ‘0’ false)",
+				"type": "boolean",
+				"format": "default"
+			}, {
+				"name": "Party_Id",
+				"description": "unique ID number given to each party. Parties currently represented in the Assembly will be given the same Party_Id code as http://data.niassembly.gov.uk/organisations_json.ashx?m=GetPartiesListCurrent",
+				"type": "string",
+				"format": "uri"
+			}, {
+				"name": "Party_Name",
+				"description": "Political party title",
+				"type": "string",
+				"format": "default"
+			}, {
+				"name": "Photo_URL",
+				"description": "Link to the candidate’s profile picture",
+				"type": "any",
+				"format": "default"
+			}, {
+				"name": "Directory",
+				"description": "Constituency name in the /constituency directory",
+				"type": "string",
+				"format": "default"
+			}, {
+				"name": "Gender",
+				"description": "[M]Male/[F]Female/[O]Other",
+				"type": "string",
+				"format": "default"
+			}, {
+				"name": "Twitter",
+				"description": "Candidate's twitter handle",
+				"type": "string",
+				"format": "default"
+			}, {
+				"name": "Email",
+				"description": "Candidates contact email addresss",
+				"type": "string",
+				"format": "email"
+			}]
+		},
+		"path": "constituencies/*/Candidate.csv",
+		"format": "CSV",
+		"mediatype": "text/csv",
+		"encoding": "UTF-8",
+		"bytes": 0
+	}, {
+		"name": "constituencycount",
+		"title": "Constituency Count",
+		"description": "Headline data on polling in the constituency.",
+		"schema": {
+			"fields": [{
+				"name": "Constituency_Number",
+				"description": "{key} As with the NI/constituencies table",
+				"type": "string",
+				"format": "uri"
+			}, {
+				"name": "Total_Poll",
+				"description": "Total number of votes cast",
+				"type": "integer",
+				"format": "default"
+			}, {
+				"name": "Spoiled",
+				"description": "Total number of invalid votes",
+				"type": "integer",
+				"format": "default"
+			}, {
+				"name": "Valid_Poll",
+				"description": "Total number of valid votes to be counted =(Total_Poll - Spoiled)",
+				"type": "integer",
+				"format": "default"
+			}, {
+				"name": "Quota",
+				"description": "Pass mark for total number of votes to be elected in any stage",
+				"type": "integer",
+				"format": "default"
+			}, {
+				"name": "Total_Electorate",
+				"description": "Total number of eligible voters on the electoral register",
+				"type": "integer",
+				"format": "default"
+			}, {
+				"name": "Number_Of_Seats",
+				"description": "Number of seats to be filled in constituency",
+				"type": "integer",
+				"format": "default"
+			}, {
+				"name": "Constituency_Name",
+				"description": "Full (official) title",
+				"type": "string",
+				"format": "default"
+			}, {
+				"name": "Voting_Age_Pop",
+				"description": "Total population aged 18+ (n.b. some may not be entitled to vote due to residency status)",
+				"type": "integer",
+				"format": "default"
+			}]
+		},
+		"path": "constituencies/*/ConstituencyCount.csv",
+		"format": "CSV",
+		"mediatype": "text/csv",
+		"encoding": "UTF-8",
+		"bytes": 0
+	}, {
+		"name": "count",
+		"title": "Count",
+		"description": "The results for each candidate and each count stage, representing the Single Transferable Vote system. Note that there is no {key} value (as the Candidate_Id will appear more than once), but that a number of keys from other tables are included. There is a row for each candidate at each count stage, even if they have already been excluded from the process.",
+		"schema": {
+			"fields": [{
+				"name": "Constituency_Number",
+				"description": "As with the NI/constituences table",
+				"type": "string",
+				"format": "uri"
+			}, {
+				"name": "Candidate_Id",
+				"description": "As with the Candidates table",
+				"type": "string",
+				"format": "uri"
+			}, {
+				"name": "Count_Number",
+				"description": "Runs sequentially from 1 to the final count stage number for each candidate",
+				"type": "integer",
+				"format": "default"
+			}, {
+				"name": "Firstname",
+				"description": "As with the Candidates table",
+				"type": "string",
+				"format": "default"
+			}, {
+				"name": "Surname",
+				"description": "As with the Candidates table",
+				"type": "string",
+				"format": "default"
+			}, {
+				"name": "Candidate_First_Pref_Votes",
+				"description": "Number of First Preference Votes received by each candidate. The same value for each candidate should be present in each Count_Number as this does not change",
+				"type": "integer",
+				"format": "default"
+			}, {
+				"name": "Transfers",
+				"description": "The number of transfers received after the first stage (in Count_Number: 1 this will be 0). Can be negative when votes are transferred from a candidate due to exclusion or exceeding the quota",
+				"type": "number",
+				"format": "default"
+			}, {
+				"name": "Total_Votes",
+				"description": "The total number of votes that have been amassed by the candidate at the current count number =(Candidate_First_Pref_Votes + the sum of all Transfers at previous and current stages)",
+				"type": "number",
+				"format": "default"
+			}, {
+				"name": "Status",
+				"description": "If the candidate has been elected or excluded in this or any previous stage. (‘Elected’, ‘Excluded’ or null)",
+				"type": "string",
+				"format": "default"
+			}, {
+				"name": "Occurred_On_Count",
+				"description": "Count_Number that the change in status occured (even if it was on a previous count)",
+				"type": "integer",
+				"format": "default"
+			}, {
+				"name": "Party_Name",
+				"description": "As with Candidates table",
+				"type": "string",
+				"format": "default"
+			}]
+		},
+		"path": "constituencies/*/Count.csv",
+		"format": "CSV",
+		"mediatype": "text/csv",
+		"encoding": "UTF-8",
+		"bytes": 0
+	}, {
+		"name": "nontransferable",
+		"title": "Nontransferable",
+		"description": "Number of non-transferred votes for each stage in the count.",
+		"schema": {
+			"fields": [{
+				"name": "Constituency_Number",
+				"description": "As with Constituencies table",
+				"type": "string",
+				"format": "uri"
+			}, {
+				"name": "Count_Number",
+				"description": "For each stage in the count (not including 1 as no votes to be transferred at this stage) ",
+				"type": "integer",
+				"format": "default"
+			}, {
+				"name": "Non_Transferable",
+				"description": "Number of votes not transferred to any candidate",
+				"type": "number",
+				"format": "default"
+			}]
+		},
+		"path": "constituences/*/NonTransferable.csv",
+		"format": "CSV",
+		"mediatype": "text/csv",
+		"encoding": "UTF-8",
+		"bytes": 0
+	}],
+	"keywords": ["Election", "Vote", "Voting", "Northern Ireland", "Assembly", "Election", "Democracy", "Devolution", "Parliament", "Electoral Commission", "Assembly", "2016", "5 May 2016"]
+}

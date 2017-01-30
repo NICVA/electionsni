@@ -1,0 +1,127 @@
+Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_Pref_Votes,Transfers,Total_Votes,Status,Occurred_On_Count,Party_Name
+8,156,1,Paul,BERRY ,1663,0,1663,,,Independent
+8,157,1,Cathal Damian,BOYLAN,6822,0,6822,Elected,1,Sinn Fein
+8,158,1,Emmet,CROSSAN,1032,0,1032,,,Cannabis Is Safer Than Alcohol
+8,159,1,Megan,FEARON,6838,0,6838,Elected,1,Sinn Fein
+8,160,1,William George,IRWIN,7980,0,7980,Elected,1,Democratic Unionist Party
+8,161,1,Danny,KENNEDY,4904,0,4904,,,Ulster Unionist Party
+8,162,1,Alan,LOVE,315,0,315,,,UK Independence Party
+8,163,1,Martin,MCALLISTER,940,0,940,,,Independent
+8,164,1,Karen,MCKEVITT,3923,0,3923,,,Social Democratic and Labour Party
+8,165,1,Justin,MCNULTY,4775,0,4775,,,Social Democratic and Labour Party
+8,166,1,Conor,MURPHY,5854,0,5854,,,Sinn Fein
+8,167,1,Sam,NICHOLSON,1841,0,1841,,,Ulster Unionist Party
+8,168,1,Michael,WATTERS,335,0,335,,,Green Party
+8,169,1,Craig,WEIR,493,0,493,,,Alliance Party
+8,156,2,Paul,BERRY ,1663,198.6,1861.6,,,Independent
+8,157,2,Cathal Damian,BOYLAN,6822,0,6822,Elected,1,Sinn Fein
+8,158,2,Emmet,CROSSAN,1032,4.5,1036.5,,,Cannabis Is Safer Than Alcohol
+8,159,2,Megan,FEARON,6838,0,6838,Elected,1,Sinn Fein
+8,160,2,William George,IRWIN,7980,-1163,6817,Elected,1,Democratic Unionist Party
+8,161,2,Danny,KENNEDY,4904,698.25,5602.25,,,Ulster Unionist Party
+8,162,2,Alan,LOVE,315,31.05,346.05,Excluded,2,UK Independence Party
+8,163,2,Martin,MCALLISTER,940,1.2,941.2,,,Independent
+8,164,2,Karen,MCKEVITT,3923,6.45,3929.45,,,Social Democratic and Labour Party
+8,165,2,Justin,MCNULTY,4775,4.05,4779.05,,,Social Democratic and Labour Party
+8,166,2,Conor,MURPHY,5854,1.05,5855.05,,,Sinn Fein
+8,167,2,Sam,NICHOLSON,1841,204.75,2045.75,,,Ulster Unionist Party
+8,168,2,Michael,WATTERS,335,2.4,337.4,Excluded,2,Green Party
+8,169,2,Craig,WEIR,493,3.75,496.75,,,Alliance Party
+8,156,3,Paul,BERRY ,1663,0,1861.6,,,Independent
+8,157,3,Cathal Damian,BOYLAN,6822,0,6822,Elected,1,Sinn Fein
+8,158,3,Emmet,CROSSAN,1032,0,1036.5,,,Cannabis Is Safer Than Alcohol
+8,159,3,Megan,FEARON,6838,-21,6817,Elected,1,Sinn Fein
+8,160,3,William George,IRWIN,7980,0,6817,Elected,1,Democratic Unionist Party
+8,161,3,Danny,KENNEDY,4904,0,5602.25,,,Ulster Unionist Party
+8,162,3,Alan,LOVE,315,0,346.05,Excluded,2,UK Independence Party
+8,163,3,Martin,MCALLISTER,940,0,941.2,,,Independent
+8,164,3,Karen,MCKEVITT,3923,0,3929.45,,,Social Democratic and Labour Party
+8,165,3,Justin,MCNULTY,4775,0,4779.05,,,Social Democratic and Labour Party
+8,166,3,Conor,MURPHY,5854,0,5855.05,,,Sinn Fein
+8,167,3,Sam,NICHOLSON,1841,0,2045.75,,,Ulster Unionist Party
+8,168,3,Michael,WATTERS,335,0,337.4,Excluded,2,Green Party
+8,169,3,Craig,WEIR,493,0,496.75,,,Alliance Party
+8,156,4,Paul,BERRY ,1663,4,1865.6,,,Independent
+8,157,4,Cathal Damian,BOYLAN,6822,0,6822,Elected,1,Sinn Fein
+8,158,4,Emmet,CROSSAN,1032,75.6,1112.1,,,Cannabis Is Safer Than Alcohol
+8,159,4,Megan,FEARON,6838,0,6817,Elected,1,Sinn Fein
+8,160,4,William George,IRWIN,7980,0,6817,Elected,1,Democratic Unionist Party
+8,161,4,Danny,KENNEDY,4904,14.45,5616.7,,,Ulster Unionist Party
+8,162,4,Alan,LOVE,315,3.15,349.2,Excluded,4,UK Independence Party
+8,163,4,Martin,MCALLISTER,940,16,957.2,,,Independent
+8,164,4,Karen,MCKEVITT,3923,34.15,3963.6,,,Social Democratic and Labour Party
+8,165,4,Justin,MCNULTY,4775,27,4806.05,,,Social Democratic and Labour Party
+8,166,4,Conor,MURPHY,5854,28,5883.05,,,Sinn Fein
+8,167,4,Sam,NICHOLSON,1841,3.45,2049.2,,,Ulster Unionist Party
+8,168,4,Michael,WATTERS,335,-337.4,0,Excluded,2,Green Party
+8,169,4,Craig,WEIR,493,100.3,597.05,Excluded,4,Alliance Party
+8,156,5,Paul,BERRY ,1663,74.85,1940.45,,,Independent
+8,157,5,Cathal Damian,BOYLAN,6822,0,6822,Elected,1,Sinn Fein
+8,158,5,Emmet,CROSSAN,1032,116.5,1228.6,,,Cannabis Is Safer Than Alcohol
+8,159,5,Megan,FEARON,6838,0,6817,Elected,1,Sinn Fein
+8,160,5,William George,IRWIN,7980,0,6817,Elected,1,Democratic Unionist Party
+8,161,5,Danny,KENNEDY,4904,187.7,5804.4,,,Ulster Unionist Party
+8,162,5,Alan,LOVE,315,-349.2,0,Excluded,4,UK Independence Party
+8,163,5,Martin,MCALLISTER,940,46.3,1003.5,Excluded,5,Independent
+8,164,5,Karen,MCKEVITT,3923,122.6,4086.2,,,Social Democratic and Labour Party
+8,165,5,Justin,MCNULTY,4775,130.15,4936.2,,,Social Democratic and Labour Party
+8,166,5,Conor,MURPHY,5854,39,5922.05,,,Sinn Fein
+8,167,5,Sam,NICHOLSON,1841,110.65,2159.85,,,Ulster Unionist Party
+8,168,5,Michael,WATTERS,335,0,0,Excluded,2,Green Party
+8,169,5,Craig,WEIR,493,-597.05,0,Excluded,4,Alliance Party
+8,156,6,Paul,BERRY ,1663,16.6,1957.05,,,Independent
+8,157,6,Cathal Damian,BOYLAN,6822,0,6822,Elected,1,Sinn Fein
+8,158,6,Emmet,CROSSAN,1032,80,1308.6,Excluded,6,Cannabis Is Safer Than Alcohol
+8,159,6,Megan,FEARON,6838,0,6817,Elected,1,Sinn Fein
+8,160,6,William George,IRWIN,7980,0,6817,Elected,1,Democratic Unionist Party
+8,161,6,Danny,KENNEDY,4904,13,5817.4,,,Ulster Unionist Party
+8,162,6,Alan,LOVE,315,0,0,Excluded,4,UK Independence Party
+8,163,6,Martin,MCALLISTER,940,-1003.5,0,Excluded,5,Independent
+8,164,6,Karen,MCKEVITT,3923,270.15,4356.35,,,Social Democratic and Labour Party
+8,165,6,Justin,MCNULTY,4775,192.15,5128.35,,,Social Democratic and Labour Party
+8,166,6,Conor,MURPHY,5854,203,6125.05,,,Sinn Fein
+8,167,6,Sam,NICHOLSON,1841,7,2166.85,,,Ulster Unionist Party
+8,168,6,Michael,WATTERS,335,0,0,Excluded,2,Green Party
+8,169,6,Craig,WEIR,493,0,0,Excluded,4,Alliance Party
+8,156,7,Paul,BERRY ,1663,41.9,1998.95,Excluded,7,Independent
+8,157,7,Cathal Damian,BOYLAN,6822,0,6822,Elected,1,Sinn Fein
+8,158,7,Emmet,CROSSAN,1032,-1308.6,0,Excluded,6,Cannabis Is Safer Than Alcohol
+8,159,7,Megan,FEARON,6838,0,6817,Elected,1,Sinn Fein
+8,160,7,William George,IRWIN,7980,0,6817,Elected,1,Democratic Unionist Party
+8,161,7,Danny,KENNEDY,4904,88.65,5906.05,,,Ulster Unionist Party
+8,162,7,Alan,LOVE,315,0,0,Excluded,4,UK Independence Party
+8,163,7,Martin,MCALLISTER,940,0,0,Excluded,5,Independent
+8,164,7,Karen,MCKEVITT,3923,159.3,4515.65,,,Social Democratic and Labour Party
+8,165,7,Justin,MCNULTY,4775,197.15,5325.5,,,Social Democratic and Labour Party
+8,166,7,Conor,MURPHY,5854,296.3,6421.35,,,Sinn Fein
+8,167,7,Sam,NICHOLSON,1841,53.6,2220.45,Excluded,7,Ulster Unionist Party
+8,168,7,Michael,WATTERS,335,0,0,Excluded,2,Green Party
+8,169,7,Craig,WEIR,493,0,0,Excluded,4,Alliance Party
+8,156,8,Paul,BERRY ,1663,-1998.95,0,Excluded,7,Independent
+8,157,8,Cathal Damian,BOYLAN,6822,0,6822,Elected,1,Sinn Fein
+8,158,8,Emmet,CROSSAN,1032,0,0,Excluded,6,Cannabis Is Safer Than Alcohol
+8,159,8,Megan,FEARON,6838,0,6817,Elected,1,Sinn Fein
+8,160,8,William George,IRWIN,7980,0,6817,Elected,1,Democratic Unionist Party
+8,161,8,Danny,KENNEDY,4904,3689.25,9595.3,Elected,8,Ulster Unionist Party
+8,162,8,Alan,LOVE,315,0,0,Excluded,4,UK Independence Party
+8,163,8,Martin,MCALLISTER,940,0,0,Excluded,5,Independent
+8,164,8,Karen,MCKEVITT,3923,48.55,4564.2,,,Social Democratic and Labour Party
+8,165,8,Justin,MCNULTY,4775,43.7,5369.2,,,Social Democratic and Labour Party
+8,166,8,Conor,MURPHY,5854,14,6435.35,,,Sinn Fein
+8,167,8,Sam,NICHOLSON,1841,-2220.45,0,Excluded,7,Ulster Unionist Party
+8,168,8,Michael,WATTERS,335,0,0,Excluded,2,Green Party
+8,169,8,Craig,WEIR,493,0,0,Excluded,4,Alliance Party
+8,156,9,Paul,BERRY ,1663,0,0,Excluded,7,Independent
+8,157,9,Cathal Damian,BOYLAN,6822,0,6822,Elected,1,Sinn Fein
+8,158,9,Emmet,CROSSAN,1032,0,0,Excluded,6,Cannabis Is Safer Than Alcohol
+8,159,9,Megan,FEARON,6838,0,6817,Elected,1,Sinn Fein
+8,160,9,William George,IRWIN,7980,0,6817,Elected,1,Democratic Unionist Party
+8,161,9,Danny,KENNEDY,4904,-2778.3,6817,Elected,8,Ulster Unionist Party
+8,162,9,Alan,LOVE,315,0,0,Excluded,4,UK Independence Party
+8,163,9,Martin,MCALLISTER,940,0,0,Excluded,5,Independent
+8,164,9,Karen,MCKEVITT,3923,478,5042.2,Excluded,9,Social Democratic and Labour Party
+8,165,9,Justin,MCNULTY,4775,332,5701.2,Elected,9,Social Democratic and Labour Party
+8,166,9,Conor,MURPHY,5854,7,6442.35,Elected,9,Sinn Fein
+8,167,9,Sam,NICHOLSON,1841,0,0,Excluded,7,Ulster Unionist Party
+8,168,9,Michael,WATTERS,335,0,0,Excluded,2,Green Party
+8,169,9,Craig,WEIR,493,0,0,Excluded,4,Alliance Party

@@ -1,8 +1,8 @@
 
-	var checkedYear = 2016;
+	var checkedYear = 2017;
 	var output = [];
-    var constituenciesCount = [];
-	
+  var constituenciesCount = [];
+
     // though 2016 is the default checked radio element in the html some users who have reloaded may have checked '2011'
     // this function examines the two radios to see which has been checked
 	var inputElements = document.getElementsByName("year");
@@ -12,16 +12,16 @@
 			   break;
 		  }
 	}
-	
+
     // when a radio button is clicked change checkedYear global var (attached to element onchange)
 	function changeyear(year) {
 		checkedYear = year;
 		console.log(checkedYear);
 	}
-	
+
     // load all candidates info for the checkedYear
 	findInfo(checkedYear, 'all-candidates.json');
-	
+
     // request candidate info for the specified year (can use this for other request by changing filename arg)
     // outputs the parse Json responseText to global var output
 	function findInfo(year, filename) {
@@ -39,11 +39,11 @@
 		  candidates.innerHTML = 'Connection error retrieving data from the server'
 		};
 	}
-	
+
     // similar to findInfo but used to get constituency count (votes polled etc) and output to global var 'constituenciesCount'
 	function findConstituencyCountInfo(year, filename) {
 		var request = new XMLHttpRequest();
-		var path = '/' + year + '/NI/' + filename;
+		var path = '/' + year + '/NI/' + filename + '?' + new Date().getTime(); // add ? with timestamp to force XMLHttpRequest not to cache
 		console.log(path);
 		request.onreadystatechange = function() {
 			if (request.readyState == 4 && request.status >= 200 && request.status < 400) {
@@ -57,7 +57,7 @@
 		  candidates.innerHTML = 'Connection error retrieving data from the server'
 		};
 	}
-	
+
 	// again, similar to the above but we're trying to find if any elected candidates exist
 	function findElectedInfo(year) {
 		electedOutput = [];
@@ -76,15 +76,15 @@
 		  console.log('not ready');
 		};
 	}
-	
+
     // examine an object array (obj) for a key (key) matching a value (val) and return the matching object
 	function getObjects(obj, key, val) {
 		var objects = [];
 		for (var i in obj) {
 			if (!obj.hasOwnProperty(i)) continue;
 			if (typeof obj[i] == 'object') {
-				objects = objects.concat(getObjects(obj[i], key, val));    
-			} else 
+				objects = objects.concat(getObjects(obj[i], key, val));
+			} else
 			//if key matches and value matches or if key matches and value is not passed (eliminating the case where key matches but passed value does not)
 			if (i == key && obj[i] == val || i == key && val == '') { //
 				objects.push(obj);
@@ -97,7 +97,7 @@
 		}
 		return objects;
 	}
-    
+
     // straightfoward, take a number element e.g. 78521 and add thousand-separator comma to return '78,521' (n.b. this is a string)
     function numberWithCommas(x) {
         return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
@@ -106,7 +106,7 @@
 	////// FUNCTIONS TO HANDLE HTML ELEMENT POPULATION OF CANDIDATE AND CONSTITUENCY INFORMATION //////
 	var candidates = document.getElementById('candidates');
 	var constituencyinfo = document.getElementById('constituencyinfo');
-	
+
 	candidates.update = function () {
 		this.innerHTML = '';
 		var constituency = getObjects(output, 'Constituency_Number', constituency_id);
@@ -133,18 +133,15 @@
 				for (i = 0; i < elected.length; i++) {
 					this.innerHTML += '<div class="votes ' + elected[i].Party_Name.replace(/\s+/g,"-") + '" style="width: 20px;"></div><div id="candidate ' + elected[i].Candidate_Id + '" class="tooltip ' + elected[i].Party_Name.replace(/\s+/g,"-") + '_label">' + elected[i].Firstname + ' ' + elected[i].Surname + '<span class="tooltiptext">' + elected[i].Party_Name + '</span></div><br/>'
 				}
-			if (elected.length < 6) {
-				this.innerHTML += '<p style="color: gray">It looks like not all of the 6 seats have yet been filled. Elected candidates will appear as the count progresses.</p>'
-			}
 			}
 		}
 	};
-	
+
     // optional message on clearing 'candidates' element. If none set arg to ''
 	function clearCandidates (msg) {
 		candidates.innerHTML = msg;
 	}
-	
+
 	constituencyinfo.update = function () {
 		findConstituencyCountInfo(checkedYear, 'all-constituency-info.json');
 		var constituency = getObjects(constituenciesCount, 'Constituency_Number', constituency_id);
@@ -159,7 +156,7 @@
 			this.innerHTML += '<b>Voted:</b> ' + numberWithCommas(constituency[0].countInfo.Total_Poll) + '<br/><b>Turnout:</b> ' + ((constituency[0].countInfo.Total_Poll/constituency[0].countInfo.Total_Electorate) *100).toFixed(2) + '%';
 		}
 	};
-	
+
     // function to populate 'candidates' element with all candidates by party
     function partiesAll() {
 		findInfo(checkedYear, 'all-party-candidates.json');
@@ -168,8 +165,8 @@
                 var title = output.Parties[p].Party_Name;
 				candidates.update('Party_Number', id, title);
 			}
-		};            
-    
+		};
+
     // function to populate 'candidates' element with all candidates by constituency
     function constituenciesAll() {
 		findInfo(checkedYear, 'all-candidates.json');
@@ -178,8 +175,8 @@
                 var title = output.Constituencies[p].Constituency_Name;
 				candidates.update('Constituency_Number', id, title);
 			}
-		}; 
-		
+		};
+
 	// function to retrive vega spec to populate count matrix //
 	function countMatrix(year, directory) {
 		$.get("/website/jsonspec/countSpec.json", function(json) {
@@ -216,7 +213,7 @@
 	}
 
 	//////<-------------------------------------------------->//////
-	
+
 	////// FUNCTIONS TO HANDLE SELECT MENUS (OPTIONS FILLING) //////
 	function partyoptions () {
 		findInfo(checkedYear, 'all-party-candidates.json');
@@ -224,7 +221,7 @@
 				partySelect.innerHTML += '<option value="' + output.Parties[p].Party_Number + '">' + output.Parties[p].Party_Name + '</option>';
 			}
 		}
-	
+
 	function constituencyoptions () {
 		findInfo(checkedYear, 'all-constituency-info.json');
 		console.log(output);
@@ -232,9 +229,8 @@
 				constituencySelect.innerHTML += '<option value="' + output.Constituencies[c].Constituency_Number + '" data-dir="' + output.Constituencies[c].Directory + '">' + output.Constituencies[c].Constituency_Name + '</option>';
 			}
 		}
-		
+
 	function resetselect(select, defaulttext) {
 		select.innerHTML = '<option value=null>' + defaulttext + '</option>';
 	}
 	////// <-------------------------------------> //////
-	

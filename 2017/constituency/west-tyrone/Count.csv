@@ -1,0 +1,199 @@
+Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_Pref_Votes,Transfers,Total_Votes,Status,Occurred_On_Count,Party_Name
+18,259,1,Michaela,BOYLE,4460,0,4460,,,Sinn Fein
+18,260,1,Allan,BRESLAND,3884,0,3884,,,Democratic Unionist Party
+18,261,1,Barry,BROWN,547,0,547,,,Cannabis Is Safer Than Alcohol
+18,262,1,Thomas,BUCHANAN,4650,0,4650,,,Democratic Unionist Party
+18,263,1,Josephine Anne,DEENAN,1778,0,1778,,,Independent
+18,264,1,Stephen,DONNELLY,494,0,494,,,Alliance Party
+18,265,1,Corey,FRENCH,124,0,124,,,Independent
+18,266,1,Ross,HUSSEY,4441,0,4441,,,Ulster Unionist Party
+18,267,1,Patsy,KELLY,661,0,661,,,Independent
+18,268,1,Roger,LOMAS,44,0,44,Excluded,1,NI Conservatives
+18,269,1,Declan,MCALEER,3565,0,3565,,,Sinn Fein
+18,270,1,Laura,MCANEA,224,0,224,,,Animal Welfare Party
+18,271,1,Sorcha,MCANESPY,828,0,828,,,Independent
+18,272,1,Ciaran,MCCLEAN,458,0,458,,,Green Party
+18,273,1,Daniel,MCCROSSAN,4287,0,4287,,,Social Democratic and Labour Party
+18,274,1,Grace,MCDERMOTT,3711,0,3711,,,Sinn Fein
+18,275,1,Barry,MCELDUFF,4568,0,4568,,,Sinn Fein
+18,276,1,Susan-Anne,WHITE,85,0,85,,,Independent
+18,259,2,Michaela,BOYLE,4460,0,4460,,,Sinn Fein
+18,260,2,Allan,BRESLAND,3884,3,3887,,,Democratic Unionist Party
+18,261,2,Barry,BROWN,547,2,549,,,Cannabis Is Safer Than Alcohol
+18,262,2,Thomas,BUCHANAN,4650,2,4652,,,Democratic Unionist Party
+18,263,2,Josephine Anne,DEENAN,1778,1,1779,,,Independent
+18,264,2,Stephen,DONNELLY,494,1,495,,,Alliance Party
+18,265,2,Corey,FRENCH,124,1,125,Excluded,2,Independent
+18,266,2,Ross,HUSSEY,4441,13,4454,,,Ulster Unionist Party
+18,267,2,Patsy,KELLY,661,1,662,,,Independent
+18,268,2,Roger,LOMAS,44,-44,0,Excluded,1,NI Conservatives
+18,269,2,Declan,MCALEER,3565,1,3566,,,Sinn Fein
+18,270,2,Laura,MCANEA,224,1,225,Excluded,2,Animal Welfare Party
+18,271,2,Sorcha,MCANESPY,828,0,828,,,Independent
+18,272,2,Ciaran,MCCLEAN,458,3,461,,,Green Party
+18,273,2,Daniel,MCCROSSAN,4287,10,4297,,,Social Democratic and Labour Party
+18,274,2,Grace,MCDERMOTT,3711,0,3711,,,Sinn Fein
+18,275,2,Barry,MCELDUFF,4568,0,4568,,,Sinn Fein
+18,276,2,Susan-Anne,WHITE,85,1,86,Excluded,2,Independent
+18,259,3,Michaela,BOYLE,4460,35,4495,,,Sinn Fein
+18,260,3,Allan,BRESLAND,3884,10,3897,,,Democratic Unionist Party
+18,261,3,Barry,BROWN,547,33,582,,,Cannabis Is Safer Than Alcohol
+18,262,3,Thomas,BUCHANAN,4650,21,4673,,,Democratic Unionist Party
+18,263,3,Josephine Anne,DEENAN,1778,39,1818,,,Independent
+18,264,3,Stephen,DONNELLY,494,11,506,Excluded,3,Alliance Party
+18,265,3,Corey,FRENCH,124,-125,0,Excluded,2,Independent
+18,266,3,Ross,HUSSEY,4441,32,4486,,,Ulster Unionist Party
+18,267,3,Patsy,KELLY,661,41,703,,,Independent
+18,268,3,Roger,LOMAS,44,0,0,Excluded,1,NI Conservatives
+18,269,3,Declan,MCALEER,3565,9,3575,,,Sinn Fein
+18,270,3,Laura,MCANEA,224,-225,0,Excluded,2,Animal Welfare Party
+18,271,3,Sorcha,MCANESPY,828,21,849,,,Independent
+18,272,3,Ciaran,MCCLEAN,458,52,513,,,Green Party
+18,273,3,Daniel,MCCROSSAN,4287,46,4343,,,Social Democratic and Labour Party
+18,274,3,Grace,MCDERMOTT,3711,10,3721,,,Sinn Fein
+18,275,3,Barry,MCELDUFF,4568,20,4588,,,Sinn Fein
+18,276,3,Susan-Anne,WHITE,85,-86,0,Excluded,2,Independent
+18,259,4,Michaela,BOYLE,4460,10,4505,,,Sinn Fein
+18,260,4,Allan,BRESLAND,3884,5,3902,,,Democratic Unionist Party
+18,261,4,Barry,BROWN,547,30,612,Excluded,4,Cannabis Is Safer Than Alcohol
+18,262,4,Thomas,BUCHANAN,4650,12,4685,,,Democratic Unionist Party
+18,263,4,Josephine Anne,DEENAN,1778,75,1893,,,Independent
+18,264,4,Stephen,DONNELLY,494,-506,0,Excluded,3,Alliance Party
+18,265,4,Corey,FRENCH,124,0,0,Excluded,2,Independent
+18,266,4,Ross,HUSSEY,4441,77,4563,,,Ulster Unionist Party
+18,267,4,Patsy,KELLY,661,23,726,,,Independent
+18,268,4,Roger,LOMAS,44,0,0,Excluded,1,NI Conservatives
+18,269,4,Declan,MCALEER,3565,6,3581,,,Sinn Fein
+18,270,4,Laura,MCANEA,224,0,0,Excluded,2,Animal Welfare Party
+18,271,4,Sorcha,MCANESPY,828,22,871,,,Independent
+18,272,4,Ciaran,MCCLEAN,458,106,619,,,Green Party
+18,273,4,Daniel,MCCROSSAN,4287,91,4434,,,Social Democratic and Labour Party
+18,274,4,Grace,MCDERMOTT,3711,6,3727,,,Sinn Fein
+18,275,4,Barry,MCELDUFF,4568,9,4597,,,Sinn Fein
+18,276,4,Susan-Anne,WHITE,85,0,0,Excluded,2,Independent
+18,259,5,Michaela,BOYLE,4460,69,4574,,,Sinn Fein
+18,260,5,Allan,BRESLAND,3884,17,3919,,,Democratic Unionist Party
+18,261,5,Barry,BROWN,547,-612,0,Excluded,4,Cannabis Is Safer Than Alcohol
+18,262,5,Thomas,BUCHANAN,4650,14,4699,,,Democratic Unionist Party
+18,263,5,Josephine Anne,DEENAN,1778,51,1944,,,Independent
+18,264,5,Stephen,DONNELLY,494,0,0,Excluded,3,Alliance Party
+18,265,5,Corey,FRENCH,124,0,0,Excluded,2,Independent
+18,266,5,Ross,HUSSEY,4441,33,4596,,,Ulster Unionist Party
+18,267,5,Patsy,KELLY,661,16,742,,,Independent
+18,268,5,Roger,LOMAS,44,0,0,Excluded,1,NI Conservatives
+18,269,5,Declan,MCALEER,3565,38,3619,,,Sinn Fein
+18,270,5,Laura,MCANEA,224,0,0,Excluded,2,Animal Welfare Party
+18,271,5,Sorcha,MCANESPY,828,61,932,,,Independent
+18,272,5,Ciaran,MCCLEAN,458,95,714,Excluded,5,Green Party
+18,273,5,Daniel,MCCROSSAN,4287,48,4482,,,Social Democratic and Labour Party
+18,274,5,Grace,MCDERMOTT,3711,23,3750,,,Sinn Fein
+18,275,5,Barry,MCELDUFF,4568,74,4671,,,Sinn Fein
+18,276,5,Susan-Anne,WHITE,85,0,0,Excluded,2,Independent
+18,259,6,Michaela,BOYLE,4460,25,4599,,,Sinn Fein
+18,260,6,Allan,BRESLAND,3884,5,3924,,,Democratic Unionist Party
+18,261,6,Barry,BROWN,547,0,0,Excluded,4,Cannabis Is Safer Than Alcohol
+18,262,6,Thomas,BUCHANAN,4650,10,4709,,,Democratic Unionist Party
+18,263,6,Josephine Anne,DEENAN,1778,122,2066,,,Independent
+18,264,6,Stephen,DONNELLY,494,0,0,Excluded,3,Alliance Party
+18,265,6,Corey,FRENCH,124,0,0,Excluded,2,Independent
+18,266,6,Ross,HUSSEY,4441,67,4663,,,Ulster Unionist Party
+18,267,6,Patsy,KELLY,661,21,763,Excluded,6,Independent
+18,268,6,Roger,LOMAS,44,0,0,Excluded,1,NI Conservatives
+18,269,6,Declan,MCALEER,3565,25,3644,,,Sinn Fein
+18,270,6,Laura,MCANEA,224,0,0,Excluded,2,Animal Welfare Party
+18,271,6,Sorcha,MCANESPY,828,71,1003,Excluded,6,Independent
+18,272,6,Ciaran,MCCLEAN,458,-714,0,Excluded,5,Green Party
+18,273,6,Daniel,MCCROSSAN,4287,118,4600,,,Social Democratic and Labour Party
+18,274,6,Grace,MCDERMOTT,3711,24,3774,,,Sinn Fein
+18,275,6,Barry,MCELDUFF,4568,44,4715,,,Sinn Fein
+18,276,6,Susan-Anne,WHITE,85,0,0,Excluded,2,Independent
+18,259,7,Michaela,BOYLE,4460,207,4806,,,Sinn Fein
+18,260,7,Allan,BRESLAND,3884,17,3941,,,Democratic Unionist Party
+18,261,7,Barry,BROWN,547,0,0,Excluded,4,Cannabis Is Safer Than Alcohol
+18,262,7,Thomas,BUCHANAN,4650,19,4728,,,Democratic Unionist Party
+18,263,7,Josephine Anne,DEENAN,1778,541,2607,Excluded,7,Independent
+18,264,7,Stephen,DONNELLY,494,0,0,Excluded,3,Alliance Party
+18,265,7,Corey,FRENCH,124,0,0,Excluded,2,Independent
+18,266,7,Ross,HUSSEY,4441,42,4705,,,Ulster Unionist Party
+18,267,7,Patsy,KELLY,661,-763,0,Excluded,6,Independent
+18,268,7,Roger,LOMAS,44,0,0,Excluded,1,NI Conservatives
+18,269,7,Declan,MCALEER,3565,131,3775,,,Sinn Fein
+18,270,7,Laura,MCANEA,224,0,0,Excluded,2,Animal Welfare Party
+18,271,7,Sorcha,MCANESPY,828,-1003,0,Excluded,6,Independent
+18,272,7,Ciaran,MCCLEAN,458,0,0,Excluded,5,Green Party
+18,273,7,Daniel,MCCROSSAN,4287,280,4880,,,Social Democratic and Labour Party
+18,274,7,Grace,MCDERMOTT,3711,91,3865,,,Sinn Fein
+18,275,7,Barry,MCELDUFF,4568,201,4916,,,Sinn Fein
+18,276,7,Susan-Anne,WHITE,85,0,0,Excluded,2,Independent
+18,259,8,Michaela,BOYLE,4460,147,4953,,,Sinn Fein
+18,260,8,Allan,BRESLAND,3884,11,3952,Excluded,8,Democratic Unionist Party
+18,261,8,Barry,BROWN,547,0,0,Excluded,4,Cannabis Is Safer Than Alcohol
+18,262,8,Thomas,BUCHANAN,4650,38,4766,,,Democratic Unionist Party
+18,263,8,Josephine Anne,DEENAN,1778,-2607,0,Excluded,7,Independent
+18,264,8,Stephen,DONNELLY,494,0,0,Excluded,3,Alliance Party
+18,265,8,Corey,FRENCH,124,0,0,Excluded,2,Independent
+18,266,8,Ross,HUSSEY,4441,143,4848,,,Ulster Unionist Party
+18,267,8,Patsy,KELLY,661,0,0,Excluded,6,Independent
+18,268,8,Roger,LOMAS,44,0,0,Excluded,1,NI Conservatives
+18,269,8,Declan,MCALEER,3565,234,4009,,,Sinn Fein
+18,270,8,Laura,MCANEA,224,0,0,Excluded,2,Animal Welfare Party
+18,271,8,Sorcha,MCANESPY,828,0,0,Excluded,6,Independent
+18,272,8,Ciaran,MCCLEAN,458,0,0,Excluded,5,Green Party
+18,273,8,Daniel,MCCROSSAN,4287,672,5552,Elected,8,Social Democratic and Labour Party
+18,274,8,Grace,MCDERMOTT,3711,109,3974,,,Sinn Fein
+18,275,8,Barry,MCELDUFF,4568,334,5250,,,Sinn Fein
+18,276,8,Susan-Anne,WHITE,85,0,0,Excluded,2,Independent
+18,259,9,Michaela,BOYLE,4460,2,4955,,,Sinn Fein
+18,260,9,Allan,BRESLAND,3884,-3952,0,Excluded,8,Democratic Unionist Party
+18,261,9,Barry,BROWN,547,0,0,Excluded,4,Cannabis Is Safer Than Alcohol
+18,262,9,Thomas,BUCHANAN,4650,3604,8370,Elected,9,Democratic Unionist Party
+18,263,9,Josephine Anne,DEENAN,1778,0,0,Excluded,7,Independent
+18,264,9,Stephen,DONNELLY,494,0,0,Excluded,3,Alliance Party
+18,265,9,Corey,FRENCH,124,0,0,Excluded,2,Independent
+18,266,9,Ross,HUSSEY,4441,276,5124,,,Ulster Unionist Party
+18,267,9,Patsy,KELLY,661,0,0,Excluded,6,Independent
+18,268,9,Roger,LOMAS,44,0,0,Excluded,1,NI Conservatives
+18,269,9,Declan,MCALEER,3565,0,4009,,,Sinn Fein
+18,270,9,Laura,MCANEA,224,0,0,Excluded,2,Animal Welfare Party
+18,271,9,Sorcha,MCANESPY,828,0,0,Excluded,6,Independent
+18,272,9,Ciaran,MCCLEAN,458,0,0,Excluded,5,Green Party
+18,273,9,Daniel,MCCROSSAN,4287,0,5552,Elected,8,Social Democratic and Labour Party
+18,274,9,Grace,MCDERMOTT,3711,0,3974,,,Sinn Fein
+18,275,9,Barry,MCELDUFF,4568,2,5252,,,Sinn Fein
+18,276,9,Susan-Anne,WHITE,85,0,0,Excluded,2,Independent
+18,259,10,Michaela,BOYLE,4460,3.52,4958.52,,,Sinn Fein
+18,260,10,Allan,BRESLAND,3884,0,0,Excluded,8,Democratic Unionist Party
+18,261,10,Barry,BROWN,547,0,0,Excluded,4,Cannabis Is Safer Than Alcohol
+18,262,10,Thomas,BUCHANAN,4650,-2825,5545,Elected,9,Democratic Unionist Party
+18,263,10,Josephine Anne,DEENAN,1778,0,0,Excluded,7,Independent
+18,264,10,Stephen,DONNELLY,494,0,0,Excluded,3,Alliance Party
+18,265,10,Corey,FRENCH,124,0,0,Excluded,2,Independent
+18,266,10,Ross,HUSSEY,4441,2808.08,7932.08,Elected,10,Ulster Unionist Party
+18,267,10,Patsy,KELLY,661,0,0,Excluded,6,Independent
+18,268,10,Roger,LOMAS,44,0,0,Excluded,1,NI Conservatives
+18,269,10,Declan,MCALEER,3565,0,4009,,,Sinn Fein
+18,270,10,Laura,MCANEA,224,0,0,Excluded,2,Animal Welfare Party
+18,271,10,Sorcha,MCANESPY,828,0,0,Excluded,6,Independent
+18,272,10,Ciaran,MCCLEAN,458,0,0,Excluded,5,Green Party
+18,273,10,Daniel,MCCROSSAN,4287,0,5552,Elected,8,Social Democratic and Labour Party
+18,274,10,Grace,MCDERMOTT,3711,0,3974,,,Sinn Fein
+18,275,10,Barry,MCELDUFF,4568,0,5252,,,Sinn Fein
+18,276,10,Susan-Anne,WHITE,85,0,0,Excluded,2,Independent
+18,259,11,Michaela,BOYLE,4460,34.32,4992.84,Elected,11,Sinn Fein
+18,260,11,Allan,BRESLAND,3884,0,0,Excluded,8,Democratic Unionist Party
+18,261,11,Barry,BROWN,547,0,0,Excluded,4,Cannabis Is Safer Than Alcohol
+18,262,11,Thomas,BUCHANAN,4650,0,5545,Elected,9,Democratic Unionist Party
+18,263,11,Josephine Anne,DEENAN,1778,0,0,Excluded,7,Independent
+18,264,11,Stephen,DONNELLY,494,0,0,Excluded,3,Alliance Party
+18,265,11,Corey,FRENCH,124,0,0,Excluded,2,Independent
+18,266,11,Ross,HUSSEY,4441,-2387.08,5545,Elected,10,Ulster Unionist Party
+18,267,11,Patsy,KELLY,661,0,0,Excluded,6,Independent
+18,268,11,Roger,LOMAS,44,0,0,Excluded,1,NI Conservatives
+18,269,11,Declan,MCALEER,3565,7.92,4016.92,Elected,11,Sinn Fein
+18,270,11,Laura,MCANEA,224,0,0,Excluded,2,Animal Welfare Party
+18,271,11,Sorcha,MCANESPY,828,0,0,Excluded,6,Independent
+18,272,11,Ciaran,MCCLEAN,458,0,0,Excluded,5,Green Party
+18,273,11,Daniel,MCCROSSAN,4287,0,5552,Elected,8,Social Democratic and Labour Party
+18,274,11,Grace,MCDERMOTT,3711,22,3996,Excluded,11,Sinn Fein
+18,275,11,Barry,MCELDUFF,4568,10.56,5262.56,Elected,11,Sinn Fein
+18,276,11,Susan-Anne,WHITE,85,0,0,Excluded,2,Independent

@@ -1,0 +1,151 @@
+Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_Pref_Votes,Transfers,Total_Votes,Status,Occurred_On_Count,Party_Name
+15,227,1,Kellie,ARMSTRONG,3499,0,3499,,,Alliance Party
+15,228,1,Jonathan,BELL,3393,0,3393,,,Democratic Unionist Party
+15,229,1,Joe,BOYLE,2724,0,2724,,,Social Democratic and Labour Party
+15,230,1,Stephen,COOPER,1407,0,1407,,,Traditional Unionist Voice
+15,231,1,Stephen,CROSBY,759,0,759,,,UK Independence Party
+15,232,1,Georgia,GRAINGER,924,0,924,,,Green Party
+15,233,1,Simon,HAMILTON,3964,0,3964,,,Democratic Unionist Party
+15,234,1,Harry,HARVEY,2017,0,2017,,,Democratic Unionist Party
+15,235,1,Dermot,KENNEDY,661,0,661,,,Sinn Fein
+15,236,1,Rab,MCCARTNEY,107,0,107,Excluded,1,Independent
+15,237,1,Michelle,MCILVEEN,4663,0,4663,Elected,1,Democratic Unionist Party
+15,238,1,Bill,MCKENDRY,314,0,314,Excluded,1,NI Conservatives
+15,239,1,Jimmy,MENAGH,1840,0,1840,,,Independent
+15,240,1,Mike,NESBITT,4673,0,4673,Elected,1,Ulster Unionist Party
+15,241,1,Philip,SMITH,1694,0,1694,,,Ulster Unionist Party
+15,227,2,Kellie,ARMSTRONG,3499,64,3563,,,Alliance Party
+15,228,2,Jonathan,BELL,3393,18,3411,,,Democratic Unionist Party
+15,229,2,Joe,BOYLE,2724,14,2738,,,Social Democratic and Labour Party
+15,230,2,Stephen,COOPER,1407,11,1418,,,Traditional Unionist Voice
+15,231,2,Stephen,CROSBY,759,37,796,,,UK Independence Party
+15,232,2,Georgia,GRAINGER,924,22,946,,,Green Party
+15,233,2,Simon,HAMILTON,3964,30,3994,,,Democratic Unionist Party
+15,234,2,Harry,HARVEY,2017,14,2031,,,Democratic Unionist Party
+15,235,2,Dermot,KENNEDY,661,1,662,Excluded,2,Sinn Fein
+15,236,2,Rab,MCCARTNEY,107,-107,0,Excluded,1,Independent
+15,237,2,Michelle,MCILVEEN,4663,0,4663,Elected,1,Democratic Unionist Party
+15,238,2,Bill,MCKENDRY,314,-314,0,Excluded,1,NI Conservatives
+15,239,2,Jimmy,MENAGH,1840,58,1898,,,Independent
+15,240,2,Mike,NESBITT,4673,0,4673,Elected,1,Ulster Unionist Party
+15,241,2,Philip,SMITH,1694,111,1805,,,Ulster Unionist Party
+15,227,3,Kellie,ARMSTRONG,3499,93,3656,,,Alliance Party
+15,228,3,Jonathan,BELL,3393,5,3416,,,Democratic Unionist Party
+15,229,3,Joe,BOYLE,2724,414,3152,,,Social Democratic and Labour Party
+15,230,3,Stephen,COOPER,1407,1,1419,,,Traditional Unionist Voice
+15,231,3,Stephen,CROSBY,759,11,807,Excluded,3,UK Independence Party
+15,232,3,Georgia,GRAINGER,924,47,993,,,Green Party
+15,233,3,Simon,HAMILTON,3964,2,3996,,,Democratic Unionist Party
+15,234,3,Harry,HARVEY,2017,2,2033,,,Democratic Unionist Party
+15,235,3,Dermot,KENNEDY,661,-662,0,Excluded,2,Sinn Fein
+15,236,3,Rab,MCCARTNEY,107,0,0,Excluded,1,Independent
+15,237,3,Michelle,MCILVEEN,4663,0,4663,Elected,1,Democratic Unionist Party
+15,238,3,Bill,MCKENDRY,314,0,0,Excluded,1,NI Conservatives
+15,239,3,Jimmy,MENAGH,1840,7,1905,,,Independent
+15,240,3,Mike,NESBITT,4673,0,4673,Elected,1,Ulster Unionist Party
+15,241,3,Philip,SMITH,1694,0,1805,,,Ulster Unionist Party
+15,227,4,Kellie,ARMSTRONG,3499,64,3720,,,Alliance Party
+15,228,4,Jonathan,BELL,3393,101,3517,,,Democratic Unionist Party
+15,229,4,Joe,BOYLE,2724,24,3176,,,Social Democratic and Labour Party
+15,230,4,Stephen,COOPER,1407,171,1590,,,Traditional Unionist Voice
+15,231,4,Stephen,CROSBY,759,-807,0,Excluded,3,UK Independence Party
+15,232,4,Georgia,GRAINGER,924,50,1043,,,Green Party
+15,233,4,Simon,HAMILTON,3964,103,4099,Excluded,4,Democratic Unionist Party
+15,234,4,Harry,HARVEY,2017,34,2067,,,Democratic Unionist Party
+15,235,4,Dermot,KENNEDY,661,0,0,Excluded,2,Sinn Fein
+15,236,4,Rab,MCCARTNEY,107,0,0,Excluded,1,Independent
+15,237,4,Michelle,MCILVEEN,4663,0,4663,Elected,1,Democratic Unionist Party
+15,238,4,Bill,MCKENDRY,314,0,0,Excluded,1,NI Conservatives
+15,239,4,Jimmy,MENAGH,1840,67,1972,,,Independent
+15,240,4,Mike,NESBITT,4673,0,4673,Elected,1,Ulster Unionist Party
+15,241,4,Philip,SMITH,1694,100,1905,,,Ulster Unionist Party
+15,227,5,Kellie,ARMSTRONG,3499,593,4313,,,Alliance Party
+15,228,5,Jonathan,BELL,3393,23,3540,,,Democratic Unionist Party
+15,229,5,Joe,BOYLE,2724,100,3276,,,Social Democratic and Labour Party
+15,230,5,Stephen,COOPER,1407,16,1606,Excluded,5,Traditional Unionist Voice
+15,231,5,Stephen,CROSBY,759,0,0,Excluded,3,UK Independence Party
+15,232,5,Georgia,GRAINGER,924,-1043,0,Excluded,4,Green Party
+15,233,5,Simon,HAMILTON,3964,30,4129,,,Democratic Unionist Party
+15,234,5,Harry,HARVEY,2017,5,2072,,,Democratic Unionist Party
+15,235,5,Dermot,KENNEDY,661,0,0,Excluded,2,Sinn Fein
+15,236,5,Rab,MCCARTNEY,107,0,0,Excluded,1,Independent
+15,237,5,Michelle,MCILVEEN,4663,0,4663,Elected,1,Democratic Unionist Party
+15,238,5,Bill,MCKENDRY,314,0,0,Excluded,1,NI Conservatives
+15,239,5,Jimmy,MENAGH,1840,76,2048,,,Independent
+15,240,5,Mike,NESBITT,4673,0,4673,Elected,1,Ulster Unionist Party
+15,241,5,Philip,SMITH,1694,58,1963,,,Ulster Unionist Party
+15,227,6,Kellie,ARMSTRONG,3499,55,4368,,,Alliance Party
+15,228,6,Jonathan,BELL,3393,234,3774,,,Democratic Unionist Party
+15,229,6,Joe,BOYLE,2724,17,3293,,,Social Democratic and Labour Party
+15,230,6,Stephen,COOPER,1407,-1606,0,Excluded,5,Traditional Unionist Voice
+15,231,6,Stephen,CROSBY,759,0,0,Excluded,3,UK Independence Party
+15,232,6,Georgia,GRAINGER,924,0,0,Excluded,4,Green Party
+15,233,6,Simon,HAMILTON,3964,339,4468,,,Democratic Unionist Party
+15,234,6,Harry,HARVEY,2017,154,2226,Excluded,6,Democratic Unionist Party
+15,235,6,Dermot,KENNEDY,661,0,0,Excluded,2,Sinn Fein
+15,236,6,Rab,MCCARTNEY,107,0,0,Excluded,1,Independent
+15,237,6,Michelle,MCILVEEN,4663,0,4663,Elected,1,Democratic Unionist Party
+15,238,6,Bill,MCKENDRY,314,0,0,Excluded,1,NI Conservatives
+15,239,6,Jimmy,MENAGH,1840,201,2249,Excluded,6,Independent
+15,240,6,Mike,NESBITT,4673,0,4673,Elected,1,Ulster Unionist Party
+15,241,6,Philip,SMITH,1694,372,2335,,,Ulster Unionist Party
+15,227,7,Kellie,ARMSTRONG,3499,25,4393,,,Alliance Party
+15,228,7,Jonathan,BELL,3393,1390,5164,Elected,7,Democratic Unionist Party
+15,229,7,Joe,BOYLE,2724,18,3311,,,Social Democratic and Labour Party
+15,230,7,Stephen,COOPER,1407,0,0,Excluded,5,Traditional Unionist Voice
+15,231,7,Stephen,CROSBY,759,0,0,Excluded,3,UK Independence Party
+15,232,7,Georgia,GRAINGER,924,0,0,Excluded,4,Green Party
+15,233,7,Simon,HAMILTON,3964,515,4983,Elected,7,Democratic Unionist Party
+15,234,7,Harry,HARVEY,2017,-2226,0,Excluded,6,Democratic Unionist Party
+15,235,7,Dermot,KENNEDY,661,0,0,Excluded,2,Sinn Fein
+15,236,7,Rab,MCCARTNEY,107,0,0,Excluded,1,Independent
+15,237,7,Michelle,MCILVEEN,4663,0,4663,Elected,1,Democratic Unionist Party
+15,238,7,Bill,MCKENDRY,314,0,0,Excluded,1,NI Conservatives
+15,239,7,Jimmy,MENAGH,1840,27,2276,,,Independent
+15,240,7,Mike,NESBITT,4673,0,4673,Elected,1,Ulster Unionist Party
+15,241,7,Philip,SMITH,1694,140,2475,,,Ulster Unionist Party
+15,227,8,Kellie,ARMSTRONG,3499,19.84,4412.84,,,Alliance Party
+15,228,8,Jonathan,BELL,3393,-501,4663,Elected,7,Democratic Unionist Party
+15,229,8,Joe,BOYLE,2724,9.3,3320.3,,,Social Democratic and Labour Party
+15,230,8,Stephen,COOPER,1407,0,0,Excluded,5,Traditional Unionist Voice
+15,231,8,Stephen,CROSBY,759,0,0,Excluded,3,UK Independence Party
+15,232,8,Georgia,GRAINGER,924,0,0,Excluded,4,Green Party
+15,233,8,Simon,HAMILTON,3964,0,4983,Elected,7,Democratic Unionist Party
+15,234,8,Harry,HARVEY,2017,0,0,Excluded,6,Democratic Unionist Party
+15,235,8,Dermot,KENNEDY,661,0,0,Excluded,2,Sinn Fein
+15,236,8,Rab,MCCARTNEY,107,0,0,Excluded,1,Independent
+15,237,8,Michelle,MCILVEEN,4663,0,4663,Elected,1,Democratic Unionist Party
+15,238,8,Bill,MCKENDRY,314,0,0,Excluded,1,NI Conservatives
+15,239,8,Jimmy,MENAGH,1840,36.58,2312.58,Excluded,8,Independent
+15,240,8,Mike,NESBITT,4673,0,4673,Elected,1,Ulster Unionist Party
+15,241,8,Philip,SMITH,1694,429.04,2904.04,,,Ulster Unionist Party
+15,227,9,Kellie,ARMSTRONG,3499,230.62,4643.46,,,Alliance Party
+15,228,9,Jonathan,BELL,3393,0,4663,Elected,7,Democratic Unionist Party
+15,229,9,Joe,BOYLE,2724,47.62,3367.92,,,Social Democratic and Labour Party
+15,230,9,Stephen,COOPER,1407,0,0,Excluded,5,Traditional Unionist Voice
+15,231,9,Stephen,CROSBY,759,0,0,Excluded,3,UK Independence Party
+15,232,9,Georgia,GRAINGER,924,0,0,Excluded,4,Green Party
+15,233,9,Simon,HAMILTON,3964,0,4983,Elected,7,Democratic Unionist Party
+15,234,9,Harry,HARVEY,2017,0,0,Excluded,6,Democratic Unionist Party
+15,235,9,Dermot,KENNEDY,661,0,0,Excluded,2,Sinn Fein
+15,236,9,Rab,MCCARTNEY,107,0,0,Excluded,1,Independent
+15,237,9,Michelle,MCILVEEN,4663,0,4663,Elected,1,Democratic Unionist Party
+15,238,9,Bill,MCKENDRY,314,0,0,Excluded,1,NI Conservatives
+15,239,9,Jimmy,MENAGH,1840,-2312.58,0,Excluded,8,Independent
+15,240,9,Mike,NESBITT,4673,0,4673,Elected,1,Ulster Unionist Party
+15,241,9,Philip,SMITH,1694,772.84,3676.88,,,Ulster Unionist Party
+15,227,10,Kellie,ARMSTRONG,3499,19,4662.46,Elected,10,Alliance Party
+15,228,10,Jonathan,BELL,3393,0,4663,Elected,7,Democratic Unionist Party
+15,229,10,Joe,BOYLE,2724,20,3387.92,Excluded,10,Social Democratic and Labour Party
+15,230,10,Stephen,COOPER,1407,0,0,Excluded,5,Traditional Unionist Voice
+15,231,10,Stephen,CROSBY,759,0,0,Excluded,3,UK Independence Party
+15,232,10,Georgia,GRAINGER,924,0,0,Excluded,4,Green Party
+15,233,10,Simon,HAMILTON,3964,-320,4663,Elected,7,Democratic Unionist Party
+15,234,10,Harry,HARVEY,2017,0,0,Excluded,6,Democratic Unionist Party
+15,235,10,Dermot,KENNEDY,661,0,0,Excluded,2,Sinn Fein
+15,236,10,Rab,MCCARTNEY,107,0,0,Excluded,1,Independent
+15,237,10,Michelle,MCILVEEN,4663,0,4663,Elected,1,Democratic Unionist Party
+15,238,10,Bill,MCKENDRY,314,0,0,Excluded,1,NI Conservatives
+15,239,10,Jimmy,MENAGH,1840,0,0,Excluded,8,Independent
+15,240,10,Mike,NESBITT,4673,0,4673,Elected,1,Ulster Unionist Party
+15,241,10,Philip,SMITH,1694,281,3957.88,Elected,10,Ulster Unionist Party
