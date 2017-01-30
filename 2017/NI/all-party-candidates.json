@@ -1028,6 +1028,21 @@
         "Party_Id": "111", 
         "Email": "", 
         "Photo_URL": ""
+},
+    {
+        "Surname": "Milne", 
+        "Firstname": "Georgine", 
+        "Gender": "Female", 
+        "Twitter": "Georgine_Milne", 
+        "Constituency_Name": "Belfast East", 
+        "Constituency_Number": "2", 
+        "Party_Name": "Green Party", 
+        "Outgoing_Member": "", 
+        "Candidate_id": "19699", 
+        "Directory": "belfast-east", 
+        "Party_Id": "111", 
+        "Email": "", 
+        "Photo_URL": ""
 }
     ]},
     {
@@ -1860,6 +1875,21 @@
         "Outgoing_Member": "", 
         "Candidate_id": "11857", 
         "Directory": "foyle", 
+        "Party_Id": "23", 
+        "Email": "", 
+        "Photo_URL": ""
+},
+    {
+        "Surname": "Gallagher", 
+        "Firstname": "Naomh", 
+        "Gender": "Female", 
+        "Twitter": "naomhgallagher", 
+        "Constituency_Name": "Belfast South", 
+        "Constituency_Number": "13", 
+        "Party_Name": "Social Democratic and Labour Party", 
+        "Outgoing_Member": "", 
+        "Candidate_id": "19698", 
+        "Directory": "belfast-south", 
         "Party_Id": "23", 
         "Email": "", 
         "Photo_URL": ""
