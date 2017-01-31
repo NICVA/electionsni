@@ -790,7 +790,7 @@
         "Photo_URL": ""
 },
     {
-        "Surname": "\u00d3Muilleoir", 
+        "Surname": "\u00d3 Muilleoir", 
         "Firstname": "M\u00e1irt\u00edn", 
         "Gender": "Male", 
         "Twitter": "newbelfast", 
@@ -2121,26 +2121,6 @@
 }
     ]},
     {
-    "Constituency_Name": "Lagan Valley",
-    "Constituency_Number": "5",
-    "Candidates": [
-    {
-        "Surname": "Barrios-O'Neill", 
-        "Firstname": "Dan", 
-        "Gender": "Male", 
-        "Twitter": "DBarriosONeill", 
-        "Constituency_Name": "Lagan Valley", 
-        "Constituency_Number": "5", 
-        "Party_Name": "Green Party", 
-        "Outgoing_Member": "", 
-        "Candidate_id": "11537", 
-        "Directory": "lagan-valley", 
-        "Party_Id": "111", 
-        "Email": "", 
-        "Photo_URL": ""
-}
-    ]},
-    {
     "Constituency_Name": "Foyle",
     "Constituency_Number": "5",
     "Candidates": [
@@ -2284,6 +2264,21 @@
     "Constituency_Name": "Lagan Valley",
     "Constituency_Number": "6",
     "Candidates": [
+    {
+        "Surname": "Barrios-O'Neill", 
+        "Firstname": "Dan", 
+        "Gender": "Male", 
+        "Twitter": "DBarriosONeill", 
+        "Constituency_Name": "Lagan Valley", 
+        "Constituency_Number": "6", 
+        "Party_Name": "Green Party", 
+        "Outgoing_Member": "", 
+        "Candidate_id": "11537", 
+        "Directory": "lagan-valley", 
+        "Party_Id": "111", 
+        "Email": "", 
+        "Photo_URL": ""
+},
     {
         "Surname": "Butler", 
         "Firstname": "Robbie", 
