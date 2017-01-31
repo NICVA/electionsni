@@ -1,9 +1,10 @@
 Constituency_Name,Constituency_Number,Candidate_id,Firstname,Surname,Outgoing_Member,Party_Id,Party_Name,Photo_URL,Directory,Gender,Twitter,Email
 North Antrim,9,2134,Jim,Allister,,141,Traditional Unionist Voice,,north-antrim,male,JimAllister,
+North Antrim,9,19703,Mark,Bailey,,111,Green Party,,north-antrim,,,
 North Antrim,9,12750,Connor,Duncan,,23,Social Democratic and Labour Party,,north-antrim,male,CDuncanSDLP,
 North Antrim,9,12751,Paul,Frew,,20,Democratic Unionist Party,,north-antrim,male,,
 North Antrim,9,12753,Phillip,Logan,,20,Democratic Unionist Party,,north-antrim,male,philliplogan,
 North Antrim,9,19673,Philip,McGuigan,,24,Sinn Fein,,north-antrim,Male,mcguigan_philip,
-North Antrim,9,19695,Patricia,O'Lynn,,19,Alliance Party,,north-antrim,female,,
+North Antrim,9,19695,Patricia,O'Lynn,,19,Alliance Party,,north-antrim,female,PatriciaOLynn,
 North Antrim,9,12757,Mervyn,Storey,,20,Democratic Unionist Party,,north-antrim,male,,
 North Antrim,9,4723,Robin,Swann,,26,Ulster Unionist Party,,north-antrim,male,robinswannuup,

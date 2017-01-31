@@ -1,8 +1,7 @@
 Constituency_Name,Constituency_Number,Candidate_id,Firstname,Surname,Outgoing_Member,Party_Id,Party_Name,Photo_URL,Directory,Gender,Twitter,Email
 Belfast North,10,11380,Paula,Bradley,,20,Democratic Unionist Party,,belfast-north,female,,
-Belfast North,10,11377,Carál,NíChuilín,,24,Sinn Fein,,belfast-north,female,CaralNiChuilin,
 Belfast North,10,19690,Julie-Anne,Corr-Johnston,,994,Progressive Unionist Party,,belfast-north,female,JulieACorr,
-Belfast North,10,11371,Fiona,Ferguson,,999,People Before Profit Alliance,,belfast-north,Female,,
+Belfast North,10,11371,Fiona,Ferguson,,999,People Before Profit Alliance,,belfast-north,Female,fiona_ferg,
 Belfast North,10,19697,Robert,Foster,,26,Ulster Unionist Party,,belfast-north,Male,,
 Belfast North,10,575,William,Humphrey,,20,Democratic Unionist Party,,belfast-north,male,,
 Belfast North,10,131,Gerry,Kelly,,24,Sinn Fein,,belfast-north,male,GerryKellyMLA,
@@ -10,4 +9,6 @@ Belfast North,10,11385,Nichola,Mallon,,23,Social Democratic and Labour Party,,be
 Belfast North,10,11374,Nuala,McAllister,,19,Alliance Party,,belfast-north,female,NualaMcAllister,
 Belfast North,10,11375,Nelson,McCausland,,20,Democratic Unionist Party,,belfast-north,male,,
 Belfast North,10,19676,Adam,Millar,,21,Independent,,belfast-north,Male,AdamMillar,
+Belfast North,10,11377,Carál,NíChuilín,,24,Sinn Fein,,belfast-north,female,CaralNiChuilin,
+Belfast North,10,11378,Malachai,O�Hara,,111,Green Party,,belfast-north,,gaygael,
 Belfast North,10,6264,Gemma,Weir,,998,Workers Party,,belfast-north,female,gemmacweir1,
