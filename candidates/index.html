@@ -47,7 +47,7 @@
 		</ul>
 		</div>
     <div class="cta">
-      <strong>Candidates data for 2017 is in beta (not confirmed). You can contribute by using the <a href="https://democracyclub.org.uk/blog/2017/01/17/help-us-find-every-candidate-new-northern-ireland-assembly/" target="_blank">Democracy Club platform</a></strong>
+      <strong>2017 Candidates data has not been finalised. You can contribute by using the <a href="https://democracyclub.org.uk/blog/2017/01/17/help-us-find-every-candidate-new-northern-ireland-assembly/" target="_blank">Democracy Club platform</a></strong>
     </div>
 
 		<div class="content">
@@ -99,7 +99,7 @@
 		var candidates = defined[0].Candidates;
 		console.log(defined);
 		this.innerHTML += '<h2>' + title + ' (' + checkedYear + ')</h2>';
-		this.innerHTML += '<p><b>' + candidates.length + ' candidates nominated</b></p>';
+		this.innerHTML += '<p><b>' + candidates.length + ' candidates</b></p>';
 		for (i = 0; i < candidates.length; i++) {
 			if (candidates[i].Outgoing_Member == 1) {
 				var MLA_text = " (outgoing MLA)"} else {var MLA_text = ""}

@@ -113,7 +113,7 @@
 		var candidates = constituency[0].Candidates;
 		console.log(candidates);
 		constituencyinfo.innerHTML = '<h2>' + constituency[0].Constituency_Name + ' (' + checkedYear + ')<h2>';
-        this.innerHTML += '<p><b>' + candidates.length + ' candidates NOMINATED</b></p>';
+        this.innerHTML += '<p><b>' + candidates.length + ' candidates</b></p>';
 		console.log(constituency_directory);
 		for (i = 0; i < candidates.length; i++) {
 			if (candidates[i].Outgoing_Member == 1) {
