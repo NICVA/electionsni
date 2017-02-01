@@ -1,0 +1,181 @@
+Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_Pref_Votes,Transfers,Total_Votes,Status,Occurred_On_Count,Party_Name
+1,67,1,Roy,BEGGS,3848,0,3848,,,Ulster Unionist Party
+1,68,1,Stewart Clyde,DICKSON,3115,0,3115,,,Alliance Party
+1,69,1,Danny,DONNELLY,1632,0,1632,,,Alliance Party
+1,70,1,David,HILDITCH,5906,0,5906,Elected,1,Democratic Unionist Party
+1,71,1,Noel,JORDAN,2207,0,2207,,,UK Independence Party
+1,72,1,Gordon,LYONS,3472,0,3472,,,Democratic Unionist Party
+1,73,1,Jim,MCCAW,455,0,455,,,Progressive Unionist Party
+1,74,1,Margaret Anne,MCKILLOP,1229,0,1229,,,Social Democratic and Labour Party
+1,75,1,Oliver,MCMULLAN,2633,0,2633,,,Sinn Fein
+1,76,1,Maureen,MORROW,719,0,719,,,Ulster Unionist Party
+1,77,1,Dawn,PATTERSON,693,0,693,,,Green Party
+1,78,1,Alastair,ROSS,2323,0,2323,,,Democratic Unionist Party
+1,79,1,Conor John,SHERIDAN,551,0,551,,,Cross-Community Labour Alternative
+1,80,1,John Robert,STEWART,1985,0,1985,,,Ulster Unionist Party
+1,81,1,Ruth,WILSON,1643,0,1643,,,Traditional Unionist Voice
+1,67,2,Roy,BEGGS,3848,87.78,3935.78,,,Ulster Unionist Party
+1,68,2,Stewart Clyde,DICKSON,3115,11.34,3126.34,,,Alliance Party
+1,69,2,Danny,DONNELLY,1632,2.31,1634.31,,,Alliance Party
+1,70,2,David,HILDITCH,5906,-1275,4631,Elected,1,Democratic Unionist Party
+1,71,2,Noel,JORDAN,2207,42.63,2249.63,,,UK Independence Party
+1,72,2,Gordon,LYONS,3472,851.76,4323.76,,,Democratic Unionist Party
+1,73,2,Jim,MCCAW,455,8.19,463.19,Excluded,2,Progressive Unionist Party
+1,74,2,Margaret Anne,MCKILLOP,1229,1.05,1230.05,,,Social Democratic and Labour Party
+1,75,2,Oliver,MCMULLAN,2633,0.42,2633.42,,,Sinn Fein
+1,76,2,Maureen,MORROW,719,5.46,724.46,,,Ulster Unionist Party
+1,77,2,Dawn,PATTERSON,693,1.68,694.68,,,Green Party
+1,78,2,Alastair,ROSS,2323,175.98,2498.98,,,Democratic Unionist Party
+1,79,2,Conor John,SHERIDAN,551,0.42,551.42,,,Cross-Community Labour Alternative
+1,80,2,John Robert,STEWART,1985,28.56,2013.56,,,Ulster Unionist Party
+1,81,2,Ruth,WILSON,1643,15.75,1658.75,,,Traditional Unionist Voice
+1,67,3,Roy,BEGGS,3848,76.21,4011.99,,,Ulster Unionist Party
+1,68,3,Stewart Clyde,DICKSON,3115,4,3130.34,,,Alliance Party
+1,69,3,Danny,DONNELLY,1632,1,1635.31,,,Alliance Party
+1,70,3,David,HILDITCH,5906,0,4631,Elected,1,Democratic Unionist Party
+1,71,3,Noel,JORDAN,2207,174.05,2423.68,,,UK Independence Party
+1,72,3,Gordon,LYONS,3472,38.73,4362.49,,,Democratic Unionist Party
+1,73,3,Jim,MCCAW,455,-463.19,0,Excluded,2,Progressive Unionist Party
+1,74,3,Margaret Anne,MCKILLOP,1229,2,1232.05,,,Social Democratic and Labour Party
+1,75,3,Oliver,MCMULLAN,2633,1,2634.42,,,Sinn Fein
+1,76,3,Maureen,MORROW,719,11.21,735.67,,,Ulster Unionist Party
+1,77,3,Dawn,PATTERSON,693,10,704.68,,,Green Party
+1,78,3,Alastair,ROSS,2323,37.73,2536.71,,,Democratic Unionist Party
+1,79,3,Conor John,SHERIDAN,551,6,557.42,Excluded,3,Cross-Community Labour Alternative
+1,80,3,John Robert,STEWART,1985,38.05,2051.61,,,Ulster Unionist Party
+1,81,3,Ruth,WILSON,1643,53.21,1711.96,,,Traditional Unionist Voice
+1,67,4,Roy,BEGGS,3848,20,4031.99,,,Ulster Unionist Party
+1,68,4,Stewart Clyde,DICKSON,3115,66,3196.34,,,Alliance Party
+1,69,4,Danny,DONNELLY,1632,75,1710.31,,,Alliance Party
+1,70,4,David,HILDITCH,5906,0,4631,Elected,1,Democratic Unionist Party
+1,71,4,Noel,JORDAN,2207,27,2450.68,,,UK Independence Party
+1,72,4,Gordon,LYONS,3472,10.21,4372.7,,,Democratic Unionist Party
+1,73,4,Jim,MCCAW,455,0,0,Excluded,2,Progressive Unionist Party
+1,74,4,Margaret Anne,MCKILLOP,1229,59,1291.05,,,Social Democratic and Labour Party
+1,75,4,Oliver,MCMULLAN,2633,45,2679.42,,,Sinn Fein
+1,76,4,Maureen,MORROW,719,11,746.67,Excluded,4,Ulster Unionist Party
+1,77,4,Dawn,PATTERSON,693,174,878.68,,,Green Party
+1,78,4,Alastair,ROSS,2323,9,2545.71,,,Democratic Unionist Party
+1,79,4,Conor John,SHERIDAN,551,-557.42,0,Excluded,3,Cross-Community Labour Alternative
+1,80,4,John Robert,STEWART,1985,20,2071.61,,,Ulster Unionist Party
+1,81,4,Ruth,WILSON,1643,10,1721.96,,,Traditional Unionist Voice
+1,67,5,Roy,BEGGS,3848,248.05,4280.04,,,Ulster Unionist Party
+1,68,5,Stewart Clyde,DICKSON,3115,28,3224.34,,,Alliance Party
+1,69,5,Danny,DONNELLY,1632,19,1729.31,,,Alliance Party
+1,70,5,David,HILDITCH,5906,0,4631,Elected,1,Democratic Unionist Party
+1,71,5,Noel,JORDAN,2207,1.42,2452.1,,,UK Independence Party
+1,72,5,Gordon,LYONS,3472,115.63,4488.33,,,Democratic Unionist Party
+1,73,5,Jim,MCCAW,455,0,0,Excluded,2,Progressive Unionist Party
+1,74,5,Margaret Anne,MCKILLOP,1229,14.21,1305.26,,,Social Democratic and Labour Party
+1,75,5,Oliver,MCMULLAN,2633,12,2691.42,,,Sinn Fein
+1,76,5,Maureen,MORROW,719,-746.67,0,Excluded,4,Ulster Unionist Party
+1,77,5,Dawn,PATTERSON,693,8,886.68,Excluded,5,Green Party
+1,78,5,Alastair,ROSS,2323,34.47,2580.18,,,Democratic Unionist Party
+1,79,5,Conor John,SHERIDAN,551,0,0,Excluded,3,Cross-Community Labour Alternative
+1,80,5,John Robert,STEWART,1985,197.84,2269.45,,,Ulster Unionist Party
+1,81,5,Ruth,WILSON,1643,49.63,1771.59,,,Traditional Unionist Voice
+1,67,6,Roy,BEGGS,3848,47.42,4327.46,,,Ulster Unionist Party
+1,68,6,Stewart Clyde,DICKSON,3115,280.21,3504.55,,,Alliance Party
+1,69,6,Danny,DONNELLY,1632,180,1909.31,,,Alliance Party
+1,70,6,David,HILDITCH,5906,0,4631,Elected,1,Democratic Unionist Party
+1,71,6,Noel,JORDAN,2207,50.21,2502.31,,,UK Independence Party
+1,72,6,Gordon,LYONS,3472,12.63,4500.96,,,Democratic Unionist Party
+1,73,6,Jim,MCCAW,455,0,0,Excluded,2,Progressive Unionist Party
+1,74,6,Margaret Anne,MCKILLOP,1229,75,1380.26,Excluded,6,Social Democratic and Labour Party
+1,75,6,Oliver,MCMULLAN,2633,30,2721.42,,,Sinn Fein
+1,76,6,Maureen,MORROW,719,0,0,Excluded,4,Ulster Unionist Party
+1,77,6,Dawn,PATTERSON,693,-886.68,0,Excluded,5,Green Party
+1,78,6,Alastair,ROSS,2323,12.21,2592.39,,,Democratic Unionist Party
+1,79,6,Conor John,SHERIDAN,551,0,0,Excluded,3,Cross-Community Labour Alternative
+1,80,6,John Robert,STEWART,1985,38,2307.45,,,Ulster Unionist Party
+1,81,6,Ruth,WILSON,1643,16,1787.59,,,Traditional Unionist Voice
+1,67,7,Roy,BEGGS,3848,15.21,4342.67,,,Ulster Unionist Party
+1,68,7,Stewart Clyde,DICKSON,3115,241.42,3745.97,,,Alliance Party
+1,69,7,Danny,DONNELLY,1632,311,2220.31,,,Alliance Party
+1,70,7,David,HILDITCH,5906,0,4631,Elected,1,Democratic Unionist Party
+1,71,7,Noel,JORDAN,2207,19,2521.31,,,UK Independence Party
+1,72,7,Gordon,LYONS,3472,11.21,4512.17,,,Democratic Unionist Party
+1,73,7,Jim,MCCAW,455,0,0,Excluded,2,Progressive Unionist Party
+1,74,7,Margaret Anne,MCKILLOP,1229,-1380.26,0,Excluded,6,Social Democratic and Labour Party
+1,75,7,Oliver,MCMULLAN,2633,559,3280.42,,,Sinn Fein
+1,76,7,Maureen,MORROW,719,0,0,Excluded,4,Ulster Unionist Party
+1,77,7,Dawn,PATTERSON,693,0,0,Excluded,5,Green Party
+1,78,7,Alastair,ROSS,2323,15,2607.39,,,Democratic Unionist Party
+1,79,7,Conor John,SHERIDAN,551,0,0,Excluded,3,Cross-Community Labour Alternative
+1,80,7,John Robert,STEWART,1985,14,2321.45,,,Ulster Unionist Party
+1,81,7,Ruth,WILSON,1643,8,1795.59,Excluded,7,Traditional Unionist Voice
+1,67,8,Roy,BEGGS,3848,365,4707.67,Elected,8,Ulster Unionist Party
+1,68,8,Stewart Clyde,DICKSON,3115,32.21,3778.18,,,Alliance Party
+1,69,8,Danny,DONNELLY,1632,21,2241.31,,,Alliance Party
+1,70,8,David,HILDITCH,5906,0,4631,Elected,1,Democratic Unionist Party
+1,71,8,Noel,JORDAN,2207,408.31,2929.62,,,UK Independence Party
+1,72,8,Gordon,LYONS,3472,345,4857.17,Elected,8,Democratic Unionist Party
+1,73,8,Jim,MCCAW,455,0,0,Excluded,2,Progressive Unionist Party
+1,74,8,Margaret Anne,MCKILLOP,1229,0,0,Excluded,6,Social Democratic and Labour Party
+1,75,8,Oliver,MCMULLAN,2633,2,3282.42,,,Sinn Fein
+1,76,8,Maureen,MORROW,719,0,0,Excluded,4,Ulster Unionist Party
+1,77,8,Dawn,PATTERSON,693,0,0,Excluded,5,Green Party
+1,78,8,Alastair,ROSS,2323,275.98,2883.37,,,Democratic Unionist Party
+1,79,8,Conor John,SHERIDAN,551,0,0,Excluded,3,Cross-Community Labour Alternative
+1,80,8,John Robert,STEWART,1985,213.1,2534.55,,,Ulster Unionist Party
+1,81,8,Ruth,WILSON,1643,-1795.59,0,Excluded,7,Traditional Unionist Voice
+1,67,9,Roy,BEGGS,3848,0,4707.67,Elected,8,Ulster Unionist Party
+1,68,9,Stewart Clyde,DICKSON,3115,2.37,3780.55,,,Alliance Party
+1,69,9,Danny,DONNELLY,1632,0.79,2242.1,Excluded,9,Alliance Party
+1,70,9,David,HILDITCH,5906,0,4631,Elected,1,Democratic Unionist Party
+1,71,9,Noel,JORDAN,2207,23.7,2953.32,,,UK Independence Party
+1,72,9,Gordon,LYONS,3472,-226.17,4631,Elected,8,Democratic Unionist Party
+1,73,9,Jim,MCCAW,455,0,0,Excluded,2,Progressive Unionist Party
+1,74,9,Margaret Anne,MCKILLOP,1229,0,0,Excluded,6,Social Democratic and Labour Party
+1,75,9,Oliver,MCMULLAN,2633,0,3282.42,,,Sinn Fein
+1,76,9,Maureen,MORROW,719,0,0,Excluded,4,Ulster Unionist Party
+1,77,9,Dawn,PATTERSON,693,0,0,Excluded,5,Green Party
+1,78,9,Alastair,ROSS,2323,188.02,3071.39,,,Democratic Unionist Party
+1,79,9,Conor John,SHERIDAN,551,0,0,Excluded,3,Cross-Community Labour Alternative
+1,80,9,John Robert,STEWART,1985,11.06,2545.61,,,Ulster Unionist Party
+1,81,9,Ruth,WILSON,1643,0,0,Excluded,7,Traditional Unionist Voice
+1,67,10,Roy,BEGGS,3848,0,4707.67,Elected,8,Ulster Unionist Party
+1,68,10,Stewart Clyde,DICKSON,3115,1453,5233.55,Elected,10,Alliance Party
+1,69,10,Danny,DONNELLY,1632,-2242.1,0,Excluded,9,Alliance Party
+1,70,10,David,HILDITCH,5906,0,4631,Elected,1,Democratic Unionist Party
+1,71,10,Noel,JORDAN,2207,32.79,2986.11,,,UK Independence Party
+1,72,10,Gordon,LYONS,3472,0,4631,Elected,8,Democratic Unionist Party
+1,73,10,Jim,MCCAW,455,0,0,Excluded,2,Progressive Unionist Party
+1,74,10,Margaret Anne,MCKILLOP,1229,0,0,Excluded,6,Social Democratic and Labour Party
+1,75,10,Oliver,MCMULLAN,2633,187.21,3469.63,,,Sinn Fein
+1,76,10,Maureen,MORROW,719,0,0,Excluded,4,Ulster Unionist Party
+1,77,10,Dawn,PATTERSON,693,0,0,Excluded,5,Green Party
+1,78,10,Alastair,ROSS,2323,36.47,3107.86,,,Democratic Unionist Party
+1,79,10,Conor John,SHERIDAN,551,0,0,Excluded,3,Cross-Community Labour Alternative
+1,80,10,John Robert,STEWART,1985,76,2621.61,,,Ulster Unionist Party
+1,81,10,Ruth,WILSON,1643,0,0,Excluded,7,Traditional Unionist Voice
+1,67,11,Roy,BEGGS,3848,0,4707.67,Elected,8,Ulster Unionist Party
+1,68,11,Stewart Clyde,DICKSON,3115,-602.55,4631,Elected,10,Alliance Party
+1,69,11,Danny,DONNELLY,1632,0,0,Excluded,9,Alliance Party
+1,70,11,David,HILDITCH,5906,0,4631,Elected,1,Democratic Unionist Party
+1,71,11,Noel,JORDAN,2207,67.2,3053.31,,,UK Independence Party
+1,72,11,Gordon,LYONS,3472,0,4631,Elected,8,Democratic Unionist Party
+1,73,11,Jim,MCCAW,455,0,0,Excluded,2,Progressive Unionist Party
+1,74,11,Margaret Anne,MCKILLOP,1229,0,0,Excluded,6,Social Democratic and Labour Party
+1,75,11,Oliver,MCMULLAN,2633,159.36,3628.99,,,Sinn Fein
+1,76,11,Maureen,MORROW,719,0,0,Excluded,4,Ulster Unionist Party
+1,77,11,Dawn,PATTERSON,693,0,0,Excluded,5,Green Party
+1,78,11,Alastair,ROSS,2323,65.28,3173.14,,,Democratic Unionist Party
+1,79,11,Conor John,SHERIDAN,551,0,0,Excluded,3,Cross-Community Labour Alternative
+1,80,11,John Robert,STEWART,1985,305.28,2926.89,Excluded,11,Ulster Unionist Party
+1,81,11,Ruth,WILSON,1643,0,0,Excluded,7,Traditional Unionist Voice
+1,67,12,Roy,BEGGS,3848,0,4707.67,Elected,8,Ulster Unionist Party
+1,68,12,Stewart Clyde,DICKSON,3115,0,4631,Elected,10,Alliance Party
+1,69,12,Danny,DONNELLY,1632,0,0,Excluded,9,Alliance Party
+1,70,12,David,HILDITCH,5906,0,4631,Elected,1,Democratic Unionist Party
+1,71,12,Noel,JORDAN,2207,514.17,3567.48,Excluded,12,UK Independence Party
+1,72,12,Gordon,LYONS,3472,0,4631,Elected,8,Democratic Unionist Party
+1,73,12,Jim,MCCAW,455,0,0,Excluded,2,Progressive Unionist Party
+1,74,12,Margaret Anne,MCKILLOP,1229,0,0,Excluded,6,Social Democratic and Labour Party
+1,75,12,Oliver,MCMULLAN,2633,43.28,3672.27,Elected,12,Sinn Fein
+1,76,12,Maureen,MORROW,719,0,0,Excluded,4,Ulster Unionist Party
+1,77,12,Dawn,PATTERSON,693,0,0,Excluded,5,Green Party
+1,78,12,Alastair,ROSS,2323,923.3,4096.44,Elected,12,Democratic Unionist Party
+1,79,12,Conor John,SHERIDAN,551,0,0,Excluded,3,Cross-Community Labour Alternative
+1,80,12,John Robert,STEWART,1985,-2926.89,0,Excluded,11,Ulster Unionist Party
+1,81,12,Ruth,WILSON,1643,0,0,Excluded,7,Traditional Unionist Voice

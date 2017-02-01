@@ -23,6 +23,7 @@
 
     <script src="https://code.jquery.com/jquery-3.1.1.js" integrity="sha256-16cdPddA6VdVInumRGo6IbivbERE8p7CQR3HzTBuELA=" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/lodash/4.17.4/lodash.min.js"></script>
+    <script src="https://use.fontawesome.com/3302049464.js"></script>
 
     <!-- Vue.js and Vue Router -->
     <script src="https://unpkg.com/vue/dist/vue.js"></script>
@@ -110,28 +111,46 @@
 
 
     <template id="candidate-list">
-      <div class="row">
+      <div>
+        <!-- <ul class="row">
+          <a v-for="constituency in constituencies" v-if="constituency.Constituency_Number" class="col-md-4" :href="'#constituency-' + constituency.Constituency_Number">{{ constituency.Constituency_Name }}</a>
+        </ul>
+        <div class="row"> -->
         <div class="col-md-8">
-        <router-link :to="{name: 'candidate', params: { id: candidate.Candidate_id }}" v-for="candidate in candidates" class="list-group-item">
-        <h4 class="list-group-item-heading">
-          <i class="glyphicon glyphicon-user"></i>
-          {{ candidate.Firstname }} {{ candidate.Surname}}<span class="label label-default pull-right">{{ candidate.Party_Name }}</span>
-        </h4>
-      </router-link>
-    </div>
-    <div class="col-md-4">
-      <div class="alert alert-warning" role="alert"><h3>Help collect data with Democracy Club</h3></div>
-    </div>
-        </div>
+          <template v-for="constituency in constituencies">
+            <h3 :id="'constituency-' + constituency.Constituency_Number">{{ constituency.Constituency_Name }}</h3>
+          <template v-for="candidate in candidates" v-if="candidate.Constituency_Number == constituency.Constituency_Number && candidate.Candidate_id">
+          <router-link :to="{name: 'candidate', params: { id: candidate.Candidate_id }}" class="list-group-item">
+            <h4 class="list-group-item-heading">
+              <i class="glyphicon glyphicon-user"></i>
+              {{ candidate.Firstname }} {{ candidate.Surname}}
+              <span class="label label-success" v-if="elected.includes(parseInt(candidate.Candidate_id))">elected</span>
+              <span class="label label-danger" v-if="excluded.includes(parseInt(candidate.Candidate_id))">excluded</span>
+              <span class="label label-default pull-right">{{ candidate.Party_Name }}</span>
+            </h4>
+          </router-link>
         </template>
+        </template>
+        </ul>
+      </div>
+          <div class="col-md-4">
+            <div class="alert alert-info" role="alert">
+              <h3>Help collect data with Democracy Club</h3>
+              <p>Democracy Club help us collect up to date and accurate candidate information. If you know about more candidates, you can add them to the list and they'll become available here too.</p>
+              <a class="btn btn-primary" role="button" href="https://candidates.democracyclub.org.uk/election/nia.2017-03-02/constituencies" target="_blank">Contribute</a>
+            </div>
+          </div>
+      </div>
+    </div>
+    </template>
 
 
     <template id="candidate-page">
         <div>
           <ul class="breadcrumb"><li><router-link to="/">Home</router-link></li><li><router-link :to="{ name: 'candidates', params: { year: '2017' }}">Candidates</router-link></li><li class="active">{{ candidate.Surname }}</li></ul>
           <h2>{{ candidate.Firstname }} {{ candidate.Surname }}</h2>
-          <h3>Standing for Election in <strong>{{ candidate.Constituency_Name }}</strong></h3>
-          <h4><i class="glyphicon glyphicon-user"></i><small>{{ candidate.Party_Name }}</small></h4>
+          <h3>Standing for election in <strong>{{ candidate.Constituency_Name }}</strong></h3>
+          <h3><i class="fa fa-users" aria-hidden="true"></i> {{ candidate.Party_Name }}</h3>
           <h5 v-if="candidate.Twitter">Twitter: <a target="_blank" :href="'http://twitter.com/' + candidate.Twitter">{{ candidate.Twitter }}</a></h5>
         </div>
       </template>

@@ -1,0 +1,85 @@
+Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_Pref_Votes,Transfers,Total_Votes,Status,Occurred_On_Count,Party_Name
+3,70,1,Bernadette,ARCHIBALD,2639,0,2639,,,Sinn Fein
+3,71,1,Gregory,CAMPBELL,6319,0,6319,Elected,1,Democratic Unionist Party
+3,72,1,Thomas Joseph,CONWAY,2222,0,2222,,,Social Democratic and Labour Party
+3,73,1,John,DALLAT,2967,0,2967,,,Social Democratic and Labour Party
+3,74,1,Douglas,BOYD,1568,0,1568,,,Traditional Unionist Voice
+3,75,1,Barry,FITZPATRICK,1905,0,1905,,,Alliance Party
+3,76,1,David,HARDING,1458,0,1458,,,Ulster Unionist Party
+3,77,1,Lesley,MACAULAY,1472,0,1472,,,Ulster Unionist Party
+3,78,1,David,MCCLARTY,3003,0,3003,,,Independent
+3,79,1,Adrian,MCQUILLAN,2633,0,2633,,,Democratic Unionist Party
+3,80,1,Cathal,O HOISIN,4681,0,4681,,,Sinn Fein
+3,81,1,George,ROBINSON,3855,0,3855,,,Democratic Unionist Party
+3,70,2,Bernadette,ARCHIBALD,2639,1.98,2640.98,,,Sinn Fein
+3,71,2,Gregory,CAMPBELL,6319,-1358,4961,Elected,1,Democratic Unionist Party
+3,72,2,Thomas Joseph,CONWAY,2222,6.16,2228.16,,,Social Democratic and Labour Party
+3,73,2,John,DALLAT,2967,11.44,2978.44,,,Social Democratic and Labour Party
+3,74,2,Douglas,BOYD,1568,79.42,1647.42,,,Traditional Unionist Voice
+3,75,2,Barry,FITZPATRICK,1905,27.28,1932.28,,,Alliance Party
+3,76,2,David,HARDING,1458,73.92,1531.92,,,Ulster Unionist Party
+3,77,2,Lesley,MACAULAY,1472,58.3,1530.3,Excluded,2,Ulster Unionist Party
+3,78,2,David,MCCLARTY,3003,116.16,3119.16,,,Independent
+3,79,2,Adrian,MCQUILLAN,2633,665.72,3298.72,,,Democratic Unionist Party
+3,80,2,Cathal,O HOISIN,4681,1.54,4682.54,,,Sinn Fein
+3,81,2,George,ROBINSON,3855,312.62,4167.62,,,Democratic Unionist Party
+3,70,3,Bernadette,ARCHIBALD,2639,3,2643.98,,,Sinn Fein
+3,71,3,Gregory,CAMPBELL,6319,0,4961,Elected,1,Democratic Unionist Party
+3,72,3,Thomas Joseph,CONWAY,2222,3.22,2231.38,,,Social Democratic and Labour Party
+3,73,3,John,DALLAT,2967,16.1,2994.54,,,Social Democratic and Labour Party
+3,74,3,Douglas,BOYD,1568,55.76,1703.18,Excluded,3,Traditional Unionist Voice
+3,75,3,Barry,FITZPATRICK,1905,73.42,2005.7,,,Alliance Party
+3,76,3,David,HARDING,1458,1048.5,2580.42,,,Ulster Unionist Party
+3,77,3,Lesley,MACAULAY,1472,-1530.3,0,Excluded,2,Ulster Unionist Party
+3,78,3,David,MCCLARTY,3003,156.34,3275.5,,,Independent
+3,79,3,Adrian,MCQUILLAN,2633,69.64,3368.36,,,Democratic Unionist Party
+3,80,3,Cathal,O HOISIN,4681,0,4682.54,,,Sinn Fein
+3,81,3,George,ROBINSON,3855,67.46,4235.08,,,Democratic Unionist Party
+3,70,4,Bernadette,ARCHIBALD,2639,3,2646.98,,,Sinn Fein
+3,71,4,Gregory,CAMPBELL,6319,0,4961,Elected,1,Democratic Unionist Party
+3,72,4,Thomas Joseph,CONWAY,2222,12.54,2243.92,,,Social Democratic and Labour Party
+3,73,4,John,DALLAT,2967,8.66,3003.2,,,Social Democratic and Labour Party
+3,74,4,Douglas,BOYD,1568,-1703.18,0,Excluded,3,Traditional Unionist Voice
+3,75,4,Barry,FITZPATRICK,1905,34.76,2040.46,Excluded,4,Alliance Party
+3,76,4,David,HARDING,1458,550.68,3131.1,,,Ulster Unionist Party
+3,77,4,Lesley,MACAULAY,1472,0,0,Excluded,2,Ulster Unionist Party
+3,78,4,David,MCCLARTY,3003,236.12,3511.62,,,Independent
+3,79,4,Adrian,MCQUILLAN,2633,241.48,3609.84,,,Democratic Unionist Party
+3,80,4,Cathal,O HOISIN,4681,1.22,4683.76,,,Sinn Fein
+3,81,4,George,ROBINSON,3855,460.54,4695.62,,,Democratic Unionist Party
+3,70,5,Bernadette,ARCHIBALD,2639,27,2673.98,,,Sinn Fein
+3,71,5,Gregory,CAMPBELL,6319,0,4961,Elected,1,Democratic Unionist Party
+3,72,5,Thomas Joseph,CONWAY,2222,118.66,2362.58,Excluded,5,Social Democratic and Labour Party
+3,73,5,John,DALLAT,2967,511.88,3515.08,,,Social Democratic and Labour Party
+3,74,5,Douglas,BOYD,1568,0,0,Excluded,3,Traditional Unionist Voice
+3,75,5,Barry,FITZPATRICK,1905,-2040.46,0,Excluded,4,Alliance Party
+3,76,5,David,HARDING,1458,268.74,3399.84,,,Ulster Unionist Party
+3,77,5,Lesley,MACAULAY,1472,0,0,Excluded,2,Ulster Unionist Party
+3,78,5,David,MCCLARTY,3003,601.24,4112.86,,,Independent
+3,79,5,Adrian,MCQUILLAN,2633,91.94,3701.78,,,Democratic Unionist Party
+3,80,5,Cathal,O HOISIN,4681,28.44,4712.2,,,Sinn Fein
+3,81,5,George,ROBINSON,3855,68.4,4764.02,,,Democratic Unionist Party
+3,70,6,Bernadette,ARCHIBALD,2639,97.22,2771.2,Excluded,6,Sinn Fein
+3,71,6,Gregory,CAMPBELL,6319,0,4961,Elected,1,Democratic Unionist Party
+3,72,6,Thomas Joseph,CONWAY,2222,-2362.58,0,Excluded,5,Social Democratic and Labour Party
+3,73,6,John,DALLAT,2967,1692,5207.08,Elected,6,Social Democratic and Labour Party
+3,74,6,Douglas,BOYD,1568,0,0,Excluded,3,Traditional Unionist Voice
+3,75,6,Barry,FITZPATRICK,1905,0,0,Excluded,4,Alliance Party
+3,76,6,David,HARDING,1458,27.54,3427.38,,,Ulster Unionist Party
+3,77,6,Lesley,MACAULAY,1472,0,0,Excluded,2,Ulster Unionist Party
+3,78,6,David,MCCLARTY,3003,41.22,4154.08,,,Independent
+3,79,6,Adrian,MCQUILLAN,2633,16.66,3718.44,,,Democratic Unionist Party
+3,80,6,Cathal,O HOISIN,4681,250,4962.2,Elected,6,Sinn Fein
+3,81,6,George,ROBINSON,3855,20.86,4784.88,,,Democratic Unionist Party
+3,70,7,Bernadette,ARCHIBALD,2639,-2771.2,0,Excluded,6,Sinn Fein
+3,71,7,Gregory,CAMPBELL,6319,0,4961,Elected,1,Democratic Unionist Party
+3,72,7,Thomas Joseph,CONWAY,2222,0,0,Excluded,5,Social Democratic and Labour Party
+3,73,7,John,DALLAT,2967,0,5207.08,Elected,6,Social Democratic and Labour Party
+3,74,7,Douglas,BOYD,1568,0,0,Excluded,3,Traditional Unionist Voice
+3,75,7,Barry,FITZPATRICK,1905,0,0,Excluded,4,Alliance Party
+3,76,7,David,HARDING,1458,33.22,3460.6,Excluded,7,Ulster Unionist Party
+3,77,7,Lesley,MACAULAY,1472,0,0,Excluded,2,Ulster Unionist Party
+3,78,7,David,MCCLARTY,3003,251,4405.08,Elected,7,Independent
+3,79,7,Adrian,MCQUILLAN,2633,63.22,3781.66,Elected,7,Democratic Unionist Party
+3,80,7,Cathal,O HOISIN,4681,0,4962.2,Elected,6,Sinn Fein
+3,81,7,George,ROBINSON,3855,38.22,4823.1,Elected,7,Democratic Unionist Party

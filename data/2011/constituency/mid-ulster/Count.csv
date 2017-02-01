@@ -1,0 +1,92 @@
+Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_Pref_Votes,Transfers,Total_Votes,Status,Occurred_On_Count,Party_Name
+7,137,1,Harry,HUTCHINSON,243,0,243,,,People Before Profit Alliance
+7,138,1,Austin,KELLY,1214,0,1214,,,Social Democratic and Labour Party
+7,139,1,Gary,MCCANN,241,0,241,,,Independent
+7,140,1,Hugh,MCCLOY,933,0,933,,,Independent
+7,141,1,Ian,MCCREA,7127,0,7127,Elected,1,Democratic Unionist Party
+7,142,1,Michael,MCDONALD,398,0,398,,,Alliance Party
+7,143,1,Patsy,MCGLONE,5065,0,5065,,,Social Democratic and Labour Party
+7,144,1,Martin,MCGUINNESS,8957,0,8957,Elected,1,Sinn Fein
+7,145,1,Walter,MILLAR,2075,0,2075,,,Traditional Unionist Voice
+7,146,1,Ian Patrick,MILNE,2635,0,2635,,,Sinn Fein
+7,147,1,Francie,MOLLOY,4263,0,4263,,,Sinn Fein
+7,148,1,Michelle,ONEILL,5178,0,5178,,,Sinn Fein
+7,149,1,Sandra,OVEREND,4409,0,4409,,,Ulster Unionist Party
+7,137,2,Harry,HUTCHINSON,243,6.4,249.4,,,People Before Profit Alliance
+7,138,2,Austin,KELLY,1214,48,1262,,,Social Democratic and Labour Party
+7,139,2,Gary,MCCANN,241,11.84,252.84,,,Independent
+7,140,2,Hugh,MCCLOY,933,55.68,988.68,,,Independent
+7,141,2,Ian,MCCREA,7127,0,7127,Elected,1,Democratic Unionist Party
+7,142,2,Michael,MCDONALD,398,7.36,405.36,,,Alliance Party
+7,143,2,Patsy,MCGLONE,5065,417.28,5482.28,,,Social Democratic and Labour Party
+7,144,2,Martin,MCGUINNESS,8957,-2851,6106,Elected,1,Sinn Fein
+7,145,2,Walter,MILLAR,2075,12.48,2087.48,,,Traditional Unionist Voice
+7,146,2,Ian Patrick,MILNE,2635,1327.04,3962.04,,,Sinn Fein
+7,147,2,Francie,MOLLOY,4263,549.76,4812.76,,,Sinn Fein
+7,148,2,Michelle,ONEILL,5178,336.96,5514.96,,,Sinn Fein
+7,149,2,Sandra,OVEREND,4409,3.52,4412.52,,,Ulster Unionist Party
+7,137,3,Harry,HUTCHINSON,243,12.15,261.55,Excluded,3,People Before Profit Alliance
+7,138,3,Austin,KELLY,1214,4.05,1266.05,,,Social Democratic and Labour Party
+7,139,3,Gary,MCCANN,241,2.55,255.39,Excluded,3,Independent
+7,140,3,Hugh,MCCLOY,933,14.55,1003.23,,,Independent
+7,141,3,Ian,MCCREA,7127,-1021,6106,Elected,1,Democratic Unionist Party
+7,142,3,Michael,MCDONALD,398,11.25,416.61,Excluded,3,Alliance Party
+7,143,3,Patsy,MCGLONE,5065,28.95,5511.23,,,Social Democratic and Labour Party
+7,144,3,Martin,MCGUINNESS,8957,0,6106,Elected,1,Sinn Fein
+7,145,3,Walter,MILLAR,2075,242.85,2330.33,,,Traditional Unionist Voice
+7,146,3,Ian Patrick,MILNE,2635,0.3,3962.34,,,Sinn Fein
+7,147,3,Francie,MOLLOY,4263,0.9,4813.66,,,Sinn Fein
+7,148,3,Michelle,ONEILL,5178,0.45,5515.41,,,Sinn Fein
+7,149,3,Sandra,OVEREND,4409,694.2,5106.72,,,Ulster Unionist Party
+7,137,4,Harry,HUTCHINSON,243,-261.55,0,Excluded,3,People Before Profit Alliance
+7,138,4,Austin,KELLY,1214,65.57,1331.62,,,Social Democratic and Labour Party
+7,139,4,Gary,MCCANN,241,-255.39,0,Excluded,3,Independent
+7,140,4,Hugh,MCCLOY,933,203.6,1206.83,Excluded,4,Independent
+7,141,4,Ian,MCCREA,7127,0,6106,Elected,1,Democratic Unionist Party
+7,142,4,Michael,MCDONALD,398,-416.61,0,Excluded,3,Alliance Party
+7,143,4,Patsy,MCGLONE,5065,216.54,5727.77,,,Social Democratic and Labour Party
+7,144,4,Martin,MCGUINNESS,8957,0,6106,Elected,1,Sinn Fein
+7,145,4,Walter,MILLAR,2075,52.3,2382.63,,,Traditional Unionist Voice
+7,146,4,Ian Patrick,MILNE,2635,43.08,4005.42,,,Sinn Fein
+7,147,4,Francie,MOLLOY,4263,29.2,4842.86,,,Sinn Fein
+7,148,4,Michelle,ONEILL,5178,26.64,5542.05,,,Sinn Fein
+7,149,4,Sandra,OVEREND,4409,122.6,5229.32,,,Ulster Unionist Party
+7,137,5,Harry,HUTCHINSON,243,0,0,Excluded,3,People Before Profit Alliance
+7,138,5,Austin,KELLY,1214,97.74,1429.36,Excluded,5,Social Democratic and Labour Party
+7,139,5,Gary,MCCANN,241,0,0,Excluded,3,Independent
+7,140,5,Hugh,MCCLOY,933,-1206.83,0,Excluded,4,Independent
+7,141,5,Ian,MCCREA,7127,0,6106,Elected,1,Democratic Unionist Party
+7,142,5,Michael,MCDONALD,398,0,0,Excluded,3,Alliance Party
+7,143,5,Patsy,MCGLONE,5065,382,6109.77,Elected,5,Social Democratic and Labour Party
+7,144,5,Martin,MCGUINNESS,8957,0,6106,Elected,1,Sinn Fein
+7,145,5,Walter,MILLAR,2075,48.47,2431.1,Excluded,5,Traditional Unionist Voice
+7,146,5,Ian Patrick,MILNE,2635,128,4133.42,,,Sinn Fein
+7,147,5,Francie,MOLLOY,4263,85.96,4928.82,,,Sinn Fein
+7,148,5,Michelle,ONEILL,5178,49.31,5591.36,,,Sinn Fein
+7,149,5,Sandra,OVEREND,4409,106.82,5336.14,,,Ulster Unionist Party
+7,137,6,Harry,HUTCHINSON,243,0,0,Excluded,3,People Before Profit Alliance
+7,138,6,Austin,KELLY,1214,-1429.36,0,Excluded,5,Social Democratic and Labour Party
+7,139,6,Gary,MCCANN,241,0,0,Excluded,3,Independent
+7,140,6,Hugh,MCCLOY,933,0,0,Excluded,4,Independent
+7,141,6,Ian,MCCREA,7127,0,6106,Elected,1,Democratic Unionist Party
+7,142,6,Michael,MCDONALD,398,0,0,Excluded,3,Alliance Party
+7,143,6,Patsy,MCGLONE,5065,0,6109.77,Elected,5,Social Democratic and Labour Party
+7,144,6,Martin,MCGUINNESS,8957,0,6106,Elected,1,Sinn Fein
+7,145,6,Walter,MILLAR,2075,-2431.1,0,Excluded,5,Traditional Unionist Voice
+7,146,6,Ian Patrick,MILNE,2635,278.79,4412.21,,,Sinn Fein
+7,147,6,Francie,MOLLOY,4263,250.68,5179.5,,,Sinn Fein
+7,148,6,Michelle,ONEILL,5178,118.89,5710.25,,,Sinn Fein
+7,149,6,Sandra,OVEREND,4409,1794,7130.14,Elected,6,Ulster Unionist Party
+7,137,7,Harry,HUTCHINSON,243,0,0,Excluded,3,People Before Profit Alliance
+7,138,7,Austin,KELLY,1214,0,0,Excluded,5,Social Democratic and Labour Party
+7,139,7,Gary,MCCANN,241,0,0,Excluded,3,Independent
+7,140,7,Hugh,MCCLOY,933,0,0,Excluded,4,Independent
+7,141,7,Ian,MCCREA,7127,0,6106,Elected,1,Democratic Unionist Party
+7,142,7,Michael,MCDONALD,398,0,0,Excluded,3,Alliance Party
+7,143,7,Patsy,MCGLONE,5065,0,6109.77,Elected,5,Social Democratic and Labour Party
+7,144,7,Martin,MCGUINNESS,8957,0,6106,Elected,1,Sinn Fein
+7,145,7,Walter,MILLAR,2075,0,0,Excluded,5,Traditional Unionist Voice
+7,146,7,Ian Patrick,MILNE,2635,45,4457.21,Excluded,7,Sinn Fein
+7,147,7,Francie,MOLLOY,4263,11,5190.5,Elected,7,Sinn Fein
+7,148,7,Michelle,ONEILL,5178,25,5735.25,Elected,7,Sinn Fein
+7,149,7,Sandra,OVEREND,4409,-1024.14,6106,Elected,6,Ulster Unionist Party

@@ -1,0 +1,67 @@
+Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_Pref_Votes,Transfers,Total_Votes,Status,Occurred_On_Count,Party_Name
+4,92,1,Pat,COX,997,0,997,,,Independent
+4,93,1,Kenny,DONALDSON,2366,0,2366,,,Ulster Unionist Party
+4,94,1,Alex,ELLIOTT,1231,0,1231,,,Traditional Unionist Voice
+4,95,1,Tom,ELLIOTT,6896,0,6896,Elected,1,Ulster Unionist Party
+4,96,1,Phil,FLANAGAN,5082,0,5082,,,Sinn Fein
+4,97,1,Arlene,FOSTER,6876,0,6876,Elected,1,Democratic Unionist Party
+4,98,1,Tommy,GALLAGHER,4606,0,4606,,,Social Democratic and Labour Party
+4,99,1,Michelle,GILDERNEW,9110,0,9110,Elected,1,Sinn Fein
+4,100,1,Sean,LYNCH,5146,0,5146,,,Sinn Fein
+4,101,1,Maurice,MORROW,4844,0,4844,,,Democratic Unionist Party
+4,102,1,Hannah,SU,845,0,845,,,Alliance Party
+4,92,2,Pat,COX,997,52,1049,,,Independent
+4,93,2,Kenny,DONALDSON,2366,2.6,2368.6,,,Ulster Unionist Party
+4,94,2,Alex,ELLIOTT,1231,0.78,1231.78,,,Traditional Unionist Voice
+4,95,2,Tom,ELLIOTT,6896,0,6896,Elected,1,Ulster Unionist Party
+4,96,2,Phil,FLANAGAN,5082,699.66,5781.66,,,Sinn Fein
+4,97,2,Arlene,FOSTER,6876,0,6876,Elected,1,Democratic Unionist Party
+4,98,2,Tommy,GALLAGHER,4606,341.64,4947.64,,,Social Democratic and Labour Party
+4,99,2,Michelle,GILDERNEW,9110,-2252,6858,Elected,1,Sinn Fein
+4,100,2,Sean,LYNCH,5146,1101.1,6247.1,,,Sinn Fein
+4,101,2,Maurice,MORROW,4844,5.46,4849.46,,,Democratic Unionist Party
+4,102,2,Hannah,SU,845,26.78,871.78,Excluded,2,Alliance Party
+4,92,3,Pat,COX,997,55.78,1104.78,Excluded,3,Independent
+4,93,3,Kenny,DONALDSON,2366,157.26,2525.86,,,Ulster Unionist Party
+4,94,3,Alex,ELLIOTT,1231,18,1249.78,Excluded,3,Traditional Unionist Voice
+4,95,3,Tom,ELLIOTT,6896,0,6896,Elected,1,Ulster Unionist Party
+4,96,3,Phil,FLANAGAN,5082,17.34,5799,,,Sinn Fein
+4,97,3,Arlene,FOSTER,6876,0,6876,Elected,1,Democratic Unionist Party
+4,98,3,Tommy,GALLAGHER,4606,356.44,5304.08,,,Social Democratic and Labour Party
+4,99,3,Michelle,GILDERNEW,9110,0,6858,Elected,1,Sinn Fein
+4,100,3,Sean,LYNCH,5146,31.42,6278.52,,,Sinn Fein
+4,101,3,Maurice,MORROW,4844,61.52,4910.98,,,Democratic Unionist Party
+4,102,3,Hannah,SU,845,-871.78,0,Excluded,2,Alliance Party
+4,92,4,Pat,COX,997,-1104.78,0,Excluded,3,Independent
+4,93,4,Kenny,DONALDSON,2366,674.78,3200.64,Excluded,4,Ulster Unionist Party
+4,94,4,Alex,ELLIOTT,1231,-1249.78,0,Excluded,3,Traditional Unionist Voice
+4,95,4,Tom,ELLIOTT,6896,0,6896,Elected,1,Ulster Unionist Party
+4,96,4,Phil,FLANAGAN,5082,310.2,6109.2,,,Sinn Fein
+4,97,4,Arlene,FOSTER,6876,0,6876,Elected,1,Democratic Unionist Party
+4,98,4,Tommy,GALLAGHER,4606,335.14,5639.22,,,Social Democratic and Labour Party
+4,99,4,Michelle,GILDERNEW,9110,0,6858,Elected,1,Sinn Fein
+4,100,4,Sean,LYNCH,5146,190.48,6469,,,Sinn Fein
+4,101,4,Maurice,MORROW,4844,413.26,5324.24,,,Democratic Unionist Party
+4,102,4,Hannah,SU,845,0,0,Excluded,2,Alliance Party
+4,92,5,Pat,COX,997,0,0,Excluded,3,Independent
+4,93,5,Kenny,DONALDSON,2366,-3200.64,0,Excluded,4,Ulster Unionist Party
+4,94,5,Alex,ELLIOTT,1231,0,0,Excluded,3,Traditional Unionist Voice
+4,95,5,Tom,ELLIOTT,6896,0,6896,Elected,1,Ulster Unionist Party
+4,96,5,Phil,FLANAGAN,5082,18.52,6127.72,,,Sinn Fein
+4,97,5,Arlene,FOSTER,6876,0,6876,Elected,1,Democratic Unionist Party
+4,98,5,Tommy,GALLAGHER,4606,301.52,5940.74,,,Social Democratic and Labour Party
+4,99,5,Michelle,GILDERNEW,9110,0,6858,Elected,1,Sinn Fein
+4,100,5,Sean,LYNCH,5146,6.04,6475.04,,,Sinn Fein
+4,101,5,Maurice,MORROW,4844,1905,7229.24,Elected,5,Democratic Unionist Party
+4,102,5,Hannah,SU,845,0,0,Excluded,2,Alliance Party
+4,92,6,Pat,COX,997,0,0,Excluded,3,Independent
+4,93,6,Kenny,DONALDSON,2366,0,0,Excluded,4,Ulster Unionist Party
+4,94,6,Alex,ELLIOTT,1231,0,0,Excluded,3,Traditional Unionist Voice
+4,95,6,Tom,ELLIOTT,6896,0,6896,Elected,1,Ulster Unionist Party
+4,96,6,Phil,FLANAGAN,5082,9,6136.72,Elected,6,Sinn Fein
+4,97,6,Arlene,FOSTER,6876,0,6876,Elected,1,Democratic Unionist Party
+4,98,6,Tommy,GALLAGHER,4606,134,6074.74,Excluded,6,Social Democratic and Labour Party
+4,99,6,Michelle,GILDERNEW,9110,0,6858,Elected,1,Sinn Fein
+4,100,6,Sean,LYNCH,5146,1,6476.04,Elected,6,Sinn Fein
+4,101,6,Maurice,MORROW,4844,-371.24,6858,Elected,5,Democratic Unionist Party
+4,102,6,Hannah,SU,845,0,0,Excluded,2,Alliance Party

@@ -1,0 +1,217 @@
+Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_Pref_Votes,Transfers,Total_Votes,Status,Occurred_On_Count,Party_Name
+13,37,1,Brigitte,ANTON,246,0,246,,,NI Labour Representation Committee
+13,38,1,Clare,BAILEY,3521,0,3521,,,Green Party
+13,39,1,Paula,BRADSHAW,3332,0,3332,,,Alliance Party
+13,40,1,Sean,BURNS,871,0,871,,,Labour Alternative
+13,41,1,William,DICKSON,351,0,351,,,South Belfast Unionists
+13,42,1,Claire,HANNA,4516,0,4516,,,Social Democratic and Labour Party
+13,43,1,John Andrew,HIDDLESTON,495,0,495,,,Traditional Unionist Voice
+13,44,1,Lily,KERR,241,0,241,,,Workers Party
+13,45,1,Emma,LITTLE PENGELLY,4511,0,4511,,,Democratic Unionist Party
+13,46,1,Ben,MANTON,161,0,161,Excluded,1,NI Conservatives
+13,47,1,Rodney James,MCCUNE,2466,0,2466,,,Ulster Unionist Party
+13,48,1,Fearghal,MCKINNEY,2845,0,2845,,,Social Democratic and Labour Party
+13,49,1,Duncan,MORROW,2691,0,2691,,,Alliance Party
+13,50,1,Mairtin,O MUILLEOIR,5207,0,5207,,,Sinn Fein
+13,51,1,Ruth,PATTERSON,475,0,475,,,Independent
+13,52,1,Ian,SHANKS,430,0,430,,,Progressive Unionist Party
+13,53,1,Christopher,STALFORD,3570,0,3570,,,Democratic Unionist Party
+13,54,1,Bob,STOKER,794,0,794,,,UK Independence Party
+13,37,2,Brigitte,ANTON,246,2,248,,,NI Labour Representation Committee
+13,38,2,Clare,BAILEY,3521,13,3534,,,Green Party
+13,39,2,Paula,BRADSHAW,3332,20,3352,,,Alliance Party
+13,40,2,Sean,BURNS,871,0,871,,,Labour Alternative
+13,41,2,William,DICKSON,351,6,357,,,South Belfast Unionists
+13,42,2,Claire,HANNA,4516,6,4522,,,Social Democratic and Labour Party
+13,43,2,John Andrew,HIDDLESTON,495,3,498,,,Traditional Unionist Voice
+13,44,2,Lily,KERR,241,0,241,Excluded,2,Workers Party
+13,45,2,Emma,LITTLE PENGELLY,4511,15,4526,,,Democratic Unionist Party
+13,46,2,Ben,MANTON,161,-161,0,Excluded,1,NI Conservatives
+13,47,2,Rodney James,MCCUNE,2466,48,2514,,,Ulster Unionist Party
+13,48,2,Fearghal,MCKINNEY,2845,5,2850,,,Social Democratic and Labour Party
+13,49,2,Duncan,MORROW,2691,7,2698,,,Alliance Party
+13,50,2,Mairtin,O MUILLEOIR,5207,1,5208,,,Sinn Fein
+13,51,2,Ruth,PATTERSON,475,3,478,,,Independent
+13,52,2,Ian,SHANKS,430,2,432,,,Progressive Unionist Party
+13,53,2,Christopher,STALFORD,3570,12,3582,,,Democratic Unionist Party
+13,54,2,Bob,STOKER,794,7,801,,,UK Independence Party
+13,37,3,Brigitte,ANTON,246,10,258,Excluded,3,NI Labour Representation Committee
+13,38,3,Clare,BAILEY,3521,66,3600,,,Green Party
+13,39,3,Paula,BRADSHAW,3332,17,3369,,,Alliance Party
+13,40,3,Sean,BURNS,871,38,909,,,Labour Alternative
+13,41,3,William,DICKSON,351,1,358,,,South Belfast Unionists
+13,42,3,Claire,HANNA,4516,37,4559,,,Social Democratic and Labour Party
+13,43,3,John Andrew,HIDDLESTON,495,1,499,,,Traditional Unionist Voice
+13,44,3,Lily,KERR,241,-241,0,Excluded,2,Workers Party
+13,45,3,Emma,LITTLE PENGELLY,4511,0,4526,,,Democratic Unionist Party
+13,46,3,Ben,MANTON,161,0,0,Excluded,1,NI Conservatives
+13,47,3,Rodney James,MCCUNE,2466,1,2515,,,Ulster Unionist Party
+13,48,3,Fearghal,MCKINNEY,2845,19,2869,,,Social Democratic and Labour Party
+13,49,3,Duncan,MORROW,2691,9,2707,,,Alliance Party
+13,50,3,Mairtin,O MUILLEOIR,5207,26,5234,,,Sinn Fein
+13,51,3,Ruth,PATTERSON,475,1,479,,,Independent
+13,52,3,Ian,SHANKS,430,3,435,,,Progressive Unionist Party
+13,53,3,Christopher,STALFORD,3570,0,3582,,,Democratic Unionist Party
+13,54,3,Bob,STOKER,794,2,803,,,UK Independence Party
+13,37,4,Brigitte,ANTON,246,-258,0,Excluded,3,NI Labour Representation Committee
+13,38,4,Clare,BAILEY,3521,70,3670,,,Green Party
+13,39,4,Paula,BRADSHAW,3332,31,3400,,,Alliance Party
+13,40,4,Sean,BURNS,871,62,971,,,Labour Alternative
+13,41,4,William,DICKSON,351,1,359,Excluded,4,South Belfast Unionists
+13,42,4,Claire,HANNA,4516,15,4574,,,Social Democratic and Labour Party
+13,43,4,John Andrew,HIDDLESTON,495,2,501,,,Traditional Unionist Voice
+13,44,4,Lily,KERR,241,0,0,Excluded,2,Workers Party
+13,45,4,Emma,LITTLE PENGELLY,4511,2,4528,,,Democratic Unionist Party
+13,46,4,Ben,MANTON,161,0,0,Excluded,1,NI Conservatives
+13,47,4,Rodney James,MCCUNE,2466,12,2527,,,Ulster Unionist Party
+13,48,4,Fearghal,MCKINNEY,2845,7,2876,,,Social Democratic and Labour Party
+13,49,4,Duncan,MORROW,2691,23,2730,,,Alliance Party
+13,50,4,Mairtin,O MUILLEOIR,5207,11,5245,,,Sinn Fein
+13,51,4,Ruth,PATTERSON,475,2,481,,,Independent
+13,52,4,Ian,SHANKS,430,3,438,,,Progressive Unionist Party
+13,53,4,Christopher,STALFORD,3570,1,3583,,,Democratic Unionist Party
+13,54,4,Bob,STOKER,794,1,804,,,UK Independence Party
+13,37,5,Brigitte,ANTON,246,0,0,Excluded,3,NI Labour Representation Committee
+13,38,5,Clare,BAILEY,3521,8,3678,,,Green Party
+13,39,5,Paula,BRADSHAW,3332,18,3418,,,Alliance Party
+13,40,5,Sean,BURNS,871,3,974,,,Labour Alternative
+13,41,5,William,DICKSON,351,-359,0,Excluded,4,South Belfast Unionists
+13,42,5,Claire,HANNA,4516,7,4581,,,Social Democratic and Labour Party
+13,43,5,John Andrew,HIDDLESTON,495,57,558,,,Traditional Unionist Voice
+13,44,5,Lily,KERR,241,0,0,Excluded,2,Workers Party
+13,45,5,Emma,LITTLE PENGELLY,4511,67,4595,,,Democratic Unionist Party
+13,46,5,Ben,MANTON,161,0,0,Excluded,1,NI Conservatives
+13,47,5,Rodney James,MCCUNE,2466,88,2615,,,Ulster Unionist Party
+13,48,5,Fearghal,MCKINNEY,2845,1,2877,,,Social Democratic and Labour Party
+13,49,5,Duncan,MORROW,2691,3,2733,,,Alliance Party
+13,50,5,Mairtin,O MUILLEOIR,5207,2,5247,Elected,5,Sinn Fein
+13,51,5,Ruth,PATTERSON,475,21,502,,,Independent
+13,52,5,Ian,SHANKS,430,6,444,Excluded,5,Progressive Unionist Party
+13,53,5,Christopher,STALFORD,3570,32,3615,,,Democratic Unionist Party
+13,54,5,Bob,STOKER,794,28,832,,,UK Independence Party
+13,37,6,Brigitte,ANTON,246,0,0,Excluded,3,NI Labour Representation Committee
+13,38,6,Clare,BAILEY,3521,13,3691,,,Green Party
+13,39,6,Paula,BRADSHAW,3332,7,3425,,,Alliance Party
+13,40,6,Sean,BURNS,871,11,985,,,Labour Alternative
+13,41,6,William,DICKSON,351,0,0,Excluded,4,South Belfast Unionists
+13,42,6,Claire,HANNA,4516,1,4582,,,Social Democratic and Labour Party
+13,43,6,John Andrew,HIDDLESTON,495,32,590,,,Traditional Unionist Voice
+13,44,6,Lily,KERR,241,0,0,Excluded,2,Workers Party
+13,45,6,Emma,LITTLE PENGELLY,4511,49,4644,,,Democratic Unionist Party
+13,46,6,Ben,MANTON,161,0,0,Excluded,1,NI Conservatives
+13,47,6,Rodney James,MCCUNE,2466,62,2677,,,Ulster Unionist Party
+13,48,6,Fearghal,MCKINNEY,2845,1,2878,,,Social Democratic and Labour Party
+13,49,6,Duncan,MORROW,2691,3,2736,,,Alliance Party
+13,50,6,Mairtin,O MUILLEOIR,5207,0,5247,Elected,5,Sinn Fein
+13,51,6,Ruth,PATTERSON,475,69,571,Excluded,6,Independent
+13,52,6,Ian,SHANKS,430,-444,0,Excluded,5,Progressive Unionist Party
+13,53,6,Christopher,STALFORD,3570,102,3717,,,Democratic Unionist Party
+13,54,6,Bob,STOKER,794,76,908,,,UK Independence Party
+13,37,7,Brigitte,ANTON,246,0,0,Excluded,3,NI Labour Representation Committee
+13,38,7,Clare,BAILEY,3521,16,3707,,,Green Party
+13,39,7,Paula,BRADSHAW,3332,12,3437,,,Alliance Party
+13,40,7,Sean,BURNS,871,4,989,Excluded,7,Labour Alternative
+13,41,7,William,DICKSON,351,0,0,Excluded,4,South Belfast Unionists
+13,42,7,Claire,HANNA,4516,9,4591,,,Social Democratic and Labour Party
+13,43,7,John Andrew,HIDDLESTON,495,95,685,Excluded,7,Traditional Unionist Voice
+13,44,7,Lily,KERR,241,0,0,Excluded,2,Workers Party
+13,45,7,Emma,LITTLE PENGELLY,4511,59,4703,,,Democratic Unionist Party
+13,46,7,Ben,MANTON,161,0,0,Excluded,1,NI Conservatives
+13,47,7,Rodney James,MCCUNE,2466,78,2755,,,Ulster Unionist Party
+13,48,7,Fearghal,MCKINNEY,2845,0,2878,,,Social Democratic and Labour Party
+13,49,7,Duncan,MORROW,2691,8,2744,,,Alliance Party
+13,50,7,Mairtin,O MUILLEOIR,5207,0,5247,Elected,5,Sinn Fein
+13,51,7,Ruth,PATTERSON,475,-571,0,Excluded,6,Independent
+13,52,7,Ian,SHANKS,430,0,0,Excluded,5,Progressive Unionist Party
+13,53,7,Christopher,STALFORD,3570,149,3866,,,Democratic Unionist Party
+13,54,7,Bob,STOKER,794,117,1025,Excluded,7,UK Independence Party
+13,37,8,Brigitte,ANTON,246,0,0,Excluded,3,NI Labour Representation Committee
+13,38,8,Clare,BAILEY,3521,582,4289,,,Green Party
+13,39,8,Paula,BRADSHAW,3332,133,3570,,,Alliance Party
+13,40,8,Sean,BURNS,871,-989,0,Excluded,7,Labour Alternative
+13,41,8,William,DICKSON,351,0,0,Excluded,4,South Belfast Unionists
+13,42,8,Claire,HANNA,4516,147,4738,,,Social Democratic and Labour Party
+13,43,8,John Andrew,HIDDLESTON,495,-685,0,Excluded,7,Traditional Unionist Voice
+13,44,8,Lily,KERR,241,0,0,Excluded,2,Workers Party
+13,45,8,Emma,LITTLE PENGELLY,4511,346,5049,,,Democratic Unionist Party
+13,46,8,Ben,MANTON,161,0,0,Excluded,1,NI Conservatives
+13,47,8,Rodney James,MCCUNE,2466,458,3213,,,Ulster Unionist Party
+13,48,8,Fearghal,MCKINNEY,2845,86,2964,,,Social Democratic and Labour Party
+13,49,8,Duncan,MORROW,2691,93,2837,Excluded,8,Alliance Party
+13,50,8,Mairtin,O MUILLEOIR,5207,0,5247,Elected,5,Sinn Fein
+13,51,8,Ruth,PATTERSON,475,0,0,Excluded,6,Independent
+13,52,8,Ian,SHANKS,430,0,0,Excluded,5,Progressive Unionist Party
+13,53,8,Christopher,STALFORD,3570,489,4355,,,Democratic Unionist Party
+13,54,8,Bob,STOKER,794,-1025,0,Excluded,7,UK Independence Party
+13,37,9,Brigitte,ANTON,246,0,0,Excluded,3,NI Labour Representation Committee
+13,38,9,Clare,BAILEY,3521,235,4524,,,Green Party
+13,39,9,Paula,BRADSHAW,3332,2159,5729,Elected,9,Alliance Party
+13,40,9,Sean,BURNS,871,0,0,Excluded,7,Labour Alternative
+13,41,9,William,DICKSON,351,0,0,Excluded,4,South Belfast Unionists
+13,42,9,Claire,HANNA,4516,196,4934,,,Social Democratic and Labour Party
+13,43,9,John Andrew,HIDDLESTON,495,0,0,Excluded,7,Traditional Unionist Voice
+13,44,9,Lily,KERR,241,0,0,Excluded,2,Workers Party
+13,45,9,Emma,LITTLE PENGELLY,4511,24,5073,,,Democratic Unionist Party
+13,46,9,Ben,MANTON,161,0,0,Excluded,1,NI Conservatives
+13,47,9,Rodney James,MCCUNE,2466,59,3272,,,Ulster Unionist Party
+13,48,9,Fearghal,MCKINNEY,2845,93,3057,,,Social Democratic and Labour Party
+13,49,9,Duncan,MORROW,2691,-2837,0,Excluded,8,Alliance Party
+13,50,9,Mairtin,O MUILLEOIR,5207,0,5247,Elected,5,Sinn Fein
+13,51,9,Ruth,PATTERSON,475,0,0,Excluded,6,Independent
+13,52,9,Ian,SHANKS,430,0,0,Excluded,5,Progressive Unionist Party
+13,53,9,Christopher,STALFORD,3570,13,4368,,,Democratic Unionist Party
+13,54,9,Bob,STOKER,794,0,0,Excluded,7,UK Independence Party
+13,37,10,Brigitte,ANTON,246,0,0,Excluded,3,NI Labour Representation Committee
+13,38,10,Clare,BAILEY,3521,205.5,4729.5,,,Green Party
+13,39,10,Paula,BRADSHAW,3332,-482,5247,Elected,9,Alliance Party
+13,40,10,Sean,BURNS,871,0,0,Excluded,7,Labour Alternative
+13,41,10,William,DICKSON,351,0,0,Excluded,4,South Belfast Unionists
+13,42,10,Claire,HANNA,4516,122.5,5056.5,,,Social Democratic and Labour Party
+13,43,10,John Andrew,HIDDLESTON,495,0,0,Excluded,7,Traditional Unionist Voice
+13,44,10,Lily,KERR,241,0,0,Excluded,2,Workers Party
+13,45,10,Emma,LITTLE PENGELLY,4511,19.25,5092.25,,,Democratic Unionist Party
+13,46,10,Ben,MANTON,161,0,0,Excluded,1,NI Conservatives
+13,47,10,Rodney James,MCCUNE,2466,65.5,3337.5,,,Ulster Unionist Party
+13,48,10,Fearghal,MCKINNEY,2845,47.75,3104.75,Excluded,10,Social Democratic and Labour Party
+13,49,10,Duncan,MORROW,2691,0,0,Excluded,8,Alliance Party
+13,50,10,Mairtin,O MUILLEOIR,5207,0,5247,Elected,5,Sinn Fein
+13,51,10,Ruth,PATTERSON,475,0,0,Excluded,6,Independent
+13,52,10,Ian,SHANKS,430,0,0,Excluded,5,Progressive Unionist Party
+13,53,10,Christopher,STALFORD,3570,5.25,4373.25,,,Democratic Unionist Party
+13,54,10,Bob,STOKER,794,0,0,Excluded,7,UK Independence Party
+13,37,11,Brigitte,ANTON,246,0,0,Excluded,3,NI Labour Representation Committee
+13,38,11,Clare,BAILEY,3521,203.25,4932.75,,,Green Party
+13,39,11,Paula,BRADSHAW,3332,0,5247,Elected,9,Alliance Party
+13,40,11,Sean,BURNS,871,0,0,Excluded,7,Labour Alternative
+13,41,11,William,DICKSON,351,0,0,Excluded,4,South Belfast Unionists
+13,42,11,Claire,HANNA,4516,2585,7641.5,Elected,11,Social Democratic and Labour Party
+13,43,11,John Andrew,HIDDLESTON,495,0,0,Excluded,7,Traditional Unionist Voice
+13,44,11,Lily,KERR,241,0,0,Excluded,2,Workers Party
+13,45,11,Emma,LITTLE PENGELLY,4511,24.75,5117,,,Democratic Unionist Party
+13,46,11,Ben,MANTON,161,0,0,Excluded,1,NI Conservatives
+13,47,11,Rodney James,MCCUNE,2466,30,3367.5,,,Ulster Unionist Party
+13,48,11,Fearghal,MCKINNEY,2845,-3104.75,0,Excluded,10,Social Democratic and Labour Party
+13,49,11,Duncan,MORROW,2691,0,0,Excluded,8,Alliance Party
+13,50,11,Mairtin,O MUILLEOIR,5207,0,5247,Elected,5,Sinn Fein
+13,51,11,Ruth,PATTERSON,475,0,0,Excluded,6,Independent
+13,52,11,Ian,SHANKS,430,0,0,Excluded,5,Progressive Unionist Party
+13,53,11,Christopher,STALFORD,3570,16,4389.25,,,Democratic Unionist Party
+13,54,11,Bob,STOKER,794,0,0,Excluded,7,UK Independence Party
+13,37,12,Brigitte,ANTON,246,0,0,Excluded,3,NI Labour Representation Committee
+13,38,12,Clare,BAILEY,3521,1124,6056.75,Elected,12,Green Party
+13,39,12,Paula,BRADSHAW,3332,0,5247,Elected,9,Alliance Party
+13,40,12,Sean,BURNS,871,0,0,Excluded,7,Labour Alternative
+13,41,12,William,DICKSON,351,0,0,Excluded,4,South Belfast Unionists
+13,42,12,Claire,HANNA,4516,-2394.5,5247,Elected,11,Social Democratic and Labour Party
+13,43,12,John Andrew,HIDDLESTON,495,0,0,Excluded,7,Traditional Unionist Voice
+13,44,12,Lily,KERR,241,0,0,Excluded,2,Workers Party
+13,45,12,Emma,LITTLE PENGELLY,4511,33,5150,Elected,12,Democratic Unionist Party
+13,46,12,Ben,MANTON,161,0,0,Excluded,1,NI Conservatives
+13,47,12,Rodney James,MCCUNE,2466,82,3449.5,Excluded,12,Ulster Unionist Party
+13,48,12,Fearghal,MCKINNEY,2845,0,0,Excluded,10,Social Democratic and Labour Party
+13,49,12,Duncan,MORROW,2691,0,0,Excluded,8,Alliance Party
+13,50,12,Mairtin,O MUILLEOIR,5207,0,5247,Elected,5,Sinn Fein
+13,51,12,Ruth,PATTERSON,475,0,0,Excluded,6,Independent
+13,52,12,Ian,SHANKS,430,0,0,Excluded,5,Progressive Unionist Party
+13,53,12,Christopher,STALFORD,3570,20,4409.25,Elected,12,Democratic Unionist Party
+13,54,12,Bob,STOKER,794,0,0,Excluded,7,UK Independence Party

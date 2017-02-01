@@ -1,0 +1,41 @@
+Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_Pref_Votes,Transfers,Total_Votes,Status,Occurred_On_Count,Party_Name
+12,82,1,Thomas,BURNS,3406,0,3406,,,Social Democratic and Labour Party
+12,83,1,Trevor,CLARKE,4607,0,4607,Elected,1,Democratic Unionist Party
+12,84,1,Adrian David,COCHRANE-WATSON,2285,0,2285,,,Ulster Unionist Party
+12,85,1,David RJ,FORD,4554,0,4554,,,Alliance Party
+12,86,1,Paul,GIRVAN,4844,0,4844,Elected,1,Democratic Unionist Party
+12,87,1,Danny,KINAHAN,3445,0,3445,,,Ulster Unionist Party
+12,88,1,Pam,LEWIS,2866,0,2866,,,Democratic Unionist Party
+12,89,1,Mel,LUCAS,1091,0,1091,,,Traditional Unionist Voice
+12,90,1,Mitchel,MCLAUGHLIN,4662,0,4662,Elected,1,Sinn Fein
+12,91,1,Stephen,PARKES,404,0,404,,,British Nationalist Party
+12,82,2,Thomas,BURNS,3406,30,3436,,,Social Democratic and Labour Party
+12,83,2,Trevor,CLARKE,4607,0,4607,Elected,1,Democratic Unionist Party
+12,84,2,Adrian David,COCHRANE-WATSON,2285,283,2568,,,Ulster Unionist Party
+12,85,2,David RJ,FORD,4554,106,4660,Elected,2,Alliance Party
+12,86,2,Paul,GIRVAN,4844,0,4844,Elected,1,Democratic Unionist Party
+12,87,2,Danny,KINAHAN,3445,381,3826,,,Ulster Unionist Party
+12,88,2,Pam,LEWIS,2866,463,3329,,,Democratic Unionist Party
+12,89,2,Mel,LUCAS,1091,-1091,0,Excluded,2,Traditional Unionist Voice
+12,90,2,Mitchel,MCLAUGHLIN,4662,0,4662,Elected,1,Sinn Fein
+12,91,2,Stephen,PARKES,404,-404,0,Excluded,2,British Nationalist Party
+12,82,3,Thomas,BURNS,3406,46,3482,,,Social Democratic and Labour Party
+12,83,3,Trevor,CLARKE,4607,0,4607,Elected,1,Democratic Unionist Party
+12,84,3,Adrian David,COCHRANE-WATSON,2285,-2568,0,Excluded,3,Ulster Unionist Party
+12,85,3,David RJ,FORD,4554,0,4660,Elected,2,Alliance Party
+12,86,3,Paul,GIRVAN,4844,0,4844,Elected,1,Democratic Unionist Party
+12,87,3,Danny,KINAHAN,3445,1759,5585,Elected,3,Ulster Unionist Party
+12,88,3,Pam,LEWIS,2866,468,3797,,,Democratic Unionist Party
+12,89,3,Mel,LUCAS,1091,0,0,Excluded,2,Traditional Unionist Voice
+12,90,3,Mitchel,MCLAUGHLIN,4662,0,4662,Elected,1,Sinn Fein
+12,91,3,Stephen,PARKES,404,0,0,Excluded,2,British Nationalist Party
+12,82,4,Thomas,BURNS,3406,108.56,3590.56,Excluded,4,Social Democratic and Labour Party
+12,83,4,Trevor,CLARKE,4607,0,4607,Elected,1,Democratic Unionist Party
+12,84,4,Adrian David,COCHRANE-WATSON,2285,0,0,Excluded,3,Ulster Unionist Party
+12,85,4,David RJ,FORD,4554,0,4660,Elected,2,Alliance Party
+12,86,4,Paul,GIRVAN,4844,0,4844,Elected,1,Democratic Unionist Party
+12,87,4,Danny,KINAHAN,3445,-990,4595,Elected,3,Ulster Unionist Party
+12,88,4,Pam,LEWIS,2866,871.24,4668.24,Elected,4,Democratic Unionist Party
+12,89,4,Mel,LUCAS,1091,0,0,Excluded,2,Traditional Unionist Voice
+12,90,4,Mitchel,MCLAUGHLIN,4662,0,4662,Elected,1,Sinn Fein
+12,91,4,Stephen,PARKES,404,0,0,Excluded,2,British Nationalist Party

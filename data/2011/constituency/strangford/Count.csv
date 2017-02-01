@@ -1,0 +1,67 @@
+Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_Pref_Votes,Transfers,Total_Votes,Status,Occurred_On_Count,Party_Name
+15,196,1,Cecil,ANDREWS,601,0,601,,,UK Independence Party
+15,197,1,Jonathan,BELL,4265,0,4265,Elected,1,Democratic Unionist Party
+15,198,1,Joe,BOYLE,2525,0,2525,,,Social Democratic and Labour Party
+15,199,1,Mickey,COOGAN,902,0,902,,,Sinn Fein
+15,200,1,Simon,HAMILTON,3456,0,3456,,,Democratic Unionist Party
+15,201,1,Kieran,MCCARTHY,4284,0,4284,Elected,1,Alliance Party
+15,202,1,Michelle,MCILVEEN,4573,0,4573,Elected,1,Democratic Unionist Party
+15,203,1,David,MCNARRY,2773,0,2773,,,Ulster Unionist Party
+15,204,1,Mike,NESBITT,3273,0,3273,,,Ulster Unionist Party
+15,205,1,Billy,WALKER,2175,0,2175,,,Democratic Unionist Party
+15,206,1,Terry,WILLIAMS,841,0,841,,,Traditional Unionist Voice
+15,196,2,Cecil,ANDREWS,601,1.4,602.4,Excluded,2,UK Independence Party
+15,197,2,Jonathan,BELL,4265,0,4265,Elected,1,Democratic Unionist Party
+15,198,2,Joe,BOYLE,2525,2.03,2527.03,,,Social Democratic and Labour Party
+15,199,2,Mickey,COOGAN,902,0.28,902.28,,,Sinn Fein
+15,200,2,Simon,HAMILTON,3456,216.58,3672.58,,,Democratic Unionist Party
+15,201,2,Kieran,MCCARTHY,4284,0,4284,Elected,1,Alliance Party
+15,202,2,Michelle,MCILVEEN,4573,-334,4239,Elected,1,Democratic Unionist Party
+15,203,2,David,MCNARRY,2773,17.01,2790.01,,,Ulster Unionist Party
+15,204,2,Mike,NESBITT,3273,13.93,3286.93,,,Ulster Unionist Party
+15,205,2,Billy,WALKER,2175,56.49,2231.49,,,Democratic Unionist Party
+15,206,2,Terry,WILLIAMS,841,3.01,844.01,,,Traditional Unionist Voice
+15,196,3,Cecil,ANDREWS,601,-602.4,0,Excluded,2,UK Independence Party
+15,197,3,Jonathan,BELL,4265,0,4265,Elected,1,Democratic Unionist Party
+15,198,3,Joe,BOYLE,2525,52,2579.03,,,Social Democratic and Labour Party
+15,199,3,Mickey,COOGAN,902,11,913.28,Excluded,3,Sinn Fein
+15,200,3,Simon,HAMILTON,3456,106.35,3778.93,,,Democratic Unionist Party
+15,201,3,Kieran,MCCARTHY,4284,0,4284,Elected,1,Alliance Party
+15,202,3,Michelle,MCILVEEN,4573,0,4239,Elected,1,Democratic Unionist Party
+15,203,3,David,MCNARRY,2773,85.28,2875.29,,,Ulster Unionist Party
+15,204,3,Mike,NESBITT,3273,85,3371.93,,,Ulster Unionist Party
+15,205,3,Billy,WALKER,2175,51.35,2282.84,,,Democratic Unionist Party
+15,206,3,Terry,WILLIAMS,841,119,963.01,Excluded,3,Traditional Unionist Voice
+15,196,4,Cecil,ANDREWS,601,0,0,Excluded,2,UK Independence Party
+15,197,4,Jonathan,BELL,4265,0,4265,Elected,1,Democratic Unionist Party
+15,198,4,Joe,BOYLE,2525,666.21,3245.24,,,Social Democratic and Labour Party
+15,199,4,Mickey,COOGAN,902,-913.28,0,Excluded,3,Sinn Fein
+15,200,4,Simon,HAMILTON,3456,181.47,3960.4,,,Democratic Unionist Party
+15,201,4,Kieran,MCCARTHY,4284,0,4284,Elected,1,Alliance Party
+15,202,4,Michelle,MCILVEEN,4573,0,4239,Elected,1,Democratic Unionist Party
+15,203,4,David,MCNARRY,2773,201.14,3076.43,,,Ulster Unionist Party
+15,204,4,Mike,NESBITT,3273,223.35,3595.28,,,Ulster Unionist Party
+15,205,4,Billy,WALKER,2175,166.49,2449.33,Excluded,4,Democratic Unionist Party
+15,206,4,Terry,WILLIAMS,841,-963.01,0,Excluded,3,Traditional Unionist Voice
+15,196,5,Cecil,ANDREWS,601,0,0,Excluded,2,UK Independence Party
+15,197,5,Jonathan,BELL,4265,0,4265,Elected,1,Democratic Unionist Party
+15,198,5,Joe,BOYLE,2525,36.12,3281.36,,,Social Democratic and Labour Party
+15,199,5,Mickey,COOGAN,902,0,0,Excluded,3,Sinn Fein
+15,200,5,Simon,HAMILTON,3456,1785,5745.4,Elected,5,Democratic Unionist Party
+15,201,5,Kieran,MCCARTHY,4284,0,4284,Elected,1,Alliance Party
+15,202,5,Michelle,MCILVEEN,4573,0,4239,Elected,1,Democratic Unionist Party
+15,203,5,David,MCNARRY,2773,183.45,3259.88,,,Ulster Unionist Party
+15,204,5,Mike,NESBITT,3273,185.64,3780.92,,,Ulster Unionist Party
+15,205,5,Billy,WALKER,2175,-2449.33,0,Excluded,4,Democratic Unionist Party
+15,206,5,Terry,WILLIAMS,841,0,0,Excluded,3,Traditional Unionist Voice
+15,196,6,Cecil,ANDREWS,601,0,0,Excluded,2,UK Independence Party
+15,197,6,Jonathan,BELL,4265,0,4265,Elected,1,Democratic Unionist Party
+15,198,6,Joe,BOYLE,2525,27,3308.36,Excluded,6,Social Democratic and Labour Party
+15,199,6,Mickey,COOGAN,902,0,0,Excluded,3,Sinn Fein
+15,200,6,Simon,HAMILTON,3456,-1506.4,4239,Elected,5,Democratic Unionist Party
+15,201,6,Kieran,MCCARTHY,4284,0,4284,Elected,1,Alliance Party
+15,202,6,Michelle,MCILVEEN,4573,0,4239,Elected,1,Democratic Unionist Party
+15,203,6,David,MCNARRY,2773,507,3766.88,Elected,6,Ulster Unionist Party
+15,204,6,Mike,NESBITT,3273,289,4069.92,Elected,6,Ulster Unionist Party
+15,205,6,Billy,WALKER,2175,0,0,Excluded,4,Democratic Unionist Party
+15,206,6,Terry,WILLIAMS,841,0,0,Excluded,3,Traditional Unionist Voice

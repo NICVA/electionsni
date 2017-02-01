@@ -1,0 +1,155 @@
+Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_Pref_Votes,Transfers,Total_Votes,Status,Occurred_On_Count,Party_Name
+17,26,1,Alex,ATTWOOD,3765,0,3765,,,Social Democratic and Labour Party
+17,27,1,Gerry,CARROLL,1661,0,1661,,,People Before Profit Alliance
+17,28,1,Colin,KEENAN,802,0,802,,,Social Democratic and Labour Party
+17,29,1,Brian,KINGSTON,2587,0,2587,,,Democratic Unionist Party
+17,30,1,Pat,LAWLOR,384,0,384,,,Socialist Party (NI)
+17,31,1,John Terence,LOWRY,586,0,586,,,Workers Party
+17,32,1,Bill,MANWARING,1471,0,1471,,,Ulster Unionist Party
+17,33,1,Paul,MASKEY,5343,0,5343,Elected,1,Sinn Fein
+17,34,1,Fra,MCCANN,4481,0,4481,,,Sinn Fein
+17,35,1,Jennifer,MCCANN,5239,0,5239,Elected,1,Sinn Fein
+17,36,1,Dan,MCGUINNESS,365,0,365,,,Alliance Party
+17,37,1,Brian,PELAN,122,0,122,,,Independent
+17,38,1,Sue,RAMSEY,4116,0,4116,,,Sinn Fein
+17,39,1,Pat,SHEEHAN,3723,0,3723,,,Sinn Fein
+17,26,2,Alex,ATTWOOD,3765,11.69,3776.69,,,Social Democratic and Labour Party
+17,27,2,Gerry,CARROLL,1661,3.85,1664.85,,,People Before Profit Alliance
+17,28,2,Colin,KEENAN,802,1.26,803.26,,,Social Democratic and Labour Party
+17,29,2,Brian,KINGSTON,2587,0.28,2587.28,,,Democratic Unionist Party
+17,30,2,Pat,LAWLOR,384,0.42,384.42,,,Socialist Party (NI)
+17,31,2,John Terence,LOWRY,586,0.63,586.63,,,Workers Party
+17,32,2,Bill,MANWARING,1471,0.21,1471.21,,,Ulster Unionist Party
+17,33,2,Paul,MASKEY,5343,-393,4950,Elected,1,Sinn Fein
+17,34,2,Fra,MCCANN,4481,106.96,4587.96,,,Sinn Fein
+17,35,2,Jennifer,MCCANN,5239,0,5239,Elected,1,Sinn Fein
+17,36,2,Dan,MCGUINNESS,365,2.66,367.66,,,Alliance Party
+17,37,2,Brian,PELAN,122,0.77,122.77,,,Independent
+17,38,2,Sue,RAMSEY,4116,224.28,4340.28,,,Sinn Fein
+17,39,2,Pat,SHEEHAN,3723,14.35,3737.35,,,Sinn Fein
+17,26,3,Alex,ATTWOOD,3765,3.4,3780.09,,,Social Democratic and Labour Party
+17,27,3,Gerry,CARROLL,1661,1,1665.85,,,People Before Profit Alliance
+17,28,3,Colin,KEENAN,802,1.15,804.41,,,Social Democratic and Labour Party
+17,29,3,Brian,KINGSTON,2587,0.05,2587.33,,,Democratic Unionist Party
+17,30,3,Pat,LAWLOR,384,0.5,384.92,,,Socialist Party (NI)
+17,31,3,John Terence,LOWRY,586,0.4,587.03,,,Workers Party
+17,32,3,Bill,MANWARING,1471,0.15,1471.36,,,Ulster Unionist Party
+17,33,3,Paul,MASKEY,5343,0,4950,Elected,1,Sinn Fein
+17,34,3,Fra,MCCANN,4481,17,4604.96,,,Sinn Fein
+17,35,3,Jennifer,MCCANN,5239,-289,4950,Elected,1,Sinn Fein
+17,36,3,Dan,MCGUINNESS,365,1.1,368.76,,,Alliance Party
+17,37,3,Brian,PELAN,122,0.15,122.92,Excluded,3,Independent
+17,38,3,Sue,RAMSEY,4116,10.6,4350.88,,,Sinn Fein
+17,39,3,Pat,SHEEHAN,3723,223.15,3960.5,,,Sinn Fein
+17,26,4,Alex,ATTWOOD,3765,7,3787.09,,,Social Democratic and Labour Party
+17,27,4,Gerry,CARROLL,1661,36,1701.85,,,People Before Profit Alliance
+17,28,4,Colin,KEENAN,802,3,807.41,,,Social Democratic and Labour Party
+17,29,4,Brian,KINGSTON,2587,0,2587.33,,,Democratic Unionist Party
+17,30,4,Pat,LAWLOR,384,15,399.92,,,Socialist Party (NI)
+17,31,4,John Terence,LOWRY,586,3.07,590.1,,,Workers Party
+17,32,4,Bill,MANWARING,1471,2,1473.36,,,Ulster Unionist Party
+17,33,4,Paul,MASKEY,5343,0,4950,Elected,1,Sinn Fein
+17,34,4,Fra,MCCANN,4481,8.12,4613.08,,,Sinn Fein
+17,35,4,Jennifer,MCCANN,5239,0,4950,Elected,1,Sinn Fein
+17,36,4,Dan,MCGUINNESS,365,2,370.76,Excluded,4,Alliance Party
+17,37,4,Brian,PELAN,122,-122.92,0,Excluded,3,Independent
+17,38,4,Sue,RAMSEY,4116,7.31,4358.19,,,Sinn Fein
+17,39,4,Pat,SHEEHAN,3723,11.28,3971.78,,,Sinn Fein
+17,26,5,Alex,ATTWOOD,3765,103.36,3890.45,,,Social Democratic and Labour Party
+17,27,5,Gerry,CARROLL,1661,31,1732.85,,,People Before Profit Alliance
+17,28,5,Colin,KEENAN,802,46.17,853.58,,,Social Democratic and Labour Party
+17,29,5,Brian,KINGSTON,2587,13.12,2600.45,,,Democratic Unionist Party
+17,30,5,Pat,LAWLOR,384,9,408.92,Excluded,5,Socialist Party (NI)
+17,31,5,John Terence,LOWRY,586,17.14,607.24,,,Workers Party
+17,32,5,Bill,MANWARING,1471,30.05,1503.41,,,Ulster Unionist Party
+17,33,5,Paul,MASKEY,5343,0,4950,Elected,1,Sinn Fein
+17,34,5,Fra,MCCANN,4481,32.42,4645.5,,,Sinn Fein
+17,35,5,Jennifer,MCCANN,5239,0,4950,Elected,1,Sinn Fein
+17,36,5,Dan,MCGUINNESS,365,-370.76,0,Excluded,4,Alliance Party
+17,37,5,Brian,PELAN,122,0,0,Excluded,3,Independent
+17,38,5,Sue,RAMSEY,4116,19.21,4377.4,,,Sinn Fein
+17,39,5,Pat,SHEEHAN,3723,24.61,3996.39,,,Sinn Fein
+17,26,6,Alex,ATTWOOD,3765,49.17,3939.62,,,Social Democratic and Labour Party
+17,27,6,Gerry,CARROLL,1661,121.12,1853.97,,,People Before Profit Alliance
+17,28,6,Colin,KEENAN,802,25.05,878.63,,,Social Democratic and Labour Party
+17,29,6,Brian,KINGSTON,2587,4,2604.45,,,Democratic Unionist Party
+17,30,6,Pat,LAWLOR,384,-408.92,0,Excluded,5,Socialist Party (NI)
+17,31,6,John Terence,LOWRY,586,37.14,644.38,Excluded,6,Workers Party
+17,32,6,Bill,MANWARING,1471,9,1512.41,,,Ulster Unionist Party
+17,33,6,Paul,MASKEY,5343,0,4950,Elected,1,Sinn Fein
+17,34,6,Fra,MCCANN,4481,37.1,4682.6,,,Sinn Fein
+17,35,6,Jennifer,MCCANN,5239,0,4950,Elected,1,Sinn Fein
+17,36,6,Dan,MCGUINNESS,365,0,0,Excluded,4,Alliance Party
+17,37,6,Brian,PELAN,122,0,0,Excluded,3,Independent
+17,38,6,Sue,RAMSEY,4116,17.07,4394.47,,,Sinn Fein
+17,39,6,Pat,SHEEHAN,3723,20.22,4016.61,,,Sinn Fein
+17,26,7,Alex,ATTWOOD,3765,144.12,4083.74,,,Social Democratic and Labour Party
+17,27,7,Gerry,CARROLL,1661,85.12,1939.09,,,People Before Profit Alliance
+17,28,7,Colin,KEENAN,802,103.19,981.82,Excluded,7,Social Democratic and Labour Party
+17,29,7,Brian,KINGSTON,2587,3,2607.45,,,Democratic Unionist Party
+17,30,7,Pat,LAWLOR,384,0,0,Excluded,5,Socialist Party (NI)
+17,31,7,John Terence,LOWRY,586,-644.38,0,Excluded,6,Workers Party
+17,32,7,Bill,MANWARING,1471,5,1517.41,,,Ulster Unionist Party
+17,33,7,Paul,MASKEY,5343,0,4950,Elected,1,Sinn Fein
+17,34,7,Fra,MCCANN,4481,53.24,4735.84,,,Sinn Fein
+17,35,7,Jennifer,MCCANN,5239,0,4950,Elected,1,Sinn Fein
+17,36,7,Dan,MCGUINNESS,365,0,0,Excluded,4,Alliance Party
+17,37,7,Brian,PELAN,122,0,0,Excluded,3,Independent
+17,38,7,Sue,RAMSEY,4116,13,4407.47,,,Sinn Fein
+17,39,7,Pat,SHEEHAN,3723,13.12,4029.73,,,Sinn Fein
+17,26,8,Alex,ATTWOOD,3765,635.84,4719.58,,,Social Democratic and Labour Party
+17,27,8,Gerry,CARROLL,1661,38.22,1977.31,,,People Before Profit Alliance
+17,28,8,Colin,KEENAN,802,-981.82,0,Excluded,7,Social Democratic and Labour Party
+17,29,8,Brian,KINGSTON,2587,10.12,2617.57,,,Democratic Unionist Party
+17,30,8,Pat,LAWLOR,384,0,0,Excluded,5,Socialist Party (NI)
+17,31,8,John Terence,LOWRY,586,0,0,Excluded,6,Workers Party
+17,32,8,Bill,MANWARING,1471,9,1526.41,Excluded,8,Ulster Unionist Party
+17,33,8,Paul,MASKEY,5343,0,4950,Elected,1,Sinn Fein
+17,34,8,Fra,MCCANN,4481,101.38,4837.22,,,Sinn Fein
+17,35,8,Jennifer,MCCANN,5239,0,4950,Elected,1,Sinn Fein
+17,36,8,Dan,MCGUINNESS,365,0,0,Excluded,4,Alliance Party
+17,37,8,Brian,PELAN,122,0,0,Excluded,3,Independent
+17,38,8,Sue,RAMSEY,4116,16.47,4423.94,,,Sinn Fein
+17,39,8,Pat,SHEEHAN,3723,22.12,4051.85,,,Sinn Fein
+17,26,9,Alex,ATTWOOD,3765,61.07,4780.65,,,Social Democratic and Labour Party
+17,27,9,Gerry,CARROLL,1661,22,1999.31,,,People Before Profit Alliance
+17,28,9,Colin,KEENAN,802,0,0,Excluded,7,Social Democratic and Labour Party
+17,29,9,Brian,KINGSTON,2587,1217,3834.57,,,Democratic Unionist Party
+17,30,9,Pat,LAWLOR,384,0,0,Excluded,5,Socialist Party (NI)
+17,31,9,John Terence,LOWRY,586,0,0,Excluded,6,Workers Party
+17,32,9,Bill,MANWARING,1471,-1526.41,0,Excluded,8,Ulster Unionist Party
+17,33,9,Paul,MASKEY,5343,0,4950,Elected,1,Sinn Fein
+17,34,9,Fra,MCCANN,4481,11.12,4848.34,,,Sinn Fein
+17,35,9,Jennifer,MCCANN,5239,0,4950,Elected,1,Sinn Fein
+17,36,9,Dan,MCGUINNESS,365,0,0,Excluded,4,Alliance Party
+17,37,9,Brian,PELAN,122,0,0,Excluded,3,Independent
+17,38,9,Sue,RAMSEY,4116,10.05,4433.99,,,Sinn Fein
+17,39,9,Pat,SHEEHAN,3723,3.05,4054.9,,,Sinn Fein
+17,26,10,Alex,ATTWOOD,3765,371,5151.65,,,Social Democratic and Labour Party
+17,27,10,Gerry,CARROLL,1661,-1999.31,0,Excluded,9,People Before Profit Alliance
+17,28,10,Colin,KEENAN,802,0,0,Excluded,7,Social Democratic and Labour Party
+17,29,10,Brian,KINGSTON,2587,32,3866.57,,,Democratic Unionist Party
+17,30,10,Pat,LAWLOR,384,0,0,Excluded,5,Socialist Party (NI)
+17,31,10,John Terence,LOWRY,586,0,0,Excluded,6,Workers Party
+17,32,10,Bill,MANWARING,1471,0,0,Excluded,8,Ulster Unionist Party
+17,33,10,Paul,MASKEY,5343,0,4950,Elected,1,Sinn Fein
+17,34,10,Fra,MCCANN,4481,319,5167.34,Elected,10,Sinn Fein
+17,35,10,Jennifer,MCCANN,5239,0,4950,Elected,1,Sinn Fein
+17,36,10,Dan,MCGUINNESS,365,0,0,Excluded,4,Alliance Party
+17,37,10,Brian,PELAN,122,0,0,Excluded,3,Independent
+17,38,10,Sue,RAMSEY,4116,249.91,4683.9,,,Sinn Fein
+17,39,10,Pat,SHEEHAN,3723,194.87,4249.77,,,Sinn Fein
+17,26,11,Alex,ATTWOOD,3765,0,5151.65,Elected,10,Social Democratic and Labour Party
+17,27,11,Gerry,CARROLL,1661,0,0,Excluded,9,People Before Profit Alliance
+17,28,11,Colin,KEENAN,802,0,0,Excluded,7,Social Democratic and Labour Party
+17,29,11,Brian,KINGSTON,2587,0,3866.57,Excluded,11,Democratic Unionist Party
+17,30,11,Pat,LAWLOR,384,0,0,Excluded,5,Socialist Party (NI)
+17,31,11,John Terence,LOWRY,586,0,0,Excluded,6,Workers Party
+17,32,11,Bill,MANWARING,1471,0,0,Excluded,8,Ulster Unionist Party
+17,33,11,Paul,MASKEY,5343,0,4950,Elected,1,Sinn Fein
+17,34,11,Fra,MCCANN,4481,-217.34,4950,Elected,10,Sinn Fein
+17,35,11,Jennifer,MCCANN,5239,0,4950,Elected,1,Sinn Fein
+17,36,11,Dan,MCGUINNESS,365,0,0,Excluded,4,Alliance Party
+17,37,11,Brian,PELAN,122,0,0,Excluded,3,Independent
+17,38,11,Sue,RAMSEY,4116,139.16,4823.06,Elected,11,Sinn Fein
+17,39,11,Pat,SHEEHAN,3723,77.42,4327.19,Elected,11,Sinn Fein

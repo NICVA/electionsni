@@ -21,6 +21,9 @@ var elections = {
     }
 };
 
+var electedArray = [8116, 13037]
+var excludedArray = [19680]
+
 const dateFormat = function(dateStr) {
     var date = moment(dateStr).format('D MMMM YYYY')
     return date
@@ -42,9 +45,25 @@ const CandidatesView = Vue.extend({
 
 Vue.component('candidate-list', {
     template: '#candidate-list',
+    data: function() {
+      return {
+        excluded: excludedArray,
+        elected: electedArray
+      }
+    },
     computed: {
         candidates: function() {
             return this.$parent.candidates
+        },
+        parties: function() { // list of unique parties from all of the candidates in the list
+            if (this.$parent.candidates !== null) {
+                return _.orderBy(_.uniqBy(_.map(this.$parent.candidates, _.partialRight(_.pick, ['Party_Id', 'Party_Name'])), 'Party_Id'), 'Party_Name')
+            }
+        },
+        constituencies: function() {
+            if (this.$parent.candidates !== null) {
+                return _.orderBy(_.uniqBy(_.map(this.$parent.candidates, _.partialRight(_.pick, ['Constituency_Number', 'Constituency_Name'])), 'Constituency_Number'), 'Constituency_Name')
+            }
         }
     }
 })
@@ -69,6 +88,13 @@ const CandidateView = Vue.extend({
 const router = new VueRouter({
     mode: 'hash',
     base: window.location.href,
+    scrollBehavior(to, from, savedPosition) {
+        if (to.hash) {
+            return {
+                selector: to.hash
+            }
+        }
+    },
     routes: [{
         path: '/',
         component: Home
@@ -97,12 +123,12 @@ var app = new Vue({
             var self = this;
             var year = '2017';
             if (self.$route.params.year) {
-              year = self.$route.params.year
+                year = self.$route.params.year
             } else {
-              year = '2017'
+                year = '2017'
             }
-            console.log('YEAR:',year)
-            var file = year + candidatesCSV
+            console.log('YEAR:', year)
+            var file = '/data/' + year + candidatesCSV
             Papa.parse(file, {
                 download: true,
                 header: true,

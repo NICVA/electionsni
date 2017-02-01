@@ -1,0 +1,85 @@
+Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_Pref_Votes,Transfers,Total_Votes,Status,Occurred_On_Count,Party_Name
+16,207,1,Sydney Alexander,ANDERSON,5854,0,5854,,,Democratic Unionist Party
+16,208,1,Joanne Elizabeth,DOBSON,3348,0,3348,,,Ulster Unionist Party
+16,209,1,Samuel,GARDINER,3676,0,3676,,,Ulster Unionist Party
+16,210,1,Sam,HAMILTON,1979,0,1979,,,Alliance Party
+16,211,1,Dolores,KELLY,4846,0,4846,,,Social Democratic and Labour Party
+16,212,1,Colin Craig,MCCUSKER,3402,0,3402,,,Ulster Unionist Party
+16,213,1,Johnny,MCGIBBON,4879,0,4879,,,Sinn Fein
+16,214,1,Sheila Mary,MCQUAID,786,0,786,,,Alliance Party
+16,215,1,Stephen,MOUTRAY,5645,0,5645,,,Democratic Unionist Party
+16,216,1,John,O'DOWD,6649,0,6649,Elected,1,Sinn Fein
+16,217,1,Barbara,TROTTER,272,0,272,,,UK Independence Party
+16,218,1,David,VANCE,1026,0,1026,,,Traditional Unionist Voice
+16,207,2,Sydney Alexander,ANDERSON,5854,1.08,5855.08,,,Democratic Unionist Party
+16,208,2,Joanne Elizabeth,DOBSON,3348,0.72,3348.72,,,Ulster Unionist Party
+16,209,2,Samuel,GARDINER,3676,0.27,3676.27,,,Ulster Unionist Party
+16,210,2,Sam,HAMILTON,1979,3.69,1982.69,,,Alliance Party
+16,211,2,Dolores,KELLY,4846,96.3,4942.3,,,Social Democratic and Labour Party
+16,212,2,Colin Craig,MCCUSKER,3402,0.99,3402.99,,,Ulster Unionist Party
+16,213,2,Johnny,MCGIBBON,4879,468.27,5347.27,,,Sinn Fein
+16,214,2,Sheila Mary,MCQUAID,786,6.93,792.93,,,Alliance Party
+16,215,2,Stephen,MOUTRAY,5645,0.63,5645.63,,,Democratic Unionist Party
+16,216,2,John,O'DOWD,6649,-597,6052,Elected,1,Sinn Fein
+16,217,2,Barbara,TROTTER,272,0.18,272.18,Excluded,2,UK Independence Party
+16,218,2,David,VANCE,1026,0.18,1026.18,,,Traditional Unionist Voice
+16,207,3,Sydney Alexander,ANDERSON,5854,23,5878.08,,,Democratic Unionist Party
+16,208,3,Joanne Elizabeth,DOBSON,3348,25,3373.72,,,Ulster Unionist Party
+16,209,3,Samuel,GARDINER,3676,26,3702.27,,,Ulster Unionist Party
+16,210,3,Sam,HAMILTON,1979,31,2013.69,,,Alliance Party
+16,211,3,Dolores,KELLY,4846,7,4949.3,,,Social Democratic and Labour Party
+16,212,3,Colin Craig,MCCUSKER,3402,18,3420.99,,,Ulster Unionist Party
+16,213,3,Johnny,MCGIBBON,4879,0.09,5347.36,,,Sinn Fein
+16,214,3,Sheila Mary,MCQUAID,786,9,801.93,Excluded,3,Alliance Party
+16,215,3,Stephen,MOUTRAY,5645,41,5686.63,,,Democratic Unionist Party
+16,216,3,John,O'DOWD,6649,0,6052,,,Sinn Fein
+16,217,3,Barbara,TROTTER,272,-272.18,0,Excluded,2,UK Independence Party
+16,218,3,David,VANCE,1026,66,1092.18,Excluded,3,Traditional Unionist Voice
+16,207,4,Sydney Alexander,ANDERSON,5854,157,6035.08,,,Democratic Unionist Party
+16,208,4,Joanne Elizabeth,DOBSON,3348,181.09,3554.81,,,Ulster Unionist Party
+16,209,4,Samuel,GARDINER,3676,215,3917.27,,,Ulster Unionist Party
+16,210,4,Sam,HAMILTON,1979,531.08,2544.77,Excluded,4,Alliance Party
+16,211,4,Dolores,KELLY,4846,155.79,5105.09,,,Social Democratic and Labour Party
+16,212,4,Colin Craig,MCCUSKER,3402,204.18,3625.17,,,Ulster Unionist Party
+16,213,4,Johnny,MCGIBBON,4879,17.98,5365.34,,,Sinn Fein
+16,214,4,Sheila Mary,MCQUAID,786,-801.93,0,Excluded,3,Alliance Party
+16,215,4,Stephen,MOUTRAY,5645,249.27,5935.9,,,Democratic Unionist Party
+16,216,4,John,O'DOWD,6649,0,6052,Elected,1,Sinn Fein
+16,217,4,Barbara,TROTTER,272,0,0,Excluded,2,UK Independence Party
+16,218,4,David,VANCE,1026,-1092.18,0,Excluded,3,Traditional Unionist Voice
+16,207,5,Sydney Alexander,ANDERSON,5854,128,6163.08,Elected,5,Democratic Unionist Party
+16,208,5,Joanne Elizabeth,DOBSON,3348,453.18,4007.99,,,Ulster Unionist Party
+16,209,5,Samuel,GARDINER,3676,314,4231.27,,,Ulster Unionist Party
+16,210,5,Sam,HAMILTON,1979,-2544.77,0,Excluded,4,Alliance Party
+16,211,5,Dolores,KELLY,4846,628.62,5733.71,,,Social Democratic and Labour Party
+16,212,5,Colin Craig,MCCUSKER,3402,240.09,3865.26,,,Ulster Unionist Party
+16,213,5,Johnny,MCGIBBON,4879,61.89,5427.23,,,Sinn Fein
+16,214,5,Sheila Mary,MCQUAID,786,0,0,Excluded,3,Alliance Party
+16,215,5,Stephen,MOUTRAY,5645,150,6085.9,Elected,5,Democratic Unionist Party
+16,216,5,John,O'DOWD,6649,0,6052,Elected,1,Sinn Fein
+16,217,5,Barbara,TROTTER,272,0,0,Excluded,2,UK Independence Party
+16,218,5,David,VANCE,1026,0,0,Excluded,3,Traditional Unionist Voice
+16,207,6,Sydney Alexander,ANDERSON,5854,-111.08,6052,Elected,5,Democratic Unionist Party
+16,208,6,Joanne Elizabeth,DOBSON,3348,35,4042.99,,,Ulster Unionist Party
+16,209,6,Samuel,GARDINER,3676,14,4245.27,,,Ulster Unionist Party
+16,210,6,Sam,HAMILTON,1979,0,0,Excluded,4,Alliance Party
+16,211,6,Dolores,KELLY,4846,11,5744.71,,,Social Democratic and Labour Party
+16,212,6,Colin Craig,MCCUSKER,3402,20,3885.26,Excluded,6,Ulster Unionist Party
+16,213,6,Johnny,MCGIBBON,4879,2,5429.23,,,Sinn Fein
+16,214,6,Sheila Mary,MCQUAID,786,0,0,Excluded,3,Alliance Party
+16,215,6,Stephen,MOUTRAY,5645,0,6085.9,Elected,5,Democratic Unionist Party
+16,216,6,John,O'DOWD,6649,0,6052,Elected,1,Sinn Fein
+16,217,6,Barbara,TROTTER,272,0,0,Excluded,2,UK Independence Party
+16,218,6,David,VANCE,1026,0,0,Excluded,3,Traditional Unionist Voice
+16,207,7,Sydney Alexander,ANDERSON,5854,0,6052,Elected,5,Democratic Unionist Party
+16,208,7,Joanne Elizabeth,DOBSON,3348,1784,5826.99,Elected,7,Ulster Unionist Party
+16,209,7,Samuel,GARDINER,3676,1767.09,6012.36,Elected,7,Ulster Unionist Party
+16,210,7,Sam,HAMILTON,1979,0,0,Excluded,4,Alliance Party
+16,211,7,Dolores,KELLY,4846,42.36,5787.07,Elected,7,Social Democratic and Labour Party
+16,212,7,Colin Craig,MCCUSKER,3402,-3885.26,0,Excluded,6,Ulster Unionist Party
+16,213,7,Johnny,MCGIBBON,4879,8.27,5437.5,Excluded,7,Sinn Fein
+16,214,7,Sheila Mary,MCQUAID,786,0,0,Excluded,3,Alliance Party
+16,215,7,Stephen,MOUTRAY,5645,0,6085.9,Elected,5,Democratic Unionist Party
+16,216,7,John,O'DOWD,6649,0,6052,Elected,1,Sinn Fein
+16,217,7,Barbara,TROTTER,272,0,0,Excluded,2,UK Independence Party
+16,218,7,David,VANCE,1026,0,0,Excluded,3,Traditional Unionist Voice
