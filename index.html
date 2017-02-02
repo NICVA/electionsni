@@ -70,7 +70,7 @@
                 <li><a href='/constituencies'><span>Constituencies</span></a></li>
                 <li><a href='/results'><span>Results</span></a></li>
                 <li>
-                    <router-link to='/candidates'><span>Candidates</span></router-link>
+                    <router-link :to="{ name: 'candidates', params: { year: '2017' }}">Candidates</router-link>
                 </li>
                 <li><a href='/data'><span>Data</span></a></li>
                 <li class='last'><a href='/about'><span>About</span></a></li>
@@ -128,24 +128,24 @@
       		</div>
 
         <div class="col-md-9">
-          <h2>Candidates (2017)</h2>
+          <h2>Candidates ({{ this.$parent.$parent.election.year }})</h2>
           <div v-if="this.$parent.confirmedCandidates === false" class="alert alert-warning" role="alert"><p class="alert-text"><strong>Unconfirmed!</strong> Some of the candidates below may have been officially nominated, others may not yet have done so. Therefore, these are "unconfirmed candidates" until we have finalised nominations from the Electoral Office.</p></div>
           <template v-for="constituency in constituencies">
             <h3 :id="'constituency-' + constituency.Constituency_Number">{{ constituency.Constituency_Name }}</h3>
               <template v-for="candidate in candidates" v-if="candidate.Constituency_Number == constituency.Constituency_Number && candidate.Candidate_id">
               <router-link :to="{name: 'candidate', params: { id: candidate.Candidate_id }}" class="list-group-item">
-                <h4 class="list-group-item-heading">
+                <h3 class="list-group-item-heading">
                   <i class="glyphicon glyphicon-user"></i>
                   {{ candidate.Firstname }} {{ candidate.Surname}}
                   <span class="label label-success" v-if="elected.includes(parseInt(candidate.Candidate_id))">elected</span>
                   <span class="label label-danger" v-if="excluded.includes(parseInt(candidate.Candidate_id))">excluded</span>
-                  <span class="label label-default pull-right">{{ candidate.Party_Name }}</span>
-                </h4>
+                </h3>
+                <h4 style="color: #777">{{ candidate.Party_Name }}</h4>
               </router-link>
               </template>
-          <router-link to="">Back to top</router-link>
-          </template>
-          </div>
+    <router-link to="">Back to top</router-link>
+    </template>
+    </div>
 
     </div>
     </div>
@@ -154,11 +154,16 @@
 
     <template id="candidate-page">
         <div>
-          <ul class="breadcrumb"><li><router-link to="/">Home</router-link></li><li><router-link :to="{ name: 'candidates', params: { year: '2017' }}">Candidates</router-link></li><li class="active">{{ candidate.Surname }}</li></ul>
+          <ul class="breadcrumb"><li><router-link to="/">Home</router-link></li><li><router-link :to="{ name: 'candidates', params: { year: this.$parent.election.year }}">Candidates</router-link></li><li class="active">{{ candidate.Firstname }} {{ candidate.Surname }}</li></ul>
           <h2>{{ candidate.Firstname }} {{ candidate.Surname }}</h2>
+          <template  v-if="demoClub" >
+          <img v-if="demoClub.images[0]" :src="'https://candidates.democracyclub.org.uk/' + demoClub.images[0].image_url" class="media-object" width="200px">
+          <img v-else src="/website/image/person-default.png" class="media-object" width="200px">
+          <p v-if="demoClub.images[0]">Photo credit: see <a :href="'https://candidates.democracyclub.org.uk/person/' + candidate.Candidate_id">Democracy Club</a></p>
+        </template>
           <h3>Standing for election in <strong>{{ candidate.Constituency_Name }}</strong></h3>
           <h3><i class="fa fa-users" aria-hidden="true"></i> {{ candidate.Party_Name }}</h3>
-          <h5 v-if="candidate.Twitter">Twitter: <a target="_blank" :href="'http://twitter.com/' + candidate.Twitter">{{ candidate.Twitter }}</a></h5>
+          <h4 v-if="candidate.Twitter"><i class="fa fa-twitter" style="color: #00aced"></i> <a target="_blank" :href="'http://twitter.com/' + candidate.Twitter">{{ candidate.Twitter }}</a></h4>
         </div>
       </template>
 

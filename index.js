@@ -1,26 +1,27 @@
 var candidatesCSV = '/NI/full-candidates-list.csv';
 
 var demoClubAPI = {
-    'person': {
-        'url': 'https://candidates.democracyclub.org.uk/api/v0.9/persons/' // follow with id and '.json'
-    }
+    'person': 'https://candidates.democracyclub.org.uk/api/v0.9/persons/' // follow with id and '.json'
 };
 
 
 var elections = {
     '2017': {
+        year: '2017',
         dem_club_code: 'nia.2017-03-02',
         date: 'Thu Mar 02 2017 00:00:00 GMT+0000 (GMT Standard Time)',
         confirmedCandidates: false,
         confirmedResults: false
     },
     '2016': {
+        year: '2016',
         dem_club_code: 'nia.2016-05-05',
         date: 'Thu May 05 2016 00:00:00 GMT+0000 (GMT Standard Time)',
         confirmedCandidates: true,
         confirmedResults: true
     },
     '2011': {
+        year: '2011',
         dem_club_code: 'nia.2017-03-02',
         date: 'Thu May 05 2011 00:00:00 GMT+0000 (GMT Standard Time)',
         confirmedCandidates: true,
@@ -45,7 +46,7 @@ const CandidatesView = Vue.extend({
     data: function() {
         return {
             candidates: this.$parent.candidates,
-            confirmedCandidates: this.$parent.elections.confirmedCandidates
+            confirmedCandidates: this.$parent.election.confirmedCandidates
         }
     }
 })
@@ -79,15 +80,23 @@ const CandidateView = Vue.extend({
     template: '#candidate-page',
     data: function() {
         var self = this;
-        var candidate;
+        var candidate, demoClub;
         for (var i = 0; i < self.$parent.candidates.length; i++) {
             if (self.$parent.candidates[i].Candidate_id == this.$route.params.id) {
                 candidate = self.$parent.candidates[i];
                 break;
             }
         }
+        {this.$http.get(demoClubAPI.person + this.$route.params.id + '.json').then(response => {
+               self.demoClub = response.body;
+               console.log(response.body)
+            }, response => {
+                console.log("error retrieving data from DemoClubAPI")
+            });
+        }
         return {
-            candidate: candidate
+            candidate: candidate,
+            demoClub: demoClub
         }
     }
 });
@@ -125,7 +134,7 @@ const router = new VueRouter({
 var app = new Vue({
     router,
     data: {
-        elections: null,
+        election: null,
         candidates: null
     },
     created: function() {
@@ -152,14 +161,14 @@ var app = new Vue({
             });
         },
         fetchYear: function() {
-          var self = this;
-          var year;
-          if (self.$route.params.year) {
-              year = self.$route.params.year
-          } else {
-              year = '2017'
-          }
-          self.elections = elections[year]
+            var self = this;
+            var year;
+            if (self.$route.params.year) {
+                year = self.$route.params.year
+            } else {
+                year = '2017'
+            }
+            self.election = elections[year]
         }
     }
 }).$mount('#app')
