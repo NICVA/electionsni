@@ -1,31 +1,32 @@
-html, body {
-<<<<<<< HEAD
-	/*font-family: Arial, Helvetica, sans-serif;*/
-=======
-	font-family: Arial, Helvetica, sans-serif;
->>>>>>> e8ff13112f3cb3f684c53dfe9c4a8b96a205ee7c
-	margin: 0 0 0 0px;
+    html, body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0 0 0 0px;
     height: 100%;
 }
+
 #wrap {
     min-height: calc(100% - 125px);
 }
+
 header {
     background: #34495e;
-	color: white;
+    color: white;
     text-align: left;
-	border-bottom: 1px solid #00eecc;
-	padding: 1px 0 0 0;
+    border-bottom: 1px solid #00eecc;
+    padding: 1px 0 0 0;
 }
+
 header h1 {
     font-size: 24px;
     padding-left: 15px;
     margin: 0 0 0 0px;
 }
+
 header a {
     color: white;
     text-decoration: none;
 }
+
 header a:hover {
     color: #00eecc;
     -webkit-transition: color .5s;
@@ -34,21 +35,25 @@ header a:hover {
     -o-transition: color .5s;
     transition: color .5s;
 }
+
 header p {
     font-size: 12px;
     text-align: left;
     padding-left: 15px;
 }
-.cta{
+
+.cta {
     line-height: 30px;
     text-align: center;
     background-color: #045FB4;
     color: #ffffff;
 }
+
 .cta a {
     color: #33eecc;
-	text-decoration: none;
+    text-decoration: none;
 }
+
 .cta a:hover {
     color: #ffffff;
     -webkit-transition: color .5s;
@@ -57,18 +62,17 @@ header p {
     -o-transition: color .5s;
     transition: color .5s;
 }
+
 .content {
-<<<<<<< HEAD
     padding: 15px;
-=======
-    padding: 15px; 
->>>>>>> e8ff13112f3cb3f684c53dfe9c4a8b96a205ee7c
 }
+
 .content p {
-	line-height: 1.5;
+    line-height: 1.5;
 }
+
 #footer {
-    clear:both;
+    clear: both;
     background-color: #34495e;
     color: white;
     bottom: 0;
@@ -76,121 +80,152 @@ header p {
     position: relative;
     text-align: right;
 }
+
 #footer a {
     color: white;
     text-decoration: none;
 }
+
 #footer a:hover {
     color: orange;
 }
-#year{
-	margin: 5px 0 0 0;
+
+#year {
+    margin: 5px 0 0 0;
 }
-#map{
-	height: 400px;
-	margin: auto;
-	width: 100%;
-	padding-top: 10px;
+
+#map {
+    height: 400px;
+    margin: auto;
+    width: 100%;
+    padding-top: 10px;
 }
+
 .candidate {
-	padding: 4px;
+    padding: 4px;
 }
+
 .info {
     padding: 6px 8px;
     font: 14px/16px Arial, Helvetica, sans-serif;
     background: white;
-    background: rgba(255,255,255,0.8);
-    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+    background: rgba(255, 255, 255, 0.8);
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
     border-radius: 5px;
 }
+
 .info h4 {
     margin: 0 0 5px;
     color: #777;
 }
 
-#thepost{
-    width:2px;
-    background-color:black;
-    position:absolute;
-    top:40px;
-    left:810px;
-    height:0px;
+#thepost {
+    width: 2px;
+    background-color: black;
+    position: absolute;
+    top: 40px;
+    left: 810px;
+    height: 0px;
 }
 
-.Alliance-Party_label:before{
-	 content: "(Alliance) ";
+.Alliance-Party_label:before {
+    content: "(Alliance) ";
 }
-.Social-Democratic-and-Labour-Party_label:before{
-     content: "(SDLP) ";
+
+.Social-Democratic-and-Labour-Party_label:before {
+    content: "(SDLP) ";
 }
+
 .Ulster-Unionist-Party_label:before {
-     content: "(UUP) ";
+    content: "(UUP) ";
 }
+
 .Sinn-Fein_label:before {
-     content: "(SF) ";
+    content: "(SF) ";
 }
-.Green-Party_label:before{
-     content: "(Greens) ";
+
+.Green-Party_label:before {
+    content: "(Greens) ";
 }
-.Democratic-Unionist-Party_label:before{
-     content: "(DUP) ";
+
+.Democratic-Unionist-Party_label:before {
+    content: "(DUP) ";
 }
-.Traditional-Unionist-Voice_label:before{
-     content: "(TUV) ";
+
+.Traditional-Unionist-Voice_label:before {
+    content: "(TUV) ";
 }
-.Workers-Party_label:before{
-	 content: "(WP) ";
+
+.Workers-Party_label:before {
+    content: "(WP) ";
 }
-.UK-Independence-Party_label:before{
-	 content: "(UKIP) ";
+
+.UK-Independence-Party_label:before {
+    content: "(UKIP) ";
 }
-.Progressive-Unionist-Party_label:before{
-	 content: "(PUP) ";
+
+.Progressive-Unionist-Party_label:before {
+    content: "(PUP) ";
 }
-.Socialist-Party_label:before{
-	 content: "(SP) ";
+
+.Socialist-Party_label:before {
+    content: "(SP) ";
 }
-.NI21_label:before{
-	 content: "(NI21) ";
+
+.NI21_label:before {
+    content: "(NI21) ";
 }
-.Procapitalism_label:before{
-	 content: "(CAP) ";
+
+.Procapitalism_label:before {
+    content: "(CAP) ";
 }
-.NI-Conservatives_label:before{
-	 content: "(CON) ";
+
+.NI-Conservatives_label:before {
+    content: "(CON) ";
 }
-.British-Nationalist-Party_label:before{
-	 content: "(BNP) ";
+
+.British-Nationalist-Party_label:before {
+    content: "(BNP) ";
 }
-.People-Before-Profit-Alliance_label:before{
-	 content: "(PBP) ";
+
+.People-Before-Profit-Alliance_label:before {
+    content: "(PBP) ";
 }
-.Independent_label:before{
-	 content: "(Ind) ";
+
+.Independent_label:before {
+    content: "(Ind) ";
 }
-.Cannabis-Is-Safer-Than-Alcohol_label:before{
-	 content: "(CISTA) ";
+
+.Cannabis-Is-Safer-Than-Alcohol_label:before {
+    content: "(CISTA) ";
 }
-.Labour-Alternative_label:before{
-	 content: "(LABALT) ";
+
+.Labour-Alternative_label:before {
+    content: "(LABALT) ";
 }
-.South-Belfast-Unionists_label:before{
-	 content: "(SBU) ";
+
+.South-Belfast-Unionists_label:before {
+    content: "(SBU) ";
 }
-.NI-Labour-Representation-Committee_label:before{
-	 content: "(LRC) ";
+
+.NI-Labour-Representation-Committee_label:before {
+    content: "(LRC) ";
 }
-.Northern-Ireland-First_label:before{
-	 content: "(NIF) ";
+
+.Northern-Ireland-First_label:before {
+    content: "(NIF) ";
 }
-.Cross-Community-Labour-Alternative_label:before{
-	 content: "(CCLAB) ";
+
+.Cross-Community-Labour-Alternative_label:before {
+    content: "(CCLAB) ";
 }
-.Democracy-First_label:before{
-	 content: "(DF) ";
+
+.Democracy-First_label:before {
+    content: "(DF) ";
 }
-.Animal-Welfare-Party_label:before{
-	 content: "(AWP) ";
+
+.Animal-Welfare-Party_label:before {
+    content: "(AWP) ";
 }
 
 .tooltip {
@@ -208,7 +243,6 @@ header p {
     text-align: center;
     border-radius: 6px;
     padding: 5px 0;
-
     /* Position the tooltip */
     position: absolute;
     z-index: 1;
@@ -218,233 +252,371 @@ header p {
     visibility: visible;
 }
 
-.Social-Democratic-and-Labour-Party{fill:#cc3300!important; background:#cc3300!important; color:#fff}
-.Traditional-Unionist-Voice{fill:#0000e6!important; background:#0000e6!important; color:#fff}
-.Green-Party{fill:#33ff33!important; background:#33ff33!important; color:#fff}
-.Sinn-Fein{fill:#009900!important; background:#009900!important; color:#fff}
-.Ulster-Unionist-Party{fill:#62cae7!important; background:#62cae7!important; color:#fff}
-.Alliance-Party{fill:#ffe600!important; background:#ffe600!important; color:#fff}
-.Democratic-Unionist-Party{fill:#ff8000!important; background:#ff8000!important; color:#fff}
-.Workers-Party{fill:#ff0000!important; background:#ff0000!important; color:#fff}
-.Independent{fill:#669999!important; background:#669999!important; color:#fff}
-.Socialist-Party{fill:#e60000!important; background:#e60000!important; color:#fff}
-.UK-Independence-Party{fill:#cc00cc!important; background:#cc00cc!important; color:#fff}
-.People-Before-Profit-Alliance{fill:#ff3399!important; background:#ff3399!important; color:#fff}
-.Independent{fill:#669999!important; background:#669999!important; color:#fff}
-.Progressive-Unionist-Party{fill:#1e0082!important; background:#1e0082!important; color:#fff}
-.NI21{fill:#581845!important; background:#581845!important; color:#fff}
-.Procapitalism{fill:#f633ff!important; background:#f633ff!important; color:#fff}
-.NI-Conservatives{fill:#362da7!important; background:#362da7!important; color:#fff}
-.Labour-Alternative{fill:#ca0000!important; background:#ca0000!important; color:#fff}
-.South-Belfast-Unionists{fill:#9195FF!important; background:#9195FF!important; color:#fff}
-.NI-Labour-Representation-Committee{fill:#800000!important; background:#800000!important; color:#fff}
-.Northern-Ireland-First{fill:#b3d71d!important; background:#b3d71d!important; color:#fff}
-.Cross-Community-Labour-Alternative{fill:#ce1d4d!important; background:#ce1d4d!important; color:#fff}
-.Democracy-First{fill:#d7761d!important; background:#d7761d!important; color:#fff}
-.Animal-Welfare-Party{fill:#ce1d99!important; background:#ce1d99!important; color:#fff}
-
-.votes{
-    height:25px;
-    width:0px;
-    position:absolute;
-    fill:#669999; background:#669999; color:#fff; // Default colours for independents, non-specified parties
-    overflow:hidden;
-    white-space:nowrap;
-    text-overflow:ellipsis;
-    color:white;
-    padding-top:3px;
-    box-sizing:border-box;
-	text-shadow: 2px 2px 0 #000, -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+.Social-Democratic-and-Labour-Party {
+    fill: #cc3300!important;
+    background: #cc3300!important;
+    color: #fff
 }
-.Elected{
-	font-weight:bold;
+
+.Traditional-Unionist-Voice {
+    fill: #0000e6!important;
+    background: #0000e6!important;
+    color: #fff
+}
+
+.Green-Party {
+    fill: #33ff33!important;
+    background: #33ff33!important;
+    color: #fff
+}
+
+.Sinn-Fein {
+    fill: #009900!important;
+    background: #009900!important;
+    color: #fff
+}
+
+.Ulster-Unionist-Party {
+    fill: #62cae7!important;
+    background: #62cae7!important;
+    color: #fff
+}
+
+.Alliance-Party {
+    fill: #ffe600!important;
+    background: #ffe600!important;
+    color: #fff
+}
+
+.Democratic-Unionist-Party {
+    fill: #ff8000!important;
+    background: #ff8000!important;
+    color: #fff
+}
+
+.Workers-Party {
+    fill: #ff0000!important;
+    background: #ff0000!important;
+    color: #fff
+}
+
+.Independent {
+    fill: #669999!important;
+    background: #669999!important;
+    color: #fff
+}
+
+.Socialist-Party {
+    fill: #e60000!important;
+    background: #e60000!important;
+    color: #fff
+}
+
+.UK-Independence-Party {
+    fill: #cc00cc!important;
+    background: #cc00cc!important;
+    color: #fff
+}
+
+.People-Before-Profit-Alliance {
+    fill: #ff3399!important;
+    background: #ff3399!important;
+    color: #fff
+}
+
+.Independent {
+    fill: #669999!important;
+    background: #669999!important;
+    color: #fff
+}
+
+.Progressive-Unionist-Party {
+    fill: #1e0082!important;
+    background: #1e0082!important;
+    color: #fff
+}
+
+.NI21 {
+    fill: #581845!important;
+    background: #581845!important;
+    color: #fff
+}
+
+.Procapitalism {
+    fill: #f633ff!important;
+    background: #f633ff!important;
+    color: #fff
+}
+
+.NI-Conservatives {
+    fill: #362da7!important;
+    background: #362da7!important;
+    color: #fff
+}
+
+.Labour-Alternative {
+    fill: #ca0000!important;
+    background: #ca0000!important;
+    color: #fff
+}
+
+.South-Belfast-Unionists {
+    fill: #9195FF!important;
+    background: #9195FF!important;
+    color: #fff
+}
+
+.NI-Labour-Representation-Committee {
+    fill: #800000!important;
+    background: #800000!important;
+    color: #fff
+}
+
+.Northern-Ireland-First {
+    fill: #b3d71d!important;
+    background: #b3d71d!important;
+    color: #fff
+}
+
+.Cross-Community-Labour-Alternative {
+    fill: #ce1d4d!important;
+    background: #ce1d4d!important;
+    color: #fff
+}
+
+.Democracy-First {
+    fill: #d7761d!important;
+    background: #d7761d!important;
+    color: #fff
+}
+
+.Animal-Welfare-Party {
+    fill: #ce1d99!important;
+    background: #ce1d99!important;
+    color: #fff
+}
+
+.votes {
+    height: 25px;
+    width: 0px;
+    position: absolute;
+    fill: #669999;
+    background: #669999;
+    color: #fff; // Default colours for independents, non-specified parties
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    color: white;
+    padding-top: 3px;
+    box-sizing: border-box;
+    text-shadow: 2px 2px 0 #000, -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+
+.Elected {
+    font-weight: bold;
 }
 
 .show-menu {
-  background: #00eecc;
-  width: 100%;
-  text-align: center;
-  -moz-box-sizing: border-box;
-  -webkit-box-sizing: border-box;
-  box-sizing: border-box;
-  color: #ffffff;
-  text-decoration: none;
-  display: block;
-  padding: 10px 20px;
-  font-weight: 700;
-  text-transform: uppercase;
-  font-size: 14px;
-  position: relative;
-  -webkit-transition: color .25s;
-  -moz-transition: color .25s;
-  -ms-transition: color .25s;
-  -o-transition: color .25s;
-  transition: color .25s;
+    background: #00eecc;
+    width: 100%;
+    text-align: center;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    color: #ffffff;
+    text-decoration: none;
+    display: block;
+    padding: 10px 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 14px;
+    position: relative;
+    -webkit-transition: color .25s;
+    -moz-transition: color .25s;
+    -ms-transition: color .25s;
+    -o-transition: color .25s;
+    transition: color .25s;
 }
+
 .show-menu:hover {
-  color: #34495e;
-  cursor:pointer;
+    color: #34495e;
+    cursor: pointer;
 }
-input[id=show-menu]{
+
+input[id=show-menu] {
     display: none;
 }
-input[id=show-menu]:checked ~ #cssmenu{
+
+input[id=show-menu]:checked~#cssmenu {
     display: block;
 }
 
 #cssmenu {
-  background: #34495e;
-  width: auto;
-  text-align: center;
-  display:none;
+    background: #34495e;
+    width: auto;
+    text-align: center;
+    display: none;
 }
+
 #cssmenu ul {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  line-height: 1;
-  display: block;
-  zoom: 1;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    line-height: 1;
+    display: block;
+    zoom: 1;
 }
+
 #cssmenu ul:after {
-  content: " ";
-  display: block;
-  font-size: 0;
-  height: 0;
-  clear: both;
-  visibility: hidden;
+    content: " ";
+    display: block;
+    font-size: 0;
+    height: 0;
+    clear: both;
+    visibility: hidden;
 }
+
 #cssmenu ul li {
-  float: none;
-  display: block;
-  padding: 0;
-  margin: 0;
+    float: none;
+    display: block;
+    padding: 0;
+    margin: 0;
 }
+
 #cssmenu.align-right ul li {
-  float: right;
+    float: right;
 }
+
 #cssmenu.align-center ul {
-  text-align: center;
+    text-align: center;
 }
+
 #cssmenu ul li a {
-  width: 100%;
-  -moz-box-sizing: border-box;
-  -webkit-box-sizing: border-box;
-  box-sizing: border-box;
-  color: #ffffff;
-  text-decoration: none;
-  display: block;
-  padding: 10px 20px;
-  font-weight: 700;
-  text-transform: uppercase;
-  font-size: 14px;
-  position: relative;
-  -webkit-transition: color .25s;
-  -moz-transition: color .25s;
-  -ms-transition: color .25s;
-  -o-transition: color .25s;
-  transition: color .25s;
+    width: 100%;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    color: #ffffff;
+    text-decoration: none;
+    display: block;
+    padding: 10px 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 14px;
+    position: relative;
+    -webkit-transition: color .25s;
+    -moz-transition: color .25s;
+    -ms-transition: color .25s;
+    -o-transition: color .25s;
+    transition: color .25s;
 }
+
 #cssmenu ul li a:hover {
-  color: #00eecc;
+    color: #00eecc;
 }
+
 #cssmenu ul li a:hover:before {
-  width: 100%;
+    width: 100%;
 }
+
 #cssmenu ul li a:after {
-  content: "";
-  display: none;
-  position: absolute;
-  right: -3px;
-  top: 19px;
-  height: 6px;
-  width: 6px;
-  background: #ffffff;
-  opacity: .5;
+    content: "";
+    display: none;
+    position: absolute;
+    right: -3px;
+    top: 19px;
+    height: 6px;
+    width: 6px;
+    background: #ffffff;
+    opacity: .5;
 }
+
 #cssmenu ul li a:before {
-  content: "";
-  display: none;
-  position: absolute;
-  left: 0;
-  bottom: 0;
-  height: 3px;
-  width: 0;
-  background: #333333;
-  -webkit-transition: width .25s;
-  -moz-transition: width .25s;
-  -ms-transition: width .25s;
-  -o-transition: width .25s;
-  transition: width .25s;
+    content: "";
+    display: none;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 3px;
+    width: 0;
+    background: #333333;
+    -webkit-transition: width .25s;
+    -moz-transition: width .25s;
+    -ms-transition: width .25s;
+    -o-transition: width .25s;
+    transition: width .25s;
 }
-#cssmenu ul li.last > a:after,
-#cssmenu ul li:last-child > a:after {
-  display: none;
+
+#cssmenu ul li.last>a:after, #cssmenu ul li:last-child>a:after {
+    display: none;
 }
+
 #cssmenu ul li.active a {
-  color: #00eecc;
+    color: #00eecc;
 }
+
 #cssmenu ul li.active a:before {
-  width: 100%;
+    width: 100%;
 }
-#cssmenu.align-right li.last > a:after,
-#cssmenu.align-right li:last-child > a:after {
-  display: block;
+
+#cssmenu.align-right li.last>a:after, #cssmenu.align-right li:last-child>a:after {
+    display: block;
 }
+
 #cssmenu.align-right li:first-child a:after {
-  display: none;
+    display: none;
 }
+
 .button {
-  background-color:#34495e;
-  color:#ffffff;
-  margin-top: 5px;
-  margin-bottom: 5px;
-  font-size: 16px;
-  font-weight:bold;
-  position: relative;
-  display: inline-block;
-  border:1px solid #00eeca;
-  cursor:pointer;
-  padding: 5px 5px;
-  text-decoration:none;
-  -webkit-transition: color .25s;
-  -moz-transition: color .25s;
-  -ms-transition: color .25s;
-  -o-transition: color .25s;
-  transition: color .25s;
+    background-color: #34495e;
+    color: #ffffff;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 16px;
+    font-weight: bold;
+    position: relative;
+    display: inline-block;
+    border: 1px solid #00eeca;
+    cursor: pointer;
+    padding: 5px 5px;
+    text-decoration: none;
+    -webkit-transition: color .25s;
+    -moz-transition: color .25s;
+    -ms-transition: color .25s;
+    -o-transition: color .25s;
+    transition: color .25s;
 }
+
 .button:hover {
-  color:#00eeca;
+    color: #00eeca;
 }
+
 .button:active {
-  position:relative;
-  top:1px;
-  background-color:#34495e;
+    position: relative;
+    top: 1px;
+    background-color: #34495e;
 }
+
 .select {
-  font-size: 16px;
-  position: relative;
-  display: inline-block;
+    font-size: 16px;
+    position: relative;
+    display: inline-block;
 }
+
 .select select {
-  margin-top: 5px;
-  margin-bottom: 5px;
-  outline: none;
-  -webkit-appearance: none;
-  display: block;
-  padding: 1.2em 3em 1.3em 1.5em;
-  margin: 0;
-  transition: border-color 0.2s;
-  border: 5px solid #EB5168;
-  border-radius: 5px;
-  background: #fff;
-  color: #555;
-  line-height: normal;
-  font-family: inherit;
-  font-size: inherit;
-  line-height: inherit;
-<<<<<<< HEAD
-}
-=======
-}
->>>>>>> e8ff13112f3cb3f684c53dfe9c4a8b96a205ee7c
+    margin-top: 5px;
+    margin-bottom: 5px;
+    outline: none;
+    -webkit-appearance: none;
+    display: block;
+    padding: 1.2em 3em 1.3em 1.5em;
+    margin: 0;
+    transition: border-color 0.2s;
+    border: 5px solid #EB5168;
+    border-radius: 5px;
+    background: #fff;
+    color: #555;
+    line-height: normal;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
