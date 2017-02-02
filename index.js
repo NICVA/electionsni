@@ -6,18 +6,25 @@ var demoClubAPI = {
     }
 };
 
+
 var elections = {
     '2017': {
         dem_club_code: 'nia.2017-03-02',
-        date: 'Thu Mar 02 2017 00:00:00 GMT+0000 (GMT Standard Time)'
+        date: 'Thu Mar 02 2017 00:00:00 GMT+0000 (GMT Standard Time)',
+        confirmedCandidates: false,
+        confirmedResults: false
     },
     '2016': {
         dem_club_code: 'nia.2016-05-05',
-        date: 'Thu May 05 2016 00:00:00 GMT+0000 (GMT Standard Time)'
+        date: 'Thu May 05 2016 00:00:00 GMT+0000 (GMT Standard Time)',
+        confirmedCandidates: true,
+        confirmedResults: true
     },
     '2011': {
         dem_club_code: 'nia.2017-03-02',
-        date: 'Thu May 05 2011 00:00:00 GMT+0000 (GMT Standard Time)'
+        date: 'Thu May 05 2011 00:00:00 GMT+0000 (GMT Standard Time)',
+        confirmedCandidates: true,
+        confirmedResults: true
     }
 };
 
@@ -38,7 +45,7 @@ const CandidatesView = Vue.extend({
     data: function() {
         return {
             candidates: this.$parent.candidates,
-            confirmed: this.$parent.confirmed
+            confirmedCandidates: this.$parent.elections.confirmedCandidates
         }
     }
 })
@@ -46,10 +53,10 @@ const CandidatesView = Vue.extend({
 Vue.component('candidate-list', {
     template: '#candidate-list',
     data: function() {
-      return {
-        excluded: excludedArray,
-        elected: electedArray
-      }
+        return {
+            excluded: excludedArray,
+            elected: electedArray
+        }
     },
     computed: {
         candidates: function() {
@@ -86,12 +93,18 @@ const CandidateView = Vue.extend({
 });
 
 const router = new VueRouter({
-    mode: 'hash',
-    base: window.location.href,
+    mode: 'history',
+    base: '/',
+    abstract: true,
     scrollBehavior(to, from, savedPosition) {
         if (to.hash) {
             return {
                 selector: to.hash
+            }
+        } else {
+            return {
+                x: 0,
+                y: 0
             }
         }
     },
@@ -112,11 +125,12 @@ const router = new VueRouter({
 var app = new Vue({
     router,
     data: {
-        confirmed: true,
+        elections: null,
         candidates: null
     },
     created: function() {
         this.fetchCandidateData();
+        this.fetchYear();
     },
     methods: {
         fetchCandidateData: function() {
@@ -136,6 +150,16 @@ var app = new Vue({
                     self.candidates = _.sortBy(results.data, ["Constituency_Number", "Surname"]);
                 }
             });
+        },
+        fetchYear: function() {
+          var self = this;
+          var year;
+          if (self.$route.params.year) {
+              year = self.$route.params.year
+          } else {
+              year = '2017'
+          }
+          self.elections = elections[year]
         }
     }
 }).$mount('#app')

@@ -30,6 +30,7 @@
     <script src="https://unpkg.com/vue-router/dist/vue-router.js"></script>
     <script src="https://cdn.jsdelivr.net/vue.resource/1.0.3/vue-resource.min.js"></script>
     <!-- <script src="https://rawgit.com/matfish2/vue-tables/master/dist/vue-tables.min.js"></script> -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     <script src="vue-paginate.js"></script>
     <script src="papaparse.min.js"></script>
     <!-- <script src="startbootstrap/js/bootstrap.js"></script> -->
@@ -103,8 +104,6 @@
 
     <template id="all-candidates-page">
       <div>
-      <div v-if="confirmed" class="alert alert-warning" role="alert"><p class="alert-text"><strong>Unconfirmed!</strong> Some of the candidates below may have been officially nominated, others may not yet have done so. Therefore, these are "unconfirmed candidates" until we have finalised nominations from the Electoral Office.</p></div>
-        <h2>Candidates (2017)</h2>
           <candidate-list />
         </div>
         </template>
@@ -112,35 +111,43 @@
 
     <template id="candidate-list">
       <div>
-        <!-- <ul class="row">
-          <a v-for="constituency in constituencies" v-if="constituency.Constituency_Number" class="col-md-4" :href="'#constituency-' + constituency.Constituency_Number">{{ constituency.Constituency_Name }}</a>
-        </ul>
-        <div class="row"> -->
-        <div class="col-md-8">
-          <template v-for="constituency in constituencies">
-            <h3 :id="'constituency-' + constituency.Constituency_Number">{{ constituency.Constituency_Name }}</h3>
-          <template v-for="candidate in candidates" v-if="candidate.Constituency_Number == constituency.Constituency_Number && candidate.Candidate_id">
-          <router-link :to="{name: 'candidate', params: { id: candidate.Candidate_id }}" class="list-group-item">
-            <h4 class="list-group-item-heading">
-              <i class="glyphicon glyphicon-user"></i>
-              {{ candidate.Firstname }} {{ candidate.Surname}}
-              <span class="label label-success" v-if="elected.includes(parseInt(candidate.Candidate_id))">elected</span>
-              <span class="label label-danger" v-if="excluded.includes(parseInt(candidate.Candidate_id))">excluded</span>
-              <span class="label label-default pull-right">{{ candidate.Party_Name }}</span>
+        <div class="row">
+
+          <div class="col-md-3" id="leftCol">
+            <h3>Constituencies</h3>
+            <h4 v-for="constituency in constituencies" v-if="constituency.Constituency_Number">
+              <router-link :to="'#constituency-' + constituency.Constituency_Number">
+                {{ constituency.Constituency_Name }}
+              </router-link>
             </h4>
-          </router-link>
-        </template>
-        </template>
-        </ul>
-      </div>
-          <div class="col-md-4">
             <div class="alert alert-info" role="alert">
               <h3>Help collect data with Democracy Club</h3>
-              <p>Democracy Club help us collect up to date and accurate candidate information. If you know about more candidates, you can add them to the list and they'll become available here too.</p>
+              <p>Democracy Club help us collect up to date and accurate candidate information.</p><p>If you know about other candidates, you can add them and they'll become available here too.</p>
               <a class="btn btn-primary" role="button" href="https://candidates.democracyclub.org.uk/election/nia.2017-03-02/constituencies" target="_blank">Contribute</a>
             </div>
+      		</div>
+
+        <div class="col-md-9">
+          <h2>Candidates (2017)</h2>
+          <div v-if="this.$parent.confirmedCandidates === false" class="alert alert-warning" role="alert"><p class="alert-text"><strong>Unconfirmed!</strong> Some of the candidates below may have been officially nominated, others may not yet have done so. Therefore, these are "unconfirmed candidates" until we have finalised nominations from the Electoral Office.</p></div>
+          <template v-for="constituency in constituencies">
+            <h3 :id="'constituency-' + constituency.Constituency_Number">{{ constituency.Constituency_Name }}</h3>
+              <template v-for="candidate in candidates" v-if="candidate.Constituency_Number == constituency.Constituency_Number && candidate.Candidate_id">
+              <router-link :to="{name: 'candidate', params: { id: candidate.Candidate_id }}" class="list-group-item">
+                <h4 class="list-group-item-heading">
+                  <i class="glyphicon glyphicon-user"></i>
+                  {{ candidate.Firstname }} {{ candidate.Surname}}
+                  <span class="label label-success" v-if="elected.includes(parseInt(candidate.Candidate_id))">elected</span>
+                  <span class="label label-danger" v-if="excluded.includes(parseInt(candidate.Candidate_id))">excluded</span>
+                  <span class="label label-default pull-right">{{ candidate.Party_Name }}</span>
+                </h4>
+              </router-link>
+              </template>
+          <router-link to="">Back to top</router-link>
+          </template>
           </div>
-      </div>
+
+    </div>
     </div>
     </template>
 
@@ -156,20 +163,20 @@
       </template>
 
     <script>
-        (function(i, s, o, g, r, a, m) {
-            i['GoogleAnalyticsObject'] = r;
-            i[r] = i[r] || function() {
-                (i[r].q = i[r].q || []).push(arguments)
-            }, i[r].l = 1 * new Date();
-            a = s.createElement(o),
-                m = s.getElementsByTagName(o)[0];
-            a.async = 1;
-            a.src = g;
-            m.parentNode.insertBefore(a, m)
-        })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
-
-        ga('create', 'UA-77063537-1', 'auto');
-        ga('send', 'pageview');
+        // (function(i, s, o, g, r, a, m) {
+        //     i['GoogleAnalyticsObject'] = r;
+        //     i[r] = i[r] || function() {
+        //         (i[r].q = i[r].q || []).push(arguments)
+        //     }, i[r].l = 1 * new Date();
+        //     a = s.createElement(o),
+        //         m = s.getElementsByTagName(o)[0];
+        //     a.async = 1;
+        //     a.src = g;
+        //     m.parentNode.insertBefore(a, m)
+        // })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+        //
+        // ga('create', 'UA-77063537-1', 'auto');
+        // ga('send', 'pageview');
     </script>
     <script src="index.js"></script>
 
