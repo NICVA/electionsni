@@ -1,5 +1,9 @@
 html, body {
+<<<<<<< HEAD
 	/*font-family: Arial, Helvetica, sans-serif;*/
+=======
+	font-family: Arial, Helvetica, sans-serif;
+>>>>>>> e8ff13112f3cb3f684c53dfe9c4a8b96a205ee7c
 	margin: 0 0 0 0px;
     height: 100%;
 }
@@ -54,7 +58,11 @@ header p {
     transition: color .5s;
 }
 .content {
+<<<<<<< HEAD
     padding: 15px;
+=======
+    padding: 15px; 
+>>>>>>> e8ff13112f3cb3f684c53dfe9c4a8b96a205ee7c
 }
 .content p {
 	line-height: 1.5;
@@ -435,4 +443,8 @@ input[id=show-menu]:checked ~ #cssmenu{
   font-family: inherit;
   font-size: inherit;
   line-height: inherit;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> e8ff13112f3cb3f684c53dfe9c4a8b96a205ee7c
