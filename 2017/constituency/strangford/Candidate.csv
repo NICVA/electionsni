@@ -1,10 +1,10 @@
-Candidate_id,Constituency_Name,Constituency_Number,Candidate_id,Firstname,Surname,Outgoing_Member,Party_Id,Party_Name,Photo_URL,Directory,Gender,Twitter,Email
-4590,Strangford,15,4590,Kellie,Armstrong,,19,Alliance Party,,strangford,female,Kelmba,
-19706,Strangford,15,19706,Ricky,Bamford,,111,Green Party,,strangford,Male,,
-7179,Strangford,15,7179,Joe,Boyle,,23,Social Democratic and Labour Party,,strangford,male,,
-6984,Strangford,15,6984,Stephen,Cooper,,141,Traditional Unionist Voice,,strangford,Male,S_J_Cooper,
-16581,Strangford,15,16581,Simon,Hamilton,,20,Democratic Unionist Party,,strangford,male,SimonHamilton,
-12092,Strangford,15,12092,Michelle,McIlveen,,20,Democratic Unionist Party,,strangford,female,MMcIlveenDUP,
-302,Strangford,15,302,Mike,Nesbitt,,26,Ulster Unionist Party,,strangford,male,mikenesbittni,
-8115,Strangford,15,8115,Philip,Smith,,26,Ulster Unionist Party,,strangford,Male,1PhilipSmith,
-11547,Strangford,15,11547,Peter,Weir,,20,Democratic Unionist Party,,strangford,male,peterweirmla,
+Candidate_id,Constituency_Name,Constituency_Number,Firstname,Surname,Outgoing_member,Party_Id,Party_Name,Photo_URL,Directory,Gender,Twitter,Email
+4590,Strangford,15,Kellie,Armstrong,,19,Alliance Party,,strangford,Female,Kelmba,kellie.armstrong@allianceparty.org
+19706,Strangford,15,Ricky,Bamford,,111,Green Party,,strangford,Male,,
+7179,Strangford,15,Joe,Boyle,,23,Social Democratic and Labour Party,,strangford,Male,,joetboyle@yahoo.co.uk
+6984,Strangford,15,Stephen,Cooper,,141,Traditional Unionist Voice,,strangford,Male,S_J_Cooper,
+16581,Strangford,15,Simon,Hamilton,,20,Democratic Unionist Party,,strangford,Male,SimonHamilton,
+12092,Strangford,15,Michelle,McIlveen,,20,Democratic Unionist Party,,strangford,Female,MMcIlveenDUP,mail@michellemcilveen.org.uk
+302,Strangford,15,Mike,Nesbitt,,26,Ulster Unionist Party,,strangford,Male,mikenesbittni,mike@mikenesbitt.co.uk
+8115,Strangford,15,Philip,Smith,,26,Ulster Unionist Party,,strangford,Male,1PhilipSmith,
+11547,Strangford,15,Peter,Weir,,20,Democratic Unionist Party,,strangford,Male,peterweirmla,

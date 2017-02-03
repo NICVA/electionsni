@@ -1,12 +1,12 @@
-Candidate_id,Constituency_Name,Constituency_Number,Candidate_id,Firstname,Surname,Outgoing_Member,Party_Id,Party_Name,Photo_URL,Directory,Gender,Twitter,Email
-8151,South Antrim,12,8151,Steve,Aiken,,26,Ulster Unionist Party,,south-antrim,male,SteveAikenUUP,
-19681,South Antrim,12,19681,Ivanka,Antova,,999,People Before Profit Alliance,,south-antrim,female,,
-19704,South Antrim,12,19704,Eleanor,Bailey,,111,Green Party,,south-antrim,Female,,
-6346,South Antrim,12,6346,Richard,Cairns,,141,Traditional Unionist Voice,,south-antrim,male,rickwcairns,
-13366,South Antrim,12,13366,Pam,Cameron,,20,Democratic Unionist Party,,south-antrim,female,PamCameronMLA,
-13367,South Antrim,12,13367,Trevor,Clarke,,20,Democratic Unionist Party,,south-antrim,male,,
-8153,South Antrim,12,8153,Adrian,Cochrane-Watson,,26,Ulster Unionist Party,,south-antrim,male,,
-13369,South Antrim,12,13369,David,Ford,,19,Alliance Party,,south-antrim,male,DavidFordMLA,
-13370,South Antrim,12,13370,Paul,Girvan,,20,Democratic Unionist Party,,south-antrim,male,,
-4711,South Antrim,12,4711,Declan,Kearney,,24,Sinn Fein,,south-antrim,male,DeclanKearneySF,
-5390,South Antrim,12,5390,Roisin,Lynch,,23,Social Democratic and Labour Party,,south-antrim,female,roisinlynchsdlp,
+Candidate_id,Constituency_Name,Constituency_Number,Firstname,Surname,Outgoing_member,Party_Id,Party_Name,Photo_URL,Directory,Gender,Twitter,Email
+8151,South Antrim,12,Steve,Aiken,,26,Ulster Unionist Party,,south-antrim,Male,SteveAikenUUP,steve.aiken@mla.niassembly.gov.uk
+19681,South Antrim,12,Ivanka,Antova,,999,People Before Profit Alliance,,south-antrim,Female,,
+19704,South Antrim,12,Eleanor,Bailey,,111,Green Party,,south-antrim,Female,,
+6346,South Antrim,12,Richard,Cairns,,141,Traditional Unionist Voice,,south-antrim,Male,rickwcairns,rcairnstuv@gmail.com
+13366,South Antrim,12,Pam,Cameron,,20,Democratic Unionist Party,,south-antrim,Female,PamCameronMLA,pamcamerondup@gmail.com
+13367,South Antrim,12,Trevor,Clarke,,20,Democratic Unionist Party,,south-antrim,Male,,
+8153,South Antrim,12,Adrian,Cochrane-Watson,,26,Ulster Unionist Party,,south-antrim,Male,,
+13369,South Antrim,12,David,Ford,,19,Alliance Party,,south-antrim,Male,DavidFordMLA,
+13370,South Antrim,12,Paul,Girvan,,20,Democratic Unionist Party,,south-antrim,Male,,
+4711,South Antrim,12,Declan,Kearney,,24,Sinn Fein,,south-antrim,Male,DeclanKearneySF,
+5390,South Antrim,12,Roisin,Lynch,,23,Social Democratic and Labour Party,,south-antrim,Female,roisinlynchsdlp,roisin.lynch@sdlphq.ie

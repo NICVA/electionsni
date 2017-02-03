@@ -1,10 +1,11 @@
-Candidate_id,Constituency_Name,Constituency_Number,Candidate_id,Firstname,Surname,Outgoing_Member,Party_Id,Party_Name,Photo_URL,Directory,Gender,Twitter,Email
-2134,North Antrim,9,2134,Jim,Allister,,141,Traditional Unionist Voice,,north-antrim,male,JimAllister,
-19703,North Antrim,9,19703,Mark,Bailey,,111,Green Party,,north-antrim,Male,,
-12750,North Antrim,9,12750,Connor,Duncan,,23,Social Democratic and Labour Party,,north-antrim,male,CDuncanSDLP,
-12751,North Antrim,9,12751,Paul,Frew,,20,Democratic Unionist Party,,north-antrim,male,,
-12753,North Antrim,9,12753,Phillip,Logan,,20,Democratic Unionist Party,,north-antrim,male,philliplogan,
-19673,North Antrim,9,19673,Philip,McGuigan,,24,Sinn Fein,,north-antrim,Male,mcguigan_philip,
-19695,North Antrim,9,19695,Patricia,O'Lynn,,19,Alliance Party,,north-antrim,Female,PatriciaOLynn,
-12757,North Antrim,9,12757,Mervyn,Storey,,20,Democratic Unionist Party,,north-antrim,male,,
-4723,North Antrim,9,4723,Robin,Swann,,26,Ulster Unionist Party,,north-antrim,male,robinswannuup,
+Candidate_id,Constituency_Name,Constituency_Number,Firstname,Surname,Outgoing_member,Party_Id,Party_Name,Photo_URL,Directory,Gender,Twitter,Email
+2134,North Antrim,9,Jim,Allister,,141,Traditional Unionist Voice,,north-antrim,Male,JimAllister,info@jimallister.org
+19703,North Antrim,9,Mark,Bailey,,111,Green Party,,north-antrim,Male,mfbailey,markbailey@antrimgreens.com
+19714,North Antrim,9,Monica,Digney,,21,Independent,,north-antrim,Female,,
+12750,North Antrim,9,Connor,Duncan,,23,Social Democratic and Labour Party,,north-antrim,Male,CDuncanSDLP,
+12751,North Antrim,9,Paul,Frew,,20,Democratic Unionist Party,,north-antrim,Male,paulfrewDUP,
+12753,North Antrim,9,Phillip,Logan,,20,Democratic Unionist Party,,north-antrim,Male,philliplogan,
+19673,North Antrim,9,Philip,McGuigan,,24,Sinn Fein,,north-antrim,Male,mcguigan_philip,philip.mcguigan@mla.niassembly.gov.uk
+19695,North Antrim,9,Patricia,O'Lynn,,19,Alliance Party,,north-antrim,Female,PatriciaOLynn,
+12757,North Antrim,9,Mervyn,Storey,,20,Democratic Unionist Party,,north-antrim,Male,,
+4723,North Antrim,9,Robin,Swann,,26,Ulster Unionist Party,,north-antrim,Male,robinswannuup,robin.swannMLA@gmail.com

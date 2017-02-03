@@ -1,11 +1,12 @@
-Candidate_id,Constituency_Name,Constituency_Number,Candidate_id,Firstname,Surname,Outgoing_Member,Party_Id,Party_Name,Photo_URL,Directory,Gender,Twitter,Email
-7656,Foyle,5,7656,Stuart,Canning,,991,NI Conservatives,,foyle,Male,StuartC93,
-19694,Foyle,5,19694,Colm,Caravangh,,19,Alliance Party,,foyle,Male,,
-19701,Foyle,5,19701,Shannon,Downey,,111,Green Party,,foyle,Female,shannon_downey5,
-19640,Foyle,5,19640,Mark,H. Durkan,,23,Social Democratic and Labour Party,,foyle,male,MarkHDurkan,
-11857,Foyle,5,11857,Colum,Eastwood,,23,Social Democratic and Labour Party,,foyle,male,columeastwood,
-6404,Foyle,5,6404,Julia,Kee,,26,Ulster Unionist Party,,foyle,female,JuliaEKee,
-19678,Foyle,5,19678,Elisha,McCallion,,24,Sinn Fein,,foyle,female,MayorElisha,
-2294,Foyle,5,2294,Eamonn,McCann,,999,People Before Profit Alliance,,foyle,male,eamonnmccannpbp,
-11860,Foyle,5,11860,Raymond,McCartney,,24,Sinn Fein,,foyle,male,RaymondMcCartn1,
-7209,Foyle,5,7209,Gary,Middleton,,20,Democratic Unionist Party,,foyle,male,Gary_Middleton,
+Candidate_id,Constituency_Name,Constituency_Number,Firstname,Surname,Outgoing_member,Party_Id,Party_Name,Photo_URL,Directory,Gender,Twitter,Email
+7656,Foyle,5,Stuart,Canning,,991,NI Conservatives,,foyle,Male,StuartC93,stuart.canning93@gmail.com
+19694,Foyle,5,Colm,Cavanagh,,19,Alliance Party,,foyle,Male,,
+19701,Foyle,5,Shannon,Downey,,111,Green Party,,foyle,Female,shannon_downey5,
+19640,Foyle,5,Mark,H. Durkan,,23,Social Democratic and Labour Party,,foyle,Male,MarkHDurkan,
+11857,Foyle,5,Colum,Eastwood,,23,Social Democratic and Labour Party,,foyle,Male,columeastwood,colum.eastwood@sdlp.ie
+6404,Foyle,5,Julia,Kee,,26,Ulster Unionist Party,,foyle,Female,JuliaEKee,
+19678,Foyle,5,Elisha,McCallion,,24,Sinn Fein,,foyle,Female,MayorElisha,
+2294,Foyle,5,Eamonn,McCann,,999,People Before Profit Alliance,,foyle,Male,eamonnmccannpbp,peopleb4profitni@aol.com
+11860,Foyle,5,Raymond,McCartney,,24,Sinn Fein,,foyle,Male,RaymondMcCartn1,
+7209,Foyle,5,Gary,Middleton,,20,Democratic Unionist Party,,foyle,Male,Gary_Middleton,
+11859,Foyle,5,John,Lindsay,,993,Cannabis Is Safer Than Alcohol,,foyle,Male,,
