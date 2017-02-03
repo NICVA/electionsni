@@ -44,10 +44,26 @@ const Home = {
 const CandidatesView = Vue.extend({
     template: '#all-candidates-page',
     data: function() {
-        return {
-            candidates: this.$parent.candidates,
-            confirmedCandidates: this.$parent.election.confirmedCandidates
-        }
+          var self = this;
+          var year;
+          var candidates;
+          if (self.$parent.election.year) {
+              year = self.$parent.election.year
+          } else {
+              year = '2017'
+          }
+          var file = '/data/' + year + candidatesCSV
+          Papa.parse(file, {
+              download: true,
+              header: true,
+              complete: function(results) {
+                  self.candidates = _.sortBy(results.data, ["Constituency_Number", "Surname"]);
+              }
+          });
+          return {
+              candidates: candidates,
+              confirmedCandidates: this.$parent.election.confirmedCandidates
+          }
     }
 })
 
@@ -82,14 +98,14 @@ const CandidateView = Vue.extend({
         var self = this;
         var candidate, demoClub;
         for (var i = 0; i < self.$parent.candidates.length; i++) {
-            if (self.$parent.candidates[i].Candidate_id == this.$route.params.id) {
+            if (self.$parent.candidates[i].Candidate_Id == this.$route.params.id) {
                 candidate = self.$parent.candidates[i];
                 break;
             }
-        }
-        {this.$http.get(demoClubAPI.person + this.$route.params.id + '.json').then(response => {
-               self.demoClub = response.body;
-               console.log(response.body)
+        } {
+            this.$http.get(demoClubAPI.person + this.$route.params.id + '.json').then(response => {
+                self.demoClub = response.body;
+                console.log(response.body)
             }, response => {
                 console.log("error retrieving data from DemoClubAPI")
             });
@@ -134,32 +150,48 @@ const router = new VueRouter({
 var app = new Vue({
     router,
     data: {
-        election: null,
-        candidates: null
+        // election: null,
+        // candidates: null
     },
     created: function() {
-        this.fetchCandidateData();
+        // this.fetchCandidates();
         this.fetchYear();
     },
-    methods: {
-        fetchCandidateData: function() {
+    computed: {
+        election: function() {
             var self = this;
-            var year = '2017';
+            var year;
             if (self.$route.params.year) {
                 year = self.$route.params.year
             } else {
                 year = '2017'
             }
-            console.log('YEAR:', year)
-            var file = '/data/' + year + candidatesCSV
-            Papa.parse(file, {
-                download: true,
-                header: true,
-                complete: function(results) {
-                    self.candidates = _.sortBy(results.data, ["Constituency_Number", "Surname"]);
-                }
-            });
+            return elections[year]
         },
+        // candidates: function() {
+        //     var self = this;
+        //     var year;
+        //     var candidates = self.candidates;
+        //     if (self.election.year) {
+        //         year = self.election.year
+        //     } else {
+        //         year = '2017'
+        //     }
+        //     var file = '/data/' + year + candidatesCSV
+        //     console.log(file)
+        //     Papa.parse(file, {
+        //         download: true,
+        //         header: true,
+        //         complete: function(results) {
+        //           console.log('candidates', candidates)
+        //             candidates = _.sortBy(results.data, ["Constituency_Number", "Surname"]);
+        //             return candidates
+        //             console.log(candidates)
+        //         }
+        //     });
+        // }
+    },
+    methods: {
         fetchYear: function() {
             var self = this;
             var year;
@@ -169,6 +201,25 @@ var app = new Vue({
                 year = '2017'
             }
             self.election = elections[year]
-        }
+        },
+        // fetchCandidates: function() {
+        //     var self = this;
+        //     var year;
+        //     if (self.election.year) {
+        //         year = self.election.year
+        //     } else {
+        //         year = '2017'
+        //     }
+        //     console.log('YEAR:', year)
+        //     var file = '/data/' + year + candidatesCSV
+        //     Papa.parse(file, {
+        //         download: true,
+        //         header: true,
+        //         complete: function(results) {
+        //             console.log(results)
+        //             self.candidates = _.sortBy(results.data, ["Constituency_Number", "Surname"]);
+        //         }
+        //     });
+        // }
     }
 }).$mount('#app')

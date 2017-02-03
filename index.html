@@ -13,6 +13,7 @@
     <link rel="stylesheet" type="text/css" href="website/css/enhanced.css" media="screen  and (min-width: 50.5em)" />
     <link rel="icon" type="image/png" href="website/image/favicon-32x32.png" sizes="32x32" />
     <link rel="icon" type="image/png" href="website/image/favicon-16x16.png" sizes="16x16" />
+    <link rel="stylesheet" type="text/css" href="css/fontawesome.min.css" />
 
     <!-- Bootstrap -->
     <!-- <link rel="stylesheet" href="startbootstrap/css/bootstrap.css">
@@ -21,9 +22,9 @@
     <script src="http://cdn.leafletjs.com/leaflet-0.7/leaflet.js"></script>
     <script src="http://cdn.rawgit.com/calvinmetcalf/leaflet-ajax/gh-pages/dist/leaflet.ajax.min.js"></script>
 
-    <script src="https://code.jquery.com/jquery-3.1.1.js" integrity="sha256-16cdPddA6VdVInumRGo6IbivbERE8p7CQR3HzTBuELA=" crossorigin="anonymous"></script>
+    <script src="src/jquery.js"></script>
     <script src="https://cdn.jsdelivr.net/lodash/4.17.4/lodash.min.js"></script>
-    <script src="https://use.fontawesome.com/3302049464.js"></script>
+    <!-- <script src="https://use.fontawesome.com/3302049464.js"></script> -->
 
     <!-- Vue.js and Vue Router -->
     <script src="https://unpkg.com/vue/dist/vue.js"></script>
@@ -31,8 +32,8 @@
     <script src="https://cdn.jsdelivr.net/vue.resource/1.0.3/vue-resource.min.js"></script>
     <!-- <script src="https://rawgit.com/matfish2/vue-tables/master/dist/vue-tables.min.js"></script> -->
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-    <script src="vue-paginate.js"></script>
-    <script src="papaparse.min.js"></script>
+    <script src="src/vue-paginate.js"></script>
+    <script src="src/papaparse.min.js"></script>
     <!-- <script src="startbootstrap/js/bootstrap.js"></script> -->
     <!--[if (lt IE 9)&(!IEMobile)]>
 		<link rel="stylesheet" type="text/css" href="enhanced.css" />
@@ -67,13 +68,13 @@
         <input type="checkbox" id="show-menu" role="button">
         <div id='cssmenu'>
             <ul>
-                <li><a href='/constituencies'><span>Constituencies</span></a></li>
-                <li><a href='/results'><span>Results</span></a></li>
+                <li><a href='#'><span>Constituencies</span></a></li>
+                <li><a href='#'><span>Results</span></a></li>
                 <li>
                     <router-link :to="{ name: 'candidates', params: { year: '2017' }}">Candidates</router-link>
                 </li>
-                <li><a href='/data'><span>Data</span></a></li>
-                <li class='last'><a href='/about'><span>About</span></a></li>
+                <li><a href='#'><span>Data</span></a></li>
+                <li class='last'><a href='#'><span>About</span></a></li>
             </ul>
         </div>
         <div class="cta">
@@ -98,6 +99,7 @@
                     <h1>Welcome</h1>
                     <p class="lead">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
                     <p><router-link class="btn btn-lg btn-success" role="button" :to="{ name: 'candidates', params: { year: '2017' }}">Assembly Election 2017</router-link></p>
+                    <p><router-link :to="{ name: 'candidates', params: { year: '2016' }}">Assembly Election 2016</router-link></p>
                   </div>
             </div>
         </template>
@@ -132,13 +134,13 @@
           <div v-if="this.$parent.confirmedCandidates === false" class="alert alert-warning" role="alert"><p class="alert-text"><strong>Unconfirmed!</strong> Some of the candidates below may have been officially nominated, others may not yet have done so. Therefore, these are "unconfirmed candidates" until we have finalised nominations from the Electoral Office.</p></div>
           <template v-for="constituency in constituencies">
             <h3 :id="'constituency-' + constituency.Constituency_Number">{{ constituency.Constituency_Name }}</h3>
-              <template v-for="candidate in candidates" v-if="candidate.Constituency_Number == constituency.Constituency_Number && candidate.Candidate_id">
-              <router-link :to="{name: 'candidate', params: { id: candidate.Candidate_id }}" class="list-group-item">
+              <template v-for="candidate in candidates" v-if="candidate.Constituency_Number == constituency.Constituency_Number && candidate.Candidate_Id">
+              <router-link :to="{name: 'candidate', params: { id: candidate.Candidate_Id }}" class="list-group-item">
                 <h3 class="list-group-item-heading">
                   <i class="glyphicon glyphicon-user"></i>
                   {{ candidate.Firstname }} {{ candidate.Surname}}
-                  <span class="label label-success" v-if="elected.includes(parseInt(candidate.Candidate_id))">elected</span>
-                  <span class="label label-danger" v-if="excluded.includes(parseInt(candidate.Candidate_id))">excluded</span>
+                  <span class="label label-success" v-if="elected.includes(parseInt(candidate.Candidate_Id))">elected</span>
+                  <span class="label label-danger" v-if="excluded.includes(parseInt(candidate.Candidate_Id))">excluded</span>
                 </h3>
                 <h4 style="color: #777">{{ candidate.Party_Name }}</h4>
               </router-link>
