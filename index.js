@@ -1,3 +1,5 @@
+Vue.use(VueHighcharts)
+
 var candidatesCSV = '/NI/full-candidates-list.csv';
 
 var demoClubAPI = {
@@ -11,21 +13,27 @@ var elections = {
         dem_club_code: 'nia.2017-03-02',
         date: 'Thu Mar 02 2017 00:00:00 GMT+0000 (GMT Standard Time)',
         confirmedCandidates: false,
-        confirmedResults: false
+        confirmedResults: false,
+        seats_each: 5,
+        seats_total: 90
     },
     '2016': {
         year: '2016',
         dem_club_code: 'nia.2016-05-05',
         date: 'Thu May 05 2016 00:00:00 GMT+0000 (GMT Standard Time)',
         confirmedCandidates: true,
-        confirmedResults: true
+        confirmedResults: true,
+        seats_each: 6,
+        seats_total: 90
     },
     '2011': {
         year: '2011',
         dem_club_code: 'nia.2017-03-02',
         date: 'Thu May 05 2011 00:00:00 GMT+0000 (GMT Standard Time)',
         confirmedCandidates: true,
-        confirmedResults: true
+        confirmedResults: true,
+        seats_each: 6,
+        seats_total: 90
     }
 };
 
@@ -44,26 +52,25 @@ const Home = {
 const CandidatesView = Vue.extend({
     template: '#all-candidates-page',
     data: function() {
-          var self = this;
-          var year;
-          var candidates;
-          if (self.$parent.election.year) {
-              year = self.$parent.election.year
-          } else {
-              year = '2017'
-          }
-          var file = '/data/' + year + candidatesCSV
-          Papa.parse(file, {
-              download: true,
-              header: true,
-              complete: function(results) {
-                  self.candidates = _.sortBy(results.data, ["Constituency_Number", "Surname"]);
-              }
-          });
-          return {
-              candidates: candidates,
-              confirmedCandidates: this.$parent.election.confirmedCandidates
-          }
+        var self = this;
+        var year, candidates;
+        if (self.$parent.election.year) {
+            year = self.$parent.election.year
+        } else {
+            year = '2017'
+        }
+        var file = '/data/' + year + candidatesCSV
+        Papa.parse(file, {
+            download: true,
+            header: true,
+            complete: function(results) {
+                self.candidates = _.sortBy(results.data, ["Constituency_Number", "Surname"]);
+            }
+        });
+        return {
+            candidates: candidates,
+            confirmedCandidates: this.$parent.election.confirmedCandidates
+        }
     }
 })
 
@@ -117,8 +124,46 @@ const CandidateView = Vue.extend({
     }
 });
 
+Vue.component('seat-gauge', {
+    template: '#seat-gauge',
+    data: function() {
+        return {
+            excluded: excludedArray,
+            elected: electedArray,
+            options: seatGauge
+        }
+    },
+    mounted: function() {
+        this.updateSeats();
+    },
+    methods: {
+        updateSeats: function() {
+            this.$refs.highcharts.chart.series[0].setData(['90', this.elected.length])
+        }
+    }
+})
+
+Vue.component('parties-gauge', {
+    template: '#parties-gauge',
+    data: function() {
+        return {
+            excluded: excludedArray,
+            elected: electedArray,
+            options: partiesGauge
+        }
+    },
+    mounted: function() {
+        this.updateSeats();
+    },
+    methods: {
+        updateSeats: function() {
+            // this.$refs.highcharts.chart
+        }
+    }
+})
+
 const router = new VueRouter({
-    mode: 'history',
+    mode: 'hash',
     base: '/',
     abstract: true,
     scrollBehavior(to, from, savedPosition) {
@@ -158,16 +203,16 @@ var app = new Vue({
         this.fetchYear();
     },
     computed: {
-        election: function() {
-            var self = this;
-            var year;
-            if (self.$route.params.year) {
-                year = self.$route.params.year
-            } else {
-                year = '2017'
-            }
-            return elections[year]
-        },
+        // election: function() {
+        //     var self = this;
+        //     var year;
+        //     if (self.$route.params.year) {
+        //         year = self.$route.params.year
+        //     } else {
+        //         year = '2017'
+        //     }
+        //     return elections[year]
+        // },
         // candidates: function() {
         //     var self = this;
         //     var year;
