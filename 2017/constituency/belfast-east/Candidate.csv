@@ -1,12 +1,13 @@
-Candidate_id,Constituency_Name,Constituency_Number,Firstname,Surname,Outgoing_member,Party_Id,Party_Name,Photo_URL,Directory,Gender,Twitter,Email
-8116,Belfast East,2,Andy,Allen,,26,Ulster Unionist Party,,belfast-east,Male,AndyAllen88,andy@belfastuup.com
-13032,Belfast East,2,Joanne,Bunting,,20,Democratic Unionist Party,,belfast-east,Female,Joanne_Bunting,
-19687,Belfast East,2,David,Douglas,,20,Democratic Unionist Party,,belfast-east,Male,,
-13035,Belfast East,2,Andrew,Girvin,,141,Traditional Unionist Voice,,belfast-east,Male,CllrGirvin,
-13037,Belfast East,2,John,Kyle,,994,Progressive Unionist Party,,belfast-east,Male,cllrjohnkyle,
-2454,Belfast East,2,Naomi,Long,,19,Alliance Party,,belfast-east,Female,naomi_long,naomi.long@allianceparty.org
-13038,Belfast East,2,Chris,Lyttle,,19,Alliance Party,,belfast-east,Male,Chris_Lyttle,chris.lyttle@allianceparty.org
-19699,Belfast East,2,Georgina,Milne,,111,Green Party,,belfast-east,Female,Georgina_Milne,
-13040,Belfast East,2,Robin,Newton,,20,Democratic Unionist Party,,belfast-east,Male,,
-19680,Belfast East,2,Máiréad,O'Donnell,,24,Sinn Fein,,belfast-east,Female,cllrmairead,
-13041,Belfast East,2,Courtney,Robinson,,987,Cross-Community Labour Alternative,,belfast-east,Female,Coroweee,
+Constituency_Name,Constituency_Number,Candidate_Id,Firstname,Surname,Outgoing_Member,Party_Id,Party_Name,Photo_URL,Directory,Gender,Twitter,Email
+Belfast East,2,8116,Andy,Allen,,26,Ulster Unionist Party,,belfast-east,M,AndyAllen88,andy@belfastuup.com
+Belfast East,2,19719,Sheila,Bodel,,991,NI Conservatives,,belfast-east,F,,
+Belfast East,2,13032,Joanne,Bunting,,20,Democratic Unionist Party,,belfast-east,F,Joanne_Bunting,
+Belfast East,2,19687,David,Douglas,,20,Democratic Unionist Party,,belfast-east,M,,
+Belfast East,2,13035,Andrew,Girvin,,141,Traditional Unionist Voice,,belfast-east,M,CllrGirvin,
+Belfast East,2,13037,John,Kyle,,994,Progressive Unionist Party,,belfast-east,M,cllrjohnkyle,
+Belfast East,2,2454,Naomi,Long,,19,Alliance Party,,belfast-east,F,naomi_long,naomi.long@allianceparty.org
+Belfast East,2,13038,Chris,Lyttle,,19,Alliance Party,,belfast-east,M,Chris_Lyttle,chris.lyttle@allianceparty.org
+Belfast East,2,19699,Georgina,Milne,,111,Green Party,,belfast-east,F,Georgina_Milne,
+Belfast East,2,13040,Robin,Newton,,20,Democratic Unionist Party,,belfast-east,M,,
+Belfast East,2,19680,Máiréad,O'Donnell,,24,Sinn Fein,,belfast-east,F,cllrmairead,
+Belfast East,2,13041,Courtney,Robinson,,987,Cross-Community Labour Alternative,,belfast-east,F,Coroweee,

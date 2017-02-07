@@ -1,12 +1,13 @@
-Candidate_id,Constituency_Name,Constituency_Number,Firstname,Surname,Outgoing_member,Party_Id,Party_Name,Photo_URL,Directory,Gender,Twitter,Email
-8150,Upper Bann,16,Doug,Beattie,,26,Ulster Unionist Party,,upper-bann,Male,BeattieDoug,doug.beattie@mla.niassembly.gov.uk
-19683,Upper Bann,16,Johnathan,Buckley,,20,Democratic Unionist Party,,upper-bann,Male,JBuckleyDUP,
-4677,Upper Bann,16,Jo-Anne,Dobson,,26,Ulster Unionist Party,,upper-bann,Female,JoAnne_Dobson,jo-anne.dobson@mla.niassembly.gov.uk
-12443,Upper Bann,16,Roy,Ferguson,,141,Traditional Unionist Voice,,upper-bann,Male,,
-33,Upper Bann,16,Harry,Hamilton,,19,Alliance Party,,upper-bann,Male,,harry.hamilton@voteforchangeni.com
-699,Upper Bann,16,Dolores,Kelly,,23,Social Democratic and Labour Party,,upper-bann,Female,doloreskelly,d.kelly@sdlp.ie
-7435,Upper Bann,16,Martin,Kelly,,993,Cannabis Is Safer Than Alcohol,,upper-bann,Male,cistaupperbann,
-12440,Upper Bann,16,Simon,Lee,,111,Green Party,,upper-bann,Male,thesymbolic,
-12439,Upper Bann,16,Carla,Lockhart,,20,Democratic Unionist Party,,upper-bann,Female,carlalockhart,
-3752,Upper Bann,16,John,O'Dowd,,24,Sinn Fein,,upper-bann,Male,JohnODowdSF,
-19679,Upper Bann,16,Nuala,Toman,,24,Sinn Fein,,upper-bann,Female,NualaToman,
+Constituency_Name,Constituency_Number,Candidate_Id,Firstname,Surname,Outgoing_Member,Party_Id,Party_Name,Photo_URL,Directory,Gender,Twitter,Email
+Upper Bann,16,8150,Doug,Beattie,,26,Ulster Unionist Party,,upper-bann,M,BeattieDoug,doug.beattie@mla.niassembly.gov.uk
+Upper Bann,16,19683,Johnathan,Buckley,,20,Democratic Unionist Party,,upper-bann,M,JBuckleyDUP,
+Upper Bann,16,4677,Jo-Anne,Dobson,,26,Ulster Unionist Party,,upper-bann,F,JoAnne_Dobson,jo-anne.dobson@mla.niassembly.gov.uk
+Upper Bann,16,12443,Roy,Ferguson,,141,Traditional Unionist Voice,,upper-bann,M,,
+Upper Bann,16,33,Harry,Hamilton,,19,Alliance Party,,upper-bann,M,,harry.hamilton@voteforchangeni.com
+Upper Bann,16,699,Dolores,Kelly,,23,Social Democratic and Labour Party,,upper-bann,F,doloreskelly,d.kelly@sdlp.ie
+Upper Bann,16,7435,Martin,Kelly,,993,Cannabis Is Safer Than Alcohol,,upper-bann,M,cistaupperbann,
+Upper Bann,16,12440,Simon,Lee,,111,Green Party,,upper-bann,M,thesymbolic,
+Upper Bann,16,12439,Carla,Lockhart,,20,Democratic Unionist Party,,upper-bann,F,carlalockhart,
+Upper Bann,16,12436,Ian,Nickels,,991,NI Conservatives,,upper-bann,M,,
+Upper Bann,16,3752,John,O'Dowd,,24,Sinn Fein,,upper-bann,M,JohnODowdSF,
+Upper Bann,16,19679,Nuala,Toman,,24,Sinn Fein,,upper-bann,F,NualaToman,

@@ -1,12 +1,13 @@
-Candidate_id,Constituency_Name,Constituency_Number,Firstname,Surname,Outgoing_member,Party_Id,Party_Name,Photo_URL,Directory,Gender,Twitter,Email
-11537,Lagan Valley,6,Dan,Barrios-O'Neill,,111,Green Party,,lagan-valley,Male,DBarriosONeill,
-8114,Lagan Valley,6,Robbie,Butler,,26,Ulster Unionist Party,,lagan-valley,Male,t3robbie,robbie.butler@mla.niassembly.gov.uk
-7180,Lagan Valley,6,Pat,Catney,,23,Social Democratic and Labour Party,,lagan-valley,Male,PatCatney,
-19716,Lagan Valley,6,Peter,Doran,,24,Sinn Fein,,lagan-valley,Male,,
-11540,Lagan Valley,6,Paul,Givan,,20,Democratic Unionist Party,,lagan-valley,Male,paulgivan,
-11541,Lagan Valley,6,Brenda,Hale,,20,Democratic Unionist Party,,lagan-valley,Female,,
-763,Lagan Valley,6,Trevor,Lunn,,19,Alliance Party,,lagan-valley,Male,TrevorLunnLV,trevor.lunn@allianceparty.org
-297,Lagan Valley,6,Sammy,Morrison,,141,Traditional Unionist Voice,,lagan-valley,Male,SammyMorrison82,
-7410,Lagan Valley,6,Jonny,Orr,,21,Independent,,lagan-valley,Male,,
-8113,Lagan Valley,6,Jenny,Palmer,,26,Ulster Unionist Party,,lagan-valley,Female,jennyp_mla,jenny.palmer@mla.niassembly.gov.uk
-11544,Lagan Valley,6,Edwin,Poots,,20,Democratic Unionist Party,,lagan-valley,Male,,
+Constituency_Name,Constituency_Number,Candidate_Id,Firstname,Surname,Outgoing_Member,Party_Id,Party_Name,Photo_URL,Directory,Gender,Twitter,Email
+Lagan Valley,6,11537,Dan,Barrios-O'Neill,,111,Green Party,,lagan-valley,M,DBarriosONeill,
+Lagan Valley,6,8114,Robbie,Butler,,26,Ulster Unionist Party,,lagan-valley,M,t3robbie,robbie.butler@mla.niassembly.gov.uk
+Lagan Valley,6,7180,Pat,Catney,,23,Social Democratic and Labour Party,,lagan-valley,M,PatCatney,
+Lagan Valley,6,19716,Peter,Doran,,24,Sinn Fein,,lagan-valley,M,,
+Lagan Valley,6,11540,Paul,Givan,,20,Democratic Unionist Party,,lagan-valley,M,paulgivan,
+Lagan Valley,6,11541,Brenda,Hale,,20,Democratic Unionist Party,,lagan-valley,F,,
+Lagan Valley,6,763,Trevor,Lunn,,19,Alliance Party,,lagan-valley,M,TrevorLunnLV,trevor.lunn@allianceparty.org
+Lagan Valley,6,297,Sammy,Morrison,,141,Traditional Unionist Voice,,lagan-valley,M,SammyMorrison82,
+Lagan Valley,6,7410,Jonny,Orr,,21,Independent,,lagan-valley,M,,
+Lagan Valley,6,8113,Jenny,Palmer,,26,Ulster Unionist Party,,lagan-valley,F,jennyp_mla,jenny.palmer@mla.niassembly.gov.uk
+Lagan Valley,6,11544,Edwin,Poots,,20,Democratic Unionist Party,,lagan-valley,M,,
+Lagan Valley,6,19723,Matt,Robinson,,991,NI Conservatives,,lagan-valley,M,,
