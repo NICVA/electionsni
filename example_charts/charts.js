@@ -42,7 +42,7 @@ var seatGauge = {
             ]
         ],
         "min": 0,
-        "max": 90,
+        "max": 108,
         "lineWidth": 0,
         "tickPixelInterval": null,
         "tickWidth": 0,
@@ -69,10 +69,7 @@ var seatGauge = {
         "index": 0,
         "name": "Seats filled",
         "data": [
-            [
-                "90",
-                0
-            ]
+            []
         ]
     }],
     "legend": {
@@ -88,9 +85,7 @@ var seatGauge = {
 
 var partiesGauge = {
     chart: {
-        plotBackgroundColor: null,
-        plotBorderWidth: 0,
-        plotShadow: false
+        backgroundColor: 'rgba(255,255,255,0)',
     },
     title: {
         text: 'Seats won',
@@ -101,14 +96,13 @@ var partiesGauge = {
     plotOptions: {
         pie: {
             dataLabels: {
+                align: 'left',
                 enabled: true,
-                distance: -50,
                 style: {
-                    fontWeight: 'bold',
-                    color: 'white'
+                    color: 'black'
                 }
             },
-            "center": ["50%","85%"],
+            "center": ["50%", "85%"],
             "size": "140%",
             "startAngle": -90,
             "endAngle": 90,
@@ -118,17 +112,16 @@ var partiesGauge = {
         type: 'pie',
         name: 'Seats',
         innerSize: '50%',
-        data: [
-            ['PartyA', 10.38],
-            ['PartyB', 56.33],
-            ['PartyC', 24.03], {
-                name: 'Not yet declared',
-                y: 60,
-                color: 'rgba(255,255,255,0)',
-                dataLabels: {
-                    enabled: false
-                }
+        data: [{
+            name: 'Not yet declared',
+            y: 108,
+            color: 'rgba(255,255,255,0)',
+            dataLabels: {
+                enabled: false
             }
-        ]
-    }]
+        }]
+    }],
+    credits: {
+        enabled: false
+    },
 };

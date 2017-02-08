@@ -54,12 +54,12 @@
 
 </head>
 <style>
+    /*kill off Bootstrap gutter padding between columns*/
 
-/*kill off Bootstrap gutter padding between columns*/
-.no-gutter > [class*='col-'] {
-    padding-right:0;
-    padding-left:0;
-}
+    .no-gutter>[class*='col-'] {
+        padding-right: 0;
+        padding-left: 0;
+    }
 </style>
 
 <body>
@@ -101,17 +101,16 @@
             <div class="jumbotron">
               <div class="container">
                 <h1>Welcome</h1>
-                <div class="row no-gutter">
-                  <div class="col-md-6">
-                    <seat-gauge />
-                  </div>
+                <div class="row">
                   <div class="col-md-6">
                     <parties-gauge />
                   </div>
+                  <div class="col-md-6">
+                    <p class="lead">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+                    <p><router-link class="btn btn-lg btn-success" role="button" :to="{ name: 'candidates', params: { year: '2017' }}">Assembly Election 2017</router-link></p>
+                    <p><router-link :to="{ name: 'candidates', params: { year: '2016' }}">Assembly Election 2016</router-link></p>
+                  </div>
                 </div>
-                <p class="lead">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-                <p><router-link class="btn btn-lg btn-success" role="button" :to="{ name: 'candidates', params: { year: '2017' }}">Assembly Election 2017</router-link></p>
-                <p><router-link :to="{ name: 'candidates', params: { year: '2016' }}">Assembly Election 2016</router-link></p>
               </div>
             </div>
           </div>
@@ -121,7 +120,7 @@
         <highcharts :options="options" ref="highcharts"></div>
       </template>
 
-      <template id="parties-gauge">
+    <template id="parties-gauge">
           <highcharts :options="options" ref="highcharts"></div>
         </template>
 

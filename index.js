@@ -1,11 +1,33 @@
 Vue.use(VueHighcharts)
 
+var parties = [{"Party_Id":"19","Party_Name":"Alliance Party","Party_Abbreviation":"APNI","Hex_Col":"#ffe600","DClub_Id":"party:103"},{"Party_Id":"20","Party_Name":"Democratic Unionist Party","Party_Abbreviation":"DUP","Hex_Col":"#ff8000","DClub_Id":"party:70"},{"Party_Id":"111","Party_Name":"Green Party","Party_Abbreviation":"GPNI","Hex_Col":"#33ff33","DClub_Id":"party:305"},{"Party_Id":"21","Party_Name":"Independent","Party_Abbreviation":"IND","Hex_Col":"#669999","DClub_Id":"ynmp-party:2"},{"Party_Id":"24","Party_Name":"Sinn Fein","Party_Abbreviation":"SF","Hex_Col":"#009900","DClub_Id":"party:39"},{"Party_Id":"23","Party_Name":"Social Democratic and Labour Party","Party_Abbreviation":"SDLP","Hex_Col":"#cc3300","DClub_Id":"party:55"},{"Party_Id":"141","Party_Name":"Traditional Unionist Voice","Party_Abbreviation":"TUV","Hex_Col":"#0000e6","DClub_Id":"party:680"},{"Party_Id":"689","Party_Name":"UK Independence Party","Party_Abbreviation":"UKIP","Hex_Col":"#cc00cc","DClub_Id":""},{"Party_Id":"26","Party_Name":"Ulster Unionist Party","Party_Abbreviation":"UUP","Hex_Col":"#62cae7","DClub_Id":"party:83"},{"Party_Id":"999","Party_Name":"People Before Profit Alliance","Party_Abbreviation":"PBP","Hex_Col":"#ff3399","DClub_Id":"party:773"},{"Party_Id":"998","Party_Name":"Workers Party","Party_Abbreviation":"WP","Hex_Col":"#ff0000","DClub_Id":"party:127"},{"Party_Id":"994","Party_Name":"Progressive Unionist Party","Party_Abbreviation":"PUP","Hex_Col":"#1e0082","DClub_Id":"party:101"},{"Party_Id":"993","Party_Name":"Cannabis Is Safer Than Alcohol","Party_Abbreviation":"CISTA","Hex_Col":"#ff7979","DClub_Id":"party:2724"},{"Party_Id":"992","Party_Name":"Labour Alternative","Party_Abbreviation":"LABALT","Hex_Col":"#ca0000","DClub_Id":""},{"Party_Id":"991","Party_Name":"NI Conservatives","Party_Abbreviation":"CON","Hex_Col":"#362da7","DClub_Id":"party:51"},{"Party_Id":"990","Party_Name":"South Belfast Unionists","Party_Abbreviation":"SBU","Hex_Col":"#9195FF","DClub_Id":""},{"Party_Id":"989","Party_Name":"NI Labour Representation Committee","Party_Abbreviation":"LRC","Hex_Col":"#800000","DClub_Id":""},{"Party_Id":"988","Party_Name":"Northern Ireland First","Party_Abbreviation":"NIF","Hex_Col":"#B3D71D","DClub_Id":""},{"Party_Id":"987","Party_Name":"Cross-Community Labour Alternative","Party_Abbreviation":"CCLAB","Hex_Col":"#CE1D4D ","DClub_Id":"party:4037"},{"Party_Id":"986","Party_Name":"Democracy First","Party_Abbreviation":"DF","Hex_Col":"#D7761D","DClub_Id":""},{"Party_Id":"985","Party_Name":"Animal Welfare Party","Party_Abbreviation":"AWP","Hex_Col":"#CE1D99","DClub_Id":""},{"Party_Id":""}]
 var candidatesCSV = '/NI/full-candidates-list.csv';
 
 var demoClubAPI = {
     'person': 'https://candidates.democracyclub.org.uk/api/v0.9/persons/' // follow with id and '.json'
 };
 
+function calculatedPartySizes() {
+    var arr = [];
+    Papa.parse('/data/2017/NI/post-election-candidate-info.csv', {
+        header: true,
+        download: true,
+        complete: function(results) {
+            var result = _.countBy(_.map(_.filter(results.data, {
+                'Status': 'Elected'
+            }), 'Party_Id'));
+            _.forEach(result, function(key, value) {
+                arr.push({
+                    'name': value,
+                    'y': key
+                });
+            });
+        }
+    })
+    return arr
+}
+
+const partySizes = calculatedPartySizes();
 
 var elections = {
     '2017': {
@@ -129,16 +151,33 @@ Vue.component('seat-gauge', {
     data: function() {
         return {
             excluded: excludedArray,
-            elected: electedArray,
+            elected: null,
             options: seatGauge
         }
     },
     mounted: function() {
-        this.updateSeats();
+        this.updateChart()
     },
     methods: {
-        updateSeats: function() {
-            this.$refs.highcharts.chart.series[0].setData(['90', this.elected.length])
+        updateChart: function() {
+            var self = this;
+            Papa.parse('/data/2017/NI/post-election-candidate-info.csv', {
+                header: true,
+                download: true,
+                complete: function(results) {
+                    var arr = [];
+                    var result = _.countBy(_.map(_.filter(results.data, {
+                        'Status': 'Elected'
+                    }), 'Party_Id'));
+                    _.forEach(result, function(key, value) {
+                        arr.push({
+                            'name': value,
+                            'y': key
+                        });
+                    });
+                    self.$refs.highcharts.chart.series[0].setData(['Party', arr.length])
+                }
+            })
         }
     }
 })
@@ -147,17 +186,44 @@ Vue.component('parties-gauge', {
     template: '#parties-gauge',
     data: function() {
         return {
-            excluded: excludedArray,
-            elected: electedArray,
-            options: partiesGauge
+            options: partiesGauge,
+            elected_candidates: null,
+            party_sizes: null
         }
     },
     mounted: function() {
-        this.updateSeats();
+        this.updateChart();
     },
     methods: {
-        updateSeats: function() {
-            // this.$refs.highcharts.chart
+        updateChart: function() {
+            var self = this;
+            Papa.parse('/data/2017/NI/post-election-candidate-info.csv', {
+                header: true,
+                download: true,
+                complete: function(results) {
+                    var arr = [];
+                    var elected = _.filter(results.data, {
+                        'Status': 'Elected'
+                    });
+                    self.elected_candidates = elected
+                    var data = _.countBy(_.map(elected), 'Party_Id');
+                    _.forEach(data, function(value, key) {
+                        arr.push({
+                            'name': _.map(_.filter(parties, { "Party_Id": key} ), 'Party_Abbreviation')[0],
+                            'y': value,
+                            'color': _.map(_.filter(parties, { "Party_Id": key} ), 'Hex_Col')[0]
+                        });
+                    });
+                    arr = _.orderBy(arr, 'y', 'desc')
+                    arr.push({'name': 'not yet declared',
+                              'y': 108 - elected.length,
+                              'color': 'rgba(255,255,255,0)',
+                              'dataLabels': false
+                            })
+                    self.party_sizes = arr
+                    self.$refs.highcharts.chart.series[0].setData(arr)
+                }
+            })
         }
     }
 })
@@ -195,7 +261,7 @@ const router = new VueRouter({
 var app = new Vue({
     router,
     data: {
-        // election: null,
+        election: null,
         // candidates: null
     },
     created: function() {
