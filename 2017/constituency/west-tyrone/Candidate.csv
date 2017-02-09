@@ -1,14 +1,16 @@
 Constituency_Name,Constituency_Number,Candidate_Id,Firstname,Surname,Outgoing_Member,Party_Id,Party_Name,Photo_URL,Directory,Gender,Twitter,Email
-West Tyrone,18,11342,Michaela,Boyle,,24,Sinn Fein,,west-tyrone,F,MichaelaBoyleSF,
-West Tyrone,18,6920,Barry,Brown,,993,Cannabis Is Safer Than Alcohol,,west-tyrone,M,,bonesbrown@hotmail.com
-West Tyrone,18,1871,Thomas,Buchanan,,20,Democratic Unionist Party,,west-tyrone,M,,cllrthomasbuchananmla@hotmail.com
-West Tyrone,18,19689,Alicia,Clarke,,26,Ulster Unionist Party,,west-tyrone,F,,
-West Tyrone,18,6365,Stephen,Donnelly,,19,Alliance Party,,west-tyrone,M,SteveDonnelly95,stephen.donnelly@allianceparty.org
-West Tyrone,18,11347,Corey,French,,21,Independent,,west-tyrone,M,coreyfrench,coreyfrench@live.co.uk
-West Tyrone,18,11346,Roger,Lomas,,991,NI Conservatives,,west-tyrone,M,Tyrone_Tory,
-West Tyrone,18,11343,Declan,McAleer,,24,Sinn Fein,,west-tyrone,M,,
-West Tyrone,18,11337,Sorcha,McAnespy,,21,Independent,,west-tyrone,F,CllrMcAnespy,
-West Tyrone,18,5184,Ciaran,McClean,,111,Green Party,,west-tyrone,M,mccleangreen,cmc94@hotmail.com
-West Tyrone,18,5185,Daniel,McCrossan,,23,Social Democratic and Labour Party,,west-tyrone,M,McCrossanMLA,daniel.mccrossan@party.niassembly.gov.uk
-West Tyrone,18,11345,Barry,McElduff,,24,Sinn Fein,,west-tyrone,M,BarryMcElduff,barrymcelduffmla@gmail.com
-West Tyrone,18,19675,Roisin,McMackin,,21,Independent,,west-tyrone,F,RoisinMed,roisinmed@aol.com
+West Tyrone,18,11342,Michaela,Boyle,,24,Sinn Fein,,west-tyrone,female,MichaelaBoyleSF,
+West Tyrone,18,6920,Barry,Brown,,993,Cannabis Is Safer Than Alcohol,,west-tyrone,male,,bonesbrown@hotmail.com
+West Tyrone,18,1871,Thomas,Buchanan,,20,Democratic Unionist Party,,west-tyrone,male,,cllrthomasbuchananmla@hotmail.com
+West Tyrone,18,19733,Charlie,Chittick,,141,Traditional Unionist Voice,,west-tyrone,Male,,
+West Tyrone,18,19689,Alicia,Clarke,,26,Ulster Unionist Party,,west-tyrone,Female,,
+West Tyrone,18,6365,Stephen,Donnelly,,19,Alliance Party,,west-tyrone,male,SteveDonnelly95,stephen.donnelly@allianceparty.org
+West Tyrone,18,11347,Corey,French,,21,Independent,,west-tyrone,Male,coreyfrench,coreyfrench@live.co.uk
+West Tyrone,18,11346,Roger,Lomas,,991,NI Conservatives,,west-tyrone,Male,Tyrone_Tory,
+West Tyrone,18,11343,Declan,McAleer,,24,Sinn Fein,,west-tyrone,male,,
+West Tyrone,18,11337,Sorcha,McAnespy,,21,Independent,,west-tyrone,Female,CllrMcAnespy,
+West Tyrone,18,5184,Ciaran,McClean,,111,Green Party,,west-tyrone,male,mccleangreen,cmc94@hotmail.com
+West Tyrone,18,5185,Daniel,McCrossan,,23,Social Democratic and Labour Party,,west-tyrone,male,McCrossanMLA,daniel.mccrossan@party.niassembly.gov.uk
+West Tyrone,18,11345,Barry,McElduff,,24,Sinn Fein,,west-tyrone,male,BarryMcElduff,barrymcelduffmla@gmail.com
+West Tyrone,18,19675,Roisin,McMackin,,21,Independent,,west-tyrone,female,RoisinMed,roisinmed@aol.com
+West Tyrone,18,7348,Susan-Anne,White,,21,Independent,,west-tyrone,female,,francissusanwhite@btinternet.com

@@ -1,10 +1,10 @@
 Constituency_Name,Constituency_Number,Candidate_Id,Firstname,Surname,Outgoing_Member,Party_Id,Party_Name,Photo_URL,Directory,Gender,Twitter,Email
-Newry and Armagh,8,11394,Cathal,Boylan,,24,Sinn Fein,,newry-armagh,M,cathalboylansf,
-Newry and Armagh,8,19696,Jackie,Coade,,19,Alliance Party,,newry-armagh,F,,
-Newry and Armagh,8,11396,Megan,Fearon,,24,Sinn Fein,,newry-armagh,F,mfearonsf,
-Newry and Armagh,8,1872,William,Irwin,,20,Democratic Unionist Party,,newry-armagh,M,,william.irwin@armagh.gov.uk
-Newry and Armagh,8,31,Danny,Kennedy,,26,Ulster Unionist Party,,newry-armagh,M,DKennedy_UUP,danny.kennedy@voteforchangeni.com
-Newry and Armagh,8,19691,Kevin,McAteer,,999,People Before Profit Alliance,,newry-armagh,M,,
-Newry and Armagh,8,6086,Justin,McNulty,,23,Social Democratic and Labour Party,,newry-armagh,M,,
-Newry and Armagh,8,1856,Conor,Murphy,,24,Sinn Fein,,newry-armagh,M,,conor.murphy@niassembly.gov.uk
-Newry and Armagh,8,19702,Rowan,Tunnicliffe,,111,Green Party,,newry-armagh,M,RowanTNI,
+Newry and Armagh,8,11394,Cathal,Boylan,,24,Sinn Fein,,newry-armagh,male,cathalboylansf,
+Newry and Armagh,8,19696,Jackie,Coade,,19,Alliance Party,,newry-armagh,Female,,
+Newry and Armagh,8,11395,Emmet,Crossan,,993,Cannabis Is Safer Than Alcohol,,newry-armagh,male,EMMETforMLA,
+Newry and Armagh,8,11396,Megan,Fearon,,24,Sinn Fein,,newry-armagh,female,mfearonsf,
+Newry and Armagh,8,1872,William George,Irwin,,20,Democratic Unionist Party,,newry-armagh,male,,william.irwin@armagh.gov.uk
+Newry and Armagh,8,31,Danny,Kennedy,,26,Ulster Unionist Party,,newry-armagh,male,DKennedy_UUP,danny.kennedy@voteforchangeni.com
+Newry and Armagh,8,6086,Justin,McNulty,,23,Social Democratic and Labour Party,,newry-armagh,male,,
+Newry and Armagh,8,1856,Conor,Murphy,,24,Sinn Fein,,newry-armagh,male,,conor.murphy@niassembly.gov.uk
+Newry and Armagh,8,19702,Rowan,Tunnicliffe,,111,Green Party,,newry-armagh,Male,RowanTNI,

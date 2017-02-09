@@ -1,11 +1,12 @@
 Constituency_Name,Constituency_Number,Candidate_Id,Firstname,Surname,Outgoing_Member,Party_Id,Party_Name,Photo_URL,Directory,Gender,Twitter,Email
-Mid Ulster,7,11273,Keith,Buchanan,,20,Democratic Unionist Party,,mid-ulster,M,Buchanan_dup,
-Mid Ulster,7,11274,Linda,Dillon,,24,Sinn Fein,,mid-ulster,F,LindaDillon81,
-Mid Ulster,7,11290,Hannah,Loughrin,,141,Traditional Unionist Voice,,mid-ulster,F,,
-Mid Ulster,7,11291,Patsy,McGlone,,23,Social Democratic and Labour Party,,mid-ulster,M,patsymcglone,
-Mid Ulster,7,11275,Ian,Milne,,24,Sinn Fein,,mid-ulster,M,Ianmilnesf,
-Mid Ulster,7,11276,Michelle,O'Neill,,24,Sinn Fein,,mid-ulster,F,moneillsf,
-Mid Ulster,7,3870,Sandra,Overend,,26,Ulster Unionist Party,,mid-ulster,F,over2sandra,sandra.overend@voteforchangeni.com
-Mid Ulster,7,7088,Hugh,Scullion,,998,Workers Party,,mid-ulster,M,,workerspartyni@yahoo.co.uk
-Mid Ulster,7,10203,Stefan,Taylor,,111,Green Party,,mid-ulster,M,GreenPartyNI,stefan.taylor@icloud.com
-Mid Ulster,7,19693,Fay,Watson,,19,Alliance Party,,mid-ulster,F,,
+Mid Ulster,7,11273,Keith Alexander,Buchanan,,20,Democratic Unionist Party,,mid-ulster,male,Buchanan_dup,
+Mid Ulster,7,11274,Linda,Dillon,,24,Sinn Fein,,mid-ulster,female,LindaDillon81,
+Mid Ulster,7,11290,Hannah,Loughrin,,141,Traditional Unionist Voice,,mid-ulster,Female,,
+Mid Ulster,7,19727,Hugh,McCloy,,21,Independent,,mid-ulster,Male,hughmccloy,hughmccloy@googlemail.com
+Mid Ulster,7,11291,Patsy,McGlone,,23,Social Democratic and Labour Party,,mid-ulster,male,patsymcglone,
+Mid Ulster,7,11275,Ian,Milne,,24,Sinn Fein,,mid-ulster,male,Ianmilnesf,
+Mid Ulster,7,11276,Michelle,O'Neill,,24,Sinn Fein,,mid-ulster,female,moneillsf,
+Mid Ulster,7,3870,Sandra,Overend,,26,Ulster Unionist Party,,mid-ulster,female,over2sandra,sandra.overend@voteforchangeni.com
+Mid Ulster,7,7088,Hugh,Scullion,,998,Workers Party,,mid-ulster,male,,workerspartyni@yahoo.co.uk
+Mid Ulster,7,10203,Stefan,Taylor,,111,Green Party,,mid-ulster,Male,GreenPartyNI,stefan.taylor@icloud.com
+Mid Ulster,7,19693,Fay,Watson,,19,Alliance Party,,mid-ulster,Female,,

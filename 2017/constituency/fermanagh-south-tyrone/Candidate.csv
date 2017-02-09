@@ -1,13 +1,13 @@
 Constituency_Name,Constituency_Number,Candidate_Id,Firstname,Surname,Outgoing_Member,Party_Id,Party_Name,Photo_URL,Directory,Gender,Twitter,Email
-Fermanagh and South Tyrone,4,8123,Rosemary,Barton,,26,Ulster Unionist Party,,fermanagh-south-tyrone,F,RosemaryBarton1,rosemary.barton@mla.niassembly.gov.uk
-Fermanagh and South Tyrone,4,19684,Noreen,Campbell,,19,Alliance Party,,fermanagh-south-tyrone,F,noreen_campbell,
-Fermanagh and South Tyrone,4,19672,Jemma,Dolan,,24,Sinn Fein,,fermanagh-south-tyrone,F,jemma_dolan,
-Fermanagh and South Tyrone,4,19720,Richard,Dunn,,991,NI Conservatives,,fermanagh-south-tyrone,M,,
-Fermanagh and South Tyrone,4,19692,Alex,Elliot,,141,Traditional Unionist Voice,,fermanagh-south-tyrone,M,,
-Fermanagh and South Tyrone,4,11526,Arlene,Foster,,20,Democratic Unionist Party,,fermanagh-south-tyrone,F,DUPleader,
-Fermanagh and South Tyrone,4,2427,Michelle,Gildernew,,24,Sinn Fein,,fermanagh-south-tyrone,F,gildernewm,michelle.gildernew@sinn-fein.ie
-Fermanagh and South Tyrone,4,4674,Tanya,Jones,,111,Green Party,,fermanagh-south-tyrone,F,decombustion,tanya@greenlassie.com
-Fermanagh and South Tyrone,4,11528,Seán,Lynch,,24,Sinn Fein,,fermanagh-south-tyrone,M,seanlynch122,
-Fermanagh and South Tyrone,4,11529,Richie,McPhillips,,23,Social Democratic and Labour Party,,fermanagh-south-tyrone,M,Richiemcp,richiesdlperneeast@outlook.com
-Fermanagh and South Tyrone,4,11530,Maurice,Morrow,,20,Democratic Unionist Party,,fermanagh-south-tyrone,M,,
-Fermanagh and South Tyrone,4,19717,Donal,O'Cofaigh,,987,Cross-Community Labour Alternative,,fermanagh-south-tyrone,M,Donaloc,
+Fermanagh and South Tyrone,4,8123,Rosemary,Barton,,26,Ulster Unionist Party,,fermanagh-south-tyrone,female,RosemaryBarton1,rosemary.barton@mla.niassembly.gov.uk
+Fermanagh and South Tyrone,4,19684,Noreen,Campbell,,19,Alliance Party,,fermanagh-south-tyrone,Female,noreen_campbell,
+Fermanagh and South Tyrone,4,19672,Jemma,Dolan,,24,Sinn Fein,,fermanagh-south-tyrone,female,jemma_dolan,
+Fermanagh and South Tyrone,4,19720,Richard,Dunn,,991,NI Conservatives,,fermanagh-south-tyrone,Male,,
+Fermanagh and South Tyrone,4,19692,Alex,Elliot,,141,Traditional Unionist Voice,,fermanagh-south-tyrone,Male,,
+Fermanagh and South Tyrone,4,11526,Arlene,Foster,,20,Democratic Unionist Party,,fermanagh-south-tyrone,female,DUPleader,
+Fermanagh and South Tyrone,4,2427,Michelle,Gildernew,,24,Sinn Fein,,fermanagh-south-tyrone,female,gildernewm,michelle.gildernew@sinn-fein.ie
+Fermanagh and South Tyrone,4,4674,Tanya,Jones,,111,Green Party,,fermanagh-south-tyrone,female,decombustion,tanya@greenlassie.com
+Fermanagh and South Tyrone,4,11528,Seán,Lynch,,24,Sinn Fein,,fermanagh-south-tyrone,male,seanlynch122,
+Fermanagh and South Tyrone,4,11529,Richie,McPhillips,,23,Social Democratic and Labour Party,,fermanagh-south-tyrone,male,Richiemcp,richiesdlperneeast@outlook.com
+Fermanagh and South Tyrone,4,11530,Maurice,Morrow,,20,Democratic Unionist Party,,fermanagh-south-tyrone,male,,
+Fermanagh and South Tyrone,4,19717,Donal,O'Cofaigh,,987,Cross-Community Labour Alternative,,fermanagh-south-tyrone,Male,Donaloc,

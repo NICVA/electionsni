@@ -7,7 +7,7 @@
     {
         "Surname": "Beggs", 
         "Firstname": "Roy", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "roybeggs", 
         "Constituency_Name": "East Antrim", 
         "Constituency_Number": "1", 
@@ -20,9 +20,24 @@
         "Photo_URL": ""
 },
     {
+        "Surname": "Best", 
+        "Firstname": "Ricky", 
+        "Gender": "Male", 
+        "Twitter": "", 
+        "Constituency_Name": "East Antrim", 
+        "Constituency_Number": "1", 
+        "Party_Name": "Independent", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "19741", 
+        "Directory": "east-antrim", 
+        "Party_Id": "21", 
+        "Email": "", 
+        "Photo_URL": ""
+},
+    {
         "Surname": "Dickson", 
         "Firstname": "Stewart", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "stewartcdickson", 
         "Constituency_Name": "East Antrim", 
         "Constituency_Number": "1", 
@@ -37,7 +52,7 @@
     {
         "Surname": "Donnelly", 
         "Firstname": "Danny", 
-        "Gender": "M", 
+        "Gender": "Male", 
         "Twitter": "DannyDonnelly1", 
         "Constituency_Name": "East Antrim", 
         "Constituency_Number": "1", 
@@ -52,7 +67,7 @@
     {
         "Surname": "Dunlop", 
         "Firstname": "Alan", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "Alan4SAntrim", 
         "Constituency_Name": "East Antrim", 
         "Constituency_Number": "1", 
@@ -67,7 +82,7 @@
     {
         "Surname": "Hilditch", 
         "Firstname": "David", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "", 
         "Constituency_Name": "East Antrim", 
         "Constituency_Number": "1", 
@@ -80,9 +95,24 @@
         "Photo_URL": ""
 },
     {
+        "Surname": "Jordan", 
+        "Firstname": "Noel", 
+        "Gender": "male", 
+        "Twitter": "CarrickUKIP", 
+        "Constituency_Name": "East Antrim", 
+        "Constituency_Number": "1", 
+        "Party_Name": "UK Independence Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "6399", 
+        "Directory": "east-antrim", 
+        "Party_Id": "689", 
+        "Email": "noel.jordan@ukipni.co.uk", 
+        "Photo_URL": ""
+},
+    {
         "Surname": "Lyons", 
         "Firstname": "Gordon", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "gordonlyons1", 
         "Constituency_Name": "East Antrim", 
         "Constituency_Number": "1", 
@@ -97,7 +127,7 @@
     {
         "Surname": "McKillop", 
         "Firstname": "Margaret Anne", 
-        "Gender": "F", 
+        "Gender": "female", 
         "Twitter": "", 
         "Constituency_Name": "East Antrim", 
         "Constituency_Number": "1", 
@@ -112,7 +142,7 @@
     {
         "Surname": "McMullan", 
         "Firstname": "Oliver", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "OliverMcMullan", 
         "Constituency_Name": "East Antrim", 
         "Constituency_Number": "1", 
@@ -127,7 +157,7 @@
     {
         "Surname": "Patterson", 
         "Firstname": "Dawn", 
-        "Gender": "F", 
+        "Gender": "Female", 
         "Twitter": "DawnPEastAntri1", 
         "Constituency_Name": "East Antrim", 
         "Constituency_Number": "1", 
@@ -142,7 +172,7 @@
     {
         "Surname": "Ross", 
         "Firstname": "Stephen", 
-        "Gender": "M", 
+        "Gender": "Male", 
         "Twitter": "", 
         "Constituency_Name": "East Antrim", 
         "Constituency_Number": "1", 
@@ -157,7 +187,7 @@
     {
         "Surname": "Sheridan", 
         "Firstname": "Conor", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "conorjsheridan1", 
         "Constituency_Name": "East Antrim", 
         "Constituency_Number": "1", 
@@ -172,7 +202,7 @@
     {
         "Surname": "Stewart", 
         "Firstname": "John", 
-        "Gender": "M", 
+        "Gender": "Male", 
         "Twitter": "JohnStewart1983", 
         "Constituency_Name": "East Antrim", 
         "Constituency_Number": "1", 
@@ -187,7 +217,7 @@
     {
         "Surname": "Wilson", 
         "Firstname": "Ruth", 
-        "Gender": "F", 
+        "Gender": "Female", 
         "Twitter": "", 
         "Constituency_Name": "East Antrim", 
         "Constituency_Number": "1", 
@@ -207,7 +237,7 @@
     {
         "Surname": "Bradley", 
         "Firstname": "Paula", 
-        "Gender": "F", 
+        "Gender": "female", 
         "Twitter": "", 
         "Constituency_Name": "Belfast North", 
         "Constituency_Number": "10", 
@@ -222,7 +252,7 @@
     {
         "Surname": "Corr-Johnston", 
         "Firstname": "Julie-Anne", 
-        "Gender": "F", 
+        "Gender": "female", 
         "Twitter": "JulieACorr", 
         "Constituency_Name": "Belfast North", 
         "Constituency_Number": "10", 
@@ -237,7 +267,7 @@
     {
         "Surname": "Ferguson", 
         "Firstname": "Fiona", 
-        "Gender": "F", 
+        "Gender": "Female", 
         "Twitter": "fiona_ferg", 
         "Constituency_Name": "Belfast North", 
         "Constituency_Number": "10", 
@@ -252,7 +282,7 @@
     {
         "Surname": "Foster", 
         "Firstname": "Robert", 
-        "Gender": "M", 
+        "Gender": "Male", 
         "Twitter": "", 
         "Constituency_Name": "Belfast North", 
         "Constituency_Number": "10", 
@@ -267,7 +297,7 @@
     {
         "Surname": "Humphrey", 
         "Firstname": "William", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "", 
         "Constituency_Name": "Belfast North", 
         "Constituency_Number": "10", 
@@ -282,7 +312,7 @@
     {
         "Surname": "Kelly", 
         "Firstname": "Gerry", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "GerryKellyMLA", 
         "Constituency_Name": "Belfast North", 
         "Constituency_Number": "10", 
@@ -297,7 +327,7 @@
     {
         "Surname": "Mallon", 
         "Firstname": "Nichola", 
-        "Gender": "F", 
+        "Gender": "female", 
         "Twitter": "NicholaMallon", 
         "Constituency_Name": "Belfast North", 
         "Constituency_Number": "10", 
@@ -312,7 +342,7 @@
     {
         "Surname": "McAllister", 
         "Firstname": "Nuala", 
-        "Gender": "F", 
+        "Gender": "female", 
         "Twitter": "NualaMcAllister", 
         "Constituency_Name": "Belfast North", 
         "Constituency_Number": "10", 
@@ -327,7 +357,7 @@
     {
         "Surname": "McCausland", 
         "Firstname": "Nelson", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "", 
         "Constituency_Name": "Belfast North", 
         "Constituency_Number": "10", 
@@ -342,7 +372,7 @@
     {
         "Surname": "Millar", 
         "Firstname": "Adam", 
-        "Gender": "M", 
+        "Gender": "Male", 
         "Twitter": "AdamMillar", 
         "Constituency_Name": "Belfast North", 
         "Constituency_Number": "10", 
@@ -355,9 +385,9 @@
         "Photo_URL": ""
 },
     {
-        "Surname": "N\u00edChuil\u00edn", 
+        "Surname": "N\u00ed Chuil\u00edn", 
         "Firstname": "Car\u00e1l", 
-        "Gender": "F", 
+        "Gender": "female", 
         "Twitter": "CaralNiChuilin", 
         "Constituency_Name": "Belfast North", 
         "Constituency_Number": "10", 
@@ -372,7 +402,7 @@
     {
         "Surname": "O'Hara", 
         "Firstname": "Malachai", 
-        "Gender": "M", 
+        "Gender": "Male", 
         "Twitter": "gaygael", 
         "Constituency_Name": "Belfast North", 
         "Constituency_Number": "10", 
@@ -387,7 +417,7 @@
     {
         "Surname": "Weir", 
         "Firstname": "Gemma", 
-        "Gender": "F", 
+        "Gender": "female", 
         "Twitter": "gemmacweir1", 
         "Constituency_Name": "Belfast North", 
         "Constituency_Number": "10", 
@@ -407,7 +437,7 @@
     {
         "Surname": "Agnew", 
         "Firstname": "Steven", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "StevenAgnew", 
         "Constituency_Name": "North Down", 
         "Constituency_Number": "11", 
@@ -420,9 +450,24 @@
         "Photo_URL": ""
 },
     {
+        "Surname": "Carter", 
+        "Firstname": "Chris", 
+        "Gender": "Male", 
+        "Twitter": "", 
+        "Constituency_Name": "North Down", 
+        "Constituency_Number": "11", 
+        "Party_Name": "Independent", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "19748", 
+        "Directory": "north-down", 
+        "Party_Id": "21", 
+        "Email": "", 
+        "Photo_URL": ""
+},
+    {
         "Surname": "Chambers", 
         "Firstname": "Alan", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "alcham49", 
         "Constituency_Name": "North Down", 
         "Constituency_Number": "11", 
@@ -437,22 +482,22 @@
     {
         "Surname": "Cudworth", 
         "Firstname": "William", 
-        "Gender": "M", 
-        "Twitter": "", 
+        "Gender": "male", 
+        "Twitter": "cudworth12", 
         "Constituency_Name": "North Down", 
         "Constituency_Number": "11", 
         "Party_Name": "Ulster Unionist Party", 
         "Outgoing_Member": "", 
-        "Candidate_Id": "19710", 
+        "Candidate_Id": "6914", 
         "Directory": "north-down", 
         "Party_Id": "26", 
-        "Email": "", 
+        "Email": "will_cud@hotmail.com", 
         "Photo_URL": ""
 },
     {
         "Surname": "Dunne", 
-        "Firstname": "Gordon", 
-        "Gender": "M", 
+        "Firstname": "Gordon Mervyn", 
+        "Gender": "male", 
         "Twitter": "", 
         "Constituency_Name": "North Down", 
         "Constituency_Number": "11", 
@@ -467,7 +512,7 @@
     {
         "Surname": "Easton", 
         "Firstname": "Alex", 
-        "Gender": "M", 
+        "Gender": "Male", 
         "Twitter": "", 
         "Constituency_Name": "North Down", 
         "Constituency_Number": "11", 
@@ -482,7 +527,7 @@
     {
         "Surname": "Farry", 
         "Firstname": "Stephen", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "StephenFarryMLA", 
         "Constituency_Name": "North Down", 
         "Constituency_Number": "11", 
@@ -497,7 +542,7 @@
     {
         "Surname": "Kennedy", 
         "Firstname": "Melanie", 
-        "Gender": "F", 
+        "Gender": "Female", 
         "Twitter": "", 
         "Constituency_Name": "North Down", 
         "Constituency_Number": "11", 
@@ -510,24 +555,9 @@
         "Photo_URL": ""
 },
     {
-        "Surname": "Logan", 
-        "Firstname": "Liam", 
-        "Gender": "M", 
-        "Twitter": "", 
-        "Constituency_Name": "North Down", 
-        "Constituency_Number": "11", 
-        "Party_Name": "Social Democratic and Labour Party", 
-        "Outgoing_Member": "", 
-        "Candidate_Id": "19708", 
-        "Directory": "north-down", 
-        "Party_Id": "23", 
-        "Email": "", 
-        "Photo_URL": ""
-},
-    {
         "Surname": "Maxwell", 
         "Firstname": "Kieran", 
-        "Gender": "M", 
+        "Gender": "Male", 
         "Twitter": "KieranMaxwell", 
         "Constituency_Name": "North Down", 
         "Constituency_Number": "11", 
@@ -542,7 +572,7 @@
     {
         "Surname": "McNeill", 
         "Firstname": "Caoimhe", 
-        "Gender": "F", 
+        "Gender": "Female", 
         "Twitter": "caoimhemcneill", 
         "Constituency_Name": "North Down", 
         "Constituency_Number": "11", 
@@ -555,9 +585,24 @@
         "Photo_URL": ""
 },
     {
+        "Surname": "Reynolds", 
+        "Firstname": "Gavan Aloysius", 
+        "Gender": "Male", 
+        "Twitter": "", 
+        "Constituency_Name": "North Down", 
+        "Constituency_Number": "11", 
+        "Party_Name": "Independent", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "19749", 
+        "Directory": "north-down", 
+        "Party_Id": "21", 
+        "Email": "", 
+        "Photo_URL": ""
+},
+    {
         "Surname": "Shivers", 
         "Firstname": "Frank", 
-        "Gender": "M", 
+        "Gender": "Male", 
         "Twitter": "Frankshivers", 
         "Constituency_Name": "North Down", 
         "Constituency_Number": "11", 
@@ -577,7 +622,7 @@
     {
         "Surname": "Aiken", 
         "Firstname": "Steve", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "SteveAikenUUP", 
         "Constituency_Name": "South Antrim", 
         "Constituency_Number": "12", 
@@ -592,7 +637,7 @@
     {
         "Surname": "Antova", 
         "Firstname": "Ivanka", 
-        "Gender": "F", 
+        "Gender": "female", 
         "Twitter": "", 
         "Constituency_Name": "South Antrim", 
         "Constituency_Number": "12", 
@@ -607,7 +652,7 @@
     {
         "Surname": "Bailey", 
         "Firstname": "Eleanor", 
-        "Gender": "F", 
+        "Gender": "Female", 
         "Twitter": "", 
         "Constituency_Name": "South Antrim", 
         "Constituency_Number": "12", 
@@ -621,8 +666,8 @@
 },
     {
         "Surname": "Cairns", 
-        "Firstname": "Richard", 
-        "Gender": "M", 
+        "Firstname": "Richard William", 
+        "Gender": "male", 
         "Twitter": "rickwcairns", 
         "Constituency_Name": "South Antrim", 
         "Constituency_Number": "12", 
@@ -637,7 +682,7 @@
     {
         "Surname": "Cameron", 
         "Firstname": "Pam", 
-        "Gender": "F", 
+        "Gender": "female", 
         "Twitter": "PamCameronMLA", 
         "Constituency_Name": "South Antrim", 
         "Constituency_Number": "12", 
@@ -652,7 +697,7 @@
     {
         "Surname": "Clarke", 
         "Firstname": "Trevor", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "", 
         "Constituency_Name": "South Antrim", 
         "Constituency_Number": "12", 
@@ -666,8 +711,8 @@
 },
     {
         "Surname": "Cochrane-Watson", 
-        "Firstname": "Adrian", 
-        "Gender": "M", 
+        "Firstname": "Adrian David", 
+        "Gender": "male", 
         "Twitter": "", 
         "Constituency_Name": "South Antrim", 
         "Constituency_Number": "12", 
@@ -681,8 +726,8 @@
 },
     {
         "Surname": "Ford", 
-        "Firstname": "David", 
-        "Gender": "M", 
+        "Firstname": "David RJ", 
+        "Gender": "male", 
         "Twitter": "DavidFordMLA", 
         "Constituency_Name": "South Antrim", 
         "Constituency_Number": "12", 
@@ -697,7 +742,7 @@
     {
         "Surname": "Girvan", 
         "Firstname": "Paul", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "", 
         "Constituency_Name": "South Antrim", 
         "Constituency_Number": "12", 
@@ -712,7 +757,7 @@
     {
         "Surname": "Kearney", 
         "Firstname": "Declan", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "DeclanKearneySF", 
         "Constituency_Name": "South Antrim", 
         "Constituency_Number": "12", 
@@ -727,7 +772,7 @@
     {
         "Surname": "Logan", 
         "Firstname": "Mark", 
-        "Gender": "M", 
+        "Gender": "Male", 
         "Twitter": "", 
         "Constituency_Name": "South Antrim", 
         "Constituency_Number": "12", 
@@ -742,7 +787,7 @@
     {
         "Surname": "Lynch", 
         "Firstname": "Roisin", 
-        "Gender": "F", 
+        "Gender": "female", 
         "Twitter": "roisinlynchsdlp", 
         "Constituency_Name": "South Antrim", 
         "Constituency_Number": "12", 
@@ -757,7 +802,7 @@
     {
         "Surname": "McMaster", 
         "Firstname": "David", 
-        "Gender": "M", 
+        "Gender": "Male", 
         "Twitter": "", 
         "Constituency_Name": "South Antrim", 
         "Constituency_Number": "12", 
@@ -775,9 +820,24 @@
     "Constituency_Number": "13",
     "Candidates": [
     {
+        "Surname": "Andrew Hiddleston", 
+        "Firstname": "John", 
+        "Gender": "Male", 
+        "Twitter": "", 
+        "Constituency_Name": "Belfast South", 
+        "Constituency_Number": "13", 
+        "Party_Name": "Traditional Unionist Voice", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "11457", 
+        "Directory": "belfast-south", 
+        "Party_Id": "141", 
+        "Email": "", 
+        "Photo_URL": ""
+},
+    {
         "Surname": "Bailey", 
         "Firstname": "Clare", 
-        "Gender": "F", 
+        "Gender": "female", 
         "Twitter": "ClareBaileyGPNI", 
         "Constituency_Name": "Belfast South", 
         "Constituency_Number": "13", 
@@ -792,7 +852,7 @@
     {
         "Surname": "Bradshaw", 
         "Firstname": "Paula", 
-        "Gender": "F", 
+        "Gender": "female", 
         "Twitter": "PaulaJaneB", 
         "Constituency_Name": "Belfast South", 
         "Constituency_Number": "13", 
@@ -807,7 +867,7 @@
     {
         "Surname": "Burns", 
         "Firstname": "Sean", 
-        "Gender": "M", 
+        "Gender": "Male", 
         "Twitter": "", 
         "Constituency_Name": "Belfast South", 
         "Constituency_Number": "13", 
@@ -822,7 +882,7 @@
     {
         "Surname": "Gallagher", 
         "Firstname": "Naomh", 
-        "Gender": "F", 
+        "Gender": "female", 
         "Twitter": "naomhgallagher", 
         "Constituency_Name": "Belfast South", 
         "Constituency_Number": "13", 
@@ -837,7 +897,7 @@
     {
         "Surname": "Hanna", 
         "Firstname": "Claire", 
-        "Gender": "F", 
+        "Gender": "female", 
         "Twitter": "ClaireHanna", 
         "Constituency_Name": "Belfast South", 
         "Constituency_Number": "13", 
@@ -852,7 +912,7 @@
     {
         "Surname": "Henderson", 
         "Firstname": "Micheal", 
-        "Gender": "M", 
+        "Gender": "Male", 
         "Twitter": "", 
         "Constituency_Name": "Belfast South", 
         "Constituency_Number": "13", 
@@ -865,24 +925,9 @@
         "Photo_URL": ""
 },
     {
-        "Surname": "Hiddleston", 
-        "Firstname": "John", 
-        "Gender": "M", 
-        "Twitter": "", 
-        "Constituency_Name": "Belfast South", 
-        "Constituency_Number": "13", 
-        "Party_Name": "Traditional Unionist Voice", 
-        "Outgoing_Member": "", 
-        "Candidate_Id": "11457", 
-        "Directory": "belfast-south", 
-        "Party_Id": "141", 
-        "Email": "", 
-        "Photo_URL": ""
-},
-    {
         "Surname": "Jabbour", 
         "Firstname": "George", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "JGJabbour", 
         "Constituency_Name": "Belfast South", 
         "Constituency_Number": "13", 
@@ -897,7 +942,7 @@
     {
         "Surname": "Kerr", 
         "Firstname": "Lily", 
-        "Gender": "F", 
+        "Gender": "female", 
         "Twitter": "", 
         "Constituency_Name": "Belfast South", 
         "Constituency_Number": "13", 
@@ -912,7 +957,7 @@
     {
         "Surname": "Little Pengelly", 
         "Firstname": "Emma", 
-        "Gender": "F", 
+        "Gender": "female", 
         "Twitter": "little_pengelly", 
         "Constituency_Name": "Belfast South", 
         "Constituency_Number": "13", 
@@ -927,7 +972,7 @@
     {
         "Surname": "McDonough-Brown", 
         "Firstname": "Emmet", 
-        "Gender": "M", 
+        "Gender": "Male", 
         "Twitter": "EmmetMcDB", 
         "Constituency_Name": "Belfast South", 
         "Constituency_Number": "13", 
@@ -942,7 +987,7 @@
     {
         "Surname": "Mervyn", 
         "Firstname": "P\u00e1draig\u00edn", 
-        "Gender": "F", 
+        "Gender": "Female", 
         "Twitter": "", 
         "Constituency_Name": "Belfast South", 
         "Constituency_Number": "13", 
@@ -956,8 +1001,8 @@
 },
     {
         "Surname": "Stalford", 
-        "Firstname": "Christopher", 
-        "Gender": "M", 
+        "Firstname": "Christopher David Matthew", 
+        "Gender": "male", 
         "Twitter": "CStalfordMLA", 
         "Constituency_Name": "Belfast South", 
         "Constituency_Number": "13", 
@@ -972,7 +1017,7 @@
     {
         "Surname": "\u00d3 Muilleoir", 
         "Firstname": "M\u00e1irt\u00edn", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "newbelfast", 
         "Constituency_Name": "Belfast South", 
         "Constituency_Number": "13", 
@@ -992,7 +1037,7 @@
     {
         "Surname": "Bradley", 
         "Firstname": "Sinead", 
-        "Gender": "F", 
+        "Gender": "Female", 
         "Twitter": "SineadBradleySD", 
         "Constituency_Name": "South Down", 
         "Constituency_Number": "14", 
@@ -1007,7 +1052,7 @@
     {
         "Surname": "Brown", 
         "Firstname": "Patrick", 
-        "Gender": "M", 
+        "Gender": "Male", 
         "Twitter": "Paddy_JBrown", 
         "Constituency_Name": "South Down", 
         "Constituency_Number": "14", 
@@ -1020,9 +1065,24 @@
         "Photo_URL": ""
 },
     {
+        "Surname": "Clarke", 
+        "Firstname": "Patrick PC", 
+        "Gender": "Male", 
+        "Twitter": "PatrickClarke74", 
+        "Constituency_Name": "South Down", 
+        "Constituency_Number": "14", 
+        "Party_Name": "Independent", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "19728", 
+        "Directory": "south-down", 
+        "Party_Id": "21", 
+        "Email": "", 
+        "Photo_URL": ""
+},
+    {
         "Surname": "Ennis", 
-        "Firstname": "Sinead", 
-        "Gender": "F", 
+        "Firstname": "Sin\u00e9ad", 
+        "Gender": "Female", 
         "Twitter": "", 
         "Constituency_Name": "South Down", 
         "Constituency_Number": "14", 
@@ -1037,7 +1097,7 @@
     {
         "Surname": "George", 
         "Firstname": "Hannah", 
-        "Gender": "F", 
+        "Gender": "Female", 
         "Twitter": "", 
         "Constituency_Name": "South Down", 
         "Constituency_Number": "14", 
@@ -1052,7 +1112,7 @@
     {
         "Surname": "Hazzard", 
         "Firstname": "Chris", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "ChrisHazzardSF", 
         "Constituency_Name": "South Down", 
         "Constituency_Number": "14", 
@@ -1067,7 +1127,7 @@
     {
         "Surname": "Hynds", 
         "Firstname": "Gary", 
-        "Gender": "M", 
+        "Gender": "Male", 
         "Twitter": "", 
         "Constituency_Name": "South Down", 
         "Constituency_Number": "14", 
@@ -1082,7 +1142,7 @@
     {
         "Surname": "McGrath", 
         "Firstname": "Colin", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "ColinSDLP", 
         "Constituency_Name": "South Down", 
         "Constituency_Number": "14", 
@@ -1097,7 +1157,7 @@
     {
         "Surname": "McKee", 
         "Firstname": "Harold", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "mckeeuup", 
         "Constituency_Name": "South Down", 
         "Constituency_Number": "14", 
@@ -1112,7 +1172,7 @@
     {
         "Surname": "Rea", 
         "Firstname": "Lyle", 
-        "Gender": "M", 
+        "Gender": "Male", 
         "Twitter": "", 
         "Constituency_Name": "South Down", 
         "Constituency_Number": "14", 
@@ -1127,7 +1187,7 @@
     {
         "Surname": "Wells", 
         "Firstname": "Jim", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "Jim_Wells_MLA", 
         "Constituency_Name": "South Down", 
         "Constituency_Number": "14", 
@@ -1147,7 +1207,7 @@
     {
         "Surname": "Armstrong", 
         "Firstname": "Kellie", 
-        "Gender": "F", 
+        "Gender": "female", 
         "Twitter": "Kelmba", 
         "Constituency_Name": "Strangford", 
         "Constituency_Number": "15", 
@@ -1162,7 +1222,7 @@
     {
         "Surname": "Bamford", 
         "Firstname": "Ricky", 
-        "Gender": "M", 
+        "Gender": "Male", 
         "Twitter": "", 
         "Constituency_Name": "Strangford", 
         "Constituency_Number": "15", 
@@ -1177,7 +1237,7 @@
     {
         "Surname": "Bell", 
         "Firstname": "Jonathan", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "jonathanfbell", 
         "Constituency_Name": "Strangford", 
         "Constituency_Number": "15", 
@@ -1186,13 +1246,13 @@
         "Candidate_Id": "6251", 
         "Directory": "strangford", 
         "Party_Id": "21", 
-        "Email": "", 
+        "Email": "jonathan.bell@mla.niassembly.gov.uk", 
         "Photo_URL": ""
 },
     {
         "Surname": "Benton", 
         "Firstname": "Scott", 
-        "Gender": "M", 
+        "Gender": "Male", 
         "Twitter": "", 
         "Constituency_Name": "Strangford", 
         "Constituency_Number": "15", 
@@ -1207,7 +1267,7 @@
     {
         "Surname": "Boyle", 
         "Firstname": "Joe", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "", 
         "Constituency_Name": "Strangford", 
         "Constituency_Number": "15", 
@@ -1222,7 +1282,7 @@
     {
         "Surname": "Cooper", 
         "Firstname": "Stephen", 
-        "Gender": "M", 
+        "Gender": "Male", 
         "Twitter": "S_J_Cooper", 
         "Constituency_Name": "Strangford", 
         "Constituency_Number": "15", 
@@ -1237,7 +1297,7 @@
     {
         "Surname": "Hamilton", 
         "Firstname": "Simon", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "SimonHamilton", 
         "Constituency_Name": "Strangford", 
         "Constituency_Number": "15", 
@@ -1252,7 +1312,7 @@
     {
         "Surname": "Kennedy", 
         "Firstname": "Dermot", 
-        "Gender": "M", 
+        "Gender": "Male", 
         "Twitter": "", 
         "Constituency_Name": "Strangford", 
         "Constituency_Number": "15", 
@@ -1267,7 +1327,7 @@
     {
         "Surname": "McIlveen", 
         "Firstname": "Michelle", 
-        "Gender": "F", 
+        "Gender": "female", 
         "Twitter": "MMcIlveenDUP", 
         "Constituency_Name": "Strangford", 
         "Constituency_Number": "15", 
@@ -1280,9 +1340,24 @@
         "Photo_URL": ""
 },
     {
+        "Surname": "Menagh", 
+        "Firstname": "Jimmy", 
+        "Gender": "Male", 
+        "Twitter": "", 
+        "Constituency_Name": "Strangford", 
+        "Constituency_Number": "15", 
+        "Party_Name": "Independent", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "12094", 
+        "Directory": "strangford", 
+        "Party_Id": "21", 
+        "Email": "", 
+        "Photo_URL": ""
+},
+    {
         "Surname": "Nesbitt", 
         "Firstname": "Mike", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "mikenesbittni", 
         "Constituency_Name": "Strangford", 
         "Constituency_Number": "15", 
@@ -1297,7 +1372,7 @@
     {
         "Surname": "Smith", 
         "Firstname": "Philip", 
-        "Gender": "M", 
+        "Gender": "Male", 
         "Twitter": "1PhilipSmith", 
         "Constituency_Name": "Strangford", 
         "Constituency_Number": "15", 
@@ -1312,7 +1387,7 @@
     {
         "Surname": "Weir", 
         "Firstname": "Peter", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "peterweirmla", 
         "Constituency_Name": "Strangford", 
         "Constituency_Number": "15", 
@@ -1332,7 +1407,7 @@
     {
         "Surname": "Beattie", 
         "Firstname": "Doug", 
-        "Gender": "M", 
+        "Gender": "Male", 
         "Twitter": "BeattieDoug", 
         "Constituency_Name": "Upper Bann", 
         "Constituency_Number": "16", 
@@ -1347,7 +1422,7 @@
     {
         "Surname": "Buckley", 
         "Firstname": "Johnathan", 
-        "Gender": "M", 
+        "Gender": "Male", 
         "Twitter": "JBuckleyDUP", 
         "Constituency_Name": "Upper Bann", 
         "Constituency_Number": "16", 
@@ -1360,9 +1435,24 @@
         "Photo_URL": ""
 },
     {
+        "Surname": "Craig", 
+        "Firstname": "Colin", 
+        "Gender": "Male", 
+        "Twitter": "", 
+        "Constituency_Name": "Upper Bann", 
+        "Constituency_Number": "16", 
+        "Party_Name": "Workers Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "19743", 
+        "Directory": "upper-bann", 
+        "Party_Id": "998", 
+        "Email": "", 
+        "Photo_URL": ""
+},
+    {
         "Surname": "Dobson", 
         "Firstname": "Jo-Anne", 
-        "Gender": "F", 
+        "Gender": "female", 
         "Twitter": "JoAnne_Dobson", 
         "Constituency_Name": "Upper Bann", 
         "Constituency_Number": "16", 
@@ -1375,9 +1465,24 @@
         "Photo_URL": ""
 },
     {
+        "Surname": "Doyle", 
+        "Firstname": "Tara", 
+        "Gender": "Female", 
+        "Twitter": "", 
+        "Constituency_Name": "Upper Bann", 
+        "Constituency_Number": "16", 
+        "Party_Name": "Alliance Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "19744", 
+        "Directory": "upper-bann", 
+        "Party_Id": "19", 
+        "Email": "", 
+        "Photo_URL": ""
+},
+    {
         "Surname": "Ferguson", 
         "Firstname": "Roy", 
-        "Gender": "M", 
+        "Gender": "Male", 
         "Twitter": "", 
         "Constituency_Name": "Upper Bann", 
         "Constituency_Number": "16", 
@@ -1390,24 +1495,9 @@
         "Photo_URL": ""
 },
     {
-        "Surname": "Hamilton", 
-        "Firstname": "Harry", 
-        "Gender": "M", 
-        "Twitter": "", 
-        "Constituency_Name": "Upper Bann", 
-        "Constituency_Number": "16", 
-        "Party_Name": "Alliance Party", 
-        "Outgoing_Member": "", 
-        "Candidate_Id": "33", 
-        "Directory": "upper-bann", 
-        "Party_Id": "19", 
-        "Email": "harry.hamilton@voteforchangeni.com", 
-        "Photo_URL": ""
-},
-    {
         "Surname": "Kelly", 
         "Firstname": "Dolores", 
-        "Gender": "F", 
+        "Gender": "female", 
         "Twitter": "doloreskelly", 
         "Constituency_Name": "Upper Bann", 
         "Constituency_Number": "16", 
@@ -1420,24 +1510,9 @@
         "Photo_URL": ""
 },
     {
-        "Surname": "Kelly", 
-        "Firstname": "Martin", 
-        "Gender": "M", 
-        "Twitter": "cistaupperbann", 
-        "Constituency_Name": "Upper Bann", 
-        "Constituency_Number": "16", 
-        "Party_Name": "Cannabis Is Safer Than Alcohol", 
-        "Outgoing_Member": "", 
-        "Candidate_Id": "7435", 
-        "Directory": "upper-bann", 
-        "Party_Id": "993", 
-        "Email": "", 
-        "Photo_URL": ""
-},
-    {
         "Surname": "Lee", 
         "Firstname": "Simon", 
-        "Gender": "M", 
+        "Gender": "Male", 
         "Twitter": "thesymbolic", 
         "Constituency_Name": "Upper Bann", 
         "Constituency_Number": "16", 
@@ -1452,7 +1527,7 @@
     {
         "Surname": "Lockhart", 
         "Firstname": "Carla", 
-        "Gender": "F", 
+        "Gender": "female", 
         "Twitter": "carlalockhart", 
         "Constituency_Name": "Upper Bann", 
         "Constituency_Number": "16", 
@@ -1467,7 +1542,7 @@
     {
         "Surname": "Nickels", 
         "Firstname": "Ian", 
-        "Gender": "M", 
+        "Gender": "Male", 
         "Twitter": "", 
         "Constituency_Name": "Upper Bann", 
         "Constituency_Number": "16", 
@@ -1482,7 +1557,7 @@
     {
         "Surname": "O'Dowd", 
         "Firstname": "John", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "JohnODowdSF", 
         "Constituency_Name": "Upper Bann", 
         "Constituency_Number": "16", 
@@ -1497,7 +1572,7 @@
     {
         "Surname": "Toman", 
         "Firstname": "Nuala", 
-        "Gender": "F", 
+        "Gender": "female", 
         "Twitter": "NualaToman", 
         "Constituency_Name": "Upper Bann", 
         "Constituency_Number": "16", 
@@ -1517,7 +1592,7 @@
     {
         "Surname": "Attwood", 
         "Firstname": "Alex", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "AlexAttwoodMLA", 
         "Constituency_Name": "Belfast West", 
         "Constituency_Number": "17", 
@@ -1532,7 +1607,7 @@
     {
         "Surname": "Campbell", 
         "Firstname": "Conor", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "", 
         "Constituency_Name": "Belfast West", 
         "Constituency_Number": "17", 
@@ -1547,7 +1622,7 @@
     {
         "Surname": "Carroll", 
         "Firstname": "Gerry", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "GerryCarrollPBP", 
         "Constituency_Name": "Belfast West", 
         "Constituency_Number": "17", 
@@ -1562,7 +1637,7 @@
     {
         "Surname": "Collins", 
         "Firstname": "Michael", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "", 
         "Constituency_Name": "Belfast West", 
         "Constituency_Number": "17", 
@@ -1577,7 +1652,7 @@
     {
         "Surname": "Eastwood", 
         "Firstname": "Sorcha", 
-        "Gender": "F", 
+        "Gender": "Female", 
         "Twitter": "SorchaEastwood", 
         "Constituency_Name": "Belfast West", 
         "Constituency_Number": "17", 
@@ -1591,8 +1666,8 @@
 },
     {
         "Surname": "Flynn", 
-        "Firstname": "Orlaithi", 
-        "Gender": "F", 
+        "Firstname": "\u00d3rlaith\u00ed", 
+        "Gender": "female", 
         "Twitter": "orlaithiflynnsf", 
         "Constituency_Name": "Belfast West", 
         "Constituency_Number": "17", 
@@ -1607,7 +1682,7 @@
     {
         "Surname": "Maskey", 
         "Firstname": "Alex", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "AlexMaskeyMLA", 
         "Constituency_Name": "Belfast West", 
         "Constituency_Number": "17", 
@@ -1622,7 +1697,7 @@
     {
         "Surname": "McCann", 
         "Firstname": "Fra", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "FramccannMLA", 
         "Constituency_Name": "Belfast West", 
         "Constituency_Number": "17", 
@@ -1637,7 +1712,7 @@
     {
         "Surname": "McCoubrey", 
         "Firstname": "Frank", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "", 
         "Constituency_Name": "Belfast West", 
         "Constituency_Number": "17", 
@@ -1652,7 +1727,7 @@
     {
         "Surname": "Murray", 
         "Firstname": "Ellen", 
-        "Gender": "F", 
+        "Gender": "Female", 
         "Twitter": "ellenfromnowon", 
         "Constituency_Name": "Belfast West", 
         "Constituency_Number": "17", 
@@ -1667,7 +1742,7 @@
     {
         "Surname": "Rodgers", 
         "Firstname": "Fred", 
-        "Gender": "M", 
+        "Gender": "Male", 
         "Twitter": "Fredjrodgers", 
         "Constituency_Name": "Belfast West", 
         "Constituency_Number": "17", 
@@ -1682,7 +1757,7 @@
     {
         "Surname": "Sheehan", 
         "Firstname": "Pat", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "PatSheehanMLA", 
         "Constituency_Name": "Belfast West", 
         "Constituency_Number": "17", 
@@ -1702,7 +1777,7 @@
     {
         "Surname": "Boyle", 
         "Firstname": "Michaela", 
-        "Gender": "F", 
+        "Gender": "female", 
         "Twitter": "MichaelaBoyleSF", 
         "Constituency_Name": "West Tyrone", 
         "Constituency_Number": "18", 
@@ -1717,7 +1792,7 @@
     {
         "Surname": "Brown", 
         "Firstname": "Barry", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "", 
         "Constituency_Name": "West Tyrone", 
         "Constituency_Number": "18", 
@@ -1732,7 +1807,7 @@
     {
         "Surname": "Buchanan", 
         "Firstname": "Thomas", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "", 
         "Constituency_Name": "West Tyrone", 
         "Constituency_Number": "18", 
@@ -1745,9 +1820,24 @@
         "Photo_URL": ""
 },
     {
+        "Surname": "Chittick", 
+        "Firstname": "Charlie", 
+        "Gender": "Male", 
+        "Twitter": "", 
+        "Constituency_Name": "West Tyrone", 
+        "Constituency_Number": "18", 
+        "Party_Name": "Traditional Unionist Voice", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "19733", 
+        "Directory": "west-tyrone", 
+        "Party_Id": "141", 
+        "Email": "", 
+        "Photo_URL": ""
+},
+    {
         "Surname": "Clarke", 
         "Firstname": "Alicia", 
-        "Gender": "F", 
+        "Gender": "Female", 
         "Twitter": "", 
         "Constituency_Name": "West Tyrone", 
         "Constituency_Number": "18", 
@@ -1762,7 +1852,7 @@
     {
         "Surname": "Donnelly", 
         "Firstname": "Stephen", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "SteveDonnelly95", 
         "Constituency_Name": "West Tyrone", 
         "Constituency_Number": "18", 
@@ -1777,7 +1867,7 @@
     {
         "Surname": "French", 
         "Firstname": "Corey", 
-        "Gender": "M", 
+        "Gender": "Male", 
         "Twitter": "coreyfrench", 
         "Constituency_Name": "West Tyrone", 
         "Constituency_Number": "18", 
@@ -1792,7 +1882,7 @@
     {
         "Surname": "Lomas", 
         "Firstname": "Roger", 
-        "Gender": "M", 
+        "Gender": "Male", 
         "Twitter": "Tyrone_Tory", 
         "Constituency_Name": "West Tyrone", 
         "Constituency_Number": "18", 
@@ -1807,7 +1897,7 @@
     {
         "Surname": "McAleer", 
         "Firstname": "Declan", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "", 
         "Constituency_Name": "West Tyrone", 
         "Constituency_Number": "18", 
@@ -1822,7 +1912,7 @@
     {
         "Surname": "McAnespy", 
         "Firstname": "Sorcha", 
-        "Gender": "F", 
+        "Gender": "Female", 
         "Twitter": "CllrMcAnespy", 
         "Constituency_Name": "West Tyrone", 
         "Constituency_Number": "18", 
@@ -1837,7 +1927,7 @@
     {
         "Surname": "McClean", 
         "Firstname": "Ciaran", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "mccleangreen", 
         "Constituency_Name": "West Tyrone", 
         "Constituency_Number": "18", 
@@ -1852,7 +1942,7 @@
     {
         "Surname": "McCrossan", 
         "Firstname": "Daniel", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "McCrossanMLA", 
         "Constituency_Name": "West Tyrone", 
         "Constituency_Number": "18", 
@@ -1867,7 +1957,7 @@
     {
         "Surname": "McElduff", 
         "Firstname": "Barry", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "BarryMcElduff", 
         "Constituency_Name": "West Tyrone", 
         "Constituency_Number": "18", 
@@ -1882,7 +1972,7 @@
     {
         "Surname": "McMackin", 
         "Firstname": "Roisin", 
-        "Gender": "F", 
+        "Gender": "female", 
         "Twitter": "RoisinMed", 
         "Constituency_Name": "West Tyrone", 
         "Constituency_Number": "18", 
@@ -1893,6 +1983,21 @@
         "Party_Id": "21", 
         "Email": "roisinmed@aol.com", 
         "Photo_URL": ""
+},
+    {
+        "Surname": "White", 
+        "Firstname": "Susan-Anne", 
+        "Gender": "female", 
+        "Twitter": "", 
+        "Constituency_Name": "West Tyrone", 
+        "Constituency_Number": "18", 
+        "Party_Name": "Independent", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "7348", 
+        "Directory": "west-tyrone", 
+        "Party_Id": "21", 
+        "Email": "francissusanwhite@btinternet.com", 
+        "Photo_URL": ""
 }
     ]},
     {
@@ -1902,7 +2007,7 @@
     {
         "Surname": "Allen", 
         "Firstname": "Andy", 
-        "Gender": "M", 
+        "Gender": "Male", 
         "Twitter": "AndyAllen88", 
         "Constituency_Name": "Belfast East", 
         "Constituency_Number": "2", 
@@ -1917,8 +2022,8 @@
     {
         "Surname": "Bodel", 
         "Firstname": "Sheila", 
-        "Gender": "F", 
-        "Twitter": "", 
+        "Gender": "Female", 
+        "Twitter": "SheilaBodel", 
         "Constituency_Name": "Belfast East", 
         "Constituency_Number": "2", 
         "Party_Name": "NI Conservatives", 
@@ -1932,7 +2037,7 @@
     {
         "Surname": "Bunting", 
         "Firstname": "Joanne", 
-        "Gender": "F", 
+        "Gender": "Female", 
         "Twitter": "Joanne_Bunting", 
         "Constituency_Name": "Belfast East", 
         "Constituency_Number": "2", 
@@ -1947,7 +2052,7 @@
     {
         "Surname": "Douglas", 
         "Firstname": "David", 
-        "Gender": "M", 
+        "Gender": "Male", 
         "Twitter": "", 
         "Constituency_Name": "Belfast East", 
         "Constituency_Number": "2", 
@@ -1962,7 +2067,7 @@
     {
         "Surname": "Girvin", 
         "Firstname": "Andrew", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "CllrGirvin", 
         "Constituency_Name": "Belfast East", 
         "Constituency_Number": "2", 
@@ -1977,7 +2082,7 @@
     {
         "Surname": "Kyle", 
         "Firstname": "John", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "cllrjohnkyle", 
         "Constituency_Name": "Belfast East", 
         "Constituency_Number": "2", 
@@ -1992,7 +2097,7 @@
     {
         "Surname": "Long", 
         "Firstname": "Naomi", 
-        "Gender": "F", 
+        "Gender": "female", 
         "Twitter": "naomi_long", 
         "Constituency_Name": "Belfast East", 
         "Constituency_Number": "2", 
@@ -2007,7 +2112,7 @@
     {
         "Surname": "Lyttle", 
         "Firstname": "Chris", 
-        "Gender": "M", 
+        "Gender": "Male", 
         "Twitter": "Chris_Lyttle", 
         "Constituency_Name": "Belfast East", 
         "Constituency_Number": "2", 
@@ -2020,9 +2125,24 @@
         "Photo_URL": ""
 },
     {
+        "Surname": "McKeag", 
+        "Firstname": "Jordy", 
+        "Gender": "Male", 
+        "Twitter": "", 
+        "Constituency_Name": "Belfast East", 
+        "Constituency_Number": "2", 
+        "Party_Name": "Independent", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "19746", 
+        "Directory": "belfast-east", 
+        "Party_Id": "21", 
+        "Email": "", 
+        "Photo_URL": ""
+},
+    {
         "Surname": "Milne", 
         "Firstname": "Georgina", 
-        "Gender": "F", 
+        "Gender": "Female", 
         "Twitter": "Georgina_Milne", 
         "Constituency_Name": "Belfast East", 
         "Constituency_Number": "2", 
@@ -2037,7 +2157,7 @@
     {
         "Surname": "Newton", 
         "Firstname": "Robin", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "", 
         "Constituency_Name": "Belfast East", 
         "Constituency_Number": "2", 
@@ -2052,7 +2172,7 @@
     {
         "Surname": "O'Donnell", 
         "Firstname": "M\u00e1ir\u00e9ad", 
-        "Gender": "F", 
+        "Gender": "female", 
         "Twitter": "cllrmairead", 
         "Constituency_Name": "Belfast East", 
         "Constituency_Number": "2", 
@@ -2067,7 +2187,7 @@
     {
         "Surname": "Robinson", 
         "Firstname": "Courtney", 
-        "Gender": "F", 
+        "Gender": "Female", 
         "Twitter": "Coroweee", 
         "Constituency_Name": "Belfast East", 
         "Constituency_Number": "2", 
@@ -2076,6 +2196,21 @@
         "Candidate_Id": "13041", 
         "Directory": "belfast-east", 
         "Party_Id": "987", 
+        "Email": "", 
+        "Photo_URL": ""
+},
+    {
+        "Surname": "de Faoite", 
+        "Firstname": "S\u00e9amas", 
+        "Gender": "Male", 
+        "Twitter": "SeamasBelfast", 
+        "Constituency_Name": "Belfast East", 
+        "Constituency_Number": "2", 
+        "Party_Name": "Social Democratic and Labour Party", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "19745", 
+        "Directory": "belfast-east", 
+        "Party_Id": "23", 
         "Email": "", 
         "Photo_URL": ""
 }
@@ -2087,7 +2222,7 @@
     {
         "Surname": "Archibald", 
         "Firstname": "Caoimhe", 
-        "Gender": "F", 
+        "Gender": "female", 
         "Twitter": "CArchibald_SF", 
         "Constituency_Name": "East Londonderry", 
         "Constituency_Number": "3", 
@@ -2102,7 +2237,7 @@
     {
         "Surname": "Armstrong", 
         "Firstname": "Jordan", 
-        "Gender": "M", 
+        "Gender": "Male", 
         "Twitter": "", 
         "Constituency_Name": "East Londonderry", 
         "Constituency_Number": "3", 
@@ -2117,7 +2252,7 @@
     {
         "Surname": "Bradley", 
         "Firstname": "Maurice", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "", 
         "Constituency_Name": "East Londonderry", 
         "Constituency_Number": "3", 
@@ -2130,9 +2265,24 @@
         "Photo_URL": ""
 },
     {
+        "Surname": "Campbell", 
+        "Firstname": "Gavin", 
+        "Gender": "Male", 
+        "Twitter": "", 
+        "Constituency_Name": "East Londonderry", 
+        "Constituency_Number": "3", 
+        "Party_Name": "People Before Profit Alliance", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "19750", 
+        "Directory": "east-londonderry", 
+        "Party_Id": "999", 
+        "Email": "", 
+        "Photo_URL": ""
+},
+    {
         "Surname": "Dallat", 
         "Firstname": "John", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "johndallat", 
         "Constituency_Name": "East Londonderry", 
         "Constituency_Number": "3", 
@@ -2147,7 +2297,7 @@
     {
         "Surname": "Flynn", 
         "Firstname": "Anthony", 
-        "Gender": "M", 
+        "Gender": "Male", 
         "Twitter": "AntoFlynnser", 
         "Constituency_Name": "East Londonderry", 
         "Constituency_Number": "3", 
@@ -2162,7 +2312,7 @@
     {
         "Surname": "Harding", 
         "Firstname": "David", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "", 
         "Constituency_Name": "East Londonderry", 
         "Constituency_Number": "3", 
@@ -2177,7 +2327,7 @@
     {
         "Surname": "McCandless", 
         "Firstname": "William", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "", 
         "Constituency_Name": "East Londonderry", 
         "Constituency_Number": "3", 
@@ -2192,7 +2342,7 @@
     {
         "Surname": "McCaw", 
         "Firstname": "Chris", 
-        "Gender": "M", 
+        "Gender": "Male", 
         "Twitter": "chrismccaw_ni", 
         "Constituency_Name": "East Londonderry", 
         "Constituency_Number": "3", 
@@ -2207,7 +2357,7 @@
     {
         "Surname": "McQuillan", 
         "Firstname": "Adrian", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "", 
         "Constituency_Name": "East Londonderry", 
         "Constituency_Number": "3", 
@@ -2222,7 +2372,7 @@
     {
         "Surname": "Mullan", 
         "Firstname": "Gerry", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "", 
         "Constituency_Name": "East Londonderry", 
         "Constituency_Number": "3", 
@@ -2237,7 +2387,7 @@
     {
         "Surname": "Robinson", 
         "Firstname": "George", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "", 
         "Constituency_Name": "East Londonderry", 
         "Constituency_Number": "3", 
@@ -2252,7 +2402,7 @@
     {
         "Surname": "Sugden", 
         "Firstname": "Claire", 
-        "Gender": "F", 
+        "Gender": "female", 
         "Twitter": "ClaireSugden", 
         "Constituency_Name": "East Londonderry", 
         "Constituency_Number": "3", 
@@ -2267,7 +2417,7 @@
     {
         "Surname": "Watton", 
         "Firstname": "Russell", 
-        "Gender": "M", 
+        "Gender": "Male", 
         "Twitter": "", 
         "Constituency_Name": "East Londonderry", 
         "Constituency_Number": "3", 
@@ -2282,7 +2432,7 @@
     {
         "Surname": "\u00f3hOis\u00edn", 
         "Firstname": "Cathal", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "CathalOhOisin", 
         "Constituency_Name": "East Londonderry", 
         "Constituency_Number": "3", 
@@ -2302,7 +2452,7 @@
     {
         "Surname": "Barton", 
         "Firstname": "Rosemary", 
-        "Gender": "F", 
+        "Gender": "female", 
         "Twitter": "RosemaryBarton1", 
         "Constituency_Name": "Fermanagh and South Tyrone", 
         "Constituency_Number": "4", 
@@ -2317,7 +2467,7 @@
     {
         "Surname": "Campbell", 
         "Firstname": "Noreen", 
-        "Gender": "F", 
+        "Gender": "Female", 
         "Twitter": "noreen_campbell", 
         "Constituency_Name": "Fermanagh and South Tyrone", 
         "Constituency_Number": "4", 
@@ -2332,7 +2482,7 @@
     {
         "Surname": "Dolan", 
         "Firstname": "Jemma", 
-        "Gender": "F", 
+        "Gender": "female", 
         "Twitter": "jemma_dolan", 
         "Constituency_Name": "Fermanagh and South Tyrone", 
         "Constituency_Number": "4", 
@@ -2347,7 +2497,7 @@
     {
         "Surname": "Dunn", 
         "Firstname": "Richard", 
-        "Gender": "M", 
+        "Gender": "Male", 
         "Twitter": "", 
         "Constituency_Name": "Fermanagh and South Tyrone", 
         "Constituency_Number": "4", 
@@ -2362,7 +2512,7 @@
     {
         "Surname": "Elliot", 
         "Firstname": "Alex", 
-        "Gender": "M", 
+        "Gender": "Male", 
         "Twitter": "", 
         "Constituency_Name": "Fermanagh and South Tyrone", 
         "Constituency_Number": "4", 
@@ -2377,7 +2527,7 @@
     {
         "Surname": "Foster", 
         "Firstname": "Arlene", 
-        "Gender": "F", 
+        "Gender": "female", 
         "Twitter": "DUPleader", 
         "Constituency_Name": "Fermanagh and South Tyrone", 
         "Constituency_Number": "4", 
@@ -2392,7 +2542,7 @@
     {
         "Surname": "Gildernew", 
         "Firstname": "Michelle", 
-        "Gender": "F", 
+        "Gender": "female", 
         "Twitter": "gildernewm", 
         "Constituency_Name": "Fermanagh and South Tyrone", 
         "Constituency_Number": "4", 
@@ -2407,7 +2557,7 @@
     {
         "Surname": "Jones", 
         "Firstname": "Tanya", 
-        "Gender": "F", 
+        "Gender": "female", 
         "Twitter": "decombustion", 
         "Constituency_Name": "Fermanagh and South Tyrone", 
         "Constituency_Number": "4", 
@@ -2422,7 +2572,7 @@
     {
         "Surname": "Lynch", 
         "Firstname": "Se\u00e1n", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "seanlynch122", 
         "Constituency_Name": "Fermanagh and South Tyrone", 
         "Constituency_Number": "4", 
@@ -2437,7 +2587,7 @@
     {
         "Surname": "McPhillips", 
         "Firstname": "Richie", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "Richiemcp", 
         "Constituency_Name": "Fermanagh and South Tyrone", 
         "Constituency_Number": "4", 
@@ -2452,7 +2602,7 @@
     {
         "Surname": "Morrow", 
         "Firstname": "Maurice", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "", 
         "Constituency_Name": "Fermanagh and South Tyrone", 
         "Constituency_Number": "4", 
@@ -2467,7 +2617,7 @@
     {
         "Surname": "O'Cofaigh", 
         "Firstname": "Donal", 
-        "Gender": "M", 
+        "Gender": "Male", 
         "Twitter": "Donaloc", 
         "Constituency_Name": "Fermanagh and South Tyrone", 
         "Constituency_Number": "4", 
@@ -2487,7 +2637,7 @@
     {
         "Surname": "Canning", 
         "Firstname": "Stuart", 
-        "Gender": "M", 
+        "Gender": "Male", 
         "Twitter": "StuartC93", 
         "Constituency_Name": "Foyle", 
         "Constituency_Number": "5", 
@@ -2502,7 +2652,7 @@
     {
         "Surname": "Cavanagh", 
         "Firstname": "Colm", 
-        "Gender": "M", 
+        "Gender": "Male", 
         "Twitter": "", 
         "Constituency_Name": "Foyle", 
         "Constituency_Number": "5", 
@@ -2517,7 +2667,7 @@
     {
         "Surname": "Downey", 
         "Firstname": "Shannon", 
-        "Gender": "F", 
+        "Gender": "Female", 
         "Twitter": "shannon_downey5", 
         "Constituency_Name": "Foyle", 
         "Constituency_Number": "5", 
@@ -2532,7 +2682,7 @@
     {
         "Surname": "Durkan", 
         "Firstname": "Mark H.", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "MarkHDurkan", 
         "Constituency_Name": "Foyle", 
         "Constituency_Number": "5", 
@@ -2547,7 +2697,7 @@
     {
         "Surname": "Eastwood", 
         "Firstname": "Colum", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "columeastwood", 
         "Constituency_Name": "Foyle", 
         "Constituency_Number": "5", 
@@ -2562,7 +2712,7 @@
     {
         "Surname": "Kee", 
         "Firstname": "Julia", 
-        "Gender": "F", 
+        "Gender": "female", 
         "Twitter": "JuliaEKee", 
         "Constituency_Name": "Foyle", 
         "Constituency_Number": "5", 
@@ -2577,7 +2727,7 @@
     {
         "Surname": "Lindsay", 
         "Firstname": "John", 
-        "Gender": "M", 
+        "Gender": "Male", 
         "Twitter": "", 
         "Constituency_Name": "Foyle", 
         "Constituency_Number": "5", 
@@ -2592,7 +2742,7 @@
     {
         "Surname": "McCallion", 
         "Firstname": "Elisha", 
-        "Gender": "F", 
+        "Gender": "female", 
         "Twitter": "MayorElisha", 
         "Constituency_Name": "Foyle", 
         "Constituency_Number": "5", 
@@ -2607,7 +2757,7 @@
     {
         "Surname": "McCann", 
         "Firstname": "Eamonn", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "eamonnmccannpbp", 
         "Constituency_Name": "Foyle", 
         "Constituency_Number": "5", 
@@ -2622,7 +2772,7 @@
     {
         "Surname": "McCartney", 
         "Firstname": "Raymond", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "RaymondMcCartn1", 
         "Constituency_Name": "Foyle", 
         "Constituency_Number": "5", 
@@ -2635,9 +2785,24 @@
         "Photo_URL": ""
 },
     {
+        "Surname": "McGuinness", 
+        "Firstname": "Arthur", 
+        "Gender": "Male", 
+        "Twitter": "", 
+        "Constituency_Name": "Foyle", 
+        "Constituency_Number": "5", 
+        "Party_Name": "Independent", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "19742", 
+        "Directory": "foyle", 
+        "Party_Id": "21", 
+        "Email": "", 
+        "Photo_URL": ""
+},
+    {
         "Surname": "Middleton", 
         "Firstname": "Gary", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "Gary_Middleton", 
         "Constituency_Name": "Foyle", 
         "Constituency_Number": "5", 
@@ -2657,7 +2822,7 @@
     {
         "Surname": "Barrios-O'Neill", 
         "Firstname": "Dan", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "DBarriosONeill", 
         "Constituency_Name": "Lagan Valley", 
         "Constituency_Number": "6", 
@@ -2672,7 +2837,7 @@
     {
         "Surname": "Butler", 
         "Firstname": "Robbie", 
-        "Gender": "M", 
+        "Gender": "Male", 
         "Twitter": "t3robbie", 
         "Constituency_Name": "Lagan Valley", 
         "Constituency_Number": "6", 
@@ -2687,7 +2852,7 @@
     {
         "Surname": "Catney", 
         "Firstname": "Pat", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "PatCatney", 
         "Constituency_Name": "Lagan Valley", 
         "Constituency_Number": "6", 
@@ -2702,7 +2867,7 @@
     {
         "Surname": "Doran", 
         "Firstname": "Peter", 
-        "Gender": "M", 
+        "Gender": "Male", 
         "Twitter": "", 
         "Constituency_Name": "Lagan Valley", 
         "Constituency_Number": "6", 
@@ -2717,7 +2882,7 @@
     {
         "Surname": "Givan", 
         "Firstname": "Paul", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "paulgivan", 
         "Constituency_Name": "Lagan Valley", 
         "Constituency_Number": "6", 
@@ -2730,9 +2895,24 @@
         "Photo_URL": ""
 },
     {
+        "Surname": "Gray", 
+        "Firstname": "Keith John", 
+        "Gender": "Male", 
+        "Twitter": "", 
+        "Constituency_Name": "Lagan Valley", 
+        "Constituency_Number": "6", 
+        "Party_Name": "Independent", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "19747", 
+        "Directory": "lagan-valley", 
+        "Party_Id": "21", 
+        "Email": "", 
+        "Photo_URL": ""
+},
+    {
         "Surname": "Hale", 
         "Firstname": "Brenda", 
-        "Gender": "F", 
+        "Gender": "female", 
         "Twitter": "", 
         "Constituency_Name": "Lagan Valley", 
         "Constituency_Number": "6", 
@@ -2747,7 +2927,7 @@
     {
         "Surname": "Lunn", 
         "Firstname": "Trevor", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "TrevorLunnLV", 
         "Constituency_Name": "Lagan Valley", 
         "Constituency_Number": "6", 
@@ -2761,8 +2941,8 @@
 },
     {
         "Surname": "Morrison", 
-        "Firstname": "Sammy", 
-        "Gender": "M", 
+        "Firstname": "Samuel", 
+        "Gender": "Male", 
         "Twitter": "SammyMorrison82", 
         "Constituency_Name": "Lagan Valley", 
         "Constituency_Number": "6", 
@@ -2777,7 +2957,7 @@
     {
         "Surname": "Orr", 
         "Firstname": "Jonny", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "", 
         "Constituency_Name": "Lagan Valley", 
         "Constituency_Number": "6", 
@@ -2792,7 +2972,7 @@
     {
         "Surname": "Palmer", 
         "Firstname": "Jenny", 
-        "Gender": "F", 
+        "Gender": "Female", 
         "Twitter": "jennyp_mla", 
         "Constituency_Name": "Lagan Valley", 
         "Constituency_Number": "6", 
@@ -2807,7 +2987,7 @@
     {
         "Surname": "Poots", 
         "Firstname": "Edwin", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "", 
         "Constituency_Name": "Lagan Valley", 
         "Constituency_Number": "6", 
@@ -2821,8 +3001,8 @@
 },
     {
         "Surname": "Robinson", 
-        "Firstname": "Matt", 
-        "Gender": "M", 
+        "Firstname": "Matthew", 
+        "Gender": "Male", 
         "Twitter": "", 
         "Constituency_Name": "Lagan Valley", 
         "Constituency_Number": "6", 
@@ -2841,8 +3021,8 @@
     "Candidates": [
     {
         "Surname": "Buchanan", 
-        "Firstname": "Keith", 
-        "Gender": "M", 
+        "Firstname": "Keith Alexander", 
+        "Gender": "male", 
         "Twitter": "Buchanan_dup", 
         "Constituency_Name": "Mid Ulster", 
         "Constituency_Number": "7", 
@@ -2857,7 +3037,7 @@
     {
         "Surname": "Dillon", 
         "Firstname": "Linda", 
-        "Gender": "F", 
+        "Gender": "female", 
         "Twitter": "LindaDillon81", 
         "Constituency_Name": "Mid Ulster", 
         "Constituency_Number": "7", 
@@ -2872,7 +3052,7 @@
     {
         "Surname": "Loughrin", 
         "Firstname": "Hannah", 
-        "Gender": "F", 
+        "Gender": "Female", 
         "Twitter": "", 
         "Constituency_Name": "Mid Ulster", 
         "Constituency_Number": "7", 
@@ -2885,9 +3065,24 @@
         "Photo_URL": ""
 },
     {
+        "Surname": "McCloy", 
+        "Firstname": "Hugh", 
+        "Gender": "Male", 
+        "Twitter": "hughmccloy", 
+        "Constituency_Name": "Mid Ulster", 
+        "Constituency_Number": "7", 
+        "Party_Name": "Independent", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "19727", 
+        "Directory": "mid-ulster", 
+        "Party_Id": "21", 
+        "Email": "hughmccloy@googlemail.com", 
+        "Photo_URL": ""
+},
+    {
         "Surname": "McGlone", 
         "Firstname": "Patsy", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "patsymcglone", 
         "Constituency_Name": "Mid Ulster", 
         "Constituency_Number": "7", 
@@ -2902,7 +3097,7 @@
     {
         "Surname": "Milne", 
         "Firstname": "Ian", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "Ianmilnesf", 
         "Constituency_Name": "Mid Ulster", 
         "Constituency_Number": "7", 
@@ -2917,7 +3112,7 @@
     {
         "Surname": "O'Neill", 
         "Firstname": "Michelle", 
-        "Gender": "F", 
+        "Gender": "female", 
         "Twitter": "moneillsf", 
         "Constituency_Name": "Mid Ulster", 
         "Constituency_Number": "7", 
@@ -2932,7 +3127,7 @@
     {
         "Surname": "Overend", 
         "Firstname": "Sandra", 
-        "Gender": "F", 
+        "Gender": "female", 
         "Twitter": "over2sandra", 
         "Constituency_Name": "Mid Ulster", 
         "Constituency_Number": "7", 
@@ -2947,7 +3142,7 @@
     {
         "Surname": "Scullion", 
         "Firstname": "Hugh", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "", 
         "Constituency_Name": "Mid Ulster", 
         "Constituency_Number": "7", 
@@ -2962,7 +3157,7 @@
     {
         "Surname": "Taylor", 
         "Firstname": "Stefan", 
-        "Gender": "M", 
+        "Gender": "Male", 
         "Twitter": "GreenPartyNI", 
         "Constituency_Name": "Mid Ulster", 
         "Constituency_Number": "7", 
@@ -2977,7 +3172,7 @@
     {
         "Surname": "Watson", 
         "Firstname": "Fay", 
-        "Gender": "F", 
+        "Gender": "Female", 
         "Twitter": "", 
         "Constituency_Name": "Mid Ulster", 
         "Constituency_Number": "7", 
@@ -2997,7 +3192,7 @@
     {
         "Surname": "Boylan", 
         "Firstname": "Cathal", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "cathalboylansf", 
         "Constituency_Name": "Newry and Armagh", 
         "Constituency_Number": "8", 
@@ -3012,7 +3207,7 @@
     {
         "Surname": "Coade", 
         "Firstname": "Jackie", 
-        "Gender": "F", 
+        "Gender": "Female", 
         "Twitter": "", 
         "Constituency_Name": "Newry and Armagh", 
         "Constituency_Number": "8", 
@@ -3025,9 +3220,24 @@
         "Photo_URL": ""
 },
     {
+        "Surname": "Crossan", 
+        "Firstname": "Emmet", 
+        "Gender": "male", 
+        "Twitter": "EMMETforMLA", 
+        "Constituency_Name": "Newry and Armagh", 
+        "Constituency_Number": "8", 
+        "Party_Name": "Cannabis Is Safer Than Alcohol", 
+        "Outgoing_Member": "", 
+        "Candidate_Id": "11395", 
+        "Directory": "newry-armagh", 
+        "Party_Id": "993", 
+        "Email": "", 
+        "Photo_URL": ""
+},
+    {
         "Surname": "Fearon", 
         "Firstname": "Megan", 
-        "Gender": "F", 
+        "Gender": "female", 
         "Twitter": "mfearonsf", 
         "Constituency_Name": "Newry and Armagh", 
         "Constituency_Number": "8", 
@@ -3041,8 +3251,8 @@
 },
     {
         "Surname": "Irwin", 
-        "Firstname": "William", 
-        "Gender": "M", 
+        "Firstname": "William George", 
+        "Gender": "male", 
         "Twitter": "", 
         "Constituency_Name": "Newry and Armagh", 
         "Constituency_Number": "8", 
@@ -3057,7 +3267,7 @@
     {
         "Surname": "Kennedy", 
         "Firstname": "Danny", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "DKennedy_UUP", 
         "Constituency_Name": "Newry and Armagh", 
         "Constituency_Number": "8", 
@@ -3070,24 +3280,9 @@
         "Photo_URL": ""
 },
     {
-        "Surname": "McAteer", 
-        "Firstname": "Kevin", 
-        "Gender": "M", 
-        "Twitter": "", 
-        "Constituency_Name": "Newry and Armagh", 
-        "Constituency_Number": "8", 
-        "Party_Name": "People Before Profit Alliance", 
-        "Outgoing_Member": "", 
-        "Candidate_Id": "19691", 
-        "Directory": "newry-armagh", 
-        "Party_Id": "999", 
-        "Email": "", 
-        "Photo_URL": ""
-},
-    {
         "Surname": "McNulty", 
         "Firstname": "Justin", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "", 
         "Constituency_Name": "Newry and Armagh", 
         "Constituency_Number": "8", 
@@ -3102,7 +3297,7 @@
     {
         "Surname": "Murphy", 
         "Firstname": "Conor", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "", 
         "Constituency_Name": "Newry and Armagh", 
         "Constituency_Number": "8", 
@@ -3117,7 +3312,7 @@
     {
         "Surname": "Tunnicliffe", 
         "Firstname": "Rowan", 
-        "Gender": "M", 
+        "Gender": "Male", 
         "Twitter": "RowanTNI", 
         "Constituency_Name": "Newry and Armagh", 
         "Constituency_Number": "8", 
@@ -3137,7 +3332,7 @@
     {
         "Surname": "Allister", 
         "Firstname": "Jim", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "JimAllister", 
         "Constituency_Name": "North Antrim", 
         "Constituency_Number": "9", 
@@ -3152,7 +3347,7 @@
     {
         "Surname": "Bailey", 
         "Firstname": "Mark", 
-        "Gender": "M", 
+        "Gender": "Male", 
         "Twitter": "mfbailey", 
         "Constituency_Name": "North Antrim", 
         "Constituency_Number": "9", 
@@ -3167,7 +3362,7 @@
     {
         "Surname": "Digney", 
         "Firstname": "Monica", 
-        "Gender": "F", 
+        "Gender": "female", 
         "Twitter": "", 
         "Constituency_Name": "North Antrim", 
         "Constituency_Number": "9", 
@@ -3182,7 +3377,7 @@
     {
         "Surname": "Duncan", 
         "Firstname": "Connor", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "CDuncanSDLP", 
         "Constituency_Name": "North Antrim", 
         "Constituency_Number": "9", 
@@ -3197,7 +3392,7 @@
     {
         "Surname": "Frew", 
         "Firstname": "Paul", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "paulfrewDUP", 
         "Constituency_Name": "North Antrim", 
         "Constituency_Number": "9", 
@@ -3212,7 +3407,7 @@
     {
         "Surname": "Gaston", 
         "Firstname": "Timothy", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "CllrGaston", 
         "Constituency_Name": "North Antrim", 
         "Constituency_Number": "9", 
@@ -3227,7 +3422,7 @@
     {
         "Surname": "Logan", 
         "Firstname": "Phillip", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "philliplogan", 
         "Constituency_Name": "North Antrim", 
         "Constituency_Number": "9", 
@@ -3242,8 +3437,8 @@
     {
         "Surname": "McBride", 
         "Firstname": "Adam", 
-        "Gender": "M", 
-        "Twitter": "", 
+        "Gender": "Male", 
+        "Twitter": "AdamMcBrideNI", 
         "Constituency_Name": "North Antrim", 
         "Constituency_Number": "9", 
         "Party_Name": "Independent", 
@@ -3251,13 +3446,13 @@
         "Candidate_Id": "19725", 
         "Directory": "north-antrim", 
         "Party_Id": "21", 
-        "Email": "", 
+        "Email": "adam@makeni.work", 
         "Photo_URL": ""
 },
     {
         "Surname": "McGuigan", 
         "Firstname": "Philip", 
-        "Gender": "M", 
+        "Gender": "Male", 
         "Twitter": "mcguigan_philip", 
         "Constituency_Name": "North Antrim", 
         "Constituency_Number": "9", 
@@ -3272,7 +3467,7 @@
     {
         "Surname": "O'Lynn", 
         "Firstname": "Patricia", 
-        "Gender": "F", 
+        "Gender": "Female", 
         "Twitter": "PatriciaOLynn", 
         "Constituency_Name": "North Antrim", 
         "Constituency_Number": "9", 
@@ -3287,7 +3482,7 @@
     {
         "Surname": "Storey", 
         "Firstname": "Mervyn", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "", 
         "Constituency_Name": "North Antrim", 
         "Constituency_Number": "9", 
@@ -3302,7 +3497,7 @@
     {
         "Surname": "Swann", 
         "Firstname": "Robin", 
-        "Gender": "M", 
+        "Gender": "male", 
         "Twitter": "robinswannuup", 
         "Constituency_Name": "North Antrim", 
         "Constituency_Number": "9", 

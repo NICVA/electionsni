@@ -1,14 +1,14 @@
 Constituency_Name,Constituency_Number,Candidate_Id,Firstname,Surname,Outgoing_Member,Party_Id,Party_Name,Photo_URL,Directory,Gender,Twitter,Email
-Belfast North,10,11380,Paula,Bradley,,20,Democratic Unionist Party,,belfast-north,F,,
-Belfast North,10,11377,Carál,NíChuilín,,24,Sinn Fein,,belfast-north,F,CaralNiChuilin,teachcarney@msn.com
-Belfast North,10,19690,Julie-Anne,Corr-Johnston,,994,Progressive Unionist Party,,belfast-north,F,JulieACorr,
-Belfast North,10,11371,Fiona,Ferguson,,999,People Before Profit Alliance,,belfast-north,F,fiona_ferg,
-Belfast North,10,19697,Robert,Foster,,26,Ulster Unionist Party,,belfast-north,M,,
-Belfast North,10,575,William,Humphrey,,20,Democratic Unionist Party,,belfast-north,M,,williamhy@dup-belfast.co.uk
-Belfast North,10,131,Gerry,Kelly,,24,Sinn Fein,,belfast-north,M,GerryKellyMLA,teachcarney@msn.com
-Belfast North,10,11385,Nichola,Mallon,,23,Social Democratic and Labour Party,,belfast-north,F,NicholaMallon,
-Belfast North,10,11374,Nuala,McAllister,,19,Alliance Party,,belfast-north,F,NualaMcAllister,
-Belfast North,10,11375,Nelson,McCausland,,20,Democratic Unionist Party,,belfast-north,M,,nmccausland@dup-belfast.co.uk
-Belfast North,10,19676,Adam,Millar,,21,Independent,,belfast-north,M,AdamMillar,
-Belfast North,10,11378,Malachai,O'Hara,,111,Green Party,,belfast-north,M,gaygael,
-Belfast North,10,6264,Gemma,Weir,,998,Workers Party,,belfast-north,F,gemmacweir1,workerspartyni@yahoo.co.uk
+Belfast North,10,11380,Paula,Bradley,,20,Democratic Unionist Party,,belfast-north,female,,
+Belfast North,10,11377,Carál,Ní Chuilín,,24,Sinn Fein,,belfast-north,female,CaralNiChuilin,teachcarney@msn.com
+Belfast North,10,19690,Julie-Anne,Corr-Johnston,,994,Progressive Unionist Party,,belfast-north,female,JulieACorr,
+Belfast North,10,11371,Fiona,Ferguson,,999,People Before Profit Alliance,,belfast-north,Female,fiona_ferg,
+Belfast North,10,19697,Robert,Foster,,26,Ulster Unionist Party,,belfast-north,Male,,
+Belfast North,10,575,William,Humphrey,,20,Democratic Unionist Party,,belfast-north,male,,williamhy@dup-belfast.co.uk
+Belfast North,10,131,Gerry,Kelly,,24,Sinn Fein,,belfast-north,male,GerryKellyMLA,teachcarney@msn.com
+Belfast North,10,11385,Nichola,Mallon,,23,Social Democratic and Labour Party,,belfast-north,female,NicholaMallon,
+Belfast North,10,11374,Nuala,McAllister,,19,Alliance Party,,belfast-north,female,NualaMcAllister,
+Belfast North,10,11375,Nelson,McCausland,,20,Democratic Unionist Party,,belfast-north,male,,nmccausland@dup-belfast.co.uk
+Belfast North,10,19676,Adam,Millar,,21,Independent,,belfast-north,Male,AdamMillar,
+Belfast North,10,11378,Malachai,O'Hara,,111,Green Party,,belfast-north,Male,gaygael,
+Belfast North,10,6264,Gemma,Weir,,998,Workers Party,,belfast-north,female,gemmacweir1,workerspartyni@yahoo.co.uk

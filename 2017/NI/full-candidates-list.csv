@@ -1,216 +1,229 @@
 Constituency_Name,Constituency_Number,Candidate_Id,Firstname,Surname,Outgoing_Member,Party_Id,Party_Name,Photo_URL,Directory,Gender,Twitter,Email
-Belfast East,2,8116,Andy,Allen,,26,Ulster Unionist Party,,belfast-east,M,AndyAllen88,andy@belfastuup.com
-Belfast East,2,19719,Sheila,Bodel,,991,NI Conservatives,,belfast-east,F,,
-Belfast East,2,13032,Joanne,Bunting,,20,Democratic Unionist Party,,belfast-east,F,Joanne_Bunting,
-Belfast East,2,19687,David,Douglas,,20,Democratic Unionist Party,,belfast-east,M,,
-Belfast East,2,13035,Andrew,Girvin,,141,Traditional Unionist Voice,,belfast-east,M,CllrGirvin,
-Belfast East,2,13037,John,Kyle,,994,Progressive Unionist Party,,belfast-east,M,cllrjohnkyle,
-Belfast East,2,2454,Naomi,Long,,19,Alliance Party,,belfast-east,F,naomi_long,naomi.long@allianceparty.org
-Belfast East,2,13038,Chris,Lyttle,,19,Alliance Party,,belfast-east,M,Chris_Lyttle,chris.lyttle@allianceparty.org
-Belfast East,2,19699,Georgina,Milne,,111,Green Party,,belfast-east,F,Georgina_Milne,
-Belfast East,2,13040,Robin,Newton,,20,Democratic Unionist Party,,belfast-east,M,,
-Belfast East,2,19680,Máiréad,O'Donnell,,24,Sinn Fein,,belfast-east,F,cllrmairead,
-Belfast East,2,13041,Courtney,Robinson,,987,Cross-Community Labour Alternative,,belfast-east,F,Coroweee,
-Belfast North,10,11380,Paula,Bradley,,20,Democratic Unionist Party,,belfast-north,F,,
-Belfast North,10,11377,Carál,NíChuilín,,24,Sinn Fein,,belfast-north,F,CaralNiChuilin,teachcarney@msn.com
-Belfast North,10,19690,Julie-Anne,Corr-Johnston,,994,Progressive Unionist Party,,belfast-north,F,JulieACorr,
-Belfast North,10,11371,Fiona,Ferguson,,999,People Before Profit Alliance,,belfast-north,F,fiona_ferg,
-Belfast North,10,19697,Robert,Foster,,26,Ulster Unionist Party,,belfast-north,M,,
-Belfast North,10,575,William,Humphrey,,20,Democratic Unionist Party,,belfast-north,M,,williamhy@dup-belfast.co.uk
-Belfast North,10,131,Gerry,Kelly,,24,Sinn Fein,,belfast-north,M,GerryKellyMLA,teachcarney@msn.com
-Belfast North,10,11385,Nichola,Mallon,,23,Social Democratic and Labour Party,,belfast-north,F,NicholaMallon,
-Belfast North,10,11374,Nuala,McAllister,,19,Alliance Party,,belfast-north,F,NualaMcAllister,
-Belfast North,10,11375,Nelson,McCausland,,20,Democratic Unionist Party,,belfast-north,M,,nmccausland@dup-belfast.co.uk
-Belfast North,10,19676,Adam,Millar,,21,Independent,,belfast-north,M,AdamMillar,
-Belfast North,10,11378,Malachai,O'Hara,,111,Green Party,,belfast-north,M,gaygael,
-Belfast North,10,6264,Gemma,Weir,,998,Workers Party,,belfast-north,F,gemmacweir1,workerspartyni@yahoo.co.uk
-Belfast South,13,5824,Clare,Bailey,,111,Green Party,,belfast-south,F,ClareBaileyGPNI,claresquare@yahoo.com
-Belfast South,13,1679,Paula,Bradshaw,,19,Alliance Party,,belfast-south,F,PaulaJaneB,paula.bradshaw@allianceparty.org
-Belfast South,13,11455,Sean,Burns,,987,Cross-Community Labour Alternative,,belfast-south,M,,sburnsmedia@gmail.com
-Belfast South,13,19698,Naomh,Gallagher,,23,Social Democratic and Labour Party,,belfast-south,F,naomhgallagher,
-Belfast South,13,3475,Claire,Hanna,,23,Social Democratic and Labour Party,,belfast-south,F,ClaireHanna,clairehanna@gmail.com
-Belfast South,13,19709,Micheal,Henderson,,26,Ulster Unionist Party,,belfast-south,M,,
-Belfast South,13,11457,John,Hiddleston,,141,Traditional Unionist Voice,,belfast-south,M,,
-Belfast South,13,6023,George,Jabbour,,991,NI Conservatives,,belfast-south,M,JGJabbour,georgeforinverclyde@gmail.com
-Belfast South,13,6265,Lily,Kerr,,998,Workers Party,,belfast-south,F,,workerspartyni@yahoo.co.uk
-Belfast South,13,19677,Emmet,McDonough-Brown,,19,Alliance Party,,belfast-south,M,EmmetMcDB,emmet@allianceparty.org
-Belfast South,13,19670,Pádraigín,Mervyn,,999,People Before Profit Alliance,,belfast-south,F,,
-Belfast South,13,4597,Máirtín,Ó Muilleoir,,24,Sinn Fein,,belfast-south,M,newbelfast,mairtin@newbelfast.com
-Belfast South,13,11458,Emma,Little Pengelly,,20,Democratic Unionist Party,,belfast-south,F,little_pengelly,
-Belfast South,13,11461,Christopher,Stalford,,20,Democratic Unionist Party,,belfast-south,M,CStalfordMLA,
-Belfast West,17,982,Alex,Attwood,,23,Social Democratic and Labour Party,,belfast-west,M,AlexAttwoodMLA,attwoodalex@yahoo.co.uk
-Belfast West,17,8186,Conor,Campbell,,998,Workers Party,,belfast-west,M,,
-Belfast West,17,7199,Gerry,Carroll,,999,People Before Profit Alliance,,belfast-west,M,GerryCarrollPBP,royshakur@hotmail.com
-Belfast West,17,19674,Michael,Collins,,999,People Before Profit Alliance,,belfast-west,M,,
-Belfast West,17,19688,Sorcha,Eastwood,,19,Alliance Party,,belfast-west,F,SorchaEastwood,
-Belfast West,17,19668,Orlaithi,Flynn,,24,Sinn Fein,,belfast-west,F,orlaithiflynnsf,orlaithi.flynn@mla.niassembly.gov.uk
-Belfast West,17,11439,Alex,Maskey,,24,Sinn Fein,,belfast-west,M,AlexMaskeyMLA,ufsinnfein@yahoo.com
-Belfast West,17,11437,Fra,McCann,,24,Sinn Fein,,belfast-west,M,FramccannMLA,
-Belfast West,17,7174,Frank,McCoubrey,,20,Democratic Unionist Party,,belfast-west,M,,
-Belfast West,17,11441,Ellen,Murray,,111,Green Party,,belfast-west,F,ellenfromnowon,
-Belfast West,17,19686,Fred,Rodgers,,26,Ulster Unionist Party,,belfast-west,M,Fredjrodgers,
-Belfast West,17,11436,Pat,Sheehan,,24,Sinn Fein,,belfast-west,M,PatSheehanMLA,
-East Antrim,1,7132,Roy,Beggs,,26,Ulster Unionist Party,,east-antrim,M,roybeggs,roy.beggs@co.niassembly.gov.uk
-East Antrim,1,4591,Stewart,Dickson,,19,Alliance Party,,east-antrim,M,stewartcdickson,stewart.dickson@allianceparty.org
-East Antrim,1,9805,Danny,Donnelly,,19,Alliance Party,,east-antrim,M,DannyDonnelly1,
-East Antrim,1,6991,Alan,Dunlop,,991,NI Conservatives,,east-antrim,M,Alan4SAntrim,
-East Antrim,1,11447,David,Hilditch,,20,Democratic Unionist Party,,east-antrim,M,,
-East Antrim,1,11448,Gordon,Lyons,,20,Democratic Unionist Party,,east-antrim,M,gordonlyons1,
-East Antrim,1,5389,Margaret Anne,McKillop,,23,Social Democratic and Labour Party,,east-antrim,F,,
-East Antrim,1,1061,Oliver,McMullan,,24,Sinn Fein,,east-antrim,M,OliverMcMullan,eastantrimsinnfein@gmail.com
-East Antrim,1,10293,Dawn,Patterson,,111,Green Party,,east-antrim,F,DawnPEastAntri1,bourkedawn@gmail.com
-East Antrim,1,19685,Stephen,Ross,,20,Democratic Unionist Party,,east-antrim,M,,
-East Antrim,1,11450,Conor,Sheridan,,987,Cross-Community Labour Alternative,,east-antrim,M,conorjsheridan1,conorjsheridan21@gmail.com
-East Antrim,1,8121,John,Stewart,,26,Ulster Unionist Party,,east-antrim,M,JohnStewart1983,
-East Antrim,1,6985,Ruth,Wilson,,141,Traditional Unionist Voice,,east-antrim,F,,
-East Londonderry,3,5979,Caoimhe,Archibald,,24,Sinn Fein,,east-londonderry,F,CArchibald_SF,caoimhearchibald@gmail.com
-East Londonderry,3,12079,Jordan,Armstrong,,141,Traditional Unionist Voice,,east-londonderry,M,,
-East Londonderry,3,12080,Maurice,Bradley,,20,Democratic Unionist Party,,east-londonderry,M,,
-East Londonderry,3,19682,John,Dallat,,23,Social Democratic and Labour Party,,east-londonderry,M,johndallat,
-East Londonderry,3,19700,Anthony,Flynn,,111,Green Party,,east-londonderry,M,AntoFlynnser,
-East Londonderry,3,4013,David,Harding,,991,NI Conservatives,,east-londonderry,M,,dhmrcvs@hotmail.com
-East Londonderry,3,6403,William,McCandless,,26,Ulster Unionist Party,,east-londonderry,M,,
-East Londonderry,3,11861,Chris,McCaw,,19,Alliance Party,,east-londonderry,M,chrismccaw_ni,
-East Londonderry,3,12083,Adrian,McQuillan,,20,Democratic Unionist Party,,east-londonderry,M,,
-East Londonderry,3,7078,Gerry,Mullan,,21,Independent,,east-londonderry,M,,
-East Londonderry,3,12086,George,Robinson,,20,Democratic Unionist Party,,east-londonderry,M,,
-East Londonderry,3,12087,Claire,Sugden,,21,Independent,,east-londonderry,F,ClaireSugden,
-East Londonderry,3,12088,Russell,Watton,,994,Progressive Unionist Party,,east-londonderry,M,,
-East Londonderry,3,12084,Cathal,óhOisín,,24,Sinn Fein,,east-londonderry,M,CathalOhOisin,
-Fermanagh and South Tyrone,4,8123,Rosemary,Barton,,26,Ulster Unionist Party,,fermanagh-south-tyrone,F,RosemaryBarton1,rosemary.barton@mla.niassembly.gov.uk
-Fermanagh and South Tyrone,4,19684,Noreen,Campbell,,19,Alliance Party,,fermanagh-south-tyrone,F,noreen_campbell,
-Fermanagh and South Tyrone,4,19672,Jemma,Dolan,,24,Sinn Fein,,fermanagh-south-tyrone,F,jemma_dolan,
-Fermanagh and South Tyrone,4,19720,Richard,Dunn,,991,NI Conservatives,,fermanagh-south-tyrone,M,,
-Fermanagh and South Tyrone,4,19692,Alex,Elliot,,141,Traditional Unionist Voice,,fermanagh-south-tyrone,M,,
-Fermanagh and South Tyrone,4,11526,Arlene,Foster,,20,Democratic Unionist Party,,fermanagh-south-tyrone,F,DUPleader,
-Fermanagh and South Tyrone,4,2427,Michelle,Gildernew,,24,Sinn Fein,,fermanagh-south-tyrone,F,gildernewm,michelle.gildernew@sinn-fein.ie
-Fermanagh and South Tyrone,4,4674,Tanya,Jones,,111,Green Party,,fermanagh-south-tyrone,F,decombustion,tanya@greenlassie.com
-Fermanagh and South Tyrone,4,11528,Seán,Lynch,,24,Sinn Fein,,fermanagh-south-tyrone,M,seanlynch122,
-Fermanagh and South Tyrone,4,11529,Richie,McPhillips,,23,Social Democratic and Labour Party,,fermanagh-south-tyrone,M,Richiemcp,richiesdlperneeast@outlook.com
-Fermanagh and South Tyrone,4,11530,Maurice,Morrow,,20,Democratic Unionist Party,,fermanagh-south-tyrone,M,,
-Fermanagh and South Tyrone,4,19717,Donal,O'Cofaigh,,987,Cross-Community Labour Alternative,,fermanagh-south-tyrone,M,Donaloc,
-Foyle,5,7656,Stuart,Canning,,991,NI Conservatives,,foyle,M,StuartC93,stuart.canning93@gmail.com
-Foyle,5,19694,Colm,Cavanagh,,19,Alliance Party,,foyle,M,,
-Foyle,5,19701,Shannon,Downey,,111,Green Party,,foyle,F,shannon_downey5,
-Foyle,5,19640,Mark H.,Durkan,,23,Social Democratic and Labour Party,,foyle,M,MarkHDurkan,
-Foyle,5,11857,Colum,Eastwood,,23,Social Democratic and Labour Party,,foyle,M,columeastwood,colum.eastwood@sdlp.ie
-Foyle,5,6404,Julia,Kee,,26,Ulster Unionist Party,,foyle,F,JuliaEKee,
-Foyle,5,11859,John,Lindsay,,993,Cannabis Is Safer Than Alcohol,,foyle,M,,
-Foyle,5,19678,Elisha,McCallion,,24,Sinn Fein,,foyle,F,MayorElisha,
-Foyle,5,2294,Eamonn,McCann,,999,People Before Profit Alliance,,foyle,M,eamonnmccannpbp,peopleb4profitni@aol.com
-Foyle,5,11860,Raymond,McCartney,,24,Sinn Fein,,foyle,M,RaymondMcCartn1,
-Foyle,5,7209,Gary,Middleton,,20,Democratic Unionist Party,,foyle,M,Gary_Middleton,
-Lagan Valley,6,11537,Dan,Barrios-O'Neill,,111,Green Party,,lagan-valley,M,DBarriosONeill,
-Lagan Valley,6,8114,Robbie,Butler,,26,Ulster Unionist Party,,lagan-valley,M,t3robbie,robbie.butler@mla.niassembly.gov.uk
-Lagan Valley,6,7180,Pat,Catney,,23,Social Democratic and Labour Party,,lagan-valley,M,PatCatney,
-Lagan Valley,6,19716,Peter,Doran,,24,Sinn Fein,,lagan-valley,M,,
-Lagan Valley,6,11540,Paul,Givan,,20,Democratic Unionist Party,,lagan-valley,M,paulgivan,
-Lagan Valley,6,11541,Brenda,Hale,,20,Democratic Unionist Party,,lagan-valley,F,,
-Lagan Valley,6,763,Trevor,Lunn,,19,Alliance Party,,lagan-valley,M,TrevorLunnLV,trevor.lunn@allianceparty.org
-Lagan Valley,6,297,Sammy,Morrison,,141,Traditional Unionist Voice,,lagan-valley,M,SammyMorrison82,
-Lagan Valley,6,7410,Jonny,Orr,,21,Independent,,lagan-valley,M,,
-Lagan Valley,6,8113,Jenny,Palmer,,26,Ulster Unionist Party,,lagan-valley,F,jennyp_mla,jenny.palmer@mla.niassembly.gov.uk
-Lagan Valley,6,11544,Edwin,Poots,,20,Democratic Unionist Party,,lagan-valley,M,,
-Lagan Valley,6,19723,Matt,Robinson,,991,NI Conservatives,,lagan-valley,M,,
-Mid Ulster,7,11273,Keith,Buchanan,,20,Democratic Unionist Party,,mid-ulster,M,Buchanan_dup,
-Mid Ulster,7,11274,Linda,Dillon,,24,Sinn Fein,,mid-ulster,F,LindaDillon81,
-Mid Ulster,7,11290,Hannah,Loughrin,,141,Traditional Unionist Voice,,mid-ulster,F,,
-Mid Ulster,7,11291,Patsy,McGlone,,23,Social Democratic and Labour Party,,mid-ulster,M,patsymcglone,
-Mid Ulster,7,11275,Ian,Milne,,24,Sinn Fein,,mid-ulster,M,Ianmilnesf,
-Mid Ulster,7,11276,Michelle,O'Neill,,24,Sinn Fein,,mid-ulster,F,moneillsf,
-Mid Ulster,7,3870,Sandra,Overend,,26,Ulster Unionist Party,,mid-ulster,F,over2sandra,sandra.overend@voteforchangeni.com
-Mid Ulster,7,7088,Hugh,Scullion,,998,Workers Party,,mid-ulster,M,,workerspartyni@yahoo.co.uk
-Mid Ulster,7,10203,Stefan,Taylor,,111,Green Party,,mid-ulster,M,GreenPartyNI,stefan.taylor@icloud.com
-Mid Ulster,7,19693,Fay,Watson,,19,Alliance Party,,mid-ulster,F,,
-Newry and Armagh,8,11394,Cathal,Boylan,,24,Sinn Fein,,newry-armagh,M,cathalboylansf,
-Newry and Armagh,8,19696,Jackie,Coade,,19,Alliance Party,,newry-armagh,F,,
-Newry and Armagh,8,11396,Megan,Fearon,,24,Sinn Fein,,newry-armagh,F,mfearonsf,
-Newry and Armagh,8,1872,William,Irwin,,20,Democratic Unionist Party,,newry-armagh,M,,william.irwin@armagh.gov.uk
-Newry and Armagh,8,31,Danny,Kennedy,,26,Ulster Unionist Party,,newry-armagh,M,DKennedy_UUP,danny.kennedy@voteforchangeni.com
-Newry and Armagh,8,19691,Kevin,McAteer,,999,People Before Profit Alliance,,newry-armagh,M,,
-Newry and Armagh,8,6086,Justin,McNulty,,23,Social Democratic and Labour Party,,newry-armagh,M,,
-Newry and Armagh,8,1856,Conor,Murphy,,24,Sinn Fein,,newry-armagh,M,,conor.murphy@niassembly.gov.uk
-Newry and Armagh,8,19702,Rowan,Tunnicliffe,,111,Green Party,,newry-armagh,M,RowanTNI,
-North Antrim,9,2134,Jim,Allister,,141,Traditional Unionist Voice,,north-antrim,M,JimAllister,info@jimallister.org
-North Antrim,9,19703,Mark,Bailey,,111,Green Party,,north-antrim,M,mfbailey,markbailey@antrimgreens.com
-North Antrim,9,19714,Monica,Digney,,21,Independent,,north-antrim,F,,
-North Antrim,9,12750,Connor,Duncan,,23,Social Democratic and Labour Party,,north-antrim,M,CDuncanSDLP,
-North Antrim,9,12751,Paul,Frew,,20,Democratic Unionist Party,,north-antrim,M,paulfrewDUP,
-North Antrim,9,5985,Timothy,Gaston,,141,Traditional Unionist Voice,,north-antrim,M,CllrGaston,Cllr.Gaston@MidandEastAntrim.gov.uk
-North Antrim,9,12753,Phillip,Logan,,20,Democratic Unionist Party,,north-antrim,M,philliplogan,
-North Antrim,9,19725,Adam,McBride,,21,Independent,,north-antrim,M,,
-North Antrim,9,19673,Philip,McGuigan,,24,Sinn Fein,,north-antrim,M,mcguigan_philip,philip.mcguigan@mla.niassembly.gov.uk
-North Antrim,9,19695,Patricia,O'Lynn,,19,Alliance Party,,north-antrim,F,PatriciaOLynn,
-North Antrim,9,12757,Mervyn,Storey,,20,Democratic Unionist Party,,north-antrim,M,,
-North Antrim,9,4723,Robin,Swann,,26,Ulster Unionist Party,,north-antrim,M,robinswannuup,robin.swannMLA@gmail.com
-North Down,11,3876,Steven,Agnew,,111,Green Party,,north-down,M,StevenAgnew,steven.agnew@greenpartyni.org
-North Down,11,8154,Alan,Chambers,,26,Ulster Unionist Party,,north-down,M,alcham49,alan.chambers@mla.niassembly.gov.uk
-North Down,11,19710,William,Cudworth,,26,Ulster Unionist Party,,north-down,M,,
-North Down,11,11550,Gordon,Dunne,,20,Democratic Unionist Party,,north-down,M,,
-North Down,11,7178,Alex,Easton,,20,Democratic Unionist Party,,north-down,M,,alex@alexeastonmla.org
-North Down,11,3598,Stephen,Farry,,19,Alliance Party,,north-down,M,StephenFarryMLA,stephen.farry@allianceparty.org
-North Down,11,19712,Melanie,Kennedy,,21,Independent,,north-down,F,,
-North Down,11,19708,Liam,Logan,,23,Social Democratic and Labour Party,,north-down,M,,
-North Down,11,19711,Kieran,Maxwell,,24,Sinn Fein,,north-down,M,KieranMaxwell,
-North Down,11,19715,Caoimhe,McNeill,,23,Social Democratic and Labour Party,,north-down,F,caoimhemcneill,
-North Down,11,11548,Frank,Shivers,,991,NI Conservatives,,north-down,M,Frankshivers,
-South Antrim,12,8151,Steve,Aiken,,26,Ulster Unionist Party,,south-antrim,M,SteveAikenUUP,steve.aiken@mla.niassembly.gov.uk
-South Antrim,12,19681,Ivanka,Antova,,999,People Before Profit Alliance,,south-antrim,F,,
-South Antrim,12,19704,Eleanor,Bailey,,111,Green Party,,south-antrim,F,,
-South Antrim,12,6346,Richard,Cairns,,141,Traditional Unionist Voice,,south-antrim,M,rickwcairns,rcairnstuv@gmail.com
-South Antrim,12,13366,Pam,Cameron,,20,Democratic Unionist Party,,south-antrim,F,PamCameronMLA,pamcamerondup@gmail.com
-South Antrim,12,13367,Trevor,Clarke,,20,Democratic Unionist Party,,south-antrim,M,,
-South Antrim,12,8153,Adrian,Cochrane-Watson,,26,Ulster Unionist Party,,south-antrim,M,,
-South Antrim,12,13369,David,Ford,,19,Alliance Party,,south-antrim,M,DavidFordMLA,
-South Antrim,12,13370,Paul,Girvan,,20,Democratic Unionist Party,,south-antrim,M,,
-South Antrim,12,4711,Declan,Kearney,,24,Sinn Fein,,south-antrim,M,DeclanKearneySF,
-South Antrim,12,19721,Mark,Logan,,991,NI Conservatives,,south-antrim,M,,
-South Antrim,12,5390,Roisin,Lynch,,23,Social Democratic and Labour Party,,south-antrim,F,roisinlynchsdlp,roisin.lynch@sdlphq.ie
-South Antrim,12,13371,David,McMaster,,21,Independent,,south-antrim,M,,
-South Down,14,11531,Sinead,Bradley,,23,Social Democratic and Labour Party,,south-down,F,SineadBradleySD,
-South Down,14,11532,Patrick,Brown,,19,Alliance Party,,south-down,M,Paddy_JBrown,
-South Down,14,19671,Sinead,Ennis,,24,Sinn Fein,,south-down,F,,
-South Down,14,19705,Hannah,George,,111,Green Party,,south-down,F,,
-South Down,14,5994,Chris,Hazzard,,24,Sinn Fein,,south-down,M,ChrisHazzardSF,hazzardmail@yahoo.com
-South Down,14,19722,Gary,Hynds,,991,NI Conservatives,,south-down,M,,
-South Down,14,11535,Colin,McGrath,,23,Social Democratic and Labour Party,,south-down,M,ColinSDLP,
-South Down,14,6709,Harold,McKee,,26,Ulster Unionist Party,,south-down,M,mckeeuup,harold.mckee@mla.niassembly.gov.uk
-South Down,14,11545,Lyle,Rea,,141,Traditional Unionist Voice,,south-down,M,,
-South Down,14,2333,Jim,Wells,,20,Democratic Unionist Party,,south-down,M,Jim_Wells_MLA,jimwells7@aol.com
-Strangford,15,4590,Kellie,Armstrong,,19,Alliance Party,,strangford,F,Kelmba,kellie.armstrong@allianceparty.org
-Strangford,15,19706,Ricky,Bamford,,111,Green Party,,strangford,M,,
-Strangford,15,6251,Jonathan,Bell,,21,Independent,,strangford,M,jonathanfbell,
-Strangford,15,19718,Scott,Benton,,991,NI Conservatives,,strangford,M,,
-Strangford,15,7179,Joe,Boyle,,23,Social Democratic and Labour Party,,strangford,M,,joetboyle@yahoo.co.uk
-Strangford,15,6984,Stephen,Cooper,,141,Traditional Unionist Voice,,strangford,M,S_J_Cooper,
-Strangford,15,16581,Simon,Hamilton,,20,Democratic Unionist Party,,strangford,M,SimonHamilton,
-Strangford,15,12090,Dermot,Kennedy,,24,Sinn Fein,,strangford,M,,
-Strangford,15,12092,Michelle,McIlveen,,20,Democratic Unionist Party,,strangford,F,MMcIlveenDUP,mail@michellemcilveen.org.uk
-Strangford,15,302,Mike,Nesbitt,,26,Ulster Unionist Party,,strangford,M,mikenesbittni,mike@mikenesbitt.co.uk
-Strangford,15,8115,Philip,Smith,,26,Ulster Unionist Party,,strangford,M,1PhilipSmith,
-Strangford,15,11547,Peter,Weir,,20,Democratic Unionist Party,,strangford,M,peterweirmla,
-Upper Bann,16,8150,Doug,Beattie,,26,Ulster Unionist Party,,upper-bann,M,BeattieDoug,doug.beattie@mla.niassembly.gov.uk
-Upper Bann,16,19683,Johnathan,Buckley,,20,Democratic Unionist Party,,upper-bann,M,JBuckleyDUP,
-Upper Bann,16,4677,Jo-Anne,Dobson,,26,Ulster Unionist Party,,upper-bann,F,JoAnne_Dobson,jo-anne.dobson@mla.niassembly.gov.uk
-Upper Bann,16,12443,Roy,Ferguson,,141,Traditional Unionist Voice,,upper-bann,M,,
-Upper Bann,16,33,Harry,Hamilton,,19,Alliance Party,,upper-bann,M,,harry.hamilton@voteforchangeni.com
-Upper Bann,16,699,Dolores,Kelly,,23,Social Democratic and Labour Party,,upper-bann,F,doloreskelly,d.kelly@sdlp.ie
-Upper Bann,16,7435,Martin,Kelly,,993,Cannabis Is Safer Than Alcohol,,upper-bann,M,cistaupperbann,
-Upper Bann,16,12440,Simon,Lee,,111,Green Party,,upper-bann,M,thesymbolic,
-Upper Bann,16,12439,Carla,Lockhart,,20,Democratic Unionist Party,,upper-bann,F,carlalockhart,
-Upper Bann,16,12436,Ian,Nickels,,991,NI Conservatives,,upper-bann,M,,
-Upper Bann,16,3752,John,O'Dowd,,24,Sinn Fein,,upper-bann,M,JohnODowdSF,
-Upper Bann,16,19679,Nuala,Toman,,24,Sinn Fein,,upper-bann,F,NualaToman,
-West Tyrone,18,11342,Michaela,Boyle,,24,Sinn Fein,,west-tyrone,F,MichaelaBoyleSF,
-West Tyrone,18,6920,Barry,Brown,,993,Cannabis Is Safer Than Alcohol,,west-tyrone,M,,bonesbrown@hotmail.com
-West Tyrone,18,1871,Thomas,Buchanan,,20,Democratic Unionist Party,,west-tyrone,M,,cllrthomasbuchananmla@hotmail.com
-West Tyrone,18,19689,Alicia,Clarke,,26,Ulster Unionist Party,,west-tyrone,F,,
-West Tyrone,18,6365,Stephen,Donnelly,,19,Alliance Party,,west-tyrone,M,SteveDonnelly95,stephen.donnelly@allianceparty.org
-West Tyrone,18,11347,Corey,French,,21,Independent,,west-tyrone,M,coreyfrench,coreyfrench@live.co.uk
-West Tyrone,18,11346,Roger,Lomas,,991,NI Conservatives,,west-tyrone,M,Tyrone_Tory,
-West Tyrone,18,11343,Declan,McAleer,,24,Sinn Fein,,west-tyrone,M,,
-West Tyrone,18,11337,Sorcha,McAnespy,,21,Independent,,west-tyrone,F,CllrMcAnespy,
-West Tyrone,18,5184,Ciaran,McClean,,111,Green Party,,west-tyrone,M,mccleangreen,cmc94@hotmail.com
-West Tyrone,18,5185,Daniel,McCrossan,,23,Social Democratic and Labour Party,,west-tyrone,M,McCrossanMLA,daniel.mccrossan@party.niassembly.gov.uk
-West Tyrone,18,11345,Barry,McElduff,,24,Sinn Fein,,west-tyrone,M,BarryMcElduff,barrymcelduffmla@gmail.com
-West Tyrone,18,19675,Roisin,McMackin,,21,Independent,,west-tyrone,F,RoisinMed,roisinmed@aol.com
+Belfast East,2,8116,Andy,Allen,,26,Ulster Unionist Party,,belfast-east,Male,AndyAllen88,andy@belfastuup.com
+Belfast East,2,19719,Sheila,Bodel,,991,NI Conservatives,,belfast-east,Female,SheilaBodel,
+Belfast East,2,13032,Joanne,Bunting,,20,Democratic Unionist Party,,belfast-east,Female,Joanne_Bunting,
+Belfast East,2,19687,David,Douglas,,20,Democratic Unionist Party,,belfast-east,Male,,
+Belfast East,2,19745,Séamas,de Faoite,,23,Social Democratic and Labour Party,,belfast-east,Male,SeamasBelfast,
+Belfast East,2,13035,Andrew,Girvin,,141,Traditional Unionist Voice,,belfast-east,male,CllrGirvin,
+Belfast East,2,13037,John,Kyle,,994,Progressive Unionist Party,,belfast-east,male,cllrjohnkyle,
+Belfast East,2,2454,Naomi,Long,,19,Alliance Party,,belfast-east,female,naomi_long,naomi.long@allianceparty.org
+Belfast East,2,13038,Chris,Lyttle,,19,Alliance Party,,belfast-east,Male,Chris_Lyttle,chris.lyttle@allianceparty.org
+Belfast East,2,19746,Jordy,McKeag,,21,Independent,,belfast-east,Male,,
+Belfast East,2,19699,Georgina,Milne,,111,Green Party,,belfast-east,Female,Georgina_Milne,
+Belfast East,2,13040,Robin,Newton,,20,Democratic Unionist Party,,belfast-east,male,,
+Belfast East,2,19680,Máiréad,O'Donnell,,24,Sinn Fein,,belfast-east,female,cllrmairead,
+Belfast East,2,13041,Courtney,Robinson,,987,Cross-Community Labour Alternative,,belfast-east,Female,Coroweee,
+Belfast North,10,11380,Paula,Bradley,,20,Democratic Unionist Party,,belfast-north,female,,
+Belfast North,10,11377,Carál,Ní Chuilín,,24,Sinn Fein,,belfast-north,female,CaralNiChuilin,teachcarney@msn.com
+Belfast North,10,19690,Julie-Anne,Corr-Johnston,,994,Progressive Unionist Party,,belfast-north,female,JulieACorr,
+Belfast North,10,11371,Fiona,Ferguson,,999,People Before Profit Alliance,,belfast-north,Female,fiona_ferg,
+Belfast North,10,19697,Robert,Foster,,26,Ulster Unionist Party,,belfast-north,Male,,
+Belfast North,10,575,William,Humphrey,,20,Democratic Unionist Party,,belfast-north,male,,williamhy@dup-belfast.co.uk
+Belfast North,10,131,Gerry,Kelly,,24,Sinn Fein,,belfast-north,male,GerryKellyMLA,teachcarney@msn.com
+Belfast North,10,11385,Nichola,Mallon,,23,Social Democratic and Labour Party,,belfast-north,female,NicholaMallon,
+Belfast North,10,11374,Nuala,McAllister,,19,Alliance Party,,belfast-north,female,NualaMcAllister,
+Belfast North,10,11375,Nelson,McCausland,,20,Democratic Unionist Party,,belfast-north,male,,nmccausland@dup-belfast.co.uk
+Belfast North,10,19676,Adam,Millar,,21,Independent,,belfast-north,Male,AdamMillar,
+Belfast North,10,11378,Malachai,O'Hara,,111,Green Party,,belfast-north,Male,gaygael,
+Belfast North,10,6264,Gemma,Weir,,998,Workers Party,,belfast-north,female,gemmacweir1,workerspartyni@yahoo.co.uk
+Belfast South,13,5824,Clare,Bailey,,111,Green Party,,belfast-south,female,ClareBaileyGPNI,claresquare@yahoo.com
+Belfast South,13,1679,Paula,Bradshaw,,19,Alliance Party,,belfast-south,female,PaulaJaneB,paula.bradshaw@allianceparty.org
+Belfast South,13,11455,Sean,Burns,,987,Cross-Community Labour Alternative,,belfast-south,Male,,sburnsmedia@gmail.com
+Belfast South,13,19698,Naomh,Gallagher,,23,Social Democratic and Labour Party,,belfast-south,female,naomhgallagher,
+Belfast South,13,3475,Claire,Hanna,,23,Social Democratic and Labour Party,,belfast-south,female,ClaireHanna,clairehanna@gmail.com
+Belfast South,13,19709,Micheal,Henderson,,26,Ulster Unionist Party,,belfast-south,Male,,
+Belfast South,13,11457,John,Andrew Hiddleston,,141,Traditional Unionist Voice,,belfast-south,Male,,
+Belfast South,13,6023,George,Jabbour,,991,NI Conservatives,,belfast-south,male,JGJabbour,georgeforinverclyde@gmail.com
+Belfast South,13,6265,Lily,Kerr,,998,Workers Party,,belfast-south,female,,workerspartyni@yahoo.co.uk
+Belfast South,13,19677,Emmet,McDonough-Brown,,19,Alliance Party,,belfast-south,Male,EmmetMcDB,emmet@allianceparty.org
+Belfast South,13,19670,Pádraigín,Mervyn,,999,People Before Profit Alliance,,belfast-south,Female,,
+Belfast South,13,4597,Máirtín,Ó Muilleoir,,24,Sinn Fein,,belfast-south,male,newbelfast,mairtin@newbelfast.com
+Belfast South,13,11458,Emma,Little Pengelly,,20,Democratic Unionist Party,,belfast-south,female,little_pengelly,
+Belfast South,13,11461,Christopher David Matthew,Stalford,,20,Democratic Unionist Party,,belfast-south,male,CStalfordMLA,
+Belfast West,17,982,Alex,Attwood,,23,Social Democratic and Labour Party,,belfast-west,male,AlexAttwoodMLA,attwoodalex@yahoo.co.uk
+Belfast West,17,8186,Conor,Campbell,,998,Workers Party,,belfast-west,male,,
+Belfast West,17,7199,Gerry,Carroll,,999,People Before Profit Alliance,,belfast-west,male,GerryCarrollPBP,royshakur@hotmail.com
+Belfast West,17,19674,Michael,Collins,,999,People Before Profit Alliance,,belfast-west,male,,
+Belfast West,17,19688,Sorcha,Eastwood,,19,Alliance Party,,belfast-west,Female,SorchaEastwood,
+Belfast West,17,19668,Órlaithí,Flynn,,24,Sinn Fein,,belfast-west,female,orlaithiflynnsf,orlaithi.flynn@mla.niassembly.gov.uk
+Belfast West,17,11439,Alex,Maskey,,24,Sinn Fein,,belfast-west,male,AlexMaskeyMLA,ufsinnfein@yahoo.com
+Belfast West,17,11437,Fra,McCann,,24,Sinn Fein,,belfast-west,male,FramccannMLA,
+Belfast West,17,7174,Frank,McCoubrey,,20,Democratic Unionist Party,,belfast-west,male,,
+Belfast West,17,11441,Ellen,Murray,,111,Green Party,,belfast-west,Female,ellenfromnowon,
+Belfast West,17,19686,Fred,Rodgers,,26,Ulster Unionist Party,,belfast-west,Male,Fredjrodgers,
+Belfast West,17,11436,Pat,Sheehan,,24,Sinn Fein,,belfast-west,male,PatSheehanMLA,
+East Antrim,1,7132,Roy,Beggs,,26,Ulster Unionist Party,,east-antrim,male,roybeggs,roy.beggs@co.niassembly.gov.uk
+East Antrim,1,19741,Ricky,Best,,21,Independent,,east-antrim,Male,,
+East Antrim,1,4591,Stewart,Dickson,,19,Alliance Party,,east-antrim,male,stewartcdickson,stewart.dickson@allianceparty.org
+East Antrim,1,9805,Danny,Donnelly,,19,Alliance Party,,east-antrim,Male,DannyDonnelly1,
+East Antrim,1,6991,Alan,Dunlop,,991,NI Conservatives,,east-antrim,male,Alan4SAntrim,
+East Antrim,1,11447,David,Hilditch,,20,Democratic Unionist Party,,east-antrim,male,,
+East Antrim,1,6399,Noel,Jordan,,689,UK Independence Party,,east-antrim,male,CarrickUKIP,noel.jordan@ukipni.co.uk
+East Antrim,1,11448,Gordon,Lyons,,20,Democratic Unionist Party,,east-antrim,male,gordonlyons1,
+East Antrim,1,5389,Margaret Anne,McKillop,,23,Social Democratic and Labour Party,,east-antrim,female,,
+East Antrim,1,1061,Oliver,McMullan,,24,Sinn Fein,,east-antrim,male,OliverMcMullan,eastantrimsinnfein@gmail.com
+East Antrim,1,10293,Dawn,Patterson,,111,Green Party,,east-antrim,Female,DawnPEastAntri1,bourkedawn@gmail.com
+East Antrim,1,19685,Stephen,Ross,,20,Democratic Unionist Party,,east-antrim,Male,,
+East Antrim,1,11450,Conor,Sheridan,,987,Cross-Community Labour Alternative,,east-antrim,male,conorjsheridan1,conorjsheridan21@gmail.com
+East Antrim,1,8121,John,Stewart,,26,Ulster Unionist Party,,east-antrim,Male,JohnStewart1983,
+East Antrim,1,6985,Ruth,Wilson,,141,Traditional Unionist Voice,,east-antrim,Female,,
+East Londonderry,3,5979,Caoimhe,Archibald,,24,Sinn Fein,,east-londonderry,female,CArchibald_SF,caoimhearchibald@gmail.com
+East Londonderry,3,12079,Jordan,Armstrong,,141,Traditional Unionist Voice,,east-londonderry,Male,,
+East Londonderry,3,12080,Maurice,Bradley,,20,Democratic Unionist Party,,east-londonderry,male,,
+East Londonderry,3,19750,Gavin,Campbell,,999,People Before Profit Alliance,,east-londonderry,Male,,
+East Londonderry,3,19682,John,Dallat,,23,Social Democratic and Labour Party,,east-londonderry,male,johndallat,
+East Londonderry,3,19700,Anthony,Flynn,,111,Green Party,,east-londonderry,Male,AntoFlynnser,
+East Londonderry,3,4013,David,Harding,,991,NI Conservatives,,east-londonderry,male,,dhmrcvs@hotmail.com
+East Londonderry,3,6403,William,McCandless,,26,Ulster Unionist Party,,east-londonderry,male,,
+East Londonderry,3,11861,Chris,McCaw,,19,Alliance Party,,east-londonderry,Male,chrismccaw_ni,
+East Londonderry,3,12083,Adrian,McQuillan,,20,Democratic Unionist Party,,east-londonderry,male,,
+East Londonderry,3,7078,Gerry,Mullan,,21,Independent,,east-londonderry,male,,
+East Londonderry,3,12086,George,Robinson,,20,Democratic Unionist Party,,east-londonderry,male,,
+East Londonderry,3,12087,Claire,Sugden,,21,Independent,,east-londonderry,female,ClaireSugden,
+East Londonderry,3,12088,Russell,Watton,,994,Progressive Unionist Party,,east-londonderry,Male,,
+East Londonderry,3,12084,Cathal,óhOisín,,24,Sinn Fein,,east-londonderry,male,CathalOhOisin,
+Fermanagh and South Tyrone,4,8123,Rosemary,Barton,,26,Ulster Unionist Party,,fermanagh-south-tyrone,female,RosemaryBarton1,rosemary.barton@mla.niassembly.gov.uk
+Fermanagh and South Tyrone,4,19684,Noreen,Campbell,,19,Alliance Party,,fermanagh-south-tyrone,Female,noreen_campbell,
+Fermanagh and South Tyrone,4,19672,Jemma,Dolan,,24,Sinn Fein,,fermanagh-south-tyrone,female,jemma_dolan,
+Fermanagh and South Tyrone,4,19720,Richard,Dunn,,991,NI Conservatives,,fermanagh-south-tyrone,Male,,
+Fermanagh and South Tyrone,4,19692,Alex,Elliot,,141,Traditional Unionist Voice,,fermanagh-south-tyrone,Male,,
+Fermanagh and South Tyrone,4,11526,Arlene,Foster,,20,Democratic Unionist Party,,fermanagh-south-tyrone,female,DUPleader,
+Fermanagh and South Tyrone,4,2427,Michelle,Gildernew,,24,Sinn Fein,,fermanagh-south-tyrone,female,gildernewm,michelle.gildernew@sinn-fein.ie
+Fermanagh and South Tyrone,4,4674,Tanya,Jones,,111,Green Party,,fermanagh-south-tyrone,female,decombustion,tanya@greenlassie.com
+Fermanagh and South Tyrone,4,11528,Seán,Lynch,,24,Sinn Fein,,fermanagh-south-tyrone,male,seanlynch122,
+Fermanagh and South Tyrone,4,11529,Richie,McPhillips,,23,Social Democratic and Labour Party,,fermanagh-south-tyrone,male,Richiemcp,richiesdlperneeast@outlook.com
+Fermanagh and South Tyrone,4,11530,Maurice,Morrow,,20,Democratic Unionist Party,,fermanagh-south-tyrone,male,,
+Fermanagh and South Tyrone,4,19717,Donal,O'Cofaigh,,987,Cross-Community Labour Alternative,,fermanagh-south-tyrone,Male,Donaloc,
+Foyle,5,7656,Stuart,Canning,,991,NI Conservatives,,foyle,Male,StuartC93,stuart.canning93@gmail.com
+Foyle,5,19694,Colm,Cavanagh,,19,Alliance Party,,foyle,Male,,
+Foyle,5,19701,Shannon,Downey,,111,Green Party,,foyle,Female,shannon_downey5,
+Foyle,5,19640,Mark H.,Durkan,,23,Social Democratic and Labour Party,,foyle,male,MarkHDurkan,
+Foyle,5,11857,Colum,Eastwood,,23,Social Democratic and Labour Party,,foyle,male,columeastwood,colum.eastwood@sdlp.ie
+Foyle,5,6404,Julia,Kee,,26,Ulster Unionist Party,,foyle,female,JuliaEKee,
+Foyle,5,11859,John,Lindsay,,993,Cannabis Is Safer Than Alcohol,,foyle,Male,,
+Foyle,5,19678,Elisha,McCallion,,24,Sinn Fein,,foyle,female,MayorElisha,
+Foyle,5,2294,Eamonn,McCann,,999,People Before Profit Alliance,,foyle,male,eamonnmccannpbp,peopleb4profitni@aol.com
+Foyle,5,11860,Raymond,McCartney,,24,Sinn Fein,,foyle,male,RaymondMcCartn1,
+Foyle,5,19742,Arthur,McGuinness,,21,Independent,,foyle,Male,,
+Foyle,5,7209,Gary,Middleton,,20,Democratic Unionist Party,,foyle,male,Gary_Middleton,
+Lagan Valley,6,11537,Dan,Barrios-O'Neill,,111,Green Party,,lagan-valley,male,DBarriosONeill,
+Lagan Valley,6,8114,Robbie,Butler,,26,Ulster Unionist Party,,lagan-valley,Male,t3robbie,robbie.butler@mla.niassembly.gov.uk
+Lagan Valley,6,7180,Pat,Catney,,23,Social Democratic and Labour Party,,lagan-valley,male,PatCatney,
+Lagan Valley,6,19716,Peter,Doran,,24,Sinn Fein,,lagan-valley,Male,,
+Lagan Valley,6,11540,Paul,Givan,,20,Democratic Unionist Party,,lagan-valley,male,paulgivan,
+Lagan Valley,6,19747,Keith John,Gray,,21,Independent,,lagan-valley,Male,,
+Lagan Valley,6,11541,Brenda,Hale,,20,Democratic Unionist Party,,lagan-valley,female,,
+Lagan Valley,6,763,Trevor,Lunn,,19,Alliance Party,,lagan-valley,male,TrevorLunnLV,trevor.lunn@allianceparty.org
+Lagan Valley,6,297,Samuel,Morrison,,141,Traditional Unionist Voice,,lagan-valley,Male,SammyMorrison82,
+Lagan Valley,6,7410,Jonny,Orr,,21,Independent,,lagan-valley,male,,
+Lagan Valley,6,8113,Jenny,Palmer,,26,Ulster Unionist Party,,lagan-valley,Female,jennyp_mla,jenny.palmer@mla.niassembly.gov.uk
+Lagan Valley,6,11544,Edwin,Poots,,20,Democratic Unionist Party,,lagan-valley,male,,
+Lagan Valley,6,19723,Matthew,Robinson,,991,NI Conservatives,,lagan-valley,Male,,
+Mid Ulster,7,11273,Keith Alexander,Buchanan,,20,Democratic Unionist Party,,mid-ulster,male,Buchanan_dup,
+Mid Ulster,7,11274,Linda,Dillon,,24,Sinn Fein,,mid-ulster,female,LindaDillon81,
+Mid Ulster,7,11290,Hannah,Loughrin,,141,Traditional Unionist Voice,,mid-ulster,Female,,
+Mid Ulster,7,19727,Hugh,McCloy,,21,Independent,,mid-ulster,Male,hughmccloy,hughmccloy@googlemail.com
+Mid Ulster,7,11291,Patsy,McGlone,,23,Social Democratic and Labour Party,,mid-ulster,male,patsymcglone,
+Mid Ulster,7,11275,Ian,Milne,,24,Sinn Fein,,mid-ulster,male,Ianmilnesf,
+Mid Ulster,7,11276,Michelle,O'Neill,,24,Sinn Fein,,mid-ulster,female,moneillsf,
+Mid Ulster,7,3870,Sandra,Overend,,26,Ulster Unionist Party,,mid-ulster,female,over2sandra,sandra.overend@voteforchangeni.com
+Mid Ulster,7,7088,Hugh,Scullion,,998,Workers Party,,mid-ulster,male,,workerspartyni@yahoo.co.uk
+Mid Ulster,7,10203,Stefan,Taylor,,111,Green Party,,mid-ulster,Male,GreenPartyNI,stefan.taylor@icloud.com
+Mid Ulster,7,19693,Fay,Watson,,19,Alliance Party,,mid-ulster,Female,,
+Newry and Armagh,8,11394,Cathal,Boylan,,24,Sinn Fein,,newry-armagh,male,cathalboylansf,
+Newry and Armagh,8,19696,Jackie,Coade,,19,Alliance Party,,newry-armagh,Female,,
+Newry and Armagh,8,11395,Emmet,Crossan,,993,Cannabis Is Safer Than Alcohol,,newry-armagh,male,EMMETforMLA,
+Newry and Armagh,8,11396,Megan,Fearon,,24,Sinn Fein,,newry-armagh,female,mfearonsf,
+Newry and Armagh,8,1872,William George,Irwin,,20,Democratic Unionist Party,,newry-armagh,male,,william.irwin@armagh.gov.uk
+Newry and Armagh,8,31,Danny,Kennedy,,26,Ulster Unionist Party,,newry-armagh,male,DKennedy_UUP,danny.kennedy@voteforchangeni.com
+Newry and Armagh,8,6086,Justin,McNulty,,23,Social Democratic and Labour Party,,newry-armagh,male,,
+Newry and Armagh,8,1856,Conor,Murphy,,24,Sinn Fein,,newry-armagh,male,,conor.murphy@niassembly.gov.uk
+Newry and Armagh,8,19702,Rowan,Tunnicliffe,,111,Green Party,,newry-armagh,Male,RowanTNI,
+North Antrim,9,2134,Jim,Allister,,141,Traditional Unionist Voice,,north-antrim,male,JimAllister,info@jimallister.org
+North Antrim,9,19703,Mark,Bailey,,111,Green Party,,north-antrim,Male,mfbailey,markbailey@antrimgreens.com
+North Antrim,9,19714,Monica,Digney,,21,Independent,,north-antrim,female,,
+North Antrim,9,12750,Connor,Duncan,,23,Social Democratic and Labour Party,,north-antrim,male,CDuncanSDLP,
+North Antrim,9,12751,Paul,Frew,,20,Democratic Unionist Party,,north-antrim,male,paulfrewDUP,
+North Antrim,9,5985,Timothy,Gaston,,141,Traditional Unionist Voice,,north-antrim,male,CllrGaston,Cllr.Gaston@MidandEastAntrim.gov.uk
+North Antrim,9,12753,Phillip,Logan,,20,Democratic Unionist Party,,north-antrim,male,philliplogan,
+North Antrim,9,19725,Adam,McBride,,21,Independent,,north-antrim,Male,AdamMcBrideNI,adam@makeni.work
+North Antrim,9,19673,Philip,McGuigan,,24,Sinn Fein,,north-antrim,Male,mcguigan_philip,philip.mcguigan@mla.niassembly.gov.uk
+North Antrim,9,19695,Patricia,O'Lynn,,19,Alliance Party,,north-antrim,Female,PatriciaOLynn,
+North Antrim,9,12757,Mervyn,Storey,,20,Democratic Unionist Party,,north-antrim,male,,
+North Antrim,9,4723,Robin,Swann,,26,Ulster Unionist Party,,north-antrim,male,robinswannuup,robin.swannMLA@gmail.com
+North Down,11,3876,Steven,Agnew,,111,Green Party,,north-down,male,StevenAgnew,steven.agnew@greenpartyni.org
+North Down,11,19748,Chris,Carter,,21,Independent,,north-down,Male,,
+North Down,11,8154,Alan,Chambers,,26,Ulster Unionist Party,,north-down,male,alcham49,alan.chambers@mla.niassembly.gov.uk
+North Down,11,6914,William,Cudworth,,26,Ulster Unionist Party,,north-down,male,cudworth12,will_cud@hotmail.com
+North Down,11,11550,Gordon Mervyn,Dunne,,20,Democratic Unionist Party,,north-down,male,,
+North Down,11,7178,Alex,Easton,,20,Democratic Unionist Party,,north-down,Male,,alex@alexeastonmla.org
+North Down,11,3598,Stephen,Farry,,19,Alliance Party,,north-down,male,StephenFarryMLA,stephen.farry@allianceparty.org
+North Down,11,19712,Melanie,Kennedy,,21,Independent,,north-down,Female,,
+North Down,11,19711,Kieran,Maxwell,,24,Sinn Fein,,north-down,Male,KieranMaxwell,
+North Down,11,19715,Caoimhe,McNeill,,23,Social Democratic and Labour Party,,north-down,Female,caoimhemcneill,
+North Down,11,19749,Gavan Aloysius,Reynolds,,21,Independent,,north-down,Male,,
+North Down,11,11548,Frank,Shivers,,991,NI Conservatives,,north-down,Male,Frankshivers,
+South Antrim,12,8151,Steve,Aiken,,26,Ulster Unionist Party,,south-antrim,male,SteveAikenUUP,steve.aiken@mla.niassembly.gov.uk
+South Antrim,12,19681,Ivanka,Antova,,999,People Before Profit Alliance,,south-antrim,female,,
+South Antrim,12,19704,Eleanor,Bailey,,111,Green Party,,south-antrim,Female,,
+South Antrim,12,6346,Richard William,Cairns,,141,Traditional Unionist Voice,,south-antrim,male,rickwcairns,rcairnstuv@gmail.com
+South Antrim,12,13366,Pam,Cameron,,20,Democratic Unionist Party,,south-antrim,female,PamCameronMLA,pamcamerondup@gmail.com
+South Antrim,12,13367,Trevor,Clarke,,20,Democratic Unionist Party,,south-antrim,male,,
+South Antrim,12,8153,Adrian David,Cochrane-Watson,,26,Ulster Unionist Party,,south-antrim,male,,
+South Antrim,12,13369,David RJ,Ford,,19,Alliance Party,,south-antrim,male,DavidFordMLA,
+South Antrim,12,13370,Paul,Girvan,,20,Democratic Unionist Party,,south-antrim,male,,
+South Antrim,12,4711,Declan,Kearney,,24,Sinn Fein,,south-antrim,male,DeclanKearneySF,
+South Antrim,12,19721,Mark,Logan,,991,NI Conservatives,,south-antrim,Male,,
+South Antrim,12,5390,Roisin,Lynch,,23,Social Democratic and Labour Party,,south-antrim,female,roisinlynchsdlp,roisin.lynch@sdlphq.ie
+South Antrim,12,13371,David,McMaster,,21,Independent,,south-antrim,Male,,
+South Down,14,11531,Sinead,Bradley,,23,Social Democratic and Labour Party,,south-down,Female,SineadBradleySD,
+South Down,14,11532,Patrick,Brown,,19,Alliance Party,,south-down,Male,Paddy_JBrown,
+South Down,14,19728,Patrick PC,Clarke,,21,Independent,,south-down,Male,PatrickClarke74,
+South Down,14,19671,Sinéad,Ennis,,24,Sinn Fein,,south-down,Female,,
+South Down,14,19705,Hannah,George,,111,Green Party,,south-down,Female,,
+South Down,14,5994,Chris,Hazzard,,24,Sinn Fein,,south-down,male,ChrisHazzardSF,hazzardmail@yahoo.com
+South Down,14,19722,Gary,Hynds,,991,NI Conservatives,,south-down,Male,,
+South Down,14,11535,Colin,McGrath,,23,Social Democratic and Labour Party,,south-down,male,ColinSDLP,
+South Down,14,6709,Harold,McKee,,26,Ulster Unionist Party,,south-down,male,mckeeuup,harold.mckee@mla.niassembly.gov.uk
+South Down,14,11545,Lyle,Rea,,141,Traditional Unionist Voice,,south-down,Male,,
+South Down,14,2333,Jim,Wells,,20,Democratic Unionist Party,,south-down,male,Jim_Wells_MLA,jimwells7@aol.com
+Strangford,15,4590,Kellie,Armstrong,,19,Alliance Party,,strangford,female,Kelmba,kellie.armstrong@allianceparty.org
+Strangford,15,19706,Ricky,Bamford,,111,Green Party,,strangford,Male,,
+Strangford,15,6251,Jonathan,Bell,,21,Independent,,strangford,male,jonathanfbell,jonathan.bell@mla.niassembly.gov.uk
+Strangford,15,19718,Scott,Benton,,991,NI Conservatives,,strangford,Male,,
+Strangford,15,7179,Joe,Boyle,,23,Social Democratic and Labour Party,,strangford,male,,joetboyle@yahoo.co.uk
+Strangford,15,6984,Stephen,Cooper,,141,Traditional Unionist Voice,,strangford,Male,S_J_Cooper,
+Strangford,15,16581,Simon,Hamilton,,20,Democratic Unionist Party,,strangford,male,SimonHamilton,
+Strangford,15,12090,Dermot,Kennedy,,24,Sinn Fein,,strangford,Male,,
+Strangford,15,12092,Michelle,McIlveen,,20,Democratic Unionist Party,,strangford,female,MMcIlveenDUP,mail@michellemcilveen.org.uk
+Strangford,15,12094,Jimmy,Menagh,,21,Independent,,strangford,Male,,
+Strangford,15,302,Mike,Nesbitt,,26,Ulster Unionist Party,,strangford,male,mikenesbittni,mike@mikenesbitt.co.uk
+Strangford,15,8115,Philip,Smith,,26,Ulster Unionist Party,,strangford,Male,1PhilipSmith,
+Strangford,15,11547,Peter,Weir,,20,Democratic Unionist Party,,strangford,male,peterweirmla,
+Upper Bann,16,8150,Doug,Beattie,,26,Ulster Unionist Party,,upper-bann,Male,BeattieDoug,doug.beattie@mla.niassembly.gov.uk
+Upper Bann,16,19683,Johnathan,Buckley,,20,Democratic Unionist Party,,upper-bann,Male,JBuckleyDUP,
+Upper Bann,16,19743,Colin,Craig,,998,Workers Party,,upper-bann,Male,,
+Upper Bann,16,4677,Jo-Anne,Dobson,,26,Ulster Unionist Party,,upper-bann,female,JoAnne_Dobson,jo-anne.dobson@mla.niassembly.gov.uk
+Upper Bann,16,19744,Tara,Doyle,,19,Alliance Party,,upper-bann,Female,,
+Upper Bann,16,12443,Roy,Ferguson,,141,Traditional Unionist Voice,,upper-bann,Male,,
+Upper Bann,16,699,Dolores,Kelly,,23,Social Democratic and Labour Party,,upper-bann,female,doloreskelly,d.kelly@sdlp.ie
+Upper Bann,16,12440,Simon,Lee,,111,Green Party,,upper-bann,Male,thesymbolic,
+Upper Bann,16,12439,Carla,Lockhart,,20,Democratic Unionist Party,,upper-bann,female,carlalockhart,
+Upper Bann,16,12436,Ian,Nickels,,991,NI Conservatives,,upper-bann,Male,,
+Upper Bann,16,3752,John,O'Dowd,,24,Sinn Fein,,upper-bann,male,JohnODowdSF,
+Upper Bann,16,19679,Nuala,Toman,,24,Sinn Fein,,upper-bann,female,NualaToman,
+West Tyrone,18,11342,Michaela,Boyle,,24,Sinn Fein,,west-tyrone,female,MichaelaBoyleSF,
+West Tyrone,18,6920,Barry,Brown,,993,Cannabis Is Safer Than Alcohol,,west-tyrone,male,,bonesbrown@hotmail.com
+West Tyrone,18,1871,Thomas,Buchanan,,20,Democratic Unionist Party,,west-tyrone,male,,cllrthomasbuchananmla@hotmail.com
+West Tyrone,18,19733,Charlie,Chittick,,141,Traditional Unionist Voice,,west-tyrone,Male,,
+West Tyrone,18,19689,Alicia,Clarke,,26,Ulster Unionist Party,,west-tyrone,Female,,
+West Tyrone,18,6365,Stephen,Donnelly,,19,Alliance Party,,west-tyrone,male,SteveDonnelly95,stephen.donnelly@allianceparty.org
+West Tyrone,18,11347,Corey,French,,21,Independent,,west-tyrone,Male,coreyfrench,coreyfrench@live.co.uk
+West Tyrone,18,11346,Roger,Lomas,,991,NI Conservatives,,west-tyrone,Male,Tyrone_Tory,
+West Tyrone,18,11343,Declan,McAleer,,24,Sinn Fein,,west-tyrone,male,,
+West Tyrone,18,11337,Sorcha,McAnespy,,21,Independent,,west-tyrone,Female,CllrMcAnespy,
+West Tyrone,18,5184,Ciaran,McClean,,111,Green Party,,west-tyrone,male,mccleangreen,cmc94@hotmail.com
+West Tyrone,18,5185,Daniel,McCrossan,,23,Social Democratic and Labour Party,,west-tyrone,male,McCrossanMLA,daniel.mccrossan@party.niassembly.gov.uk
+West Tyrone,18,11345,Barry,McElduff,,24,Sinn Fein,,west-tyrone,male,BarryMcElduff,barrymcelduffmla@gmail.com
+West Tyrone,18,19675,Roisin,McMackin,,21,Independent,,west-tyrone,female,RoisinMed,roisinmed@aol.com
+West Tyrone,18,7348,Susan-Anne,White,,21,Independent,,west-tyrone,female,,francissusanwhite@btinternet.com
