@@ -1,7 +1,7 @@
 Constituency_Name,Constituency_Number,Candidate_Id,Firstname,Surname,Outgoing_Member,Party_Id,Party_Name,Photo_URL,Directory,Gender,Twitter,Email
 North Antrim,9,2134,Jim,Allister,,141,Traditional Unionist Voice,,north-antrim,male,JimAllister,info@jimallister.org
 North Antrim,9,19703,Mark,Bailey,,111,Green Party,,north-antrim,Male,mfbailey,markbailey@antrimgreens.com
-North Antrim,9,19714,Monica,Digney,,21,Independent,,north-antrim,female,,
+North Antrim,9,19714,Monica,Digney,,21,Independent,,north-antrim,female,digneymonica,
 North Antrim,9,12750,Connor,Duncan,,23,Social Democratic and Labour Party,,north-antrim,male,CDuncanSDLP,
 North Antrim,9,12751,Paul,Frew,,20,Democratic Unionist Party,,north-antrim,male,paulfrewDUP,
 North Antrim,9,5985,Timothy,Gaston,,141,Traditional Unionist Voice,,north-antrim,male,CllrGaston,Cllr.Gaston@MidandEastAntrim.gov.uk
