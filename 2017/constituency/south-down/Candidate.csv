@@ -1,10 +1,12 @@
-Candidate_id,Constituency_Name,Constituency_Number,Firstname,Surname,Outgoing_member,Party_Id,Party_Name,Photo_URL,Directory,Gender,Twitter,Email
-11531,South Down,14,Sinead,Bradley,,23,Social Democratic and Labour Party,,south-down,Female,SineadBradleySD,
-11532,South Down,14,Patrick,Brown,,19,Alliance Party,,south-down,Male,Paddy_JBrown,
-19671,South Down,14,Sinead,Ennis,,24,Sinn Fein,,south-down,Female,,
-19705,South Down,14,Hannah,George,,111,Green Party,,south-down,Female,,
-5994,South Down,14,Chris,Hazzard,,24,Sinn Fein,,south-down,Male,ChrisHazzardSF,hazzardmail@yahoo.com
-11535,South Down,14,Colin,McGrath,,23,Social Democratic and Labour Party,,south-down,Male,ColinSDLP,
-6709,South Down,14,Harold,McKee,,26,Ulster Unionist Party,,south-down,Male,mckeeuup,harold.mckee@mla.niassembly.gov.uk
-11545,South Down,14,Lyle,Rea,,141,Traditional Unionist Voice,,south-down,Male,,
-2333,South Down,14,Jim,Wells,,20,Democratic Unionist Party,,south-down,Male,Jim_Wells_MLA,jimwells7@aol.com
+Constituency_Name,Constituency_Number,Candidate_Id,Firstname,Surname,Outgoing_Member,Party_Id,Party_Name,Photo_URL,Directory,Gender,Twitter,Email
+South Down,14,11531,Sinead,Bradley,,23,Social Democratic and Labour Party,,south-down,Female,SineadBradleySD,
+South Down,14,11532,Patrick,Brown,,19,Alliance Party,,south-down,Male,Paddy_JBrown,
+South Down,14,19728,Patrick PC,Clarke,,21,Independent,,south-down,Male,PatrickClarke74,
+South Down,14,19671,Sinéad,Ennis,,24,Sinn Fein,,south-down,Female,,
+South Down,14,19705,Hannah,George,,111,Green Party,,south-down,Female,,
+South Down,14,5994,Chris,Hazzard,,24,Sinn Fein,,south-down,male,ChrisHazzardSF,hazzardmail@yahoo.com
+South Down,14,19722,Gary,Hynds,,991,NI Conservatives,,south-down,Male,,
+South Down,14,11535,Colin,McGrath,,23,Social Democratic and Labour Party,,south-down,male,ColinSDLP,
+South Down,14,6709,Harold,McKee,,26,Ulster Unionist Party,,south-down,male,mckeeuup,harold.mckee@mla.niassembly.gov.uk
+South Down,14,11545,Lyle,Rea,,141,Traditional Unionist Voice,,south-down,Male,,
+South Down,14,2333,Jim,Wells,,20,Democratic Unionist Party,,south-down,male,Jim_Wells_MLA,jimwells7@aol.com
