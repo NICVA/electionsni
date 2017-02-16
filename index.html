@@ -81,12 +81,9 @@
                 <li class='last'><a href='#'><span>About</span></a></li>
             </ul>
         </div>
-        <div class="cta">
-            <strong>2017 Candidates data has not been finalised. You can contribute by using the <a href="https://democracyclub.org.uk/blog/2017/01/17/help-us-find-every-candidate-new-northern-ireland-assembly/" target="_blank">Democracy Club platform</a></strong>
-        </div>
 
         <!-- This is where the page will render -->
-        <router-view class="view"></router-view>
+        <router-view class="view" :election="election" :parties="parties"></router-view>
 
         <div id="footer">
             Project by <a href="http://belfast.theodi.org">ODI Belfast</a> at <a href="http://www.nicva.org">NICVA</a> and the <a href="http://www.opengovernment.org.uk/about/ni-ogn/">Open Government Network NI</a></br>
@@ -100,21 +97,32 @@
           <div>
             <div class="jumbotron">
               <div class="container">
-                <h1>Welcome</h1>
                 <div class="row">
                   <div class="col-md-6">
-                    <parties-gauge />
+                    <parties-gauge/>
                   </div>
                   <div class="col-md-6">
-                    <p class="lead">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-                    <p><router-link class="btn btn-lg btn-success" role="button" :to="{ name: 'candidates', params: { year: '2017' }}">Assembly Election 2017</router-link></p>
-                    <p><router-link :to="{ name: 'candidates', params: { year: '2016' }}">Assembly Election 2016</router-link></p>
+                    <h2>Welcome to ElectionsNI</h2>
+                    <p class="lead">ElectionsNI uses crowdsourced information on elections to the Northern Ireland Assembly to produce the real-time results that matter.</p>
+                    <p><router-link class="btn btn-lg btn-success" role="button" :to="{ name: 'election', params: { year: '2017' }}">Assembly Election 2017</router-link></p>
+                    <p><router-link role="button" class="btn btn-default" :to="{ name: 'election', params: { year: '2016' }}">Assembly Election 2016</router-link>
+                    <router-link role="button" class="btn btn-default" :to="{ name: 'election', params: { year: '2011' }}">Assembly Election 2011</router-link></p>
                   </div>
                 </div>
               </div>
             </div>
           </div>
       </template>
+
+    <template id="election-page">
+      <div class="container">
+        <h1>Assembly Election {{election.year}}</h1>
+        <h2>{{election.date}}</h2>
+        <h3>Seats available: {{election.seats_total}} ({{election.seats_each}} per constituency)</h3>
+        <h3><router-link :to="{ name: 'candidates', params: { year: election.year }}">{{candidates.length}} candidates standing</router-link></h3>
+        <p v-for="party in parties">{{ party.Party_Name }}</p>
+      </div>
+    </template>
 
     <template id="seat-gauge">
         <highcharts :options="options" ref="highcharts"></div>
@@ -126,7 +134,7 @@
 
     <template id="all-candidates-page">
       <div class="container">
-          <candidate-list />
+          <candidate-list :election="election"/>
         </div>
         </template>
 
@@ -144,13 +152,13 @@
             </h4>
             <div class="alert alert-info" role="alert">
               <h3>Help collect data with Democracy Club</h3>
-              <p>Democracy Club help us collect up to date and accurate candidate information.</p><p>If you know about other candidates, you can add them and they'll become available here too.</p>
+              <p>Democracy Club help us collect up to date and accurate candidate information.</p><p>You can contribute information about candidates yourself.</p>
               <a class="btn btn-primary" role="button" href="https://candidates.democracyclub.org.uk/election/nia.2017-03-02/constituencies" target="_blank">Contribute</a>
             </div>
       		</div>
 
         <div class="col-md-9">
-          <h2>Candidates ({{ this.$parent.$parent.election.year }})</h2>
+          <h2>Candidates ({{ election.year }})</h2>
           <div v-if="this.$parent.confirmedCandidates === false" class="alert alert-warning" role="alert"><p class="alert-text"><strong>Unconfirmed!</strong> Some of the candidates below may have been officially nominated, others may not yet have done so. Therefore, these are "unconfirmed candidates" until we have finalised nominations from the Electoral Office.</p></div>
           <template v-for="constituency in constituencies">
             <h3 :id="'constituency-' + constituency.Constituency_Number">{{ constituency.Constituency_Name }}</h3>
@@ -174,7 +182,7 @@
     </template>
 
 
-    <template id="candidate-page">
+    <template id="candidate-page" :election="election">
         <div class="container">
           <ul class="breadcrumb"><li><router-link to="/">Home</router-link></li><li><router-link :to="{ name: 'candidates', params: { year: this.$parent.election.year }}">Candidates</router-link></li><li class="active">{{ candidate.Firstname }} {{ candidate.Surname }}</li></ul>
           <h2>{{ candidate.Firstname }} {{ candidate.Surname }}</h2>

@@ -1,12 +1,13 @@
-Candidate_id,Constituency_Name,Constituency_Number,Firstname,Surname,Outgoing_member,Party_Id,Party_Name,Photo_URL,Directory,Gender,Twitter,Email
-3876,North Down,11,Steven,Agnew,,111,Green Party,,north-down,Male,StevenAgnew,steven.agnew@greenpartyni.org
-8154,North Down,11,Alan,Chambers,,26,Ulster Unionist Party,,north-down,Male,alcham49,alan.chambers@mla.niassembly.gov.uk
-19710,North Down,11,William,Cudworth,,26,Ulster Unionist Party,,north-down,Male,,
-11550,North Down,11,Gordon,Dunne,,20,Democratic Unionist Party,,north-down,Male,,
-7178,North Down,11,Alex,Easton,,20,Democratic Unionist Party,,north-down,Male,,alex@alexeastonmla.org
-3598,North Down,11,Stephen,Farry,,19,Alliance Party,,north-down,Male,StephenFarryMLA,stephen.farry@allianceparty.org
-19712,North Down,11,Melanie,Kennedy,,21,Independent,,north-down,Female,,
-19708,North Down,11,Liam,Logan,,23,Social Democratic and Labour Party,,north-down,Male,,
-19711,North Down,11,Kieran,Maxwell,,24,Sinn Fein,,north-down,Male,KieranMaxwell,
-19715,North Down,11,Caoimhe,McNeill,,23,Social Democratic and Labour Party,,north-down,Female,caoimhemcneill,
-11548,North Down,11,Frank,Shivers,,991,NI Conservatives,,north-down,Male,Frankshivers,
+Constituency_Name,Constituency_Number,Candidate_Id,Firstname,Surname,Outgoing_Member,Party_Id,Party_Name,Photo_URL,Directory,Gender,Twitter,Email
+North Down,11,3876,Steven,Agnew,1,111,Green Party,,north-down,male,StevenAgnew,steven.agnew@greenpartyni.org
+North Down,11,19748,Chris,Carter,,21,Independent,,north-down,Male,,
+North Down,11,8154,Alan,Chambers,1,26,Ulster Unionist Party,,north-down,male,alcham49,alan.chambers@mla.niassembly.gov.uk
+North Down,11,6914,William,Cudworth,,26,Ulster Unionist Party,,north-down,male,cudworth12,will_cud@hotmail.com
+North Down,11,11550,Gordon Mervyn,Dunne,1,20,Democratic Unionist Party,,north-down,male,,
+North Down,11,7178,Alex,Easton,1,20,Democratic Unionist Party,,north-down,Male,,alex@alexeastonmla.org
+North Down,11,3598,Stephen,Farry,1,19,Alliance Party,,north-down,male,StephenFarryMLA,stephen.farry@allianceparty.org
+North Down,11,19712,Melanie,Kennedy,,21,Independent,,north-down,Female,MelKennedyNI,
+North Down,11,19711,Kieran,Maxwell,,24,Sinn Fein,,north-down,Male,KieranMaxwell,
+North Down,11,19715,Caoimhe,McNeill,,23,Social Democratic and Labour Party,,north-down,Female,caoimhemcneill,
+North Down,11,19749,Gavan Aloysius,Reynolds,,21,Independent,,north-down,Male,,
+North Down,11,11548,Frank,Shivers,,991,NI Conservatives,,north-down,Male,Frankshivers,

@@ -88,7 +88,7 @@ var partiesGauge = {
         backgroundColor: 'rgba(255,255,255,0)',
     },
     title: {
-        text: 'Seats won',
+        text: 'Party Sizes'
     },
     tooltip: {
         pointFormat: '{series.name}: <b>{point.y}</b>'
@@ -96,7 +96,7 @@ var partiesGauge = {
     plotOptions: {
         pie: {
             dataLabels: {
-                align: 'left',
+                align: 'centre',
                 enabled: true,
                 style: {
                     color: 'black'

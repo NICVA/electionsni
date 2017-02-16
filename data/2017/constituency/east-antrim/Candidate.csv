@@ -1,14 +1,16 @@
-Candidate_id,Constituency_Name,Constituency_Number,Firstname,Surname,Outgoing_member,Party_Id,Party_Name,Photo_URL,Directory,Gender,Twitter,Email
-7132,East Antrim,1,Roy,Beggs,,26,Ulster Unionist Party,,east-antrim,Male,roybeggs,roy.beggs@co.niassembly.gov.uk
-4591,East Antrim,1,Stewart,Dickson,,19,Alliance Party,,east-antrim,Male,stewartcdickson,stewart.dickson@allianceparty.org
-9805,East Antrim,1,Danny,Donnelly,,19,Alliance Party,,east-antrim,Male,DannyDonnelly1,
-6991,East Antrim,1,Alan,Dunlop,,991,NI Conservatives,,east-antrim,Male,Alan4SAntrim,
-11447,East Antrim,1,David,Hilditch,,20,Democratic Unionist Party,,east-antrim,Male,,
-11448,East Antrim,1,Gordon,Lyons,,20,Democratic Unionist Party,,east-antrim,Male,gordonlyons1,
-5389,East Antrim,1,Margaret Anne,McKillop,,23,Social Democratic and Labour Party,,east-antrim,Female,,
-1061,East Antrim,1,Oliver,McMullan,,24,Sinn Fein,,east-antrim,Male,OliverMcMullan,eastantrimsinnfein@gmail.com
-10293,East Antrim,1,Dawn,Patterson,,111,Green Party,,east-antrim,Female,DawnPEastAntri1,bourkedawn@gmail.com
-19685,East Antrim,1,Stephen,Ross,,20,Democratic Unionist Party,,east-antrim,Male,,
-11450,East Antrim,1,Conor,Sheridan,,987,Cross-Community Labour Alternative,,east-antrim,Male,conorjsheridan1,conorjsheridan21@gmail.com
-8121,East Antrim,1,John,Stewart,,26,Ulster Unionist Party,,east-antrim,Male,JohnStewart1983,
-6985,East Antrim,1,Ruth,Wilson,,141,Traditional Unionist Voice,,east-antrim,Female,,
+Constituency_Name,Constituency_Number,Candidate_Id,Firstname,Surname,Outgoing_Member,Party_Id,Party_Name,Photo_URL,Directory,Gender,Twitter,Email
+East Antrim,1,7132,Roy,Beggs,1,26,Ulster Unionist Party,,east-antrim,male,roybeggs,roy.beggs@co.niassembly.gov.uk
+East Antrim,1,19741,Ricky,Best,,21,Independent,,east-antrim,Male,,
+East Antrim,1,4591,Stewart,Dickson,1,19,Alliance Party,,east-antrim,male,stewartcdickson,stewart.dickson@allianceparty.org
+East Antrim,1,9805,Danny,Donnelly,,19,Alliance Party,,east-antrim,Male,DannyDonnelly1,
+East Antrim,1,6991,Alan,Dunlop,,991,NI Conservatives,,east-antrim,male,Alan4SAntrim,
+East Antrim,1,11447,David,Hilditch,1,20,Democratic Unionist Party,,east-antrim,male,,
+East Antrim,1,6399,Noel,Jordan,,689,UK Independence Party,,east-antrim,male,CarrickUKIP,noel.jordan@ukipni.co.uk
+East Antrim,1,11448,Gordon,Lyons,1,20,Democratic Unionist Party,,east-antrim,male,gordonlyons1,
+East Antrim,1,5389,Margaret Anne,McKillop,,23,Social Democratic and Labour Party,,east-antrim,female,a_margaretanne,
+East Antrim,1,1061,Oliver,McMullan,1,24,Sinn Fein,,east-antrim,male,OliverMcMullan,eastantrimsinnfein@gmail.com
+East Antrim,1,10293,Dawn,Patterson,,111,Green Party,,east-antrim,Female,DawnPEastAntri1,bourkedawn@gmail.com
+East Antrim,1,19685,Stephen,Ross,,20,Democratic Unionist Party,,east-antrim,Male,SRosscllr,
+East Antrim,1,11450,Conor,Sheridan,,987,Cross-Community Labour Alternative,,east-antrim,male,conorjsheridan1,conorjsheridan21@gmail.com
+East Antrim,1,8121,John,Stewart,,26,Ulster Unionist Party,,east-antrim,Male,JohnStewart1983,
+East Antrim,1,6985,Ruth,Wilson,,141,Traditional Unionist Voice,,east-antrim,Female,RuthWilsonTUV,

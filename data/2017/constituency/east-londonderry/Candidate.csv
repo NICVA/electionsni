@@ -1,15 +1,16 @@
-Candidate_id,Constituency_Name,Constituency_Number,Firstname,Surname,Outgoing_member,Party_Id,Party_Name,Photo_URL,Directory,Gender,Twitter,Email
-5979,East Londonderry,3,Caoimhe,Archibald,,24,Sinn Fein,,east-londonderry,Female,CArchibald_SF,caoimhearchibald@gmail.com
-12079,East Londonderry,3,Jordan,Armstrong,,141,Traditional Unionist Voice,,east-londonderry,Male,,
-12080,East Londonderry,3,Maurice,Bradley,,20,Democratic Unionist Party,,east-londonderry,Male,,
-19682,East Londonderry,3,John,Dallat,,23,Social Democratic and Labour Party,,east-londonderry,Male,johndallat,
-19700,East Londonderry,3,Anthony,Flynn,,111,Green Party,,east-londonderry,Male,AntoFlynnser,
-4013,East Londonderry,3,David,Harding,,991,NI Conservatives,,east-londonderry,Male,,dhmrcvs@hotmail.com
-6403,East Londonderry,3,William,McCandless,,26,Ulster Unionist Party,,east-londonderry,Male,,
-11861,East Londonderry,3,Chris,McCaw,,19,Alliance Party,,east-londonderry,Male,chrismccaw_ni,
-12083,East Londonderry,3,Adrian,McQuillan,,20,Democratic Unionist Party,,east-londonderry,Male,,
-7078,East Londonderry,3,Gerry,Mullan,,21,Independent,,east-londonderry,Male,,
-12086,East Londonderry,3,George,Robinson,,20,Democratic Unionist Party,,east-londonderry,Male,,
-12087,East Londonderry,3,Claire,Sugden,,21,Independent,,east-londonderry,Female,ClaireSugden,
-12088,East Londonderry,3,Russell,Watton,,994,Progressive Unionist Party,,east-londonderry,Male,,
-12084,East Londonderry,3,Cathal,óhOisín,,24,Sinn Fein,,east-londonderry,Male,CathalOhOisin,
+Constituency_Name,Constituency_Number,Candidate_Id,Firstname,Surname,Outgoing_Member,Party_Id,Party_Name,Photo_URL,Directory,Gender,Twitter,Email
+East Londonderry,3,12084,Cathal,óhOisín,,24,Sinn Fein,,east-londonderry,male,CathalOhOisin,
+East Londonderry,3,5979,Caoimhe,Archibald,1,24,Sinn Fein,,east-londonderry,female,CArchibald_SF,caoimhearchibald@gmail.com
+East Londonderry,3,12079,Jordan,Armstrong,,141,Traditional Unionist Voice,,east-londonderry,Male,_StrongJ,
+East Londonderry,3,12080,Maurice,Bradley,1,20,Democratic Unionist Party,,east-londonderry,male,bradley_mla,
+East Londonderry,3,19750,Gavin,Campbell,,999,People Before Profit Alliance,,east-londonderry,Male,,
+East Londonderry,3,19682,John,Dallat,,23,Social Democratic and Labour Party,,east-londonderry,male,johndallat,
+East Londonderry,3,19700,Anthony,Flynn,,111,Green Party,,east-londonderry,Male,AntoFlynnser,
+East Londonderry,3,4013,David,Harding,,991,NI Conservatives,,east-londonderry,male,DHardingMRCVS,dhmrcvs@hotmail.com
+East Londonderry,3,6403,William,McCandless,,26,Ulster Unionist Party,,east-londonderry,male,wmccandlessUUP,
+East Londonderry,3,11861,Chris,McCaw,,19,Alliance Party,,east-londonderry,Male,chrismccaw_ni,
+East Londonderry,3,12083,Adrian,McQuillan,1,20,Democratic Unionist Party,,east-londonderry,male,,
+East Londonderry,3,7078,Gerry,Mullan,1,21,Independent,,east-londonderry,male,,
+East Londonderry,3,12086,George,Robinson,1,20,Democratic Unionist Party,,east-londonderry,male,,
+East Londonderry,3,12087,Claire,Sugden,1,21,Independent,,east-londonderry,female,ClaireSugden,
+East Londonderry,3,12088,Russell,Watton,,994,Progressive Unionist Party,,east-londonderry,Male,,
