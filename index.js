@@ -135,27 +135,27 @@ var demoClubAPI = {
     'person': 'https://candidates.democracyclub.org.uk/api/v0.9/persons/' // follow with id and '.json'
 };
 
-function calculatedPartySizes() {
-    var arr = [];
-    Papa.parse('/data/2017/NI/post-election-candidate-info.csv', {
-        header: true,
-        download: true,
-        complete: function(results) {
-            var result = _.countBy(_.map(_.filter(results.data, {
-                'Status': 'Elected'
-            }), 'Party_Id'));
-            _.forEach(result, function(key, value) {
-                arr.push({
-                    'name': value,
-                    'y': key
-                });
-            });
-        }
-    })
-    return arr
-}
-
-const partySizes = calculatedPartySizes();
+// function calculatedPartySizes() {
+//     var arr = [];
+//     Papa.parse('/data/2017/NI/post-election-candidate-info.csv', {
+//         header: true,
+//         download: true,
+//         complete: function(results) {
+//             var result = _.countBy(_.map(_.filter(results.data, {
+//                 'Status': 'Elected'
+//             }), 'Party_Id'));
+//             _.forEach(result, function(key, value) {
+//                 arr.push({
+//                     'name': value,
+//                     'y': key
+//                 });
+//             });
+//         }
+//     })
+//     return arr
+// }
+//
+// const partySizes = calculatedPartySizes();
 
 var elections = {
     '2017': {
@@ -201,7 +201,7 @@ const Home = {
 }
 
 const ElectionView = Vue.extend({
-    props: ['parties'],
+    props: ['parties', 'constituencies'],
     template: '#election-page',
     data: function() {
         var self = this;
@@ -226,8 +226,15 @@ const ElectionView = Vue.extend({
     }
 })
 
-const CandidatesView = Vue.extend({
+const ResultsView = Vue.extend({
     props: ['election'],
+    template: '#results-page',
+    // data: function() {
+    // }
+})
+
+const CandidatesView = Vue.extend({
+    props: ['election', 'constituencies', 'candidates', 'elected_candidates'],
     template: '#all-candidates-page',
     data: function() {
         var self = this;
@@ -237,16 +244,7 @@ const CandidatesView = Vue.extend({
         } else {
             year = '2017'
         }
-        var file = '/data/' + year + candidatesCSV
-        Papa.parse(file, {
-            download: true,
-            header: true,
-            complete: function(results) {
-                self.candidates = _.sortBy(results.data, ["Constituency_Number", "Surname"]);
-            }
-        });
         return {
-            candidates: candidates,
             confirmedCandidates: this.$parent.election.confirmedCandidates
         }
     }
@@ -255,26 +253,23 @@ const CandidatesView = Vue.extend({
 Vue.component('candidate-list', {
     props: ['election'],
     template: '#candidate-list',
-    data: function() {
-        return {
-            excluded: excludedArray,
-            elected: electedArray
-        }
-    },
     computed: {
         candidates: function() {
             return this.$parent.candidates
         },
-        parties: function() { // list of unique parties from all of the candidates in the list
-            if (this.$parent.candidates !== null) {
-                return _.orderBy(_.uniqBy(_.map(this.$parent.candidates, _.partialRight(_.pick, ['Party_Id', 'Party_Name'])), 'Party_Id'), 'Party_Name')
+        elected_candidates: function() {
+                return this.$parent.elected_candidates
             }
-        },
-        constituencies: function() {
-            if (this.$parent.candidates !== null) {
-                return _.orderBy(_.uniqBy(_.map(this.$parent.candidates, _.partialRight(_.pick, ['Constituency_Number', 'Constituency_Name'])), 'Constituency_Number'), 'Constituency_Name')
-            }
-        }
+            // parties: function() { // list of unique parties from all of the candidates in the list
+            //     if (this.$parent.candidates !== null) {
+            //         return _.orderBy(_.uniqBy(_.map(this.$parent.candidates, _.partialRight(_.pick, ['Party_Id', 'Party_Name'])), 'Party_Id'), 'Party_Name')
+            //     }
+            // },
+            // constituencies: function() {
+            //     if (this.$parent.candidates !== null) {
+            //         return _.orderBy(_.uniqBy(_.map(this.$parent.candidates, _.partialRight(_.pick, ['Constituency_Number', 'Constituency_Name'])), 'Constituency_Number'), 'Constituency_Name')
+            //     }
+            // }
     }
 })
 
@@ -357,49 +352,58 @@ Vue.component('parties-gauge', {
     methods: {
         createChart: function() {
             var self = this;
-            var url = '/data/2017/NI/parties.csv';
-            Papa.parse(url, {
-                header: true,
-                download: true,
-                complete: function(results) {
-                    self.parties = results.data;
-                    Papa.parse('/data/2017/NI/post-election-candidate-info.csv', {
-                        header: true,
-                        download: true,
-                        complete: function(results) {
-                            var arr = [];
-                            var parties = self.parties;
-                            var elected = _.filter(results.data, {
-                                'Status': 'Elected'
-                            });
-                            self.elected_candidates = elected
-                            var data = _.countBy(_.map(elected), 'Party_Id');
-                            _.forEach(data, function(value, key) {
-                                arr.push({
-                                    name: _.map(_.filter(parties, {
-                                        "Party_Id": key
-                                    }), 'Party_Abbreviation')[0],
-                                    'y': value,
-                                    color: _.map(_.filter(parties, {
-                                        "Party_Id": key
-                                    }), 'Hex_Col')[0]
-                                });
-                            });
-                            arr = _.orderBy(arr, 'y', 'desc')
-                            arr.push({ // this represents unfilled seats
-                                'name': 'not yet declared',
-                                'y': 108 - elected.length,
-                                'color': 'rgba(255,255,255,0)',
-                                'dataLabels': false
+            $.ajax({
+                url: '/data/' + self.$parent.$parent.election.year + '/NI/parties.csv',
+                dataType: 'text',
+                cache: false
+            }).done(function(csvString) {
+                Papa.parse(csvString, {
+                    header: true,
+                    complete: function(results) {
+                        self.parties = results.data;
+                        $.ajax({
+                            url: '/data/' + self.$parent.$parent.election.year + '/NI/post-election-candidate-info.csv',
+                            dataType: 'text',
+                            cache: false
+                        }).done(function(csvString) {
+                            Papa.parse(csvString, {
+                                header: true,
+                                complete: function(results) {
+                                    var arr = [];
+                                    var parties = self.parties;
+                                    var elected = _.filter(results.data, {
+                                        'Status': 'Elected'
+                                    });
+                                    self.elected_candidates = elected;
+                                    var data = _.countBy(_.map(elected), 'Party_Id');
+                                    _.forEach(data, function(value, key) {
+                                        arr.push({
+                                            name: _.map(_.filter(parties, {
+                                                "Party_Id": key
+                                            }), 'Party_Abbreviation')[0],
+                                            'y': value,
+                                            color: _.map(_.filter(parties, {
+                                                "Party_Id": key
+                                            }), 'Hex_Col')[0]
+                                        });
+                                    });
+                                    arr = _.orderBy(arr, 'y', 'desc')
+                                    arr.push({ // this represents unfilled seats
+                                        'name': 'not yet declared',
+                                        'y': 108 - elected.length,
+                                        'color': 'rgba(255,255,255,0)',
+                                        'dataLabels': false
+                                    })
+                                    self.party_sizes = arr
+                                    self.$refs.highcharts.chart.series[0].setData(arr)
+                                    self.$refs.highcharts.chart.setTitle(null, {
+                                        text: elected.length + ' of ' + self.$parent.$parent.election.seats_total + ' seats filled'
+                                    })
+                                }
                             })
-                            self.party_sizes = arr
-                            self.$refs.highcharts.chart.series[0].setData(arr)
-                            self.$refs.highcharts.chart.setTitle(null, {
-                                text: elected.length + ' of 90 seats filled'
-                            })
-                        }
-                    })
-                }
+                        })
+                    }
+                })
             })
         }
     }
@@ -436,37 +440,91 @@ const router = new VueRouter({
         name: 'candidate',
         path: '/:year/candidates/:id',
         component: CandidateView
+    }, {
+        name: 'results',
+        path: '/:year/results',
+        component: ResultsView
     }]
 });
 
 var app = new Vue({
     router,
     data: {
-        // election: null,
-        parties: null
-    },
-    created: function() {
-        // this.fetchYear();
-        // this.fetchParties();
+        parties: null,
+        constituencies: null,
+        candidates: null,
+        elected_candidates: null
     },
     computed: {
         election: function() {
-          var self = this;
-          var year;
-          if (self.$route.params.year) {
-              year = self.$route.params.year
-          } else {
-              year = '2017'
-          }
-          var url = '/data/' + year + '/NI/parties.csv';
-          Papa.parse(url, {
-              header: true,
-              download: true,
-              complete: function(results) {
-                  self.parties = results.data
-              }
-          })
-          return elections[year]
+            var self = this;
+            var year;
+            if (self.$route.params.year) {
+                year = self.$route.params.year
+            } else {
+                year = '2017'
+            }
+            var partiesUrl = '/data/' + year + '/NI/parties.csv';
+            $.ajax({
+                url: partiesUrl,
+                dataType: 'text',
+                cache: false
+            }).done(function(csvString) {
+                Papa.parse(csvString, {
+                    header: true,
+                    complete: function(results) {
+                        self.parties = results.data
+                    }
+                })
+            })
+            var constituenciesUrl = '/data/' + year + '/NI/all-constituency-info.csv';
+            $.ajax({
+                url: constituenciesUrl,
+                dataType: 'text',
+                cache: false
+            }).done(function(csvString) {
+                Papa.parse(csvString, {
+                    header: true,
+                    complete: function(results) {
+                        self.constituencies = results.data
+                        for (i = 0; i < results.data.length; i++) {
+                            if (results.data[i].Constituency_Name == "NORTHERN IRELAND") {
+                                self.election.turnout = results.data[i].Turnout_pct
+                            }
+                        }
+                    }
+                })
+            })
+            var candidatesUrl = '/data/' + year + '/NI/full-candidates-list.csv';
+            $.ajax({
+                url: candidatesUrl,
+                dataType: 'text',
+                cache: false
+            }).done(function(csvString) {
+                Papa.parse(csvString, {
+                    header: true,
+                    complete: function(results) {
+                        self.candidates = results.data
+                    }
+                })
+            })
+            var electedUrl = '/data/' + year + '/NI/post-election-candidate-info.csv';
+            $.ajax({
+                url: electedUrl,
+                dataType: 'text',
+                cache: false
+            }).done(function(csvString) {
+                Papa.parse(csvString, {
+                    header: true,
+                    complete: function(results) {
+                        var elected = _.filter(results.data, {
+                            'Status': 'Elected'
+                        });
+                        self.elected_candidates = elected;
+                    }
+                })
+            })
+            return elections[year]
         }
     },
     methods: {

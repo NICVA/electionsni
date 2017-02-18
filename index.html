@@ -72,10 +72,15 @@
         <input type="checkbox" id="show-menu" role="button">
         <div id='cssmenu'>
             <ul>
-                <li><a href='#'><span>Constituencies</span></a></li>
-                <li><a href='#'><span>Results</span></a></li>
                 <li>
-                    <router-link :to="{ name: 'candidates', params: { year: '2017' }}">Candidates</router-link>
+                    <router-link :to="{ name: 'election', params: {year: election.year }}">{{ election.year }}</router-link>
+                </li>
+                <li><a href='#'><span>Constituencies</span></a></li>
+                <li>
+                    <router-link :to="{ name: 'results', params: {year: election.year }}">Results</router-link>
+                </li>
+                <li>
+                    <router-link :to="{ name: 'candidates', params: { year: election.year }}">Candidates</router-link>
                 </li>
                 <li><a href='#'><span>Data</span></a></li>
                 <li class='last'><a href='#'><span>About</span></a></li>
@@ -83,14 +88,15 @@
         </div>
 
         <!-- This is where the page will render -->
-        <router-view class="view" :election="election" :parties="parties"></router-view>
+        <router-view class="view" :election="election" :candidates="candidates" :elected_candidates="elected_candidates" :parties="parties" :constituencies="constituencies" />
+        <router-view>
 
-        <div id="footer">
-            Project by <a href="http://belfast.theodi.org">ODI Belfast</a> at <a href="http://www.nicva.org">NICVA</a> and the <a href="http://www.opengovernment.org.uk/about/ni-ogn/">Open Government Network NI</a></br>
-            <a href="http://www.nicva.org"><img src="/website/image/nicva500.png" height="75px" align="middle"></a>
-            <a href="http://belfast.theodi.org"><img src="/website/image/odibelfast500.png" height="75px" align="middle"></a>
-            <a href="http://www.opengovernment.org.uk/about/ni-ogn/"><img src="/website/image/ognni500.png" height="75px" align="middle"></a>
-        </div>
+            <div id="footer">
+                Project by <a href="http://belfast.theodi.org">ODI Belfast</a> at <a href="http://www.nicva.org">NICVA</a> and the <a href="http://www.opengovernment.org.uk/about/ni-ogn/">Open Government Network NI</a></br>
+                <a href="http://www.nicva.org"><img src="/website/image/nicva500.png" height="75px" align="middle"></a>
+                <a href="http://belfast.theodi.org"><img src="/website/image/odibelfast500.png" height="75px" align="middle"></a>
+                <a href="http://www.opengovernment.org.uk/about/ni-ogn/"><img src="/website/image/ognni500.png" height="75px" align="middle"></a>
+            </div>
     </div>
 
     <template id="home-page-template">
@@ -117,10 +123,19 @@
     <template id="election-page">
       <div class="container">
         <h1>Assembly Election {{election.year}}</h1>
-        <h2>{{election.date}}</h2>
-        <h3>Seats available: {{election.seats_total}} ({{election.seats_each}} per constituency)</h3>
+        <h2>{{new Date(election.date).toDateString()}}</h2>
+        <h3>{{election.seats_total}} seats available ({{election.seats_each}} per constituency)</h3>
+        <h3 v-if="election.turnout">Turnout: {{ election.turnout }}%</h3>
         <h3><router-link :to="{ name: 'candidates', params: { year: election.year }}">{{candidates.length}} candidates standing</router-link></h3>
-        <p v-for="party in parties">{{ party.Party_Name }}</p>
+        <h3>{{ parties.length }} parties</h3>
+        <h3>Results >></h3>
+      </div>
+    </template>
+
+    <template id="results-page">
+      <div class="container">
+        <h1>Assembly Election {{election.year}}</h1>
+        <parties-gauge/>
       </div>
     </template>
 
@@ -134,7 +149,7 @@
 
     <template id="all-candidates-page">
       <div class="container">
-          <candidate-list :election="election"/>
+          <candidate-list :election="election" :constituences="constituencies"/>
         </div>
         </template>
 
@@ -145,7 +160,7 @@
 
           <div class="col-md-3" id="leftCol">
             <h3>Constituencies</h3>
-            <h4 v-for="constituency in constituencies" v-if="constituency.Constituency_Number">
+            <h4 v-for="constituency in this.$parent.constituencies" v-if="constituency.Constituency_Number">
               <router-link :to="'#constituency-' + constituency.Constituency_Number">
                 {{ constituency.Constituency_Name }}
               </router-link>
@@ -160,15 +175,14 @@
         <div class="col-md-9">
           <h2>Candidates ({{ election.year }})</h2>
           <div v-if="this.$parent.confirmedCandidates === false" class="alert alert-warning" role="alert"><p class="alert-text"><strong>Unconfirmed!</strong> Some of the candidates below may have been officially nominated, others may not yet have done so. Therefore, these are "unconfirmed candidates" until we have finalised nominations from the Electoral Office.</p></div>
-          <template v-for="constituency in constituencies">
+          <template v-for="constituency in this.$parent.constituencies">
             <h3 :id="'constituency-' + constituency.Constituency_Number">{{ constituency.Constituency_Name }}</h3>
               <template v-for="candidate in candidates" v-if="candidate.Constituency_Number == constituency.Constituency_Number && candidate.Candidate_Id">
               <router-link :to="{name: 'candidate', params: { id: candidate.Candidate_Id }}" class="list-group-item">
                 <h3 class="list-group-item-heading">
                   <i class="fa fa-user" aria-hidden="true"></i>
                   {{ candidate.Firstname }} {{ candidate.Surname}}
-                  <span class="label label-success" v-if="elected.includes(parseInt(candidate.Candidate_Id))">elected</span>
-                  <span class="label label-danger" v-if="excluded.includes(parseInt(candidate.Candidate_Id))">excluded</span>
+                  <span class="label label-success" v-if="_.some(elected_candidates, ['Candidate_Id', candidate.Candidate_Id ])">elected</span>
                 </h3>
                 <h4 style="color: #777">{{ candidate.Party_Name }}</h4>
               </router-link>
@@ -182,11 +196,11 @@
     </template>
 
 
-    <template id="candidate-page" :election="election">
+    <template id="candidate-page">
         <div class="container">
-          <ul class="breadcrumb"><li><router-link to="/">Home</router-link></li><li><router-link :to="{ name: 'candidates', params: { year: this.$parent.election.year }}">Candidates</router-link></li><li class="active">{{ candidate.Firstname }} {{ candidate.Surname }}</li></ul>
+          <ul class="breadcrumb"><li><router-link :to="{ name: 'election', params: { year: election.year }}">{{ election.year }}</router-link></li><li><router-link :to="{ name: 'candidates', params: { year: election.year }}">Candidates</router-link></li><li class="active">{{ candidate.Firstname }} {{ candidate.Surname }}</li></ul>
           <h2>{{ candidate.Firstname }} {{ candidate.Surname }}</h2>
-          <template  v-if="demoClub" >
+          <template  v-if="demoClub">
           <img v-if="demoClub.images[0]" :src="'https://candidates.democracyclub.org.uk/' + demoClub.images[0].image_url" class="media-object" width="200px">
           <img v-else src="/website/image/person-default.png" class="media-object" width="200px">
           <p v-if="demoClub.images[0]">Photo credit: see <a :href="'https://candidates.democracyclub.org.uk/person/' + candidate.Candidate_id">Democracy Club</a></p>
