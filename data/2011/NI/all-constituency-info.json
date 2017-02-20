@@ -69,7 +69,7 @@
     "Constituency_Name": "North Antrim",
     "Constituency_Number": 9,
     "Directory": "north-antrim",
-    "countInfo": {"Valid_Poll": "40983", "Number_Of_Seats": "6", "Total_Poll": "40313", "Voting_Age_Pop": "83367", "Quota": "5760", "Constituency_Name": "North Antrim", "Constituency_Number": "9", "Total_Electorate": "74760", "Spoiled": "670"}
+    "countInfo": {"Valid_Poll": "40313", "Number_Of_Seats": "6", "Total_Poll": "40983", "Voting_Age_Pop": "83367", "Quota": "5760", "Constituency_Name": "North Antrim", "Constituency_Number": "9", "Total_Electorate": "74760", "Spoiled": "670"}
     },
 {
     "Constituency_Name": "North Down",
@@ -93,7 +93,7 @@
     "Constituency_Name": "Strangford",
     "Constituency_Number": 15,
     "Directory": "strangford",
-    "countInfo": {"Valid_Poll": "30186", "Number_Of_Seats": "6", "Total_Poll": "29668", "Voting_Age_Pop": "69381", "Quota": "4239", "Constituency_Name": "Strangford", "Constituency_Number": "15", "Total_Electorate": "62178", "Spoiled": "518"}
+    "countInfo": {"Valid_Poll": "29668", "Number_Of_Seats": "6", "Total_Poll": "30186", "Voting_Age_Pop": "69381", "Quota": "4239", "Constituency_Name": "Strangford", "Constituency_Number": "15", "Total_Electorate": "62178", "Spoiled": "518"}
     },
 {
     "Constituency_Name": "Upper Bann",
