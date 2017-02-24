@@ -1,4 +1,4 @@
-Constituency_Name,Constituency_Number,Candidate_Id,Firstname,Surname,Outgoing_Member,Party_Id,Party_Name,Photo_URL,Directory,Gender,Twitter,Email
+﻿Constituency_Name,Constituency_Number,Candidate_Id,Firstname,Surname,Outgoing_Member,Party_Id,Party_Name,Photo_URL,Directory,Gender,Twitter,Email
 East Antrim,1,7132,Roy,Beggs,1,26,Ulster Unionist Party,,east-antrim,male,roybeggs,roy.beggs@co.niassembly.gov.uk
 East Antrim,1,19741,Ricky,Best,,21,Independent,,east-antrim,Male,,
 East Antrim,1,4591,Stewart,Dickson,1,19,Alliance Party,,east-antrim,male,stewartcdickson,stewart.dickson@allianceparty.org
@@ -189,7 +189,7 @@ Strangford,15,302,Mike,Nesbitt,1,26,Ulster Unionist Party,,strangford,male,miken
 Strangford,15,8115,Philip,Smith,1,26,Ulster Unionist Party,,strangford,Male,1PhilipSmith,
 Strangford,15,11547,Peter,Weir,1,20,Democratic Unionist Party,,strangford,male,peterweirmla,
 Upper Bann,16,8150,Doug,Beattie,1,26,Ulster Unionist Party,,upper-bann,Male,BeattieDoug,doug.beattie@mla.niassembly.gov.uk
-Upper Bann,16,19683,Johnathan,Buckley,,20,Democratic Unionist Party,,upper-bann,Male,JBuckleyDUP,
+Upper Bann,16,19683,Jonathan,Buckley,,20,Democratic Unionist Party,,upper-bann,Male,JBuckleyDUP,
 Upper Bann,16,19743,Colin,Craig,,998,Workers Party,,upper-bann,Male,,
 Upper Bann,16,4677,Jo-Anne,Dobson,1,26,Ulster Unionist Party,,upper-bann,female,JoAnne_Dobson,jo-anne.dobson@mla.niassembly.gov.uk
 Upper Bann,16,19744,Tara,Doyle,,19,Alliance Party,,upper-bann,Female,,
