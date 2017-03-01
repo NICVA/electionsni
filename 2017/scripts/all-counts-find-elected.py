@@ -72,13 +72,13 @@ with open(jsonMain, 'wb') as main:
                     json.dump(row, confile, indent = 4, separators = (', ',': '))
                     json.dump(row, main, indent =4, separators= (', ',': '))
                     e += 1
-               elif row['Candidate_Id'] in others_ids:
-                   if e != 0:
-                       confile.write(',\n')
-                       main.write(',\n')
-                   json.dump(row, confile, indent = 4, separators = (', ',': '))
-                   json.dump(row, main, indent =4, separators= (', ',': '))
-                   e += 1
+                elif row['Candidate_Id'] in others_ids:
+                    if e != 0:
+                        confile.write(',\n')
+                        main.write(',\n')
+                    json.dump(row, confile, indent = 4, separators = (', ',': '))
+                    json.dump(row, main, indent =4, separators= (', ',': '))
+                    e += 1
             confile.write(']')
         main.write(']\n}')
         c += 1

@@ -78,11 +78,11 @@ with open(jsonMain, 'wb') as main:
                 elected.append(row)
 
                 e += 1
-           elif row['Candidate_Id'] in others_ids:
-               if e != 0:
-                   main.write(',\n')
-               json.dump(row, main, indent =4, separators= (', ',': '))
-               e += 1
+            elif row['Candidate_Id'] in others_ids:
+                if e != 0:
+                    main.write(',\n')
+                json.dump(row, main, indent =4, separators= (', ',': '))
+                e += 1
         c += 1
     main.write('\n]\n')
     print 'Found', e, 'elected candidates across', c, 'constituencies'
