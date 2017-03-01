@@ -1,13 +1,13 @@
 Constituency_Name,Constituency_Number,Candidate_Id,Firstname,Surname,Outgoing_Member,Party_Id,Party_Name,Photo_URL,Directory,Gender,Twitter,Email
-Belfast West,17,982,Alex,Attwood,,23,Social Democratic and Labour Party,,belfast-west,male,AlexAttwoodMLA,attwoodalex@yahoo.co.uk
+Belfast West,17,982,Alex,Attwood,1,23,Social Democratic and Labour Party,,belfast-west,male,AlexAttwoodMLA,attwoodalex@yahoo.co.uk
 Belfast West,17,8186,Conor,Campbell,,998,Workers Party,,belfast-west,male,,
-Belfast West,17,7199,Gerry,Carroll,,999,People Before Profit Alliance,,belfast-west,male,GerryCarrollPBP,royshakur@hotmail.com
+Belfast West,17,7199,Gerry,Carroll,1,999,People Before Profit Alliance,,belfast-west,male,GerryCarrollPBP,royshakur@hotmail.com
 Belfast West,17,19674,Michael,Collins,,999,People Before Profit Alliance,,belfast-west,male,,
 Belfast West,17,19688,Sorcha,Eastwood,,19,Alliance Party,,belfast-west,Female,SorchaEastwood,
-Belfast West,17,19668,Órlaithí,Flynn,,24,Sinn Fein,,belfast-west,female,orlaithiflynnsf,orlaithi.flynn@mla.niassembly.gov.uk
-Belfast West,17,11439,Alex,Maskey,,24,Sinn Fein,,belfast-west,male,AlexMaskeyMLA,ufsinnfein@yahoo.com
-Belfast West,17,11437,Fra,McCann,,24,Sinn Fein,,belfast-west,male,FramccannMLA,
+Belfast West,17,19668,Órlaithí,Flynn,1,24,Sinn Fein,,belfast-west,female,orlaithiflynnsf,orlaithi.flynn@mla.niassembly.gov.uk
+Belfast West,17,11439,Alex,Maskey,1,24,Sinn Fein,,belfast-west,male,AlexMaskeyMLA,ufsinnfein@yahoo.com
+Belfast West,17,11437,Fra,McCann,1,24,Sinn Fein,,belfast-west,male,FramccannMLA,
 Belfast West,17,7174,Frank,McCoubrey,,20,Democratic Unionist Party,,belfast-west,male,FMcCoubrey1,
 Belfast West,17,11441,Ellen,Murray,,111,Green Party,,belfast-west,Female,ellenfromnowon,
 Belfast West,17,19686,Fred,Rodgers,,26,Ulster Unionist Party,,belfast-west,Male,Fredjrodgers,
-Belfast West,17,11436,Pat,Sheehan,,24,Sinn Fein,,belfast-west,male,PatSheehanMLA,
+Belfast West,17,11436,Pat,Sheehan,1,24,Sinn Fein,,belfast-west,male,PatSheehanMLA,

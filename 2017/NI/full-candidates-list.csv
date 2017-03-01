@@ -1,6 +1,6 @@
-﻿Constituency_Name,Constituency_Number,Candidate_Id,Firstname,Surname,Outgoing_Member,Party_Id,Party_Name,Photo_URL,Directory,Gender,Twitter,Email
+Constituency_Name,Constituency_Number,Candidate_Id,Firstname,Surname,Outgoing_Member,Party_Id,Party_Name,Photo_URL,Directory,Gender,Twitter,Email
 East Antrim,1,7132,Roy,Beggs,1,26,Ulster Unionist Party,,east-antrim,male,roybeggs,roy.beggs@co.niassembly.gov.uk
-East Antrim,1,19741,Ricky,Best,,21,Independent,,east-antrim,Male,,
+East Antrim,1,19741,Ricky,Best,,21,Independent,,east-antrim,Male,VoteRickyBest,
 East Antrim,1,4591,Stewart,Dickson,1,19,Alliance Party,,east-antrim,male,stewartcdickson,stewart.dickson@allianceparty.org
 East Antrim,1,9805,Danny,Donnelly,,19,Alliance Party,,east-antrim,Male,DannyDonnelly1,
 East Antrim,1,6991,Alan,Dunlop,,991,NI Conservatives,,east-antrim,male,Alan4SAntrim,
@@ -32,7 +32,7 @@ East Londonderry,3,12084,Cathal,óhOisín,,24,Sinn Fein,,east-londonderry,male,C
 East Londonderry,3,5979,Caoimhe,Archibald,1,24,Sinn Fein,,east-londonderry,female,CArchibald_SF,caoimhearchibald@gmail.com
 East Londonderry,3,12079,Jordan,Armstrong,,141,Traditional Unionist Voice,,east-londonderry,Male,_StrongJ,
 East Londonderry,3,12080,Maurice,Bradley,1,20,Democratic Unionist Party,,east-londonderry,male,bradley_mla,
-East Londonderry,3,19750,Gavin,Campbell,,999,People Before Profit Alliance,,east-londonderry,Male,,
+East Londonderry,3,19750,Gavin,Campbell,,999,People Before Profit Alliance,,east-londonderry,Male,GavinPBPEDerry,
 East Londonderry,3,19682,John,Dallat,,23,Social Democratic and Labour Party,,east-londonderry,male,johndallat,
 East Londonderry,3,19700,Anthony,Flynn,,111,Green Party,,east-londonderry,Male,AntoFlynnser,
 East Londonderry,3,4013,David,Harding,,991,NI Conservatives,,east-londonderry,male,DHardingMRCVS,dhmrcvs@hotmail.com
@@ -77,7 +77,7 @@ Lagan Valley,6,11541,Brenda,Hale,1,20,Democratic Unionist Party,,lagan-valley,fe
 Lagan Valley,6,763,Trevor,Lunn,1,19,Alliance Party,,lagan-valley,male,TrevorLunnLV,trevor.lunn@allianceparty.org
 Lagan Valley,6,297,Samuel,Morrison,,141,Traditional Unionist Voice,,lagan-valley,Male,SammyMorrison82,
 Lagan Valley,6,7410,Jonny,Orr,,21,Independent,,lagan-valley,male,JonnyOrr,
-Lagan Valley,6,8113,Jenny,Palmer,1,26,Ulster Unionist Party,,lagan-valley,Female,jennyp_mla,jenny.palmer@mla.niassembly.gov.uk
+Lagan Valley,6,8113,Jenny,Palmer,1,26,Ulster Unionist Party,,lagan-valley,Female,JennyP_59,jenny.palmer@mla.niassembly.gov.uk
 Lagan Valley,6,11544,Edwin,Poots,1,20,Democratic Unionist Party,,lagan-valley,male,poots_edwin,
 Lagan Valley,6,19723,Matthew,Robinson,,991,NI Conservatives,,lagan-valley,Male,,
 Mid Ulster,7,11273,Keith Alexander,Buchanan,1,20,Democratic Unionist Party,,mid-ulster,male,Buchanan_dup,
@@ -97,7 +97,7 @@ Newry and Armagh,8,11395,Emmet,Crossan,,993,Cannabis Is Safer Than Alcohol,,newr
 Newry and Armagh,8,11396,Megan,Fearon,1,24,Sinn Fein,,newry-armagh,female,mfearonsf,
 Newry and Armagh,8,1872,William George,Irwin,1,20,Democratic Unionist Party,,newry-armagh,male,,william.irwin@armagh.gov.uk
 Newry and Armagh,8,31,Danny,Kennedy,1,26,Ulster Unionist Party,,newry-armagh,male,DKennedy_UUP,danny.kennedy@voteforchangeni.com
-Newry and Armagh,8,6086,Justin,McNulty,1,23,Social Democratic and Labour Party,,newry-armagh,male,,
+Newry and Armagh,8,6086,Justin,McNulty,1,23,Social Democratic and Labour Party,,newry-armagh,male,JustinMcNu1ty,
 Newry and Armagh,8,1856,Conor,Murphy,1,24,Sinn Fein,,newry-armagh,male,conormurphysf,conor.murphy@niassembly.gov.uk
 Newry and Armagh,8,19702,Rowan,Tunnicliffe,,111,Green Party,,newry-armagh,Male,RowanTNI,
 North Antrim,9,2134,Jim,Allister,1,141,Traditional Unionist Voice,,north-antrim,male,JimAllister,info@jimallister.org
@@ -129,7 +129,7 @@ North Down,11,3876,Steven,Agnew,1,111,Green Party,,north-down,male,StevenAgnew,s
 North Down,11,19748,Chris,Carter,,21,Independent,,north-down,Male,,
 North Down,11,8154,Alan,Chambers,1,26,Ulster Unionist Party,,north-down,male,alcham49,alan.chambers@mla.niassembly.gov.uk
 North Down,11,6914,William,Cudworth,,26,Ulster Unionist Party,,north-down,male,cudworth12,will_cud@hotmail.com
-North Down,11,11550,Gordon Mervyn,Dunne,1,20,Democratic Unionist Party,,north-down,male,,
+North Down,11,11550,Gordon Mervyn,Dunne,1,20,Democratic Unionist Party,,north-down,male,GordonDunneMLA,
 North Down,11,7178,Alex,Easton,1,20,Democratic Unionist Party,,north-down,Male,,alex@alexeastonmla.org
 North Down,11,3598,Stephen,Farry,1,19,Alliance Party,,north-down,male,StephenFarryMLA,stephen.farry@allianceparty.org
 North Down,11,19712,Melanie,Kennedy,,21,Independent,,north-down,Female,MelKennedyNI,
@@ -182,7 +182,7 @@ Strangford,15,19718,Scott,Benton,,991,NI Conservatives,,strangford,Male,,
 Strangford,15,7179,Joe,Boyle,,23,Social Democratic and Labour Party,,strangford,male,,joetboyle@yahoo.co.uk
 Strangford,15,6984,Stephen,Cooper,,141,Traditional Unionist Voice,,strangford,Male,S_J_Cooper,
 Strangford,15,16581,Simon,Hamilton,1,20,Democratic Unionist Party,,strangford,male,SimonHamilton,
-Strangford,15,12090,Dermot,Kennedy,,24,Sinn Fein,,strangford,Male,,
+Strangford,15,12090,Dermot,Kennedy,,24,Sinn Fein,,strangford,Male,IrelandsTime,
 Strangford,15,12092,Michelle,McIlveen,1,20,Democratic Unionist Party,,strangford,female,MMcIlveenDUP,mail@michellemcilveen.org.uk
 Strangford,15,12094,Jimmy,Menagh,,21,Independent,,strangford,Male,,
 Strangford,15,302,Mike,Nesbitt,1,26,Ulster Unionist Party,,strangford,male,mikenesbittni,mike@mikenesbitt.co.uk
@@ -192,7 +192,7 @@ Upper Bann,16,8150,Doug,Beattie,1,26,Ulster Unionist Party,,upper-bann,Male,Beat
 Upper Bann,16,19683,Jonathan,Buckley,,20,Democratic Unionist Party,,upper-bann,Male,JBuckleyDUP,
 Upper Bann,16,19743,Colin,Craig,,998,Workers Party,,upper-bann,Male,,
 Upper Bann,16,4677,Jo-Anne,Dobson,1,26,Ulster Unionist Party,,upper-bann,female,JoAnne_Dobson,jo-anne.dobson@mla.niassembly.gov.uk
-Upper Bann,16,19744,Tara,Doyle,,19,Alliance Party,,upper-bann,Female,,
+Upper Bann,16,19744,Tara,Doyle,,19,Alliance Party,,upper-bann,Female,Alliance_UpBann,
 Upper Bann,16,12443,Roy,Ferguson,,141,Traditional Unionist Voice,,upper-bann,Male,,
 Upper Bann,16,699,Dolores,Kelly,,23,Social Democratic and Labour Party,,upper-bann,female,doloreskelly,d.kelly@sdlp.ie
 Upper Bann,16,12440,Simon,Lee,,111,Green Party,,upper-bann,Male,thesymbolic,

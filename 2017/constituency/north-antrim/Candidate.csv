@@ -1,13 +1,13 @@
 Constituency_Name,Constituency_Number,Candidate_Id,Firstname,Surname,Outgoing_Member,Party_Id,Party_Name,Photo_URL,Directory,Gender,Twitter,Email
-North Antrim,9,2134,Jim,Allister,,141,Traditional Unionist Voice,,north-antrim,male,JimAllister,info@jimallister.org
+North Antrim,9,2134,Jim,Allister,1,141,Traditional Unionist Voice,,north-antrim,male,JimAllister,info@jimallister.org
 North Antrim,9,19703,Mark,Bailey,,111,Green Party,,north-antrim,Male,mfbailey,markbailey@antrimgreens.com
 North Antrim,9,19714,Monica,Digney,,21,Independent,,north-antrim,female,digneymonica,
 North Antrim,9,12750,Connor,Duncan,,23,Social Democratic and Labour Party,,north-antrim,male,CDuncanSDLP,
-North Antrim,9,12751,Paul,Frew,,20,Democratic Unionist Party,,north-antrim,male,paulfrewDUP,
+North Antrim,9,12751,Paul,Frew,1,20,Democratic Unionist Party,,north-antrim,male,paulfrewDUP,
 North Antrim,9,5985,Timothy,Gaston,,141,Traditional Unionist Voice,,north-antrim,male,CllrGaston,Cllr.Gaston@MidandEastAntrim.gov.uk
-North Antrim,9,12753,Phillip,Logan,,20,Democratic Unionist Party,,north-antrim,male,philliplogan,
+North Antrim,9,12753,Phillip,Logan,1,20,Democratic Unionist Party,,north-antrim,male,philliplogan,
 North Antrim,9,19725,Adam,McBride,,21,Independent,,north-antrim,Male,AdamMcBrideNI,adam@makeni.work
-North Antrim,9,19673,Philip,McGuigan,,24,Sinn Fein,,north-antrim,Male,mcguigan_philip,philip.mcguigan@mla.niassembly.gov.uk
+North Antrim,9,19673,Philip,McGuigan,1,24,Sinn Fein,,north-antrim,Male,mcguigan_philip,philip.mcguigan@mla.niassembly.gov.uk
 North Antrim,9,19695,Patricia,O'Lynn,,19,Alliance Party,,north-antrim,Female,PatriciaOLynn,
-North Antrim,9,12757,Mervyn,Storey,,20,Democratic Unionist Party,,north-antrim,male,,
-North Antrim,9,4723,Robin,Swann,,26,Ulster Unionist Party,,north-antrim,male,robinswannuup,robin.swannMLA@gmail.com
+North Antrim,9,12757,Mervyn,Storey,1,20,Democratic Unionist Party,,north-antrim,male,,
+North Antrim,9,4723,Robin,Swann,1,26,Ulster Unionist Party,,north-antrim,male,robinswannuup,robin.swannMLA@gmail.com
