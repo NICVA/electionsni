@@ -81,7 +81,8 @@
         </div>
         <div class="cta">
             <strong>Please note: during the election count process, results and data are provisional</strong>
-        </div>
+            <div id="seats_summary" style="background-color: #34495e; margin: auto; color: #ffffff"></div>
+        </div>
 
         <div class="content">
             <div id="overview_container" class="row">
@@ -95,10 +96,10 @@
                     <label for="year-radio-group">Choose year:</label>
                     <div id="year-radio-group" class="form-group">
                         <label class="radio-inline">
-                          <input type="radio" name="year" value="2017" checked onchange="getdata(2017)"> 2017
+                          <input type="radio" name="year" value="2017" onchange="getdata(2017)"> 2017
                 </label>
                         <label class="radio-inline">
-                          <input type="radio" name="year" value="2016" onchange="getdata(2016)"> 2016
+                          <input type="radio" name="year" value="2016" checked onchange="getdata(2016)"> 2016
                 </label>
                         <label class="radio-inline">
                           <input type="radio" name="year" value="2011" onchange="getdata(2011)"> 2011
@@ -135,7 +136,7 @@
                     <select id="constituencySelect">
             </select>
                     <select id="yearSelect">
-                <option>2017</option>
+                <!-- <option>2017</option> -->
                 <option>2016</option>
                 <option>2011</option>
             </select>
@@ -195,6 +196,8 @@
                 cache: false
             });
         });
+
+        seatsSummary();
 
         // tooltip
         $(document).bind('mousemove', function(e) {

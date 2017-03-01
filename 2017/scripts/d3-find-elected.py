@@ -13,17 +13,17 @@ constituencyReader = csv.DictReader(reference, constituencyfields)
 constituencies = []
 constituencyNames = []
 
-#others = open('../NI/other-elected.csv', 'r')
-#others_fields = csv.reader(others).next()
-#others_reader = csv.DictReader(others, others_fields)
-#others_ids = []
-#for line in others_reader:
-#   others_ids.append(line['Candidate_Id'])
+others = open('../NI/other-elected.csv', 'r')
+others_fields = csv.reader(others).next()
+others_reader = csv.DictReader(others, others_fields)
+others_ids = []
+for line in others_reader:
+  others_ids.append(line['Candidate_Id'])
 
 for d in constituencyReader:
     constituencies.append(d['Directory'])
     constituencyNames.append(d['Constituency_Name'])
-    
+
 jsonMain = '../NI/all-elected-d3.json'
 
 c = 0
@@ -31,15 +31,15 @@ e = 0
 with open(jsonMain, 'wb') as main:
     main.write('[\n')
     for con in constituencies:
- 
+
         countName = '../constituency/' + con + '/Count.csv'
         elected = []
         constituencyName = constituencyNames[c]
-        
+
         reference = open('../NI/constituencies.csv', 'r')
         constituencyfields = csv.reader(reference).next()
         constituencyReader = csv.DictReader(reference, constituencyfields)
-        
+
         countfile = open(countName, 'r')
         countfields = csv.reader(countfile).next()
         countreader = csv.DictReader(countfile, countfields)
@@ -52,13 +52,13 @@ with open(jsonMain, 'wb') as main:
         grouped = it.groupby(csv_contents, key=op.itemgetter('Count_Number'))
         for k,g in grouped:
             key = k
-            
+
         grouped = it.groupby(csv_contents, key=op.itemgetter('Count_Number'))
         for k, g in grouped:
             if key == k:
                 for r in g:
                     new.append(r)
-        
+
         for row in new:
             partiescsv = open('../NI/parties.csv', 'r')
             partiesfields = csv.reader(partiescsv).next()
@@ -76,13 +76,13 @@ with open(jsonMain, 'wb') as main:
                     main.write(',\n')
                 json.dump(row, main, indent =4, separators= (', ',': '))
                 elected.append(row)
-                
+
                 e += 1
-#            elif row['Candidate_Id'] in others_ids:
-#                if e != 0:
-#                    main.write(',\n')
-#                json.dump(row, main, indent =4, separators= (', ',': '))
-#                e += 1
+           elif row['Candidate_Id'] in others_ids:
+               if e != 0:
+                   main.write(',\n')
+               json.dump(row, main, indent =4, separators= (', ',': '))
+               e += 1
         c += 1
     main.write('\n]\n')
     print 'Found', e, 'elected candidates across', c, 'constituencies'

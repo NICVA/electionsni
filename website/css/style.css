@@ -200,6 +200,10 @@ header p {
     content: "(CISTA) ";
 }
 
+.Citizens-Independent-Social-Thought-Alliance_label:before {
+    content: "(CISTA) ";
+}
+
 .Labour-Alternative_label:before {
     content: "(LABALT) ";
 }

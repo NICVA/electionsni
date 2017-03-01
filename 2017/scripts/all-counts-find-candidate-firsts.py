@@ -8,14 +8,14 @@ constituencies = ["belfast-east","belfast-north","belfast-south","belfast-west",
 jsonMain = '../NI/post-election-candidate-info.csv'
 csv_to_write = []
 
-for con in constituencies:            
+for con in constituencies:
     countName = '../constituency/' + con + '/Count.csv'
     jsonName = '../constituency/' + con + '/ElectedJson.json'
 
     reference = open('../NI/constituencies.csv', 'r')
     constituencyfields = csv.reader(reference).next()
     constituencyReader = csv.DictReader(reference, constituencyfields)
-    
+
     countfile = open(countName, 'r')
     countfields = csv.reader(countfile).next()
     countreader = csv.DictReader(countfile, countfields)
@@ -28,13 +28,13 @@ for con in constituencies:
     grouped = it.groupby(contents, key=op.itemgetter('Count_Number'))
     for k,g in grouped:
         key = k
-        
+
     grouped = it.groupby(contents, key=op.itemgetter('Count_Number'))
     for k, g in grouped:
         if key == k:
             for r in g:
                 new.append(r)
-       
+
     for row in new:
         candidatesfile = open('../NI/full-candidates-list.csv', 'r')
         candidatesfields = csv.reader(candidatesfile).next()
@@ -48,14 +48,14 @@ with open(jsonMain, 'wb') as main:
     keys = newrow.keys()
     dict_writer = csv.DictWriter(main, keys)        # new method in 2.7; use writerow() in 2.6
     dict_writer.writeheader()
-#    others = open('../NI/other-elected.csv', 'r')
-#    others_fields = csv.reader(others).next()
-#    others_reader = csv.DictReader(others, others_fields)
-#    others_ids = []
-#    for line in others_reader:
-#        others_ids.append(line['Candidate_Id'])
+   others = open('../NI/other-elected.csv', 'r')
+   others_fields = csv.reader(others).next()
+   others_reader = csv.DictReader(others, others_fields)
+   others_ids = []
+   for line in others_reader:
+       others_ids.append(line['Candidate_Id'])
     for line in csv_to_write:
-#        if line['Candidate_Id'] in others_ids:
-#            line['Status'] = 'Elected'
-#            print line
+       if line['Candidate_Id'] in others_ids:
+           line['Status'] = 'Elected'
+           print line
         dict_writer.writerow(line)
