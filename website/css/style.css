@@ -200,6 +200,10 @@ header p {
     content: "(CISTA) ";
 }
 
+.Citizens-Independent-Social-Thought-Alliance_label:before {
+    content: "(CISTA) ";
+}
+
 .Labour-Alternative_label:before {
     content: "(LABALT) ";
 }
@@ -253,44 +257,44 @@ header p {
 }
 
 .Social-Democratic-and-Labour-Party {
-    fill: #cc3300!important;
-    background: #cc3300!important;
+    fill: #E53935!important;
+    background: #E53935!important;
     color: #fff
 }
 
 .Traditional-Unionist-Voice {
-    fill: #0000e6!important;
-    background: #0000e6!important;
+    fill: #303F9F!important;
+    background: #303F9F!important;
     color: #fff
 }
 
 .Green-Party {
-    fill: #33ff33!important;
-    background: #33ff33!important;
+    fill: #689F38!important;
+    background: #689F38!important;
     color: #fff
 }
 
 .Sinn-Fein {
-    fill: #009900!important;
-    background: #009900!important;
+    fill: #4CAF50!important;
+    background: #4CAF50!important;
     color: #fff
 }
 
 .Ulster-Unionist-Party {
-    fill: #62cae7!important;
-    background: #62cae7!important;
+    fill: #03A9F4!important;
+    background: #03A9F4!important;
     color: #fff
 }
 
 .Alliance-Party {
-    fill: #ffe600!important;
-    background: #ffe600!important;
+    fill: #FDD835!important;
+    background: #FDD835!important;
     color: #fff
 }
 
 .Democratic-Unionist-Party {
-    fill: #ff8000!important;
-    background: #ff8000!important;
+    fill: #FF5722!important;
+    background: #FF5722!important;
     color: #fff
 }
 
@@ -301,8 +305,8 @@ header p {
 }
 
 .Independent {
-    fill: #669999!important;
-    background: #669999!important;
+    fill: #B0BEC5!important;
+    background: #B0BEC5!important;
     color: #fff
 }
 
@@ -313,26 +317,20 @@ header p {
 }
 
 .UK-Independence-Party {
-    fill: #cc00cc!important;
-    background: #cc00cc!important;
+    fill: #9C27B0!important;
+    background: #9C27B0!important;
     color: #fff
 }
 
 .People-Before-Profit-Alliance {
-    fill: #ff3399!important;
-    background: #ff3399!important;
-    color: #fff
-}
-
-.Independent {
-    fill: #669999!important;
-    background: #669999!important;
+    fill: #E91E63!important;
+    background: #E91E63!important;
     color: #fff
 }
 
 .Progressive-Unionist-Party {
-    fill: #1e0082!important;
-    background: #1e0082!important;
+    fill: #880E4F!important;
+    background: #880E4F!important;
     color: #fff
 }
 
@@ -349,14 +347,14 @@ header p {
 }
 
 .NI-Conservatives {
-    fill: #362da7!important;
-    background: #362da7!important;
+    fill: #B0BEC5!important;
+    background: #B0BEC5!important;
     color: #fff
 }
 
 .Labour-Alternative {
-    fill: #ca0000!important;
-    background: #ca0000!important;
+    fill: #E57373!important;
+    background: #E57373!important;
     color: #fff
 }
 
@@ -367,8 +365,8 @@ header p {
 }
 
 .NI-Labour-Representation-Committee {
-    fill: #800000!important;
-    background: #800000!important;
+    fill: #E57373!important;
+    background: #E57373!important;
     color: #fff
 }
 
@@ -379,8 +377,8 @@ header p {
 }
 
 .Cross-Community-Labour-Alternative {
-    fill: #ce1d4d!important;
-    background: #ce1d4d!important;
+    fill: #E57373!important;
+    background: #E57373!important;
     color: #fff
 }
 

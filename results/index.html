@@ -3,7 +3,7 @@
 
 <head>
     <title>Northern Ireland Elections: Results - ElectionsNI</title>
-    <meta charset="utf-8"/>
+    <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <script type="text/javascript" src="https://cdn.jsdelivr.net/lodash/4.11.1/lodash.min.js"></script>
     <script type="text/javascript" src="http://d3js.org/d3.v3.js"></script>
@@ -80,8 +80,9 @@
             </ul>
         </div>
         <div class="cta">
-            <strong>You can contribute more candidate details through the <a href="https://democracyclub.org.uk/blog/2017/01/17/help-us-find-every-candidate-new-northern-ireland-assembly/" target="_blank">Democracy Club platform</a></strong>
-        </div>
+            <strong>Please note: during the election count process, results and data are provisional</strong>
+            <div id="seats_summary" style="background-color: #34495e; margin: auto; color: #ffffff"></div>
+        </div>
 
         <div class="content">
             <div id="overview_container" class="row">
@@ -94,6 +95,9 @@
                 <form>
                     <label for="year-radio-group">Choose year:</label>
                     <div id="year-radio-group" class="form-group">
+                        <label class="radio-inline">
+                          <input type="radio" name="year" value="2017" onchange="getdata(2017)"> 2017
+                </label>
                         <label class="radio-inline">
                           <input type="radio" name="year" value="2016" checked onchange="getdata(2016)"> 2016
                 </label>
@@ -132,6 +136,7 @@
                     <select id="constituencySelect">
             </select>
                     <select id="yearSelect">
+                <!-- <option>2017</option> -->
                 <option>2016</option>
                 <option>2011</option>
             </select>
@@ -191,6 +196,8 @@
                 cache: false
             });
         });
+
+        seatsSummary();
 
         // tooltip
         $(document).bind('mousemove', function(e) {
