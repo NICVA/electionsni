@@ -90,7 +90,7 @@ var data = [];
 $.each(parties, function(i, party) {
     var pname = party.Party_Abbreviation;
     $("#party_matrix").append("<div id='" + pname + "' class='party'/>");
-    $("#" + pname).append("<div class='name'>" + i + "</div>");
+    $("#" + pname).append("<div class='name'>" + pname + "</div>");
     $("#" + pname).append("<div class='results' />");
 });
 

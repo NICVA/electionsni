@@ -23,7 +23,7 @@
 /*  border-top: 1px solid #ccc;*/
   position: relative;
   height: 500px;
-  width: 800px;
+  width: 600px;
   margin-left: 30px;
 }
 
@@ -87,7 +87,7 @@
 }
 
 #party_matrix .name {
-  width: 250px;  
+  width: 50px;
 }
 
 #overview_matrix .results,

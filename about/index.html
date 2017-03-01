@@ -12,6 +12,8 @@
     <!--[if (lt IE 9)&(!IEMobile)]>
 		<link rel="stylesheet" type="text/css" href="enhanced.css" />
 		<![endif]-->
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/lodash/4.11.1/lodash.min.js"></script>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.js"></script>
 
     <meta name="description" content="Generating crowdsourced open data, live results and data visualisations for the Northern Ireland Assembly Elections 2017." />
     <meta name="keywords" content="assembly, elections, open data, northern ireland, 2016, 2017, AE16, AE17, crowdsource, results, single transferable vote, stv, constituency, candidate, odi belfast, open government network, nicva, voting, #AE17, tally, count, electoral"
@@ -48,7 +50,7 @@
         </div>
         <div class="cta">
             <strong>Please note: during the election count process, results and data are provisional</strong>
-            <div id="seats_summary" style="background-color: #34495e; margin: auto; color: #ffffff"></div>
+            <div id="seats_summary" style="background-color: #ffffff; margin: auto; color: #212121; border-bottom: solid; border-bottom-width: 1px;"></div>
         </div>
 
 
@@ -60,8 +62,7 @@
             <p>You can find us on Twitter: <a href="http://twitter.com/electionsni" target="_blank">@ElectionsNI</a></p>
             <h2 id="help">Observers</h2>
             <p><b>If you're are observing at a count centre you can help contribute to the live data.</b> This won't take much of your time, just snap a picture of the results board, email or tweet it to us, and we'll update the live results (see the
-                <a
-                    href="/results">2011 version</a>). That's it!</p>
+                <a href="/results">2011 version</a>). That's it!</p>
             <p>It doesn't matter if you're observing as an individual or for a party, you can still help. <b>If you'd like to be involved and contribute to the open database, please get in contact:</b></p>
             <ul>
                 <li>Twitter <a href="http://twitter.com/ElectionsNI" title="External Link" target="_blank">@ElectionsNI</a></li>
@@ -102,7 +103,11 @@
         <a href="http://belfast.theodi.org"><img src="/website/image/odibelfast500.png" height="75px" align="middle"></a>
         <a href="http://www.opengovernment.org.uk/about/ni-ogn/"><img src="/website/image/ognni500.png" height="75px" align="middle"></a>
     </div>
+
+    <script src="/website/js/script.js"></script>
     <script>
+        seatsSummary();
+
         (function(i, s, o, g, r, a, m) {
             i['GoogleAnalyticsObject'] = r;
             i[r] = i[r] || function() {
