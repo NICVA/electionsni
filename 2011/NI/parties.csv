@@ -1,17 +1,17 @@
 Party_Id,Party_Name,Party_Abbreviation,Hex_Col
-19,Alliance Party,APNI,#ffe600
-20,Democratic Unionist Party,DUP,#ff8000
-111,Green Party,GPNI,#33ff33
-21,Independent,IND,#669999
+19,Alliance Party,APNI,#FDD835
+20,Democratic Unionist Party,DUP,#FF5722
+111,Green Party,GPNI,#64DD17
+21,Independent,IND,#B0BEC5
 918,NI21,NI21,#581845
-24,Sinn Fein,SF,#009900
-23,Social Democratic and Labour Party,SDLP,#cc3300
-141,Traditional Unionist Voice,TUV,#0000e6
-689,UK Independence Party,UKIP,#cc00cc
-26,Ulster Unionist Party,UUP,#62cae7
-999,People Before Profit Alliance,PBP,#ff3399
-998,Workers Party,WP,#ff0000
+24,Sinn Fein,SF,#4CAF50
+23,Social Democratic and Labour Party,SDLP,#E53935
+141,Traditional Unionist Voice,TUV,#303F9F
+689,UK Independence Party,UKIP,#9C27B0
+26,Ulster Unionist Party,UUP,#03A9F4
+999,People Before Profit Alliance,PBP,#E91E63
+998,Workers Party,WP,#FF0000
 997,Procapitalism,CAP,#f633ff
 996,Socialist Party,SP,#e60000
 995,British Nationalist Party,BNP,#b7bdff
-994,Progressive Unionist Party,PUP,#1e0082
+994,Progressive Unionist Party,PUP,#880E4F

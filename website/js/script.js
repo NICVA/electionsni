@@ -20,10 +20,12 @@ function seatsSummary() {
         'url': "/2016/NI/all-elected-d3.json",
         'dataType': "json",
         'success': function(data) {
-            var result = _.fromPairs(_.sortBy(_.toPairs(_.countBy(_.map(data, 'Party_Name'))), function(a){return a[1]}).reverse());
+            var result = _.fromPairs(_.sortBy(_.toPairs(_.countBy(_.map(data, 'Party_Name'))), function(a) {
+                return a[1]
+            }).reverse());
             console.log(result)
             _.forEach(result, function(value, key) {
-                document.getElementById('seats_summary').innerHTML += key + ': ' + value + ' / ';
+                document.getElementById("seats_summary").innerHTML += '<span class="' + key.replace(/\s+/g, "-") + '">&nbsp;&nbsp;&nbsp;</span>&nbsp;<span class="' + key.replace(/\s+/g, "-") + '_abbr ' + '"></span>' + ': ' + value + '&nbsp;';
             })
         }
     });

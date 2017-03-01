@@ -131,105 +131,159 @@ header p {
 .Alliance-Party_label:before {
     content: "(Alliance) ";
 }
-
 .Social-Democratic-and-Labour-Party_label:before {
     content: "(SDLP) ";
 }
-
 .Ulster-Unionist-Party_label:before {
     content: "(UUP) ";
 }
-
 .Sinn-Fein_label:before {
     content: "(SF) ";
 }
-
 .Green-Party_label:before {
     content: "(Greens) ";
 }
-
 .Democratic-Unionist-Party_label:before {
     content: "(DUP) ";
 }
-
 .Traditional-Unionist-Voice_label:before {
     content: "(TUV) ";
 }
-
 .Workers-Party_label:before {
     content: "(WP) ";
 }
-
 .UK-Independence-Party_label:before {
     content: "(UKIP) ";
 }
-
 .Progressive-Unionist-Party_label:before {
     content: "(PUP) ";
 }
-
 .Socialist-Party_label:before {
     content: "(SP) ";
 }
-
 .NI21_label:before {
     content: "(NI21) ";
 }
-
 .Procapitalism_label:before {
     content: "(CAP) ";
 }
-
 .NI-Conservatives_label:before {
     content: "(CON) ";
 }
-
 .British-Nationalist-Party_label:before {
     content: "(BNP) ";
 }
-
 .People-Before-Profit-Alliance_label:before {
     content: "(PBP) ";
 }
-
 .Independent_label:before {
     content: "(Ind) ";
 }
-
 .Cannabis-Is-Safer-Than-Alcohol_label:before {
     content: "(CISTA) ";
 }
-
 .Citizens-Independent-Social-Thought-Alliance_label:before {
     content: "(CISTA) ";
 }
-
 .Labour-Alternative_label:before {
     content: "(LABALT) ";
 }
-
 .South-Belfast-Unionists_label:before {
     content: "(SBU) ";
 }
-
 .NI-Labour-Representation-Committee_label:before {
     content: "(LRC) ";
 }
-
 .Northern-Ireland-First_label:before {
     content: "(NIF) ";
 }
-
 .Cross-Community-Labour-Alternative_label:before {
     content: "(CCLAB) ";
 }
-
 .Democracy-First_label:before {
     content: "(DF) ";
 }
-
 .Animal-Welfare-Party_label:before {
     content: "(AWP) ";
+}
+
+.Alliance-Party_abbr:before {
+    content: "Alliance";
+}
+.Social-Democratic-and-Labour-Party_abbr:before {
+    content: "SDLP";
+}
+.Ulster-Unionist-Party_abbr:before {
+    content: "UUP";
+}
+.Sinn-Fein_abbr:before {
+    content: "SF";
+}
+.Green-Party_abbr:before {
+    content: "Greens";
+}
+.Democratic-Unionist-Party_abbr:before {
+    content: "DUP";
+}
+.Traditional-Unionist-Voice_abbr:before {
+    content: "TUV";
+}
+.Workers-Party_abbr:before {
+    content: "WP";
+}
+.UK-Independence-Party_abbr:before {
+    content: "UKIP";
+}
+.Progressive-Unionist-Party_abbr:before {
+    content: "PUP";
+}
+.Socialist-Party_abbr:before {
+    content: "SP";
+}
+.NI21_abbr:before {
+    content: "NI21";
+}
+.Procapitalism_abbr:before {
+    content: "CAP";
+}
+.NI-Conservatives_abbr:before {
+    content: "CON";
+}
+.British-Nationalist-Party_abbr:before {
+    content: "BNP";
+}
+.People-Before-Profit-Alliance_abbr:before {
+    content: "PBP";
+}
+.Independent_abbr:before {
+    content: "Ind";
+}
+.Cannabis-Is-Safer-Than-Alcohol_abbr:before {
+    content: "CISTA";
+}
+.Citizens-Independent-Social-Thought-Alliance_abbr:before {
+    content: "CISTA";
+}
+.Labour-Alternative_abbr:before {
+    content: "LABALT";
+}
+.South-Belfast-Unionists_abbr:before {
+    content: "SBU";
+}
+.NI-Labour-Representation-Committee_abbr:before {
+    content: "LRC";
+}
+.Northern-Ireland-First_abbr:before {
+    content: "NIF";
+}
+.Cross-Community-Labour-Alternative_abbr:before {
+    content: "CCLAB";
+}
+.Democracy-First_abbr:before {
+    content: "DF";
+}
+.Animal-Welfare-Party_abbr:before {
+    content: "AWP) ";
 }
 
 .tooltip {
@@ -269,8 +323,8 @@ header p {
 }
 
 .Green-Party {
-    fill: #689F38!important;
-    background: #689F38!important;
+    fill: #64DD17!important;
+    background: #64DD17!important;
     color: #fff
 }
 
@@ -299,8 +353,8 @@ header p {
 }
 
 .Workers-Party {
-    fill: #ff0000!important;
-    background: #ff0000!important;
+    fill: #FF0000!important;
+    background: #FF0000!important;
     color: #fff
 }
 
@@ -394,12 +448,24 @@ header p {
     color: #fff
 }
 
+.Citizens-Independent-Social-Thought-Alliance {
+    fill: #F84651!important;
+    background: #F84651!important;
+    color: #fff
+}
+
+.Cannabis-Is-Safer-Than-Alcohol {
+    fill: #F84651!important;
+    background: #F84651!important;
+    color: #fff
+}
+
 .votes {
     height: 25px;
     width: 0px;
     position: absolute;
-    fill: #669999;
-    background: #669999;
+    fill: #B0BEC5;
+    background: #B0BEC5;
     color: #fff; // Default colours for independents, non-specified parties
     overflow: hidden;
     white-space: nowrap;

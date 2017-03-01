@@ -7,22 +7,22 @@ var parties_info = {
   "Alliance Party": {
     "Party_Id": 19,
     "Party_Abbreviation": "APNI",
-    "Hex_Col": "#ffe600"
+    "Hex_Col": "#FDD835"
   },
   "Democratic Unionist Party": {
     "Party_Id": 20,
     "Party_Abbreviation": "DUP",
-    "Hex_Col": "#ff8000"
+    "Hex_Col": "#FF5722"
   },
   "Green Party": {
     "Party_Id": 111,
     "Party_Abbreviation": "GPNI",
-    "Hex_Col": "#33ff33"
+    "Hex_Col": "#64DD17"
   },
   "Independent": {
     "Party_Id": 21,
     "Party_Abbreviation": "IND",
-    "Hex_Col": "#669999"
+    "Hex_Col": "#B0BEC5"
   },
   "NI21": {
     "Party_Id": 918,
@@ -32,37 +32,37 @@ var parties_info = {
   "Sinn Fein": {
     "Party_Id": 24,
     "Party_Abbreviation": "SF",
-    "Hex_Col": "#009900"
+    "Hex_Col": "#4CAF50"
   },
   "Social Democratic and Labour Party": {
     "Party_Id": 23,
     "Party_Abbreviation": "SDLP",
-    "Hex_Col": "#cc3300"
+    "Hex_Col": "#E53935"
   },
   "Traditional Unionist Voice": {
     "Party_Id": 141,
     "Party_Abbreviation": "TUV",
-    "Hex_Col": "#0000e6"
+    "Hex_Col": "#303F9F"
   },
   "UK Independence Party": {
     "Party_Id": 689,
     "Party_Abbreviation": "UKIP",
-    "Hex_Col": "#cc00cc"
+    "Hex_Col": "#9C27B0"
   },
   "Ulster Unionist Party": {
     "Party_Id": 26,
     "Party_Abbreviation": "UUP",
-    "Hex_Col": "#62cae7"
+    "Hex_Col": "#03A9F4"
   },
   "People Before Profit Alliance": {
     "Party_Id": 999,
     "Party_Abbreviation": "PBP",
-    "Hex_Col": "#ff3399"
+    "Hex_Col": "#E91E63"
   },
   "Workers Party": {
     "Party_Id": 998,
     "Party_Abbreviation": "WP",
-    "Hex_Col": "#ff0000"
+    "Hex_Col": "#FF0000"
   },
   "Procapitalism": {
     "Party_Id": 997,
@@ -87,7 +87,7 @@ var parties_info = {
   "Progressive Unionist Party": {
     "Party_Id": 994,
     "Party_Abbreviation": "PUP",
-    "Hex_Col": "#1e0082"
+    "Hex_Col": "#880E4F"
   },
   "Animal Welfare Party": {
     "Party_Id": 985,
@@ -97,12 +97,12 @@ var parties_info = {
   "Cannabis Is Safer Than Alcohol": {
     "Party_Id": 993,
     "Party_Abbreviation": "CISTA",
-    "Hex_Col": "#ff7979"
+    "Hex_Col": "#F84651"
   },
   "Cross-Community Labour Alternative": {
     "Party_Id": 987,
     "Party_Abbreviation": "CCLAB",
-    "Hex_Col": "#ce1d4d"
+    "Hex_Col": "#E57373"
   },
   "Democracy First": {
     "Party_Id": 986,
@@ -112,12 +112,12 @@ var parties_info = {
   "Labour Alternative": {
     "Party_Id": 992,
     "Party_Abbreviation": "LABALT",
-    "Hex_Col": "#ca0000"
+    "Hex_Col": "#E57373"
   },
   "NI Conservatives": {
     "Party_Id": 991,
     "Party_Abbreviation": "CON",
-    "Hex_Col": "#362da7"
+    "Hex_Col": "#B0BEC5"
   },
   "South Belfast Unionists": {
     "Party_Id": 990,
@@ -132,7 +132,7 @@ var parties_info = {
   "NI Labour Representation Committee": {
     "Party_Id": 989,
     "Party_Abbreviation": "LRC",
-    "Hex_Col": "#800000"
+    "Hex_Col": "#E57373"
   },
   "not_transferred": {
     "Party_Id": 0,

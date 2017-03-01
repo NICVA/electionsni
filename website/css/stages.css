@@ -71,7 +71,7 @@
     height:25px;
     width:0px;
     position:absolute;
-    fill:#669999; background:#669999; color:#fff; // Default colours for independents, non-specified parties
+    fill:#B0BEC5; background:#B0BEC5; color:#fff; // Default colours for independents, non-specified parties
     overflow:hidden;
     white-space:nowrap;
     text-overflow:ellipsis;
