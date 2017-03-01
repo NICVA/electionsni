@@ -1,4 +1,4 @@
-/* This work is licensed under a Creative Commons Attribution 4.0 International License - http://creativecommons.org/licenses/by/4.0 
+/* This work is licensed under a Creative Commons Attribution 4.0 International License - http://creativecommons.org/licenses/by/4.0
  * Created by James Bligh (@anamates) for clairebyrne.ie and all thanks to data.localgov.ie
  */
 
@@ -7,7 +7,7 @@
 var loop;
 
 function animateStages(year,constituencyFolder) {
-    
+
     clearInterval(loop);
     $("#animation").html("");
     $("#animation").append("<div id='thepost' />")
@@ -38,7 +38,7 @@ function animateStages(year,constituencyFolder) {
                 'success': function (data) {
                     json = data;
                 },
-                
+
             })
             .fail(function(e){console.log('failed log', e)});
             return json;
@@ -53,17 +53,18 @@ function animateStages(year,constituencyFolder) {
         var constituencyCode = constituency["Constituency_Name"];
         var quota = parseInt(constituency["Quota"]);
         var seats = parseInt(constituency["Number_Of_Seats"]);
-        $("#quota").text("Quota: " + quota);
+        var turnout = ((parseInt(constituency["Total_Poll"])/parseInt(constituency["Total_Electorate"])) * 100).toFixed(2);
+        $("#quota").text("Turnout: " + numberWithCommas(parseInt(constituency["Total_Poll"])) + " (" + turnout + "%) Quota: " + quota);
         $("#seats-span").text(seats);
         $("#theline").css({top:17+(seats)*30});
         $("#theline").width(postPosition);
         var qFactor = voteWidth/quota; //all actual vote counts are multiplied by this to get a div width in proportion
 
-        /** 
+        /**
          * The data gets parsed into two dictionaries containing snippets of the following form
          * candidate data object of the form {
-         *  id:String,     candidate's id in data 
-         *  name:String,   candidate's name 
+         *  id:String,     candidate's id in data
+         *  name:String,   candidate's name
          *  status:String, is the candidate elected or excluded
          *  party:String   party string suitable to use as html/css class
          * }
@@ -130,7 +131,7 @@ function animateStages(year,constituencyFolder) {
         }
 
         //now we have the data set up we just hook up our links to functions
-        
+
         $("#pause-replay").click(function(event) {
             event.preventDefault();
             if ($(this).hasClass("fa-pause")) {
@@ -179,7 +180,7 @@ function animateStages(year,constituencyFolder) {
 		$("#stageNumbers").html("");
     }
 
-    //the magic, simple enough, append some divs and animate their width's to final position 
+    //the magic, simple enough, append some divs and animate their width's to final position
     //then animate their top to final position and move the name div at the same time
     function firstCount(){
 		$("#animation").height(candidates.length*30);
@@ -200,9 +201,9 @@ function animateStages(year,constituencyFolder) {
                 start:function(){
                     $("#cname"+$(this).data('candidate'))
                     .animate({top:topMargin+(countDict[1][$(this).data('candidate')]["order"]*30)},500*speed)
-                    if (!running) { 
+                    if (!running) {
                         $(".active").addClass("completed");
-                        $(".stageNumber").removeClass("active");    
+                        $(".stageNumber").removeClass("active");
                     }
                 }
             });
@@ -210,7 +211,7 @@ function animateStages(year,constituencyFolder) {
     }
 
     //find the first candidate who is transferring, all transfers from the round start from here
-    //append some divs with width relative to transfer number, animate them to their candidates current order 
+    //append some divs with width relative to transfer number, animate them to their candidates current order
     //then animate them accross to end of candidates vote pile, when complete remove the new div and update the candidates div width
     //finally run the reorder animation
     function advanceCount(){
@@ -263,15 +264,15 @@ function animateStages(year,constituencyFolder) {
                                         });
                                         //TODO:at this point we'd like to animate to new order
                                         $(this).remove();
-                                        if (!running) { 
+                                        if (!running) {
                                             $(".active").addClass("completed");
-                                            $(".stageNumber").removeClass("active");    
+                                            $(".stageNumber").removeClass("active");
                                         }
                                     });
                                 left = left + transfers[candidates[t].id] * qFactor;
                             }
                         }
-                        //could put dead votes in here                    
+                        //could put dead votes in here
                         transfered = true;
                     }
                     $("#candidate"+candidates[j].id).width(countDict[i][candidates[j].id]["total"] * qFactor).text(countDict[i][candidates[j].id]["total"] + " " + countDict[i][candidates[j].id]["status"]);
@@ -400,7 +401,7 @@ function animateStages(year,constituencyFolder) {
                     data["order"] = candidatesDict[k]["order"];
                 }else{
                     copy.push({
-                        key: k, 
+                        key: k,
                         count: data["total"]
                     });
                 }
@@ -429,7 +430,7 @@ function animateStages(year,constituencyFolder) {
     function updateCounter(n) {
         $(".stageNumber").removeClass("completed")
         for (i=1; i<n; i++) {
-            $("#stageNumber-" + i).addClass("completed")        
+            $("#stageNumber-" + i).addClass("completed")
         }
     };
 
