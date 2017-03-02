@@ -1,4 +1,4 @@
-var checkedYear = 2016;
+var checkedYear = 2017;
 var output = [];
 var constituenciesCount = [];
 
@@ -17,7 +17,7 @@ function seatsSummary() {
     $.ajax({
         'async': false,
         'global': false,
-        'url': "/2016/NI/all-elected-d3.json",
+        'url': "/2017/NI/all-elected-d3.json",
         'dataType': "json",
         'success': function(data) {
             var result = _.fromPairs(_.sortBy(_.toPairs(_.countBy(_.map(data, 'Party_Name'))), function(a) {

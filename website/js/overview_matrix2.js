@@ -107,7 +107,7 @@ $.each(constituencies, function(i, constituency) {
 $.ajax({
         'async': false,
         'global': false,
-        'url': "/2016/NI/all-elected.json",
+        'url': "/2017/NI/all-elected.json",
         'dataType': "json",
         'success': function(data) {
             $.each(data.Constituencies, function(i, constituency) {

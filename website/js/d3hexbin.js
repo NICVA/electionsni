@@ -1,7 +1,7 @@
 //Get the data
 var data; // a global
 
-getdata(2016);
+getdata(2017);
 
 //The number of columns and rows of the heatmap. Default 90 for 2017, need 108 for other years
 var MapColumns, MapRows;
