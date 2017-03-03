@@ -336,6 +336,18 @@
     "Candidate_Id": "4590"
 },
 {
+    "Candidate_First_Pref_Votes": "6221", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Hamilton", 
+    "Firstname": "Simon", 
+    "Colour": "#FF5722", 
+    "Constituency_Name": "Strangford", 
+    "Constituency_Number": "15", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "16581"
+},
+{
     "Candidate_First_Pref_Votes": "9140", 
     "Status": "Elected", 
     "Occurred_On_Count": "1", 

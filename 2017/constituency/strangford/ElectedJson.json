@@ -8,4 +8,14 @@
     "Constituency_Number": "15", 
     "Party_Name": "Alliance Party", 
     "Candidate_Id": "4590"
+},
+{
+    "Candidate_First_Pref_Votes": "6221", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Hamilton", 
+    "Firstname": "Simon", 
+    "Constituency_Number": "15", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "16581"
 }]
