@@ -96,6 +96,30 @@
     "Candidate_Id": "11273"
 },
 {
+    "Candidate_First_Pref_Votes": "7806", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "2", 
+    "Surname": "Dillon", 
+    "Firstname": "Linda", 
+    "Colour": "#4CAF50", 
+    "Constituency_Name": "Mid Ulster", 
+    "Constituency_Number": "7", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "11274"
+},
+{
+    "Candidate_First_Pref_Votes": "8143", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "2", 
+    "Surname": "Milne", 
+    "Firstname": "Ian", 
+    "Colour": "#4CAF50", 
+    "Constituency_Name": "Mid Ulster", 
+    "Constituency_Number": "7", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "11275"
+},
+{
     "Candidate_First_Pref_Votes": "10258", 
     "Status": "Elected", 
     "Occurred_On_Count": "1", 
@@ -229,8 +253,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "5813", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "4", 
     "Surname": "Armstrong", 
     "Firstname": "Kellie", 
     "Colour": "#FDD835", 

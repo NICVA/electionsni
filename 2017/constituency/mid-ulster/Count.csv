@@ -10,3 +10,14 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 7,7088,1,Hugh,Scullion,217,0,217,,,Workers Party
 7,10203,1,Stefan,Taylor,243,0,243,,,Green Party
 7,19693,1,Fay,Watson,1017,0,1017,,,Alliance Party
+7,11273,2,Keith Alexander,Buchanan,9568,0,9568,Elected,1,Democratic Unionist Party
+7,11274,2,Linda,Dillon,7806,0,7806,Elected,2,Sinn Fein
+7,11290,2,Hannah,Loughrin,1244,0,1244,,,Traditional Unionist Voice
+7,19727,2,Hugh,McCloy,247,0,247,,,Independent
+7,11291,2,Patsy,McGlone,6419,0,6419,,,Social Democratic and Labour Party
+7,11275,2,Ian,Milne,8143,0,8143,Elected,2,Sinn Fein
+7,11276,2,Michelle,O'Neill,10258,0,10258,Elected,1,Sinn Fein
+7,3870,2,Sandra,Overend,4516,0,4516,,,Ulster Unionist Party
+7,7088,2,Hugh,Scullion,217,0,217,,,Workers Party
+7,10203,2,Stefan,Taylor,243,0,243,,,Green Party
+7,19693,2,Fay,Watson,1017,0,1017,,,Alliance Party

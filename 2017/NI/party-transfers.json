@@ -117,7 +117,21 @@
 ,
 	{"Constituency_Name": "Strangford", "Counts": 
 		[
-
+		{"Count_Number": 2,
+			"From": {"NI Conservatives": -195.0},
+			"To": {"Independent": 17.0, "Social Democratic and Labour Party": 4.0, "Traditional Unionist Voice": 20.0, "Democratic Unionist Party": 31.0, "Ulster Unionist Party": 66.0, "Green Party": 12.0, "Sinn Fein": 0, "Alliance Party": 32.0, "NI Conservatives": 0},
+			"Not_transferred": 13.0
+		},
+		{"Count_Number": 3,
+			"From": {"Green Party": -930.0},
+			"To": {"Independent": 109.0, "Social Democratic and Labour Party": 71.0, "Traditional Unionist Voice": 20.0, "Democratic Unionist Party": 38.0, "Ulster Unionist Party": 84.0, "Green Party": 0, "Sinn Fein": 19.0, "Alliance Party": 527.0, "NI Conservatives": 0},
+			"Not_transferred": 62.0
+		},
+		{"Count_Number": 4,
+			"From": {"Sinn Fein": -1129.0},
+			"To": {"Independent": 35.0, "Social Democratic and Labour Party": 758.0, "Traditional Unionist Voice": 3.0, "Democratic Unionist Party": 4.0, "Ulster Unionist Party": 13.0, "Green Party": 0, "Sinn Fein": 0, "Alliance Party": 238.0, "NI Conservatives": 0},
+			"Not_transferred": 78.0
+		}
 		]
 	}
 ,
