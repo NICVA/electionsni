@@ -1,12 +1,12 @@
 Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_Pref_Votes,Transfers,Total_Votes,Status,Occurred_On_Count,Party_Name
-14,11531,1,Sinead,Bradley,,0,,,,Social Democratic and Labour Party
-14,11532,1,Patrick,Brown,,0,,,,Alliance Party
-14,19728,1,Patrick PC,Clarke,,0,,,,Independent
-14,19671,1,Sinéad,Ennis,,0,,,,Sinn Fein
-14,19705,1,Hannah,George,,0,,,,Green Party
-14,5994,1,Chris,Hazzard,,0,,,,Sinn Fein
-14,19722,1,Gary,Hynds,,0,,,,NI Conservatives
-14,11535,1,Colin,McGrath,,0,,,,Social Democratic and Labour Party
-14,6709,1,Harold,McKee,,0,,,,Ulster Unionist Party
-14,11545,1,Lyle,Rea,,0,,,,Traditional Unionist Voice
-14,2333,1,Jim,Wells,,0,,,,Democratic Unionist Party
+14,11531,1,Sinead,Bradley,7323,0,7323,,,Social Democratic and Labour Party
+14,11532,1,Patrick,Brown,4535,0,4535,,,Alliance Party
+14,19728,1,Patrick PC,Clarke,192,0,192,,,Independent
+14,19671,1,Sinéad,Ennis,10256,0,10256,Elected,1,Sinn Fein
+14,19705,1,Hannah,George,483,0,483,,,Green Party
+14,5994,1,Chris,Hazzard,8827,0,8827,Elected,1,Sinn Fein
+14,19722,1,Gary,Hynds,85,0,85,,,NI Conservatives
+14,11535,1,Colin,McGrath,5110,0,5110,,,Social Democratic and Labour Party
+14,6709,1,Harold,McKee,4172,0,4172,,,Ulster Unionist Party
+14,11545,1,Lyle,Rea,630,0,630,,,Traditional Unionist Voice
+14,2333,1,Jim,Wells,7786,0,7786,,,Democratic Unionist Party

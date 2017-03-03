@@ -1,6 +1,6 @@
 {"Constituency": {"countInfo": {"Valid_Poll": "49399", "Number_Of_Seats": "5", "Total_Poll": "49934", "Voting_Age_Pop": "82463", "Quota": "8234", "Constituency_Name": "South Down", "Constituency_Number": "14", "Total_Electorate": "75415", "Spoiled": "535"},
 "countGroup": [{
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "7323", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Bradley", 
@@ -11,10 +11,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 0, 
-    "Total_Votes": ""
+    "Total_Votes": "7323"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "4535", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Brown", 
@@ -25,10 +25,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 1, 
-    "Total_Votes": ""
+    "Total_Votes": "4535"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "192", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Clarke", 
@@ -39,12 +39,12 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 2, 
-    "Total_Votes": ""
+    "Total_Votes": "192"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Candidate_First_Pref_Votes": "10256", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
     "Surname": "Ennis", 
     "Firstname": "Sin\u00e9ad", 
     "Constituency_Number": "14", 
@@ -53,10 +53,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 3, 
-    "Total_Votes": ""
+    "Total_Votes": "10256"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "483", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "George", 
@@ -67,12 +67,12 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 4, 
-    "Total_Votes": ""
+    "Total_Votes": "483"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Candidate_First_Pref_Votes": "8827", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
     "Surname": "Hazzard", 
     "Firstname": "Chris", 
     "Constituency_Number": "14", 
@@ -81,10 +81,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 5, 
-    "Total_Votes": ""
+    "Total_Votes": "8827"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "85", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Hynds", 
@@ -95,10 +95,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 6, 
-    "Total_Votes": ""
+    "Total_Votes": "85"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "5110", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "McGrath", 
@@ -109,10 +109,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 7, 
-    "Total_Votes": ""
+    "Total_Votes": "5110"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "4172", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "McKee", 
@@ -123,10 +123,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 8, 
-    "Total_Votes": ""
+    "Total_Votes": "4172"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "630", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Rea", 
@@ -137,10 +137,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 9, 
-    "Total_Votes": ""
+    "Total_Votes": "630"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "7786", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Wells", 
@@ -151,6 +151,6 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 10, 
-    "Total_Votes": ""
+    "Total_Votes": "7786"
 }
 ]}}

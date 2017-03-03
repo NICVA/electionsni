@@ -1,2 +1,21 @@
 [
-]
+{
+    "Candidate_First_Pref_Votes": "10256", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
+    "Surname": "Ennis", 
+    "Firstname": "Sin\u00e9ad", 
+    "Constituency_Number": "14", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "19671"
+},
+{
+    "Candidate_First_Pref_Votes": "8827", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
+    "Surname": "Hazzard", 
+    "Firstname": "Chris", 
+    "Constituency_Number": "14", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "5994"
+}]

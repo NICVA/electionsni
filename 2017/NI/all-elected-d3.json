@@ -84,6 +84,30 @@
     "Candidate_Id": "11276"
 },
 {
+    "Candidate_First_Pref_Votes": "9197", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
+    "Surname": "Boylan", 
+    "Firstname": "Cathal", 
+    "Colour": "#4CAF50", 
+    "Constituency_Name": "Newry and Armagh", 
+    "Constituency_Number": "8", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "11394"
+},
+{
+    "Candidate_First_Pref_Votes": "9760", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
+    "Surname": "Irwin", 
+    "Firstname": "William George", 
+    "Colour": "#FF5722", 
+    "Constituency_Name": "Newry and Armagh", 
+    "Constituency_Number": "8", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "1872"
+},
+{
     "Candidate_First_Pref_Votes": "7151", 
     "Status": "Elected", 
     "Occurred_On_Count": "1", 
@@ -118,5 +142,29 @@
     "Constituency_Number": "11", 
     "Party_Name": "Alliance Party", 
     "Candidate_Id": "3598"
+},
+{
+    "Candidate_First_Pref_Votes": "10256", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
+    "Surname": "Ennis", 
+    "Firstname": "Sin\u00e9ad", 
+    "Colour": "#4CAF50", 
+    "Constituency_Name": "South Down", 
+    "Constituency_Number": "14", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "19671"
+},
+{
+    "Candidate_First_Pref_Votes": "8827", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
+    "Surname": "Hazzard", 
+    "Firstname": "Chris", 
+    "Colour": "#4CAF50", 
+    "Constituency_Name": "South Down", 
+    "Constituency_Number": "14", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "5994"
 }
 ]
