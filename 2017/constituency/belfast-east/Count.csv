@@ -36,7 +36,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 2,13037,3,John,Kyle,2658,5.22,2678.51,,,Progressive Unionist Party
 2,2454,3,Naomi,Long,7610,0,6727,Elected,1,Alliance Party
 2,13038,3,Chris,Lyttle,5059,20.22,5780.25,,,Alliance Party
-2,19746,3,Jordy,McKeag,84,0,85.43,Excluded,2,Independent
+2,19746,3,Jordy,McKeag,84,-85.43,0,Excluded,2,Independent
 2,19699,3,Georgina,Milne,1447,26.22,1500.28,,,Green Party
 2,13040,3,Robin,Newton,4729,2,4736.5,,,Democratic Unionist Party
 2,19680,3,Máiréad,O'Donnell,1173,2.11,1185.45,,,Sinn Fein

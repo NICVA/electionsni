@@ -527,9 +527,9 @@
     "Party_Name": "Independent", 
     "Candidate_Id": "19746", 
     "Count_Number": "3", 
-    "Transfers": "0", 
+    "Transfers": "-85.43", 
     "id": 37, 
-    "Total_Votes": "85.43"
+    "Total_Votes": "0"
 },
 {
     "Candidate_First_Pref_Votes": "1447", 

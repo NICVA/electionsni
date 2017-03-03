@@ -12,3 +12,29 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 10,19676,1,Adam,Millar,66,0,66,Excluded,1,Independent
 10,11378,1,Malachai,O'Hara,711,0,711,Excluded,1,Green Party
 10,6264,1,Gemma,Weir,248,0,248,Excluded,1,Workers Party
+10,11380,2,Paula,Bradley,4835,8,4843,,,Democratic Unionist Party
+10,11377,2,Carál,Ní Chuilín,5929,54,5983,,,Sinn Fein
+10,19690,2,Julie-Anne,Corr-Johnston,2053,50,2103,,,Progressive Unionist Party
+10,11371,2,Fiona,Ferguson,1559,290,1849,Excluded,2,People Before Profit Alliance
+10,19697,2,Robert,Foster,2418,39,2457,,,Ulster Unionist Party
+10,575,2,William,Humphrey,6275,5,4423,,,Democratic Unionist Party
+10,131,2,Gerry,Kelly,5431,54,6329,,,Sinn Fein
+10,11385,2,Nichola,Mallon,5431,142,5573,,,Social Democratic and Labour Party
+10,11374,2,Nuala,McAllister,3486,312,3799,,,Alliance Party
+10,11375,2,Nelson,McCausland,4056,13,4069,,,Democratic Unionist Party
+10,19676,2,Adam,Millar,66,-66,0,Excluded,1,Independent
+10,11378,2,Malachai,O'Hara,711,-711,0,Excluded,1,Green Party
+10,6264,2,Gemma,Weir,248,-248,0,Excluded,1,Workers Party
+10,11380,3,Paula,Bradley,4835,22,4865,,,Democratic Unionist Party
+10,11377,3,Carál,Ní Chuilín,5929,168,6151,,,Sinn Fein
+10,19690,3,Julie-Anne,Corr-Johnston,2053,71,2174,Excluded,3,Progressive Unionist Party
+10,11371,3,Fiona,Ferguson,1559,-1849,0,Excluded,2,People Before Profit Alliance
+10,19697,3,Robert,Foster,2418,60,2517,,,Ulster Unionist Party
+10,575,3,William,Humphrey,6275,6,4429,,,Democratic Unionist Party
+10,131,3,Gerry,Kelly,5431,243,6572,,,Sinn Fein
+10,11385,3,Nichola,Mallon,5431,503,6076,,,Social Democratic and Labour Party
+10,11374,3,Nuala,McAllister,3486,555,4354,,,Alliance Party
+10,11375,3,Nelson,McCausland,4056,10,4079,,,Democratic Unionist Party
+10,19676,3,Adam,Millar,66,0,0,Excluded,1,Independent
+10,11378,3,Malachai,O'Hara,711,0,0,Excluded,1,Green Party
+10,6264,3,Gemma,Weir,248,0,0,Excluded,1,Workers Party
