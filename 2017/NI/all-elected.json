@@ -78,7 +78,16 @@
 {"Constituency_Name": "Lagan Valley",
 "Constituency_Number": 6,
 "Elected": [
-]
+{
+    "Candidate_First_Pref_Votes": "8035", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Givan", 
+    "Firstname": "Paul", 
+    "Constituency_Number": "6", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "11540"
+}]
 },
 {"Constituency_Name": "Mid Ulster",
 "Constituency_Number": 7,

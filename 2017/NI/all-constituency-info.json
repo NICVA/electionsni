@@ -51,7 +51,7 @@
     "Constituency_Name": "Lagan Valley",
     "Constituency_Number": 6,
     "Directory": "lagan-valley",
-    "countInfo": {"Valid_Poll": "", "Number_Of_Seats": "5", "Total_Poll": "45440", "Voting_Age_Pop": "80833", "Quota": "", "Constituency_Name": "Lagan Valley", "Constituency_Number": "6", "Total_Electorate": "72621", "Spoiled": ""}
+    "countInfo": {"Valid_Poll": "45069", "Number_Of_Seats": "5", "Total_Poll": "45440", "Voting_Age_Pop": "80833", "Quota": "7512", "Constituency_Name": "Lagan Valley", "Constituency_Number": "6", "Total_Electorate": "72621", "Spoiled": "371"}
     },
 {
     "Constituency_Name": "Mid Ulster",

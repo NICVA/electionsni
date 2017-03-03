@@ -1,14 +1,14 @@
 Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_Pref_Votes,Transfers,Total_Votes,Status,Occurred_On_Count,Party_Name
-6,11537,1,Dan,Barrios-O'Neill,,0,,,,Green Party
-6,8114,1,Robbie,Butler,,0,,,,Ulster Unionist Party
-6,7180,1,Pat,Catney,,0,,,,Social Democratic and Labour Party
-6,19716,1,Peter,Doran,,0,,,,Sinn Fein
-6,11540,1,Paul,Givan,,0,,,,Democratic Unionist Party
-6,19747,1,Keith John,Gray,,0,,,,Independent
-6,11541,1,Brenda,Hale,,0,,,,Democratic Unionist Party
-6,763,1,Trevor,Lunn,,0,,,,Alliance Party
-6,297,1,Samuel,Morrison,,0,,,,Traditional Unionist Voice
-6,7410,1,Jonny,Orr,,0,,,,Independent
-6,8113,1,Jenny,Palmer,,0,,,,Ulster Unionist Party
-6,11544,1,Edwin,Poots,,0,,,,Democratic Unionist Party
-6,19723,1,Matthew,Robinson,,0,,,,NI Conservatives
+6,11537,1,Dan,Barrios-O'Neill,912,0,912,,,Green Party
+6,8114,1,Robbie,Butler,6846,0,6846,,,Ulster Unionist Party
+6,7180,1,Pat,Catney,3795,0,3795,,,Social Democratic and Labour Party
+6,19716,1,Peter,Doran,1801,0,1801,,,Sinn Fein
+6,11540,1,Paul,Givan,8035,0,8035,,,Democratic Unionist Party
+6,19747,1,Keith John,Gray,76,0,76,,,Independent
+6,11541,1,Brenda,Hale,4566,0,4566,,,Democratic Unionist Party
+6,763,1,Trevor,Lunn,6105,0,6105,,,Alliance Party
+6,297,1,Samuel,Morrison,1389,0,1389,,,Traditional Unionist Voice
+6,7410,1,Jonny,Orr,856,0,856,,,Independent
+6,8113,1,Jenny,Palmer,4492,0,4492,,,Ulster Unionist Party
+6,11544,1,Edwin,Poots,6013,0,6013,,,Democratic Unionist Party
+6,19723,1,Matthew,Robinson,183,0,183,,,NI Conservatives

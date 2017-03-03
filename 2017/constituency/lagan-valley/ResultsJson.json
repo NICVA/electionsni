@@ -1,6 +1,6 @@
-{"Constituency": {"countInfo": {"Valid_Poll": "", "Number_Of_Seats": "5", "Total_Poll": "45440", "Voting_Age_Pop": "80833", "Quota": "", "Constituency_Name": "Lagan Valley", "Constituency_Number": "6", "Total_Electorate": "72621", "Spoiled": ""},
+{"Constituency": {"countInfo": {"Valid_Poll": "45069", "Number_Of_Seats": "5", "Total_Poll": "45440", "Voting_Age_Pop": "80833", "Quota": "7512", "Constituency_Name": "Lagan Valley", "Constituency_Number": "6", "Total_Electorate": "72621", "Spoiled": "371"},
 "countGroup": [{
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "912", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Barrios-O'Neill", 
@@ -11,10 +11,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 0, 
-    "Total_Votes": ""
+    "Total_Votes": "912"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "6846", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Butler", 
@@ -25,10 +25,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 1, 
-    "Total_Votes": ""
+    "Total_Votes": "6846"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "3795", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Catney", 
@@ -39,10 +39,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 2, 
-    "Total_Votes": ""
+    "Total_Votes": "3795"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "1801", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Doran", 
@@ -53,10 +53,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 3, 
-    "Total_Votes": ""
+    "Total_Votes": "1801"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "8035", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Givan", 
@@ -67,10 +67,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 4, 
-    "Total_Votes": ""
+    "Total_Votes": "8035"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "76", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Gray", 
@@ -81,10 +81,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 5, 
-    "Total_Votes": ""
+    "Total_Votes": "76"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "4566", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Hale", 
@@ -95,10 +95,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 6, 
-    "Total_Votes": ""
+    "Total_Votes": "4566"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "6105", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Lunn", 
@@ -109,10 +109,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 7, 
-    "Total_Votes": ""
+    "Total_Votes": "6105"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "1389", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Morrison", 
@@ -123,10 +123,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 8, 
-    "Total_Votes": ""
+    "Total_Votes": "1389"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "856", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Orr", 
@@ -137,10 +137,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 9, 
-    "Total_Votes": ""
+    "Total_Votes": "856"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "4492", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Palmer", 
@@ -151,10 +151,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 10, 
-    "Total_Votes": ""
+    "Total_Votes": "4492"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "6013", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Poots", 
@@ -165,10 +165,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 11, 
-    "Total_Votes": ""
+    "Total_Votes": "6013"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "183", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Robinson", 
@@ -179,6 +179,6 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 12, 
-    "Total_Votes": ""
+    "Total_Votes": "183"
 }
 ]}}

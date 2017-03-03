@@ -48,6 +48,18 @@
     "Candidate_Id": "19678"
 },
 {
+    "Candidate_First_Pref_Votes": "8035", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Givan", 
+    "Firstname": "Paul", 
+    "Colour": "#FF5722", 
+    "Constituency_Name": "Lagan Valley", 
+    "Constituency_Number": "6", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "11540"
+},
+{
     "Candidate_First_Pref_Votes": "7151", 
     "Status": "Elected", 
     "Occurred_On_Count": "1", 
