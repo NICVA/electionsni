@@ -458,6 +458,16 @@
     "Constituency_Number": "16", 
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "12439"
+},
+{
+    "Candidate_First_Pref_Votes": "8220", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "O'Dowd", 
+    "Firstname": "John", 
+    "Constituency_Number": "16", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "3752"
 }]
 },
 {"Constituency_Name": "West Tyrone",

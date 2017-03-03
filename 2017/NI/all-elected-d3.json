@@ -468,6 +468,18 @@
     "Candidate_Id": "12439"
 },
 {
+    "Candidate_First_Pref_Votes": "8220", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "O'Dowd", 
+    "Firstname": "John", 
+    "Colour": "#4CAF50", 
+    "Constituency_Name": "Upper Bann", 
+    "Constituency_Number": "16", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "3752"
+},
+{
     "Candidate_First_Pref_Votes": "7714", 
     "Status": "Elected", 
     "Occurred_On_Count": "1", 
