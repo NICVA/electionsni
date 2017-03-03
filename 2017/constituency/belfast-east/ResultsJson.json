@@ -1,6 +1,6 @@
-{"Constituency": {"countInfo": {"Valid_Poll": "", "Number_Of_Seats": "5", "Total_Poll": "40828", "Voting_Age_Pop": "74065", "Quota": "", "Constituency_Name": "Belfast East", "Constituency_Number": "2", "Total_Electorate": "64788", "Spoiled": ""},
+{"Constituency": {"countInfo": {"Valid_Poll": "40357", "Number_Of_Seats": "5", "Total_Poll": "40828", "Voting_Age_Pop": "74065", "Quota": "6727", "Constituency_Name": "Belfast East", "Constituency_Number": "2", "Total_Electorate": "64788", "Spoiled": "471"},
 "countGroup": [{
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "5275", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Allen", 
@@ -11,10 +11,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 0, 
-    "Total_Votes": ""
+    "Total_Votes": "5275"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "275", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Bodel", 
@@ -25,10 +25,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 1, 
-    "Total_Votes": ""
+    "Total_Votes": "275"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "6007", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Bunting", 
@@ -39,10 +39,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 2, 
-    "Total_Votes": ""
+    "Total_Votes": "6007"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "250", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Douglas", 
@@ -53,10 +53,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 3, 
-    "Total_Votes": ""
+    "Total_Votes": "250"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "4431", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "de Faoite", 
@@ -67,10 +67,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 4, 
-    "Total_Votes": ""
+    "Total_Votes": "4431"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "917", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Girvin", 
@@ -81,10 +81,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 5, 
-    "Total_Votes": ""
+    "Total_Votes": "917"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "2658", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Kyle", 
@@ -95,12 +95,12 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 6, 
-    "Total_Votes": ""
+    "Total_Votes": "2658"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Candidate_First_Pref_Votes": "7610", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
     "Surname": "Long", 
     "Firstname": "Naomi", 
     "Constituency_Number": "2", 
@@ -109,10 +109,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 7, 
-    "Total_Votes": ""
+    "Total_Votes": "7610"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "5059", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Lyttle", 
@@ -123,10 +123,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 8, 
-    "Total_Votes": ""
+    "Total_Votes": "5059"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "84", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "McKeag", 
@@ -137,10 +137,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 9, 
-    "Total_Votes": ""
+    "Total_Votes": "84"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "1447", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Milne", 
@@ -151,10 +151,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 10, 
-    "Total_Votes": ""
+    "Total_Votes": "1447"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "4729", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Newton", 
@@ -165,10 +165,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 11, 
-    "Total_Votes": ""
+    "Total_Votes": "4729"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "1173", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "O'Donnell", 
@@ -179,10 +179,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 12, 
-    "Total_Votes": ""
+    "Total_Votes": "1173"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "442", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Robinson", 
@@ -193,6 +193,6 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 13, 
-    "Total_Votes": ""
+    "Total_Votes": "442"
 }
 ]}}
