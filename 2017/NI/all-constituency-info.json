@@ -99,13 +99,13 @@
     "Constituency_Name": "Upper Bann",
     "Constituency_Number": 16,
     "Directory": "upper-bann",
-    "countInfo": {"Valid_Poll": "", "Number_Of_Seats": "5", "Total_Poll": "52174", "Voting_Age_Pop": "92012", "Quota": "", "Constituency_Name": "Upper Bann", "Constituency_Number": "16", "Total_Electorate": "83431", "Spoiled": ""}
+    "countInfo": {"Valid_Poll": "", "Number_Of_Seats": "5", "Total_Poll": "52174", "Voting_Age_Pop": "92012", "Quota": "8592", "Constituency_Name": "Upper Bann", "Constituency_Number": "16", "Total_Electorate": "83431", "Spoiled": ""}
     },
 {
     "Constituency_Name": "West Tyrone",
     "Constituency_Number": 18,
     "Directory": "west-tyrone",
-    "countInfo": {"Valid_Poll": "", "Number_Of_Seats": "5", "Total_Poll": "44907", "Voting_Age_Pop": "69229", "Quota": "", "Constituency_Name": "West Tyrone", "Constituency_Number": "18", "Total_Electorate": "64258", "Spoiled": ""}
+    "countInfo": {"Valid_Poll": "", "Number_Of_Seats": "5", "Total_Poll": "44907", "Voting_Age_Pop": "69229", "Quota": "7388", "Constituency_Name": "West Tyrone", "Constituency_Number": "18", "Total_Electorate": "64258", "Spoiled": ""}
     }
     ]
 }

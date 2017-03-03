@@ -217,6 +217,35 @@
 {"Constituency_Name": "West Tyrone",
 "Constituency_Number": 18,
 "Elected": [
-]
+{
+    "Candidate_First_Pref_Votes": "7714", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
+    "Surname": "Boyle", 
+    "Firstname": "Michaela", 
+    "Constituency_Number": "18", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "11342"
+},
+{
+    "Candidate_First_Pref_Votes": "9064", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
+    "Surname": "Buchanan", 
+    "Firstname": "Thomas", 
+    "Constituency_Number": "18", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "1871"
+},
+{
+    "Candidate_First_Pref_Votes": "7573", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
+    "Surname": "McElduff", 
+    "Firstname": "Barry", 
+    "Constituency_Number": "18", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "11345"
+}]
 }
 ]}

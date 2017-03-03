@@ -1,16 +1,16 @@
 Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_Pref_Votes,Transfers,Total_Votes,Status,Occurred_On_Count,Party_Name
-18,11342,1,Michaela,Boyle,,0,,,,Sinn Fein
-18,6920,1,Barry,Brown,,0,,,,Citizens Independent Social Thought Alliance
-18,1871,1,Thomas,Buchanan,,0,,,,Democratic Unionist Party
-18,19733,1,Charlie,Chittick,,0,,,,Traditional Unionist Voice
-18,19689,1,Alicia,Clarke,,0,,,,Ulster Unionist Party
-18,6365,1,Stephen,Donnelly,,0,,,,Alliance Party
-18,11347,1,Corey,French,,0,,,,Independent
-18,11346,1,Roger,Lomas,,0,,,,NI Conservatives
-18,11343,1,Declan,McAleer,,0,,,,Sinn Fein
-18,11337,1,Sorcha,McAnespy,,0,,,,Independent
-18,5184,1,Ciaran,McClean,,0,,,,Green Party
-18,5185,1,Daniel,McCrossan,,0,,,,Social Democratic and Labour Party
-18,11345,1,Barry,McElduff,,0,,,,Sinn Fein
-18,19675,1,Roisin,McMackin,,0,,,,Independent
-18,7348,1,Susan-Anne,White,,0,,,,Independent
+18,11342,1,Michaela,Boyle,7714,0,7714,Elected,1,Sinn Fein
+18,6920,1,Barry,Brown,373,0,373,,,Citizens Independent Social Thought Alliance
+18,1871,1,Thomas,Buchanan,9064,0,9064,Elected,1,Democratic Unionist Party
+18,19733,1,Charlie,Chittick,851,0,851,,,Traditional Unionist Voice
+18,19689,1,Alicia,Clarke,3654,0,3654,,,Ulster Unionist Party
+18,6365,1,Stephen,Donnelly,1252,0,1252,,,Alliance Party
+18,11347,1,Corey,French,98,0,98,,,Independent
+18,11346,1,Roger,Lomas,27,0,27,,,NI Conservatives
+18,11343,1,Declan,McAleer,6034,0,6034,,,Sinn Fein
+18,11337,1,Sorcha,McAnespy,864,0,864,,,Independent
+18,5184,1,Ciaran,McClean,412,0,412,,,Green Party
+18,5185,1,Daniel,McCrossan,6283,0,6283,,,Social Democratic and Labour Party
+18,11345,1,Barry,McElduff,7573,0,7573,Elected,1,Sinn Fein
+18,19675,1,Roisin,McMackin,85,0,85,,,Independent
+18,7348,1,Susan-Anne,White,41,0,41,,,Independent

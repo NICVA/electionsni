@@ -1,8 +1,8 @@
-{"Constituency": {"countInfo": {"Valid_Poll": "", "Number_Of_Seats": "5", "Total_Poll": "44907", "Voting_Age_Pop": "69229", "Quota": "", "Constituency_Name": "West Tyrone", "Constituency_Number": "18", "Total_Electorate": "64258", "Spoiled": ""},
+{"Constituency": {"countInfo": {"Valid_Poll": "", "Number_Of_Seats": "5", "Total_Poll": "44907", "Voting_Age_Pop": "69229", "Quota": "7388", "Constituency_Name": "West Tyrone", "Constituency_Number": "18", "Total_Electorate": "64258", "Spoiled": ""},
 "countGroup": [{
-    "Candidate_First_Pref_Votes": "", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Candidate_First_Pref_Votes": "7714", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
     "Surname": "Boyle", 
     "Firstname": "Michaela", 
     "Constituency_Number": "18", 
@@ -11,10 +11,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 0, 
-    "Total_Votes": ""
+    "Total_Votes": "7714"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "373", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Brown", 
@@ -25,12 +25,12 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 1, 
-    "Total_Votes": ""
+    "Total_Votes": "373"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Candidate_First_Pref_Votes": "9064", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
     "Surname": "Buchanan", 
     "Firstname": "Thomas", 
     "Constituency_Number": "18", 
@@ -39,10 +39,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 2, 
-    "Total_Votes": ""
+    "Total_Votes": "9064"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "851", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Chittick", 
@@ -53,10 +53,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 3, 
-    "Total_Votes": ""
+    "Total_Votes": "851"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "3654", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Clarke", 
@@ -67,10 +67,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 4, 
-    "Total_Votes": ""
+    "Total_Votes": "3654"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "1252", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Donnelly", 
@@ -81,10 +81,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 5, 
-    "Total_Votes": ""
+    "Total_Votes": "1252"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "98", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "French", 
@@ -95,10 +95,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 6, 
-    "Total_Votes": ""
+    "Total_Votes": "98"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "27", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Lomas", 
@@ -109,10 +109,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 7, 
-    "Total_Votes": ""
+    "Total_Votes": "27"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "6034", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "McAleer", 
@@ -123,10 +123,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 8, 
-    "Total_Votes": ""
+    "Total_Votes": "6034"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "864", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "McAnespy", 
@@ -137,10 +137,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 9, 
-    "Total_Votes": ""
+    "Total_Votes": "864"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "412", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "McClean", 
@@ -151,10 +151,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 10, 
-    "Total_Votes": ""
+    "Total_Votes": "412"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "6283", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "McCrossan", 
@@ -165,12 +165,12 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 11, 
-    "Total_Votes": ""
+    "Total_Votes": "6283"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Candidate_First_Pref_Votes": "7573", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
     "Surname": "McElduff", 
     "Firstname": "Barry", 
     "Constituency_Number": "18", 
@@ -179,10 +179,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 12, 
-    "Total_Votes": ""
+    "Total_Votes": "7573"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "85", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "McMackin", 
@@ -193,10 +193,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 13, 
-    "Total_Votes": ""
+    "Total_Votes": "85"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "41", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "White", 
@@ -207,6 +207,6 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 14, 
-    "Total_Votes": ""
+    "Total_Votes": "41"
 }
 ]}}
