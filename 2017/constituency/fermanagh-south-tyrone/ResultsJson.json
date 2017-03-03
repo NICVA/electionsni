@@ -1,6 +1,6 @@
 {"Constituency": {"countInfo": {"Valid_Poll": "52263", "Number_Of_Seats": "5", "Total_Poll": "53075", "Voting_Age_Pop": "79405", "Quota": "8711", "Constituency_Name": "Fermanagh and South Tyrone", "Constituency_Number": "4", "Total_Electorate": "73100", "Spoiled": "812"},
 "countGroup": [{
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "6060", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Barton", 
@@ -11,10 +11,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 0, 
-    "Total_Votes": ""
+    "Total_Votes": "6060"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "1437", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Campbell", 
@@ -25,10 +25,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 1, 
-    "Total_Votes": ""
+    "Total_Votes": "1437"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "7767", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Dolan", 
@@ -39,10 +39,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 2, 
-    "Total_Votes": ""
+    "Total_Votes": "7767"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "70", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Dunn", 
@@ -53,10 +53,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 3, 
-    "Total_Votes": ""
+    "Total_Votes": "70"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "780", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Elliot", 
@@ -67,10 +67,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 4, 
-    "Total_Votes": ""
+    "Total_Votes": "780"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "8479", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Foster", 
@@ -81,10 +81,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 5, 
-    "Total_Votes": ""
+    "Total_Votes": "8479"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "7987", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Gildernew", 
@@ -95,10 +95,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 6, 
-    "Total_Votes": ""
+    "Total_Votes": "7987"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "550", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Jones", 
@@ -109,10 +109,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 7, 
-    "Total_Votes": ""
+    "Total_Votes": "550"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "6254", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Lynch", 
@@ -123,10 +123,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 8, 
-    "Total_Votes": ""
+    "Total_Votes": "6254"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "5134", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "McPhillips", 
@@ -137,10 +137,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 9, 
-    "Total_Votes": ""
+    "Total_Votes": "5134"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "7102", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Morrow", 
@@ -151,10 +151,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 10, 
-    "Total_Votes": ""
+    "Total_Votes": "7102"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "643", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "O'Cofaigh", 
@@ -165,6 +165,6 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 11, 
-    "Total_Votes": ""
+    "Total_Votes": "643"
 }
 ]}}

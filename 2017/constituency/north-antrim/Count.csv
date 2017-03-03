@@ -1,13 +1,13 @@
 Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_Pref_Votes,Transfers,Total_Votes,Status,Occurred_On_Count,Party_Name
-9,2134,1,Jim,Allister,,0,,,,Traditional Unionist Voice
-9,19703,1,Mark,Bailey,,0,,,,Green Party
-9,19714,1,Monica,Digney,,0,,,,Independent
-9,12750,1,Connor,Duncan,,0,,,,Social Democratic and Labour Party
-9,12751,1,Paul,Frew,,0,,,,Democratic Unionist Party
-9,5985,1,Timothy,Gaston,,0,,,,Traditional Unionist Voice
-9,12753,1,Phillip,Logan,,0,,,,Democratic Unionist Party
-9,19725,1,Adam,McBride,,0,,,,Independent
-9,19673,1,Philip,McGuigan,,0,,,,Sinn Fein
-9,19695,1,Patricia,O'Lynn,,0,,,,Alliance Party
-9,12757,1,Mervyn,Storey,,0,,,,Democratic Unionist Party
-9,4723,1,Robin,Swann,,0,,,,Ulster Unionist Party
+9,2134,1,Jim,Allister,6214,0,6214,,,Traditional Unionist Voice
+9,19703,1,Mark,Bailey,530,0,530,,,Green Party
+9,19714,1,Monica,Digney,435,0,435,,,Independent
+9,12750,1,Connor,Duncan,3519,0,3519,,,Social Democratic and Labour Party
+9,12751,1,Paul,Frew,6975,0,6975,,,Democratic Unionist Party
+9,5985,1,Timothy,Gaston,1505,0,1505,,,Traditional Unionist Voice
+9,12753,1,Phillip,Logan,5708,0,5708,,,Democratic Unionist Party
+9,19725,1,Adam,McBride,113,0,113,,,Independent
+9,19673,1,Philip,McGuigan,7600,0,7600,,,Sinn Fein
+9,19695,1,Patricia,O'Lynn,2616,0,2616,,,Alliance Party
+9,12757,1,Mervyn,Storey,6857,0,6857,,,Democratic Unionist Party
+9,4723,1,Robin,Swann,6022,0,6022,,,Ulster Unionist Party

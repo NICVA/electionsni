@@ -13,3 +13,17 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 13,4597,1,Máirtín,Ó Muilleoir,7610,0,7610,Elected,1,Sinn Fein
 13,11458,1,Emma,Little Pengelly,4446,0,4446,,,Democratic Unionist Party
 13,11461,1,Christopher David Matthew,Stalford,4529,0,4529,,,Democratic Unionist Party
+13,5824,2,Clare,Bailey,4247,45.78,4292.78,,,Green Party
+13,1679,2,Paula,Bradshaw,5595,37.26,5632.26,,,Alliance Party
+13,11455,2,Sean,Burns,531,8.76,539.76,,,Cross-Community Labour Alternative
+13,19698,2,Naomh,Gallagher,1794,61.68,1855.68,,,Social Democratic and Labour Party
+13,3475,2,Claire,Hanna,6559,197.28,6756.28,,,Social Democratic and Labour Party
+13,19709,2,Micheal,Henderson,3863,3,3866,,,Ulster Unionist Party
+13,11457,2,John,Andrew Hiddleston,703,0.36,703.36,,,Traditional Unionist Voice
+13,6023,2,George,Jabbour,200,0.48,200.48,Excluded,2,NI Conservatives
+13,6265,2,Lily,Kerr,163,5.22,168.22,Excluded,2,Workers Party
+13,19677,2,Emmet,McDonough-Brown,2053,27.96,2080.96,,,Alliance Party
+13,19670,2,Pádraigín,Mervyn,760,29.58,789.58,,,People Before Profit Alliance
+13,4597,2,Máirtín,Ó Muilleoir,7610,-434,7176,Elected,1,Sinn Fein
+13,11458,2,Emma,Little Pengelly,4446,0.78,4446.78,,,Democratic Unionist Party
+13,11461,2,Christopher David Matthew,Stalford,4529,1.08,4530.08,,,Democratic Unionist Party

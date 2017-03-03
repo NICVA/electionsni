@@ -13,7 +13,11 @@
 ,
 	{"Constituency_Name": "Belfast South", "Counts": 
 		[
-
+		{"Count_Number": 2,
+			"From": {"Sinn Fein": -434.0},
+			"To": {"Workers Party": 5.22, "Social Democratic and Labour Party": 258.96, "Traditional Unionist Voice": 0.36, "Democratic Unionist Party": 1.86, "Cross-Community Labour Alternative": 8.76, "Sinn Fein": 0, "People Before Profit Alliance": 29.58, "Green Party": 45.78, "Ulster Unionist Party": 3.0, "Alliance Party": 65.22, "NI Conservatives": 0.48},
+			"Not_transferred": 14.78
+		}
 		]
 	}
 ,
@@ -31,7 +35,11 @@
 ,
 	{"Constituency_Name": "East Londonderry", "Counts": 
 		[
-
+		{"Count_Number": 2,
+			"From": {"NI Conservatives": -219.0},
+			"To": {"Independent": 74.0, "Social Democratic and Labour Party": 6.0, "Traditional Unionist Voice": 10.0, "Democratic Unionist Party": 30.0, "Ulster Unionist Party": 52.0, "Green Party": 5.0, "People Before Profit Alliance": 2.0, "Sinn Fein": 4.0, "Alliance Party": 31.0, "NI Conservatives": 0, "Progressive Unionist Party": 3.0},
+			"Not_transferred": 2.0
+		}
 		]
 	}
 ,

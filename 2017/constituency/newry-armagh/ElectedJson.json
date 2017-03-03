@@ -10,6 +10,16 @@
     "Candidate_Id": "11394"
 },
 {
+    "Candidate_First_Pref_Votes": "8881", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "2", 
+    "Surname": "Fearon", 
+    "Firstname": "Megan", 
+    "Constituency_Number": "8", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "11396"
+},
+{
     "Candidate_First_Pref_Votes": "9760", 
     "Status": "Elected", 
     "Occurred_On_Count": "1", 
@@ -18,4 +28,14 @@
     "Constituency_Number": "8", 
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "1872"
+},
+{
+    "Candidate_First_Pref_Votes": "8983", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "2", 
+    "Surname": "McNulty", 
+    "Firstname": "Justin", 
+    "Constituency_Number": "8", 
+    "Party_Name": "Social Democratic and Labour Party", 
+    "Candidate_Id": "6086"
 }]

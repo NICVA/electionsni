@@ -1,10 +1,19 @@
 Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_Pref_Votes,Transfers,Total_Votes,Status,Occurred_On_Count,Party_Name
 8,11394,1,Cathal,Boylan,9197,0,9197,Elected,1,Sinn Fein
-8,19696,1,Jackie,Coade,1418,0,1418,,,Alliance Party
-8,11395,1,Emmet,Crossan,704,0,704,,,Citizens Independent Social Thought Alliance
+8,19696,1,Jackie,Coade,1418,0,1418,Excluded,1,Alliance Party
+8,11395,1,Emmet,Crossan,704,0,704,Excluded,1,Citizens Independent Social Thought Alliance
 8,11396,1,Megan,Fearon,8881,0,8881,,,Sinn Fein
 8,1872,1,William George,Irwin,9760,0,9760,Elected,1,Democratic Unionist Party
 8,31,1,Danny,Kennedy,7256,0,7256,,,Ulster Unionist Party
 8,6086,1,Justin,McNulty,8983,0,8983,,,Social Democratic and Labour Party
 8,1856,1,Conor,Murphy,8454,0,8454,,,Sinn Fein
-8,19702,1,Rowan,Tunnicliffe,265,0,265,,,Green Party
+8,19702,1,Rowan,Tunnicliffe,265,0,265,Excluded,1,Green Party
+8,11394,2,Cathal,Boylan,9197,0,9197,Elected,1,Sinn Fein
+8,19696,2,Jackie,Coade,1418,-1418,0,Excluded,1,Alliance Party
+8,11395,2,Emmet,Crossan,704,-704,0,Excluded,1,Citizens Independent Social Thought Alliance
+8,11396,2,Megan,Fearon,8881,294,9175,Elected,2,Sinn Fein
+8,1872,2,William George,Irwin,9760,0,9760,Elected,1,Democratic Unionist Party
+8,31,2,Danny,Kennedy,7256,419,7675,,,Ulster Unionist Party
+8,6086,2,Justin,McNulty,8983,1102,10085,Elected,2,Social Democratic and Labour Party
+8,1856,2,Conor,Murphy,8454,227,8681,,,Sinn Fein
+8,19702,2,Rowan,Tunnicliffe,265,-265,0,Excluded,1,Green Party

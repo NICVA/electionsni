@@ -1,13 +1,13 @@
 Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_Pref_Votes,Transfers,Total_Votes,Status,Occurred_On_Count,Party_Name
-4,8123,1,Rosemary,Barton,,0,,,,Ulster Unionist Party
-4,19684,1,Noreen,Campbell,,0,,,,Alliance Party
-4,19672,1,Jemma,Dolan,,0,,,,Sinn Fein
-4,19720,1,Richard,Dunn,,0,,,,NI Conservatives
-4,19692,1,Alex,Elliot,,0,,,,Traditional Unionist Voice
-4,11526,1,Arlene,Foster,,0,,,,Democratic Unionist Party
-4,2427,1,Michelle,Gildernew,,0,,,,Sinn Fein
-4,4674,1,Tanya,Jones,,0,,,,Green Party
-4,11528,1,Seán,Lynch,,0,,,,Sinn Fein
-4,11529,1,Richie,McPhillips,,0,,,,Social Democratic and Labour Party
-4,11530,1,Maurice,Morrow,,0,,,,Democratic Unionist Party
-4,19717,1,Donal,O'Cofaigh,,0,,,,Cross-Community Labour Alternative
+4,8123,1,Rosemary,Barton,6060,0,6060,,,Ulster Unionist Party
+4,19684,1,Noreen,Campbell,1437,0,1437,,,Alliance Party
+4,19672,1,Jemma,Dolan,7767,0,7767,,,Sinn Fein
+4,19720,1,Richard,Dunn,70,0,70,,,NI Conservatives
+4,19692,1,Alex,Elliot,780,0,780,,,Traditional Unionist Voice
+4,11526,1,Arlene,Foster,8479,0,8479,,,Democratic Unionist Party
+4,2427,1,Michelle,Gildernew,7987,0,7987,,,Sinn Fein
+4,4674,1,Tanya,Jones,550,0,550,,,Green Party
+4,11528,1,Seán,Lynch,6254,0,6254,,,Sinn Fein
+4,11529,1,Richie,McPhillips,5134,0,5134,,,Social Democratic and Labour Party
+4,11530,1,Maurice,Morrow,7102,0,7102,,,Democratic Unionist Party
+4,19717,1,Donal,O'Cofaigh,643,0,643,,,Cross-Community Labour Alternative
