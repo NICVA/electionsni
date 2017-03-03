@@ -1,6 +1,6 @@
-{"Constituency": {"countInfo": {"Valid_Poll": "", "Number_Of_Seats": "5", "Total_Poll": "37836", "Voting_Age_Pop": "70652", "Quota": "", "Constituency_Name": "East Antrim", "Constituency_Number": "1", "Total_Electorate": "62933", "Spoiled": ""},
+{"Constituency": {"countInfo": {"Valid_Poll": "37424", "Number_Of_Seats": "5", "Total_Poll": "37836", "Voting_Age_Pop": "70652", "Quota": "6238", "Constituency_Name": "East Antrim", "Constituency_Number": "1", "Total_Electorate": "62933", "Spoiled": "412"},
 "countGroup": [{
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "5121", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Beggs", 
@@ -11,10 +11,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 0, 
-    "Total_Votes": ""
+    "Total_Votes": "5121"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "106", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Best", 
@@ -25,10 +25,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 1, 
-    "Total_Votes": ""
+    "Total_Votes": "106"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "4179", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Dickson", 
@@ -39,10 +39,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 2, 
-    "Total_Votes": ""
+    "Total_Votes": "4179"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "1817", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Donnelly", 
@@ -53,10 +53,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 3, 
-    "Total_Votes": ""
+    "Total_Votes": "1817"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "152", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Dunlop", 
@@ -67,10 +67,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 4, 
-    "Total_Votes": ""
+    "Total_Votes": "152"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "6000", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Hilditch", 
@@ -81,10 +81,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 5, 
-    "Total_Votes": ""
+    "Total_Votes": "6000"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "1579", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Jordan", 
@@ -95,10 +95,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 6, 
-    "Total_Votes": ""
+    "Total_Votes": "1579"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "3851", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Lyons", 
@@ -109,10 +109,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 7, 
-    "Total_Votes": ""
+    "Total_Votes": "3851"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "1524", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "McKillop", 
@@ -123,10 +123,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 8, 
-    "Total_Votes": ""
+    "Total_Votes": "1524"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "3701", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "McMullan", 
@@ -137,10 +137,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 9, 
-    "Total_Votes": ""
+    "Total_Votes": "3701"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "777", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Patterson", 
@@ -151,10 +151,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 10, 
-    "Total_Votes": ""
+    "Total_Votes": "777"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "3313", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Ross", 
@@ -165,10 +165,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 11, 
-    "Total_Votes": ""
+    "Total_Votes": "3313"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "393", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Sheridan", 
@@ -179,10 +179,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 12, 
-    "Total_Votes": ""
+    "Total_Votes": "393"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "3377", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Stewart", 
@@ -193,10 +193,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 13, 
-    "Total_Votes": ""
+    "Total_Votes": "3377"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "1534", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Wilson", 
@@ -207,6 +207,6 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 14, 
-    "Total_Votes": ""
+    "Total_Votes": "1534"
 }
 ]}}
