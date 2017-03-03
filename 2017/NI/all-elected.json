@@ -299,6 +299,16 @@
     "Candidate_Id": "11274"
 },
 {
+    "Candidate_First_Pref_Votes": "6419", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "McGlone", 
+    "Firstname": "Patsy", 
+    "Constituency_Number": "7", 
+    "Party_Name": "Social Democratic and Labour Party", 
+    "Candidate_Id": "11291"
+},
+{
     "Candidate_First_Pref_Votes": "8143", 
     "Status": "Elected", 
     "Occurred_On_Count": "2", 
@@ -376,6 +386,16 @@
 {"Constituency_Name": "North Antrim",
 "Constituency_Number": 9,
 "Elected": [
+{
+    "Candidate_First_Pref_Votes": "7600", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "McGuigan", 
+    "Firstname": "Philip", 
+    "Constituency_Number": "9", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "19673"
+},
 {
     "Candidate_First_Pref_Votes": "6022", 
     "Status": "", 
