@@ -75,7 +75,7 @@
     "Constituency_Name": "North Down",
     "Constituency_Number": 11,
     "Directory": "north-down",
-    "countInfo": {"Valid_Poll": "", "Number_Of_Seats": "5", "Total_Poll": "", "Voting_Age_Pop": "71239", "Quota": "", "Constituency_Name": "North Down", "Constituency_Number": "11", "Total_Electorate": "64461", "Spoiled": ""}
+    "countInfo": {"Valid_Poll": "", "Number_Of_Seats": "5", "Total_Poll": "38174", "Voting_Age_Pop": "71239", "Quota": "6350", "Constituency_Name": "North Down", "Constituency_Number": "11", "Total_Electorate": "64461", "Spoiled": ""}
     },
 {
     "Constituency_Name": "South Antrim",
