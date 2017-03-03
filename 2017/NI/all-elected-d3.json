@@ -49,8 +49,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "5929", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "7", 
     "Surname": "N\u00ed Chuil\u00edn", 
     "Firstname": "Car\u00e1l", 
     "Colour": "#4CAF50", 
@@ -73,8 +73,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "5431", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "7", 
     "Surname": "Kelly", 
     "Firstname": "Gerry", 
     "Colour": "#4CAF50", 
@@ -85,8 +85,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "5431", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "7", 
     "Surname": "Mallon", 
     "Firstname": "Nichola", 
     "Colour": "#E53935", 
