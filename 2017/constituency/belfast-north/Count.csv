@@ -1,14 +1,14 @@
 Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_Pref_Votes,Transfers,Total_Votes,Status,Occurred_On_Count,Party_Name
-10,11380,1,Paula,Bradley,,0,,,,Democratic Unionist Party
-10,11377,1,Carál,Ní Chuilín,,0,,,,Sinn Fein
-10,19690,1,Julie-Anne,Corr-Johnston,,0,,,,Progressive Unionist Party
-10,11371,1,Fiona,Ferguson,,0,,,,People Before Profit Alliance
-10,19697,1,Robert,Foster,,0,,,,Ulster Unionist Party
-10,575,1,William,Humphrey,,0,,,,Democratic Unionist Party
-10,131,1,Gerry,Kelly,,0,,,,Sinn Fein
-10,11385,1,Nichola,Mallon,,0,,,,Social Democratic and Labour Party
-10,11374,1,Nuala,McAllister,,0,,,,Alliance Party
-10,11375,1,Nelson,McCausland,,0,,,,Democratic Unionist Party
-10,19676,1,Adam,Millar,,0,,,,Independent
-10,11378,1,Malachai,O'Hara,,0,,,,Green Party
-10,6264,1,Gemma,Weir,,0,,,,Workers Party
+10,11380,1,Paula,Bradley,4835,0,4835,,,Democratic Unionist Party
+10,11377,1,Carál,Ní Chuilín,2053,0,2053,,,Sinn Fein
+10,19690,1,Julie-Anne,Corr-Johnston,1559,0,1559,,,Progressive Unionist Party
+10,11371,1,Fiona,Ferguson,2418,0,2418,,,People Before Profit Alliance
+10,19697,1,Robert,Foster,4418,0,4418,,,Ulster Unionist Party
+10,575,1,William,Humphrey,6275,0,6275,,,Democratic Unionist Party
+10,131,1,Gerry,Kelly,5431,0,5431,,,Sinn Fein
+10,11385,1,Nichola,Mallon,3487,0,3487,,,Social Democratic and Labour Party
+10,11374,1,Nuala,McAllister,4056,0,4056,,,Alliance Party
+10,11375,1,Nelson,McCausland,66,0,66,,,Democratic Unionist Party
+10,19676,1,Adam,Millar,5929,0,5929,Excluded,1,Independent
+10,11378,1,Malachai,O'Hara,711,0,711,Excluded,1,Green Party
+10,6264,1,Gemma,Weir,248,0,248,Excluded,1,Workers Party

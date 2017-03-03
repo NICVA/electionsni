@@ -1,6 +1,6 @@
 {"Constituency": {"countInfo": {"Valid_Poll": "", "Number_Of_Seats": "5", "Total_Poll": "42119", "Voting_Age_Pop": "78914", "Quota": "", "Constituency_Name": "Belfast North", "Constituency_Number": "10", "Total_Electorate": "68187", "Spoiled": ""},
 "countGroup": [{
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "4835", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Bradley", 
@@ -11,10 +11,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 0, 
-    "Total_Votes": ""
+    "Total_Votes": "4835"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "2053", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "N\u00ed Chuil\u00edn", 
@@ -25,10 +25,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 1, 
-    "Total_Votes": ""
+    "Total_Votes": "2053"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "1559", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Corr-Johnston", 
@@ -39,10 +39,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 2, 
-    "Total_Votes": ""
+    "Total_Votes": "1559"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "2418", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Ferguson", 
@@ -53,10 +53,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 3, 
-    "Total_Votes": ""
+    "Total_Votes": "2418"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "4418", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Foster", 
@@ -67,10 +67,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 4, 
-    "Total_Votes": ""
+    "Total_Votes": "4418"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "6275", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Humphrey", 
@@ -81,10 +81,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 5, 
-    "Total_Votes": ""
+    "Total_Votes": "6275"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "5431", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Kelly", 
@@ -95,10 +95,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 6, 
-    "Total_Votes": ""
+    "Total_Votes": "5431"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "3487", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Mallon", 
@@ -109,10 +109,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 7, 
-    "Total_Votes": ""
+    "Total_Votes": "3487"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "4056", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "McAllister", 
@@ -123,10 +123,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 8, 
-    "Total_Votes": ""
+    "Total_Votes": "4056"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "66", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "McCausland", 
@@ -137,12 +137,12 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 9, 
-    "Total_Votes": ""
+    "Total_Votes": "66"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Candidate_First_Pref_Votes": "5929", 
+    "Status": "Excluded", 
+    "Occurred_On_Count": "1", 
     "Surname": "Millar", 
     "Firstname": "Adam", 
     "Constituency_Number": "10", 
@@ -151,12 +151,12 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 10, 
-    "Total_Votes": ""
+    "Total_Votes": "5929"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Candidate_First_Pref_Votes": "711", 
+    "Status": "Excluded", 
+    "Occurred_On_Count": "1", 
     "Surname": "O'Hara", 
     "Firstname": "Malachai", 
     "Constituency_Number": "10", 
@@ -165,12 +165,12 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 11, 
-    "Total_Votes": ""
+    "Total_Votes": "711"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Candidate_First_Pref_Votes": "248", 
+    "Status": "Excluded", 
+    "Occurred_On_Count": "1", 
     "Surname": "Weir", 
     "Firstname": "Gemma", 
     "Constituency_Number": "10", 
@@ -179,6 +179,6 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 12, 
-    "Total_Votes": ""
+    "Total_Votes": "248"
 }
 ]}}
