@@ -10,6 +10,16 @@
     "Candidate_Id": "8114"
 },
 {
+    "Candidate_First_Pref_Votes": "3795", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Catney", 
+    "Firstname": "Pat", 
+    "Constituency_Number": "6", 
+    "Party_Name": "Social Democratic and Labour Party", 
+    "Candidate_Id": "7180"
+},
+{
     "Candidate_First_Pref_Votes": "8035", 
     "Status": "Elected", 
     "Occurred_On_Count": "1", 
@@ -28,4 +38,14 @@
     "Constituency_Number": "6", 
     "Party_Name": "Alliance Party", 
     "Candidate_Id": "763"
+},
+{
+    "Candidate_First_Pref_Votes": "6013", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Poots", 
+    "Firstname": "Edwin", 
+    "Constituency_Number": "6", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "11544"
 }]

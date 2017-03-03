@@ -1,5 +1,25 @@
 [
 {
+    "Candidate_First_Pref_Votes": "5444", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Bradley", 
+    "Firstname": "Maurice", 
+    "Constituency_Number": "3", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "12080"
+},
+{
+    "Candidate_First_Pref_Votes": "4715", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Robinson", 
+    "Firstname": "George", 
+    "Constituency_Number": "3", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "12086"
+},
+{
     "Candidate_First_Pref_Votes": "4918", 
     "Status": "Elected", 
     "Occurred_On_Count": "8", 

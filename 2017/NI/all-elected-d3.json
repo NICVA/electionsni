@@ -240,6 +240,30 @@
     "Candidate_Id": "8121"
 },
 {
+    "Candidate_First_Pref_Votes": "5444", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Bradley", 
+    "Firstname": "Maurice", 
+    "Colour": "#FF5722", 
+    "Constituency_Name": "East Londonderry", 
+    "Constituency_Number": "3", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "12080"
+},
+{
+    "Candidate_First_Pref_Votes": "4715", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Robinson", 
+    "Firstname": "George", 
+    "Colour": "#FF5722", 
+    "Constituency_Name": "East Londonderry", 
+    "Constituency_Number": "3", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "12086"
+},
+{
     "Candidate_First_Pref_Votes": "4918", 
     "Status": "Elected", 
     "Occurred_On_Count": "8", 
@@ -313,8 +337,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "6948", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "5", 
     "Surname": "Durkan", 
     "Firstname": "Mark H.", 
     "Colour": "#E53935", 
@@ -372,6 +396,18 @@
     "Candidate_Id": "8114"
 },
 {
+    "Candidate_First_Pref_Votes": "3795", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Catney", 
+    "Firstname": "Pat", 
+    "Colour": "#E53935", 
+    "Constituency_Name": "Lagan Valley", 
+    "Constituency_Number": "6", 
+    "Party_Name": "Social Democratic and Labour Party", 
+    "Candidate_Id": "7180"
+},
+{
     "Candidate_First_Pref_Votes": "8035", 
     "Status": "Elected", 
     "Occurred_On_Count": "1", 
@@ -394,6 +430,18 @@
     "Constituency_Number": "6", 
     "Party_Name": "Alliance Party", 
     "Candidate_Id": "763"
+},
+{
+    "Candidate_First_Pref_Votes": "6013", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Poots", 
+    "Firstname": "Edwin", 
+    "Colour": "#FF5722", 
+    "Constituency_Name": "Lagan Valley", 
+    "Constituency_Number": "6", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "11544"
 },
 {
     "Candidate_First_Pref_Votes": "9568", 
