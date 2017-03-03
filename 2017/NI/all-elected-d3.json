@@ -120,6 +120,18 @@
     "Candidate_Id": "11447"
 },
 {
+    "Candidate_First_Pref_Votes": "3851", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Lyons", 
+    "Firstname": "Gordon", 
+    "Colour": "#FF5722", 
+    "Constituency_Name": "East Antrim", 
+    "Constituency_Number": "1", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "11448"
+},
+{
     "Candidate_First_Pref_Votes": "8479", 
     "Status": "Elected", 
     "Occurred_On_Count": "2", 
