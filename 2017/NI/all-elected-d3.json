@@ -144,6 +144,18 @@
     "Candidate_Id": "8121"
 },
 {
+    "Candidate_First_Pref_Votes": "6060", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Barton", 
+    "Firstname": "Rosemary", 
+    "Colour": "#03A9F4", 
+    "Constituency_Name": "Fermanagh and South Tyrone", 
+    "Constituency_Number": "4", 
+    "Party_Name": "Ulster Unionist Party", 
+    "Candidate_Id": "8123"
+},
+{
     "Candidate_First_Pref_Votes": "7767", 
     "Status": "Elected", 
     "Occurred_On_Count": "3", 
