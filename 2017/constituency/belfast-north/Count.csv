@@ -64,16 +64,16 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 10,19676,5,Adam,Millar,66,0,0,Excluded,1,Independent
 10,11378,5,Malachai,O'Hara,711,0,0,Excluded,1,Green Party
 10,6264,5,Gemma,Weir,248,0,0,Excluded,1,Workers Party
-10,11380,6,Paula,Bradley,4835,0,6002,,,Democratic Unionist Party
-10,11377,6,Carál,Ní Chuilín,5929,0,6158,,,Sinn Fein
+10,11380,6,Paula,Bradley,4835,2456,8458,Elected,6,Democratic Unionist Party
+10,11377,6,Carál,Ní Chuilín,5929,1,6159,,,Sinn Fein
 10,19690,6,Julie-Anne,Corr-Johnston,2053,0,0,Excluded,3,Progressive Unionist Party
 10,11371,6,Fiona,Ferguson,1559,0,0,Excluded,2,People Before Profit Alliance
 10,19697,6,Robert,Foster,2418,0,0,Excluded,4,Ulster Unionist Party
-10,575,6,William,Humphrey,6275,0,5260,,,Democratic Unionist Party
-10,131,6,Gerry,Kelly,5431,0,6591,,,Sinn Fein
-10,11385,6,Nichola,Mallon,5431,0,6662,,,Social Democratic and Labour Party
-10,11374,6,Nuala,McAllister,3486,0,5257,,,Alliance Party
-10,11375,6,Nelson,McCausland,4056,0,4709,Excluded,5,Democratic Unionist Party
+10,575,6,William,Humphrey,6275,2016,7276,Elected,6,Democratic Unionist Party
+10,131,6,Gerry,Kelly,5431,2,6593,,,Sinn Fein
+10,11385,6,Nichola,Mallon,5431,30,6692,,,Social Democratic and Labour Party
+10,11374,6,Nuala,McAllister,3486,39,5296,,,Alliance Party
+10,11375,6,Nelson,McCausland,4056,-4709,0,Excluded,5,Democratic Unionist Party
 10,19676,6,Adam,Millar,66,0,0,Excluded,1,Independent
 10,11378,6,Malachai,O'Hara,711,0,0,Excluded,1,Green Party
 10,6264,6,Gemma,Weir,248,0,0,Excluded,1,Workers Party

@@ -911,17 +911,17 @@
 },
 {
     "Candidate_First_Pref_Votes": "4835", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "6", 
     "Surname": "Bradley", 
     "Firstname": "Paula", 
     "Constituency_Number": "10", 
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "11380", 
     "Count_Number": "6", 
-    "Transfers": "0", 
+    "Transfers": "2456", 
     "id": 65, 
-    "Total_Votes": "6002"
+    "Total_Votes": "8458"
 },
 {
     "Candidate_First_Pref_Votes": "5929", 
@@ -933,9 +933,9 @@
     "Party_Name": "Sinn Fein", 
     "Candidate_Id": "11377", 
     "Count_Number": "6", 
-    "Transfers": "0", 
+    "Transfers": "1", 
     "id": 66, 
-    "Total_Votes": "6158"
+    "Total_Votes": "6159"
 },
 {
     "Candidate_First_Pref_Votes": "2053", 
@@ -981,17 +981,17 @@
 },
 {
     "Candidate_First_Pref_Votes": "6275", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "6", 
     "Surname": "Humphrey", 
     "Firstname": "William", 
     "Constituency_Number": "10", 
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "575", 
     "Count_Number": "6", 
-    "Transfers": "0", 
+    "Transfers": "2016", 
     "id": 70, 
-    "Total_Votes": "5260"
+    "Total_Votes": "7276"
 },
 {
     "Candidate_First_Pref_Votes": "5431", 
@@ -1003,9 +1003,9 @@
     "Party_Name": "Sinn Fein", 
     "Candidate_Id": "131", 
     "Count_Number": "6", 
-    "Transfers": "0", 
+    "Transfers": "2", 
     "id": 71, 
-    "Total_Votes": "6591"
+    "Total_Votes": "6593"
 },
 {
     "Candidate_First_Pref_Votes": "5431", 
@@ -1017,9 +1017,9 @@
     "Party_Name": "Social Democratic and Labour Party", 
     "Candidate_Id": "11385", 
     "Count_Number": "6", 
-    "Transfers": "0", 
+    "Transfers": "30", 
     "id": 72, 
-    "Total_Votes": "6662"
+    "Total_Votes": "6692"
 },
 {
     "Candidate_First_Pref_Votes": "3486", 
@@ -1031,9 +1031,9 @@
     "Party_Name": "Alliance Party", 
     "Candidate_Id": "11374", 
     "Count_Number": "6", 
-    "Transfers": "0", 
+    "Transfers": "39", 
     "id": 73, 
-    "Total_Votes": "5257"
+    "Total_Votes": "5296"
 },
 {
     "Candidate_First_Pref_Votes": "4056", 
@@ -1045,9 +1045,9 @@
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "11375", 
     "Count_Number": "6", 
-    "Transfers": "0", 
+    "Transfers": "-4709", 
     "id": 74, 
-    "Total_Votes": "4709"
+    "Total_Votes": "0"
 },
 {
     "Candidate_First_Pref_Votes": "66", 

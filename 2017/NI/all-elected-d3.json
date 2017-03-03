@@ -25,8 +25,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "4835", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "6", 
     "Surname": "Bradley", 
     "Firstname": "Paula", 
     "Colour": "#FF5722", 
@@ -37,8 +37,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "6275", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "6", 
     "Surname": "Humphrey", 
     "Firstname": "William", 
     "Colour": "#FF5722", 
@@ -478,6 +478,30 @@
     "Constituency_Number": "8", 
     "Party_Name": "Sinn Fein", 
     "Candidate_Id": "1856"
+},
+{
+    "Candidate_First_Pref_Votes": "6214", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Allister", 
+    "Firstname": "Jim", 
+    "Colour": "#303F9F", 
+    "Constituency_Name": "North Antrim", 
+    "Constituency_Number": "9", 
+    "Party_Name": "Traditional Unionist Voice", 
+    "Candidate_Id": "2134"
+},
+{
+    "Candidate_First_Pref_Votes": "6975", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Frew", 
+    "Firstname": "Paul", 
+    "Colour": "#FF5722", 
+    "Constituency_Name": "North Antrim", 
+    "Constituency_Number": "9", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "12751"
 },
 {
     "Candidate_First_Pref_Votes": "7600", 

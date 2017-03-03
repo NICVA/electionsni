@@ -35,6 +35,11 @@
 			"From": {"Ulster Unionist Party": -3141.0},
 			"To": {"Workers Party": 0, "Independent": 0, "Social Democratic and Labour Party": 537.0, "Democratic Unionist Party": 1426.0, "Sinn Fein": 12.0, "Green Party": 0, "People Before Profit Alliance": 0, "Ulster Unionist Party": 0, "Alliance Party": 742.0, "Progressive Unionist Party": 0},
 			"Not_transferred": 424.0
+		},
+		{"Count_Number": 6,
+			"From": {"Democratic Unionist Party": -4709.0},
+			"To": {"Workers Party": 0, "Independent": 0, "Social Democratic and Labour Party": 30.0, "Democratic Unionist Party": 4472.0, "Sinn Fein": 3.0, "Green Party": 0, "People Before Profit Alliance": 0, "Ulster Unionist Party": 0, "Alliance Party": 39.0, "Progressive Unionist Party": 0},
+			"Not_transferred": 165.0
 		}
 		]
 	}
@@ -202,7 +207,11 @@
 ,
 	{"Constituency_Name": "North Antrim", "Counts": 
 		[
-
+		{"Count_Number": 2,
+			"From": {"Independent": -113.0},
+			"To": {"Independent": 19.0, "Social Democratic and Labour Party": 8.0, "Traditional Unionist Voice": 2.0, "Democratic Unionist Party": 9.0, "Ulster Unionist Party": 10.0, "Green Party": 17.0, "Sinn Fein": 1.0, "Alliance Party": 39.0},
+			"Not_transferred": 8.0
+		}
 		]
 	}
 ,

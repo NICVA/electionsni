@@ -6,8 +6,32 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 9,12751,1,Paul,Frew,6975,0,6975,,,Democratic Unionist Party
 9,5985,1,Timothy,Gaston,1505,0,1505,,,Traditional Unionist Voice
 9,12753,1,Phillip,Logan,5708,0,5708,,,Democratic Unionist Party
-9,19725,1,Adam,McBride,113,0,113,,,Independent
+9,19725,1,Adam,McBride,113,0,113,Excluded,1,Independent
 9,19673,1,Philip,McGuigan,7600,0,7600,,,Sinn Fein
 9,19695,1,Patricia,O'Lynn,2616,0,2616,,,Alliance Party
 9,12757,1,Mervyn,Storey,6857,0,6857,,,Democratic Unionist Party
 9,4723,1,Robin,Swann,6022,0,6022,,,Ulster Unionist Party
+9,2134,2,Jim,Allister,6214,1,6215,,,Traditional Unionist Voice
+9,19703,2,Mark,Bailey,530,17,547,,,Green Party
+9,19714,2,Monica,Digney,435,19,454,Excluded,2,Independent
+9,12750,2,Connor,Duncan,3519,8,3527,,,Social Democratic and Labour Party
+9,12751,2,Paul,Frew,6975,2,6977,,,Democratic Unionist Party
+9,5985,2,Timothy,Gaston,1505,1,1506,,,Traditional Unionist Voice
+9,12753,2,Phillip,Logan,5708,1,5709,,,Democratic Unionist Party
+9,19725,2,Adam,McBride,113,-113,0,Excluded,1,Independent
+9,19673,2,Philip,McGuigan,7600,1,7601,,,Sinn Fein
+9,19695,2,Patricia,O'Lynn,2616,39,2655,,,Alliance Party
+9,12757,2,Mervyn,Storey,6857,6,6863,,,Democratic Unionist Party
+9,4723,2,Robin,Swann,6022,10,6032,,,Ulster Unionist Party
+9,2134,3,Jim,Allister,6214,0,6215,,,Traditional Unionist Voice
+9,19703,3,Mark,Bailey,530,0,547,,,Green Party
+9,19714,3,Monica,Digney,435,0,454,Excluded,2,Independent
+9,12750,3,Connor,Duncan,3519,0,3527,,,Social Democratic and Labour Party
+9,12751,3,Paul,Frew,6975,0,6977,,,Democratic Unionist Party
+9,5985,3,Timothy,Gaston,1505,0,1506,,,Traditional Unionist Voice
+9,12753,3,Phillip,Logan,5708,0,5709,,,Democratic Unionist Party
+9,19725,3,Adam,McBride,113,0,0,Excluded,1,Independent
+9,19673,3,Philip,McGuigan,7600,0,7601,,,Sinn Fein
+9,19695,3,Patricia,O'Lynn,2616,0,2655,,,Alliance Party
+9,12757,3,Mervyn,Storey,6857,0,6863,,,Democratic Unionist Party
+9,4723,3,Robin,Swann,6022,0,6032,,,Ulster Unionist Party

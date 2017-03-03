@@ -1,8 +1,8 @@
 [
 {
     "Candidate_First_Pref_Votes": "4835", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "6", 
     "Surname": "Bradley", 
     "Firstname": "Paula", 
     "Constituency_Number": "10", 
@@ -11,8 +11,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "6275", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "6", 
     "Surname": "Humphrey", 
     "Firstname": "William", 
     "Constituency_Number": "10", 

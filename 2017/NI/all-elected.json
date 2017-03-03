@@ -28,8 +28,8 @@
 "Elected": [
 {
     "Candidate_First_Pref_Votes": "4835", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "6", 
     "Surname": "Bradley", 
     "Firstname": "Paula", 
     "Constituency_Number": "10", 
@@ -38,8 +38,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "6275", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "6", 
     "Surname": "Humphrey", 
     "Firstname": "William", 
     "Constituency_Number": "10", 
@@ -446,6 +446,26 @@
 {"Constituency_Name": "North Antrim",
 "Constituency_Number": 9,
 "Elected": [
+{
+    "Candidate_First_Pref_Votes": "6214", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Allister", 
+    "Firstname": "Jim", 
+    "Constituency_Number": "9", 
+    "Party_Name": "Traditional Unionist Voice", 
+    "Candidate_Id": "2134"
+},
+{
+    "Candidate_First_Pref_Votes": "6975", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Frew", 
+    "Firstname": "Paul", 
+    "Constituency_Number": "9", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "12751"
+},
 {
     "Candidate_First_Pref_Votes": "7600", 
     "Status": "", 
