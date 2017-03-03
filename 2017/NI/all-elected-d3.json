@@ -132,6 +132,18 @@
     "Candidate_Id": "11448"
 },
 {
+    "Candidate_First_Pref_Votes": "3377", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Stewart", 
+    "Firstname": "John", 
+    "Colour": "#03A9F4", 
+    "Constituency_Name": "East Antrim", 
+    "Constituency_Number": "1", 
+    "Party_Name": "Ulster Unionist Party", 
+    "Candidate_Id": "8121"
+},
+{
     "Candidate_First_Pref_Votes": "8479", 
     "Status": "Elected", 
     "Occurred_On_Count": "2", 
@@ -442,6 +454,18 @@
     "Constituency_Number": "15", 
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "16581"
+},
+{
+    "Candidate_First_Pref_Votes": "5467", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Beattie", 
+    "Firstname": "Doug", 
+    "Colour": "#03A9F4", 
+    "Constituency_Name": "Upper Bann", 
+    "Constituency_Number": "16", 
+    "Party_Name": "Ulster Unionist Party", 
+    "Candidate_Id": "8150"
 },
 {
     "Candidate_First_Pref_Votes": "7745", 
