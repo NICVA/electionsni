@@ -45,7 +45,7 @@
     "Constituency_Name": "Foyle",
     "Constituency_Number": 5,
     "Directory": "foyle",
-    "countInfo": {"Valid_Poll": "", "Number_Of_Seats": "5", "Total_Poll": "45317", "Voting_Age_Pop": "76503", "Quota": "", "Constituency_Name": "Foyle", "Constituency_Number": "5", "Total_Electorate": "69718", "Spoiled": ""}
+    "countInfo": {"Valid_Poll": "44616", "Number_Of_Seats": "5", "Total_Poll": "45317", "Voting_Age_Pop": "76503", "Quota": "7437", "Constituency_Name": "Foyle", "Constituency_Number": "5", "Total_Electorate": "69718", "Spoiled": "701"}
     },
 {
     "Constituency_Name": "Lagan Valley",
@@ -87,7 +87,7 @@
     "Constituency_Name": "South Down",
     "Constituency_Number": 14,
     "Directory": "south-down",
-    "countInfo": {"Valid_Poll": "", "Number_Of_Seats": "5", "Total_Poll": "49934", "Voting_Age_Pop": "82463", "Quota": "", "Constituency_Name": "South Down", "Constituency_Number": "14", "Total_Electorate": "75415", "Spoiled": ""}
+    "countInfo": {"Valid_Poll": "", "Number_Of_Seats": "5", "Total_Poll": "49934", "Voting_Age_Pop": "82463", "Quota": "8322", "Constituency_Name": "South Down", "Constituency_Number": "14", "Total_Electorate": "75415", "Spoiled": ""}
     },
 {
     "Constituency_Name": "Strangford",

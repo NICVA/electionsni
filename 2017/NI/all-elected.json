@@ -55,7 +55,16 @@
 {"Constituency_Name": "Foyle",
 "Constituency_Number": 5,
 "Elected": [
-]
+{
+    "Candidate_First_Pref_Votes": "9205", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
+    "Surname": "McCallion", 
+    "Firstname": "Elisha", 
+    "Constituency_Number": "5", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "19678"
+}]
 },
 {"Constituency_Name": "Lagan Valley",
 "Constituency_Number": 6,

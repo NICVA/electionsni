@@ -1,13 +1,13 @@
 Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_Pref_Votes,Transfers,Total_Votes,Status,Occurred_On_Count,Party_Name
-5,7656,1,Stuart,Canning,,0,,,,NI Conservatives
-5,19694,1,Colm,Cavanagh,,0,,,,Alliance Party
-5,19701,1,Shannon,Downey,,0,,,,Green Party
-5,19640,1,Mark H.,Durkan,,0,,,,Social Democratic and Labour Party
-5,11857,1,Colum,Eastwood,,0,,,,Social Democratic and Labour Party
-5,6404,1,Julia,Kee,,0,,,,Ulster Unionist Party
-5,11859,1,John,Lindsay,,0,,,,Citizens Independent Social Thought Alliance
-5,19678,1,Elisha,McCallion,,0,,,,Sinn Fein
-5,2294,1,Eamonn,McCann,,0,,,,People Before Profit Alliance
-5,11860,1,Raymond,McCartney,,0,,,,Sinn Fein
-5,19742,1,Arthur,McGuinness,,0,,,,Independent
-5,7209,1,Gary,Middleton,,0,,,,Democratic Unionist Party
+5,7656,1,Stuart,Canning,77,0,77,,,NI Conservatives
+5,19694,1,Colm,Cavanagh,1124,0,1124,,,Alliance Party
+5,19701,1,Shannon,Downey,242,0,242,,,Green Party
+5,19640,1,Mark H.,Durkan,6948,0,6948,,,Social Democratic and Labour Party
+5,11857,1,Colum,Eastwood,7240,0,7240,,,Social Democratic and Labour Party
+5,6404,1,Julia,Kee,1660,0,1660,,,Ulster Unionist Party
+5,11859,1,John,Lindsay,196,0,196,,,Citizens Independent Social Thought Alliance
+5,19678,1,Elisha,McCallion,9205,0,9205,Elected,1,Sinn Fein
+5,2294,1,Eamonn,McCann,4760,0,4760,,,People Before Profit Alliance
+5,11860,1,Raymond,McCartney,7145,0,7145,,,Sinn Fein
+5,19742,1,Arthur,McGuinness,44,0,44,,,Independent
+5,7209,1,Gary,Middleton,5975,0,5975,,,Democratic Unionist Party

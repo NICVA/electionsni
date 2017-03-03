@@ -1,6 +1,6 @@
-{"Constituency": {"countInfo": {"Valid_Poll": "", "Number_Of_Seats": "5", "Total_Poll": "45317", "Voting_Age_Pop": "76503", "Quota": "", "Constituency_Name": "Foyle", "Constituency_Number": "5", "Total_Electorate": "69718", "Spoiled": ""},
+{"Constituency": {"countInfo": {"Valid_Poll": "44616", "Number_Of_Seats": "5", "Total_Poll": "45317", "Voting_Age_Pop": "76503", "Quota": "7437", "Constituency_Name": "Foyle", "Constituency_Number": "5", "Total_Electorate": "69718", "Spoiled": "701"},
 "countGroup": [{
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "77", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Canning", 
@@ -11,10 +11,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 0, 
-    "Total_Votes": ""
+    "Total_Votes": "77"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "1124", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Cavanagh", 
@@ -25,10 +25,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 1, 
-    "Total_Votes": ""
+    "Total_Votes": "1124"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "242", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Downey", 
@@ -39,10 +39,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 2, 
-    "Total_Votes": ""
+    "Total_Votes": "242"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "6948", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Durkan", 
@@ -53,10 +53,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 3, 
-    "Total_Votes": ""
+    "Total_Votes": "6948"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "7240", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Eastwood", 
@@ -67,10 +67,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 4, 
-    "Total_Votes": ""
+    "Total_Votes": "7240"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "1660", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Kee", 
@@ -81,10 +81,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 5, 
-    "Total_Votes": ""
+    "Total_Votes": "1660"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "196", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Lindsay", 
@@ -95,12 +95,12 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 6, 
-    "Total_Votes": ""
+    "Total_Votes": "196"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Candidate_First_Pref_Votes": "9205", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
     "Surname": "McCallion", 
     "Firstname": "Elisha", 
     "Constituency_Number": "5", 
@@ -109,10 +109,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 7, 
-    "Total_Votes": ""
+    "Total_Votes": "9205"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "4760", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "McCann", 
@@ -123,10 +123,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 8, 
-    "Total_Votes": ""
+    "Total_Votes": "4760"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "7145", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "McCartney", 
@@ -137,10 +137,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 9, 
-    "Total_Votes": ""
+    "Total_Votes": "7145"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "44", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "McGuinness", 
@@ -151,10 +151,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 10, 
-    "Total_Votes": ""
+    "Total_Votes": "44"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "5975", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Middleton", 
@@ -165,6 +165,6 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 11, 
-    "Total_Votes": ""
+    "Total_Votes": "5975"
 }
 ]}}

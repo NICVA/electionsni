@@ -24,6 +24,18 @@
     "Candidate_Id": "19668"
 },
 {
+    "Candidate_First_Pref_Votes": "9205", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
+    "Surname": "McCallion", 
+    "Firstname": "Elisha", 
+    "Colour": "#4CAF50", 
+    "Constituency_Name": "Foyle", 
+    "Constituency_Number": "5", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "19678"
+},
+{
     "Candidate_First_Pref_Votes": "7151", 
     "Status": "Elected", 
     "Occurred_On_Count": "1", 
