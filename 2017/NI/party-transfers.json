@@ -10,6 +10,11 @@
 			"From": {"Independent": -85.43},
 			"To": {"Independent": 0, "Social Democratic and Labour Party": 0.11, "Traditional Unionist Voice": 2.0, "Democratic Unionist Party": 8.0, "Cross-Community Labour Alternative": 7.0, "Sinn Fein": 2.11, "Green Party": 26.22, "Ulster Unionist Party": 10.22, "Alliance Party": 20.22, "NI Conservatives": 2.11, "Progressive Unionist Party": 5.22},
 			"Not_transferred": 2.22
+		},
+		{"Count_Number": 4,
+			"From": {"Social Democratic and Labour Party": -260.56},
+			"To": {"Independent": 0, "Social Democratic and Labour Party": 0, "Traditional Unionist Voice": 4.11, "Democratic Unionist Party": 12.11, "Cross-Community Labour Alternative": 11.33, "Sinn Fein": 31.21, "Green Party": 39.21, "Ulster Unionist Party": 33.21, "Alliance Party": 105.61, "NI Conservatives": 2.0, "Progressive Unionist Party": 7.22},
+			"Not_transferred": 14.55
 		}
 		]
 	}
@@ -56,6 +61,11 @@
 			"From": {"UK Independence Party": -1955.0},
 			"To": {"Independent": 0, "Social Democratic and Labour Party": 0, "Traditional Unionist Voice": 0, "Democratic Unionist Party": 672.0, "Cross-Community Labour Alternative": 0, "Sinn Fein": 14.0, "Green Party": 0, "UK Independence Party": 0, "Ulster Unionist Party": 785.0, "Alliance Party": 151.0, "NI Conservatives": 0},
 			"Not_transferred": 333.0
+		},
+		{"Count_Number": 6,
+			"From": {"Alliance Party": -2515.0},
+			"To": {"Independent": 0, "Social Democratic and Labour Party": 0, "Traditional Unionist Voice": 0, "Democratic Unionist Party": 26.0, "Cross-Community Labour Alternative": 0, "Sinn Fein": 231.0, "Green Party": 0, "UK Independence Party": 0, "Ulster Unionist Party": 297.0, "Alliance Party": 1612.0, "NI Conservatives": 0},
+			"Not_transferred": 349.0
 		}
 		]
 	}
@@ -84,7 +94,11 @@
 ,
 	{"Constituency_Name": "Lagan Valley", "Counts": 
 		[
-
+		{"Count_Number": 3,
+			"From": {"Democratic Unionist Party": -523.0},
+			"To": {"Independent": 0.72, "Social Democratic and Labour Party": 1.32, "Traditional Unionist Voice": 5.88, "Democratic Unionist Party": 425.82, "Ulster Unionist Party": 41.04, "Green Party": 0.36, "Sinn Fein": 0.06, "Alliance Party": 4.74, "NI Conservatives": 0},
+			"Not_transferred": 43.06
+		}
 		]
 	}
 ,

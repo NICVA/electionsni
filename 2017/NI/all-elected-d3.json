@@ -24,6 +24,18 @@
     "Candidate_Id": "4597"
 },
 {
+    "Candidate_First_Pref_Votes": "4903", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Carroll", 
+    "Firstname": "Gerry", 
+    "Colour": "#E91E63", 
+    "Constituency_Name": "Belfast West", 
+    "Constituency_Number": "17", 
+    "Party_Name": "People Before Profit Alliance", 
+    "Candidate_Id": "7199"
+},
+{
     "Candidate_First_Pref_Votes": "6918", 
     "Status": "Elected", 
     "Occurred_On_Count": "1", 
@@ -37,8 +49,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "5121", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "6", 
     "Surname": "Beggs", 
     "Firstname": "Roy", 
     "Colour": "#03A9F4", 
@@ -49,8 +61,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "4179", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "6", 
     "Surname": "Dickson", 
     "Firstname": "Stewart", 
     "Colour": "#FDD835", 
@@ -252,6 +264,18 @@
     "Candidate_Id": "3598"
 },
 {
+    "Candidate_First_Pref_Votes": "6287", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Aiken", 
+    "Firstname": "Steve", 
+    "Colour": "#03A9F4", 
+    "Constituency_Name": "South Antrim", 
+    "Constituency_Number": "12", 
+    "Party_Name": "Ulster Unionist Party", 
+    "Candidate_Id": "8151"
+},
+{
     "Candidate_First_Pref_Votes": "6891", 
     "Status": "", 
     "Occurred_On_Count": "", 
@@ -262,6 +286,18 @@
     "Constituency_Number": "12", 
     "Party_Name": "Sinn Fein", 
     "Candidate_Id": "4711"
+},
+{
+    "Candidate_First_Pref_Votes": "7323", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "3", 
+    "Surname": "Bradley", 
+    "Firstname": "Sinead", 
+    "Colour": "#E53935", 
+    "Constituency_Name": "South Down", 
+    "Constituency_Number": "14", 
+    "Party_Name": "Social Democratic and Labour Party", 
+    "Candidate_Id": "11531"
 },
 {
     "Candidate_First_Pref_Votes": "10256", 

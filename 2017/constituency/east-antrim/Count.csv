@@ -62,7 +62,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 1,7132,5,Roy,Beggs,5121,442,6156,,,Ulster Unionist Party
 1,19741,5,Ricky,Best,106,0,0,Excluded,1,Independent
 1,4591,5,Stewart,Dickson,4179,106,5171,,,Alliance Party
-1,9805,5,Danny,Donnelly,1817,45,2515,,,Alliance Party
+1,9805,5,Danny,Donnelly,1817,45,2515,Excluded,5,Alliance Party
 1,6991,5,Alan,Dunlop,152,0,0,Excluded,1,NI Conservatives
 1,11447,5,David,Hilditch,6000,0,6248,Elected,3,Democratic Unionist Party
 1,6399,5,Noel,Jordan,1579,-1955,0,Excluded,4,UK Independence Party
@@ -74,3 +74,18 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 1,11450,5,Conor,Sheridan,393,0,0,Excluded,1,Cross-Community Labour Alternative
 1,8121,5,John,Stewart,3377,343,4131,,,Ulster Unionist Party
 1,6985,5,Ruth,Wilson,1534,0,0,Excluded,2,Traditional Unionist Voice
+1,7132,6,Roy,Beggs,5121,168,6324,Elected,6,Ulster Unionist Party
+1,19741,6,Ricky,Best,106,0,0,Excluded,1,Independent
+1,4591,6,Stewart,Dickson,4179,1612,6783,Elected,6,Alliance Party
+1,9805,6,Danny,Donnelly,1817,-2515,0,Excluded,5,Alliance Party
+1,6991,6,Alan,Dunlop,152,0,0,Excluded,1,NI Conservatives
+1,11447,6,David,Hilditch,6000,0,6248,Elected,3,Democratic Unionist Party
+1,6399,6,Noel,Jordan,1579,0,0,Excluded,4,UK Independence Party
+1,11448,6,Gordon,Lyons,3851,17,4490,,,Democratic Unionist Party
+1,5389,6,Margaret Anne,McKillop,1524,0,0,Excluded,3,Social Democratic and Labour Party
+1,1061,6,Oliver,McMullan,3701,231,4523,,,Sinn Fein
+1,10293,6,Dawn,Patterson,777,0,0,Excluded,1,Green Party
+1,19685,6,Stephen,Ross,3313,9,3825,Excluded,6,Democratic Unionist Party
+1,11450,6,Conor,Sheridan,393,0,0,Excluded,1,Cross-Community Labour Alternative
+1,8121,6,John,Stewart,3377,129,4260,,,Ulster Unionist Party
+1,6985,6,Ruth,Wilson,1534,0,0,Excluded,2,Traditional Unionist Voice
