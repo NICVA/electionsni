@@ -205,8 +205,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "6060", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "4", 
     "Surname": "Barton", 
     "Firstname": "Rosemary", 
     "Colour": "#03A9F4", 
@@ -253,8 +253,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "6254", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "4", 
     "Surname": "Lynch", 
     "Firstname": "Se\u00e1n", 
     "Colour": "#4CAF50", 

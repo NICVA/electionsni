@@ -29,9 +29,21 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 4,19720,3,Richard,Dunn,70,0,0,Excluded,1,NI Conservatives
 4,19692,3,Alex,Elliot,780,0,0,Excluded,1,Traditional Unionist Voice
 4,11526,3,Arlene,Foster,8479,0,8745,Elected,2,Democratic Unionist Party
-4,2427,3,Michelle,Gildernew,7987,0,8228,Elected,3,Sinn Fein
+4,2427,3,Michelle,Gildernew,7987,1157,9385,Elected,3,Sinn Fein
 4,4674,3,Tanya,Jones,550,0,0,Excluded,1,Green Party
 4,11528,3,Seán,Lynch,6254,836,7174,,,Sinn Fein
-4,11529,3,Richie,McPhillips,5134,-6276,6276,Excluded,2,Social Democratic and Labour Party
+4,11529,3,Richie,McPhillips,5134,-6276,0,Excluded,2,Social Democratic and Labour Party
 4,11530,3,Maurice,Morrow,7102,73,7405,,,Democratic Unionist Party
 4,19717,3,Donal,O'Cofaigh,643,0,0,Excluded,1,Cross-Community Labour Alternative
+4,8123,4,Rosemary,Barton,6060,108,8442,Elected,4,Ulster Unionist Party
+4,19684,4,Noreen,Campbell,1437,0,0,Excluded,1,Alliance Party
+4,19672,4,Jemma,Dolan,7767,0,8928,Elected,3,Sinn Fein
+4,19720,4,Richard,Dunn,70,0,0,Excluded,1,NI Conservatives
+4,19692,4,Alex,Elliot,780,0,0,Excluded,1,Traditional Unionist Voice
+4,11526,4,Arlene,Foster,8479,0,8745,Elected,2,Democratic Unionist Party
+4,2427,4,Michelle,Gildernew,7987,-674,8711,Elected,3,Sinn Fein
+4,4674,4,Tanya,Jones,550,0,0,Excluded,1,Green Party
+4,11528,4,Seán,Lynch,6254,543,7717,Elected,4,Sinn Fein
+4,11529,4,Richie,McPhillips,5134,0,0,Excluded,2,Social Democratic and Labour Party
+4,11530,4,Maurice,Morrow,7102,6,7411,Excluded,4,Democratic Unionist Party
+4,19717,4,Donal,O'Cofaigh,643,0,0,Excluded,1,Cross-Community Labour Alternative
