@@ -21,3 +21,14 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 14,6709,2,Harold,McKee,4172,337,4509,,,Ulster Unionist Party
 14,11545,2,Lyle,Rea,630,-630,0,Excluded,1,Traditional Unionist Voice
 14,2333,2,Jim,Wells,7786,302,8088,,,Democratic Unionist Party
+14,11531,3,Sinead,Bradley,7323,1419.2,8906.2,,,Social Democratic and Labour Party
+14,11532,3,Patrick,Brown,4535,218.64,5101.64,,,Alliance Party
+14,19728,3,Patrick PC,Clarke,192,0,0,Excluded,1,Independent
+14,19671,3,Sinéad,Ennis,10256,-2022,8234,Elected,1,Sinn Fein
+14,19705,3,Hannah,George,483,0,0,Excluded,1,Green Party
+14,5994,3,Chris,Hazzard,8827,0,8827,Elected,1,Sinn Fein
+14,19722,3,Gary,Hynds,85,0,0,Excluded,1,NI Conservatives
+14,11535,3,Colin,McGrath,5110,310.8,5512.8,,,Social Democratic and Labour Party
+14,6709,3,Harold,McKee,4172,13.44,4522.44,,,Ulster Unionist Party
+14,11545,3,Lyle,Rea,630,0,0,Excluded,1,Traditional Unionist Voice
+14,2333,3,Jim,Wells,7786,3.36,8091.36,,,Democratic Unionist Party

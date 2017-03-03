@@ -111,7 +111,11 @@
 ,
 	{"Constituency_Name": "South Down", "Counts": 
 		[
-
+		{"Count_Number": 3,
+			"From": {"Sinn Fein": -2022.0},
+			"To": {"Independent": 0, "Social Democratic and Labour Party": 1730.0, "Traditional Unionist Voice": 0, "Democratic Unionist Party": 3.36, "Ulster Unionist Party": 13.44, "Green Party": 0, "Sinn Fein": 0, "Alliance Party": 218.64, "NI Conservatives": 0},
+			"Not_transferred": 56.56
+		}
 		]
 	}
 ,
