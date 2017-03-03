@@ -275,6 +275,16 @@
 "Constituency_Number": 6,
 "Elected": [
 {
+    "Candidate_First_Pref_Votes": "6846", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Butler", 
+    "Firstname": "Robbie", 
+    "Constituency_Number": "6", 
+    "Party_Name": "Ulster Unionist Party", 
+    "Candidate_Id": "8114"
+},
+{
     "Candidate_First_Pref_Votes": "8035", 
     "Status": "Elected", 
     "Occurred_On_Count": "1", 
@@ -283,6 +293,16 @@
     "Constituency_Number": "6", 
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "11540"
+},
+{
+    "Candidate_First_Pref_Votes": "6105", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Lunn", 
+    "Firstname": "Trevor", 
+    "Constituency_Number": "6", 
+    "Party_Name": "Alliance Party", 
+    "Candidate_Id": "763"
 }]
 },
 {"Constituency_Name": "Mid Ulster",
@@ -476,8 +496,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "4604", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "8", 
     "Surname": "Cameron", 
     "Firstname": "Pam", 
     "Constituency_Number": "12", 
@@ -496,8 +516,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "5152", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "8", 
     "Surname": "Girvan", 
     "Firstname": "Paul", 
     "Constituency_Number": "12", 
@@ -547,6 +567,16 @@
     "Constituency_Number": "14", 
     "Party_Name": "Sinn Fein", 
     "Candidate_Id": "5994"
+},
+{
+    "Candidate_First_Pref_Votes": "5110", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "McGrath", 
+    "Firstname": "Colin", 
+    "Constituency_Number": "14", 
+    "Party_Name": "Social Democratic and Labour Party", 
+    "Candidate_Id": "11535"
 },
 {
     "Candidate_First_Pref_Votes": "7786", 

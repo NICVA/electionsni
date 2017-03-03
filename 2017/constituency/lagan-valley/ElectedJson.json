@@ -1,5 +1,15 @@
 [
 {
+    "Candidate_First_Pref_Votes": "6846", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Butler", 
+    "Firstname": "Robbie", 
+    "Constituency_Number": "6", 
+    "Party_Name": "Ulster Unionist Party", 
+    "Candidate_Id": "8114"
+},
+{
     "Candidate_First_Pref_Votes": "8035", 
     "Status": "Elected", 
     "Occurred_On_Count": "1", 
@@ -8,4 +18,14 @@
     "Constituency_Number": "6", 
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "11540"
+},
+{
+    "Candidate_First_Pref_Votes": "6105", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Lunn", 
+    "Firstname": "Trevor", 
+    "Constituency_Number": "6", 
+    "Party_Name": "Alliance Party", 
+    "Candidate_Id": "763"
 }]

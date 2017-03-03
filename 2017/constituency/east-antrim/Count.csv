@@ -115,7 +115,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 1,5389,8,Margaret Anne,McKillop,1524,0,0,Excluded,3,Social Democratic and Labour Party
 1,1061,8,Oliver,McMullan,3701,8,4698.58,,,Sinn Fein
 1,10293,8,Dawn,Patterson,777,0,0,Excluded,1,Green Party
-1,19685,8,Stephen,Ross,3313,0,3834.12,Excluded,7,Democratic Unionist Party
+1,19685,8,Stephen,Ross,3313,-3834.12,0,Excluded,7,Democratic Unionist Party
 1,11450,8,Conor,Sheridan,393,0,0,Excluded,1,Cross-Community Labour Alternative
 1,8121,8,John,Stewart,3377,435.27,5034.99,,,Ulster Unionist Party
 1,6985,8,Ruth,Wilson,1534,0,0,Excluded,2,Traditional Unionist Voice
@@ -130,7 +130,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 1,5389,9,Margaret Anne,McKillop,1524,0,0,Excluded,3,Social Democratic and Labour Party
 1,1061,9,Oliver,McMullan,3701,72.19,4770.77,Excluded,9,Sinn Fein
 1,10293,9,Dawn,Patterson,777,0,0,Excluded,1,Green Party
-1,19685,9,Stephen,Ross,3313,0,3834.12,Excluded,7,Democratic Unionist Party
+1,19685,9,Stephen,Ross,3313,0,0,Excluded,7,Democratic Unionist Party
 1,11450,9,Conor,Sheridan,393,0,0,Excluded,1,Cross-Community Labour Alternative
 1,8121,9,John,Stewart,3377,1308.89,6343.88,Elected,9,Ulster Unionist Party
 1,6985,9,Ruth,Wilson,1534,0,0,Excluded,2,Traditional Unionist Voice

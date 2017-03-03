@@ -288,6 +288,18 @@
     "Candidate_Id": "11860"
 },
 {
+    "Candidate_First_Pref_Votes": "6846", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Butler", 
+    "Firstname": "Robbie", 
+    "Colour": "#03A9F4", 
+    "Constituency_Name": "Lagan Valley", 
+    "Constituency_Number": "6", 
+    "Party_Name": "Ulster Unionist Party", 
+    "Candidate_Id": "8114"
+},
+{
     "Candidate_First_Pref_Votes": "8035", 
     "Status": "Elected", 
     "Occurred_On_Count": "1", 
@@ -298,6 +310,18 @@
     "Constituency_Number": "6", 
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "11540"
+},
+{
+    "Candidate_First_Pref_Votes": "6105", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Lunn", 
+    "Firstname": "Trevor", 
+    "Colour": "#FDD835", 
+    "Constituency_Name": "Lagan Valley", 
+    "Constituency_Number": "6", 
+    "Party_Name": "Alliance Party", 
+    "Candidate_Id": "763"
 },
 {
     "Candidate_First_Pref_Votes": "9568", 
@@ -505,8 +529,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "4604", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "8", 
     "Surname": "Cameron", 
     "Firstname": "Pam", 
     "Colour": "#FF5722", 
@@ -529,8 +553,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "5152", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "8", 
     "Surname": "Girvan", 
     "Firstname": "Paul", 
     "Colour": "#FF5722", 
@@ -586,6 +610,18 @@
     "Constituency_Number": "14", 
     "Party_Name": "Sinn Fein", 
     "Candidate_Id": "5994"
+},
+{
+    "Candidate_First_Pref_Votes": "5110", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "McGrath", 
+    "Firstname": "Colin", 
+    "Colour": "#E53935", 
+    "Constituency_Name": "South Down", 
+    "Constituency_Number": "14", 
+    "Party_Name": "Social Democratic and Labour Party", 
+    "Candidate_Id": "11535"
 },
 {
     "Candidate_First_Pref_Votes": "7786", 
