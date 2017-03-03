@@ -49,7 +49,16 @@
 {"Constituency_Name": "East Antrim",
 "Constituency_Number": 1,
 "Elected": [
-]
+{
+    "Candidate_First_Pref_Votes": "6000", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Hilditch", 
+    "Firstname": "David", 
+    "Constituency_Number": "1", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "11447"
+}]
 },
 {"Constituency_Name": "East Londonderry",
 "Constituency_Number": 3,

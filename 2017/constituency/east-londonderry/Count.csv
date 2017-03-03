@@ -1,16 +1,16 @@
 Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_Pref_Votes,Transfers,Total_Votes,Status,Occurred_On_Count,Party_Name
-3,5979,1,Caoimhe,Archibald,,0,,,,Sinn Fein
-3,12079,1,Jordan,Armstrong,,0,,,,Traditional Unionist Voice
-3,12080,1,Maurice,Bradley,,0,,,,Democratic Unionist Party
-3,19750,1,Gavin,Campbell,,0,,,,People Before Profit Alliance
-3,19682,1,John,Dallat,,0,,,,Social Democratic and Labour Party
-3,19700,1,Anthony,Flynn,,0,,,,Green Party
-3,4013,1,David,Harding,,0,,,,NI Conservatives
-3,6403,1,William,McCandless,,0,,,,Ulster Unionist Party
-3,11861,1,Chris,McCaw,,0,,,,Alliance Party
-3,12083,1,Adrian,McQuillan,,0,,,,Democratic Unionist Party
-3,7078,1,Gerry,Mullan,,0,,,,Independent
-3,12086,1,George,Robinson,,0,,,,Democratic Unionist Party
-3,12087,1,Claire,Sugden,,0,,,,Independent
-3,12088,1,Russell,Watton,,0,,,,Progressive Unionist Party
-3,12084,1,Cathal,óhOisín,,0,,,,Sinn Fein
+3,5979,1,Caoimhe,Archibald,5851,0,5851,,,Sinn Fein
+3,12079,1,Jordan,Armstrong,1038,0,1038,,,Traditional Unionist Voice
+3,12080,1,Maurice,Bradley,5444,0,5444,,,Democratic Unionist Party
+3,19750,1,Gavin,Campbell,492,0,492,,,People Before Profit Alliance
+3,19682,1,John,Dallat,3319,0,3319,,,Social Democratic and Labour Party
+3,19700,1,Anthony,Flynn,305,0,305,,,Green Party
+3,4013,1,David,Harding,219,0,219,Excluded,1,NI Conservatives
+3,6403,1,William,McCandless,2814,0,2814,,,Ulster Unionist Party
+3,11861,1,Chris,McCaw,1841,0,1841,,,Alliance Party
+3,12083,1,Adrian,McQuillan,3881,0,3881,,,Democratic Unionist Party
+3,7078,1,Gerry,Mullan,1204,0,1204,,,Independent
+3,12084,1,Cathal,óhOisín,4953,0,4953,,,Sinn Fein
+3,12086,1,George,Robinson,4715,0,4715,,,Democratic Unionist Party
+3,12087,1,Claire,Sugden,4918,0,4918,,,Independent
+3,12088,1,Russell,Watton,879,0,879,,,Progressive Unionist Party

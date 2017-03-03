@@ -1,6 +1,6 @@
-{"Constituency": {"countInfo": {"Valid_Poll": "", "Number_Of_Seats": "5", "Total_Poll": "42248", "Voting_Age_Pop": "77437", "Quota": "", "Constituency_Name": "East Londonderry", "Constituency_Number": "3", "Total_Electorate": "67392", "Spoiled": ""},
+{"Constituency": {"countInfo": {"Valid_Poll": "41873", "Number_Of_Seats": "5", "Total_Poll": "42248", "Voting_Age_Pop": "77437", "Quota": "6979", "Constituency_Name": "East Londonderry", "Constituency_Number": "3", "Total_Electorate": "67392", "Spoiled": "375"},
 "countGroup": [{
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "5851", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Archibald", 
@@ -11,10 +11,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 0, 
-    "Total_Votes": ""
+    "Total_Votes": "5851"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "1038", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Armstrong", 
@@ -25,10 +25,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 1, 
-    "Total_Votes": ""
+    "Total_Votes": "1038"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "5444", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Bradley", 
@@ -39,10 +39,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 2, 
-    "Total_Votes": ""
+    "Total_Votes": "5444"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "492", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Campbell", 
@@ -53,10 +53,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 3, 
-    "Total_Votes": ""
+    "Total_Votes": "492"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "3319", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Dallat", 
@@ -67,10 +67,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 4, 
-    "Total_Votes": ""
+    "Total_Votes": "3319"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "305", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Flynn", 
@@ -81,12 +81,12 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 5, 
-    "Total_Votes": ""
+    "Total_Votes": "305"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Candidate_First_Pref_Votes": "219", 
+    "Status": "Excluded", 
+    "Occurred_On_Count": "1", 
     "Surname": "Harding", 
     "Firstname": "David", 
     "Constituency_Number": "3", 
@@ -95,10 +95,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 6, 
-    "Total_Votes": ""
+    "Total_Votes": "219"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "2814", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "McCandless", 
@@ -109,10 +109,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 7, 
-    "Total_Votes": ""
+    "Total_Votes": "2814"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "1841", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "McCaw", 
@@ -123,10 +123,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 8, 
-    "Total_Votes": ""
+    "Total_Votes": "1841"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "3881", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "McQuillan", 
@@ -137,10 +137,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 9, 
-    "Total_Votes": ""
+    "Total_Votes": "3881"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "1204", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Mullan", 
@@ -151,52 +151,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 10, 
-    "Total_Votes": ""
+    "Total_Votes": "1204"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
-    "Surname": "Robinson", 
-    "Firstname": "George", 
-    "Constituency_Number": "3", 
-    "Party_Name": "Democratic Unionist Party", 
-    "Candidate_Id": "12086", 
-    "Count_Number": "1", 
-    "Transfers": "0", 
-    "id": 11, 
-    "Total_Votes": ""
-},
-{
-    "Candidate_First_Pref_Votes": "", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
-    "Surname": "Sugden", 
-    "Firstname": "Claire", 
-    "Constituency_Number": "3", 
-    "Party_Name": "Independent", 
-    "Candidate_Id": "12087", 
-    "Count_Number": "1", 
-    "Transfers": "0", 
-    "id": 12, 
-    "Total_Votes": ""
-},
-{
-    "Candidate_First_Pref_Votes": "", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
-    "Surname": "Watton", 
-    "Firstname": "Russell", 
-    "Constituency_Number": "3", 
-    "Party_Name": "Progressive Unionist Party", 
-    "Candidate_Id": "12088", 
-    "Count_Number": "1", 
-    "Transfers": "0", 
-    "id": 13, 
-    "Total_Votes": ""
-},
-{
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "4953", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "\u00f3hOis\u00edn", 
@@ -206,7 +164,49 @@
     "Candidate_Id": "12084", 
     "Count_Number": "1", 
     "Transfers": "0", 
+    "id": 11, 
+    "Total_Votes": "4953"
+},
+{
+    "Candidate_First_Pref_Votes": "4715", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Robinson", 
+    "Firstname": "George", 
+    "Constituency_Number": "3", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "12086", 
+    "Count_Number": "1", 
+    "Transfers": "0", 
+    "id": 12, 
+    "Total_Votes": "4715"
+},
+{
+    "Candidate_First_Pref_Votes": "4918", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Sugden", 
+    "Firstname": "Claire", 
+    "Constituency_Number": "3", 
+    "Party_Name": "Independent", 
+    "Candidate_Id": "12087", 
+    "Count_Number": "1", 
+    "Transfers": "0", 
+    "id": 13, 
+    "Total_Votes": "4918"
+},
+{
+    "Candidate_First_Pref_Votes": "879", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Watton", 
+    "Firstname": "Russell", 
+    "Constituency_Number": "3", 
+    "Party_Name": "Progressive Unionist Party", 
+    "Candidate_Id": "12088", 
+    "Count_Number": "1", 
+    "Transfers": "0", 
     "id": 14, 
-    "Total_Votes": ""
+    "Total_Votes": "879"
 }
 ]}}

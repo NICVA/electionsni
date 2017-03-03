@@ -36,6 +36,18 @@
     "Candidate_Id": "19668"
 },
 {
+    "Candidate_First_Pref_Votes": "6000", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Hilditch", 
+    "Firstname": "David", 
+    "Colour": "#FF5722", 
+    "Constituency_Name": "East Antrim", 
+    "Constituency_Number": "1", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "11447"
+},
+{
     "Candidate_First_Pref_Votes": "9205", 
     "Status": "Elected", 
     "Occurred_On_Count": "1", 

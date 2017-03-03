@@ -33,7 +33,7 @@
     "Constituency_Name": "East Londonderry",
     "Constituency_Number": 3,
     "Directory": "east-londonderry",
-    "countInfo": {"Valid_Poll": "", "Number_Of_Seats": "5", "Total_Poll": "42248", "Voting_Age_Pop": "77437", "Quota": "", "Constituency_Name": "East Londonderry", "Constituency_Number": "3", "Total_Electorate": "67392", "Spoiled": ""}
+    "countInfo": {"Valid_Poll": "41873", "Number_Of_Seats": "5", "Total_Poll": "42248", "Voting_Age_Pop": "77437", "Quota": "6979", "Constituency_Name": "East Londonderry", "Constituency_Number": "3", "Total_Electorate": "67392", "Spoiled": "375"}
     },
 {
     "Constituency_Name": "Fermanagh and South Tyrone",
