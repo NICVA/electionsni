@@ -1,5 +1,17 @@
 [
 {
+    "Candidate_First_Pref_Votes": "5275", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Allen", 
+    "Firstname": "Andy", 
+    "Colour": "#03A9F4", 
+    "Constituency_Name": "Belfast East", 
+    "Constituency_Number": "2", 
+    "Party_Name": "Ulster Unionist Party", 
+    "Candidate_Id": "8116"
+},
+{
     "Candidate_First_Pref_Votes": "7610", 
     "Status": "Elected", 
     "Occurred_On_Count": "1", 
@@ -529,8 +541,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "5178", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "7", 
     "Surname": "Agnew", 
     "Firstname": "Steven", 
     "Colour": "#64DD17", 

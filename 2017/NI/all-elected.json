@@ -3,6 +3,16 @@
 "Constituency_Number": 2,
 "Elected": [
 {
+    "Candidate_First_Pref_Votes": "5275", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Allen", 
+    "Firstname": "Andy", 
+    "Constituency_Number": "2", 
+    "Party_Name": "Ulster Unionist Party", 
+    "Candidate_Id": "8116"
+},
+{
     "Candidate_First_Pref_Votes": "7610", 
     "Status": "Elected", 
     "Occurred_On_Count": "1", 
@@ -492,8 +502,8 @@
 "Elected": [
 {
     "Candidate_First_Pref_Votes": "5178", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "7", 
     "Surname": "Agnew", 
     "Firstname": "Steven", 
     "Constituency_Number": "11", 
