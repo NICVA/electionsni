@@ -60,6 +60,18 @@
     "Candidate_Id": "19678"
 },
 {
+    "Candidate_First_Pref_Votes": "7145", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "McCartney", 
+    "Firstname": "Raymond", 
+    "Colour": "#4CAF50", 
+    "Constituency_Name": "Foyle", 
+    "Constituency_Number": "5", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "11860"
+},
+{
     "Candidate_First_Pref_Votes": "8035", 
     "Status": "Elected", 
     "Occurred_On_Count": "1", 
