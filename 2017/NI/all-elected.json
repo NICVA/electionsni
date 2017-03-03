@@ -11,6 +11,16 @@
     "Constituency_Number": "2", 
     "Party_Name": "Alliance Party", 
     "Candidate_Id": "2454"
+},
+{
+    "Candidate_First_Pref_Votes": "5059", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Lyttle", 
+    "Firstname": "Chris", 
+    "Constituency_Number": "2", 
+    "Party_Name": "Alliance Party", 
+    "Candidate_Id": "13038"
 }]
 },
 {"Constituency_Name": "Belfast North",
