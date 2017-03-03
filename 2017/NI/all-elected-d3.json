@@ -60,6 +60,30 @@
     "Candidate_Id": "11439"
 },
 {
+    "Candidate_First_Pref_Votes": "6201", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "McCann", 
+    "Firstname": "Fra", 
+    "Colour": "#4CAF50", 
+    "Constituency_Name": "Belfast West", 
+    "Constituency_Number": "17", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "11437"
+},
+{
+    "Candidate_First_Pref_Votes": "5466", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Sheehan", 
+    "Firstname": "Pat", 
+    "Colour": "#4CAF50", 
+    "Constituency_Name": "Belfast West", 
+    "Constituency_Number": "17", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "11436"
+},
+{
     "Candidate_First_Pref_Votes": "5121", 
     "Status": "", 
     "Occurred_On_Count": "", 
