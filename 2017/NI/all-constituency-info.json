@@ -81,7 +81,7 @@
     "Constituency_Name": "South Antrim",
     "Constituency_Number": 12,
     "Directory": "south-antrim",
-    "countInfo": {"Valid_Poll": "", "Number_Of_Seats": "5", "Total_Poll": "42726", "Voting_Age_Pop": "76066", "Quota": "", "Constituency_Name": "South Antrim", "Constituency_Number": "12", "Total_Electorate": "68475", "Spoiled": ""}
+    "countInfo": {"Valid_Poll": "42344", "Number_Of_Seats": "5", "Total_Poll": "42726", "Voting_Age_Pop": "76066", "Quota": "7058", "Constituency_Name": "South Antrim", "Constituency_Number": "12", "Total_Electorate": "68475", "Spoiled": "382"}
     },
 {
     "Constituency_Name": "South Down",

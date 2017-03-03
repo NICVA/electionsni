@@ -1,6 +1,6 @@
-{"Constituency": {"countInfo": {"Valid_Poll": "", "Number_Of_Seats": "5", "Total_Poll": "42726", "Voting_Age_Pop": "76066", "Quota": "", "Constituency_Name": "South Antrim", "Constituency_Number": "12", "Total_Electorate": "68475", "Spoiled": ""},
+{"Constituency": {"countInfo": {"Valid_Poll": "42344", "Number_Of_Seats": "5", "Total_Poll": "42726", "Voting_Age_Pop": "76066", "Quota": "7058", "Constituency_Name": "South Antrim", "Constituency_Number": "12", "Total_Electorate": "68475", "Spoiled": "382"},
 "countGroup": [{
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "6287", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Aiken", 
@@ -11,10 +11,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 0, 
-    "Total_Votes": ""
+    "Total_Votes": "6287"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "530", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Antova", 
@@ -25,10 +25,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 1, 
-    "Total_Votes": ""
+    "Total_Votes": "530"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "501", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Bailey", 
@@ -39,10 +39,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 2, 
-    "Total_Votes": ""
+    "Total_Votes": "501"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "1353", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Cairns", 
@@ -53,10 +53,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 3, 
-    "Total_Votes": ""
+    "Total_Votes": "1353"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "4604", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Cameron", 
@@ -67,10 +67,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 4, 
-    "Total_Votes": ""
+    "Total_Votes": "4604"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "4522", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Clarke", 
@@ -81,10 +81,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 5, 
-    "Total_Votes": ""
+    "Total_Votes": "4522"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "2505", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Cochrane-Watson", 
@@ -95,10 +95,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 6, 
-    "Total_Votes": ""
+    "Total_Votes": "2505"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "5278", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Ford", 
@@ -109,10 +109,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 7, 
-    "Total_Votes": ""
+    "Total_Votes": "5278"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "5152", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Girvan", 
@@ -123,10 +123,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 8, 
-    "Total_Votes": ""
+    "Total_Votes": "5152"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "6891", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Kearney", 
@@ -137,10 +137,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 9, 
-    "Total_Votes": ""
+    "Total_Votes": "6891"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "194", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Logan", 
@@ -151,10 +151,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 10, 
-    "Total_Votes": ""
+    "Total_Votes": "194"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "4024", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Lynch", 
@@ -165,10 +165,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 11, 
-    "Total_Votes": ""
+    "Total_Votes": "4024"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "503", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "McMaster", 
@@ -179,6 +179,6 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 12, 
-    "Total_Votes": ""
+    "Total_Votes": "503"
 }
 ]}}

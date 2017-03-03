@@ -1,14 +1,14 @@
 Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_Pref_Votes,Transfers,Total_Votes,Status,Occurred_On_Count,Party_Name
-12,8151,1,Steve,Aiken,,0,,,,Ulster Unionist Party
-12,19681,1,Ivanka,Antova,,0,,,,People Before Profit Alliance
-12,19704,1,Eleanor,Bailey,,0,,,,Green Party
-12,6346,1,Richard William,Cairns,,0,,,,Traditional Unionist Voice
-12,13366,1,Pam,Cameron,,0,,,,Democratic Unionist Party
-12,13367,1,Trevor,Clarke,,0,,,,Democratic Unionist Party
-12,8153,1,Adrian David,Cochrane-Watson,,0,,,,Ulster Unionist Party
-12,13369,1,David RJ,Ford,,0,,,,Alliance Party
-12,13370,1,Paul,Girvan,,0,,,,Democratic Unionist Party
-12,4711,1,Declan,Kearney,,0,,,,Sinn Fein
-12,19721,1,Mark,Logan,,0,,,,NI Conservatives
-12,5390,1,Roisin,Lynch,,0,,,,Social Democratic and Labour Party
-12,13371,1,David,McMaster,,0,,,,Independent
+12,8151,1,Steve,Aiken,6287,0,6287,,,Ulster Unionist Party
+12,19681,1,Ivanka,Antova,530,0,530,,,People Before Profit Alliance
+12,19704,1,Eleanor,Bailey,501,0,501,,,Green Party
+12,6346,1,Richard William,Cairns,1353,0,1353,,,Traditional Unionist Voice
+12,13366,1,Pam,Cameron,4604,0,4604,,,Democratic Unionist Party
+12,13367,1,Trevor,Clarke,4522,0,4522,,,Democratic Unionist Party
+12,8153,1,Adrian David,Cochrane-Watson,2505,0,2505,,,Ulster Unionist Party
+12,13369,1,David RJ,Ford,5278,0,5278,,,Alliance Party
+12,13370,1,Paul,Girvan,5152,0,5152,,,Democratic Unionist Party
+12,4711,1,Declan,Kearney,6891,0,6891,,,Sinn Fein
+12,19721,1,Mark,Logan,194,0,194,,,NI Conservatives
+12,5390,1,Roisin,Lynch,4024,0,4024,,,Social Democratic and Labour Party
+12,13371,1,David,McMaster,503,0,503,,,Independent
