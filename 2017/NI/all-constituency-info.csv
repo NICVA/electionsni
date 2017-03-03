@@ -1,20 +1,20 @@
 Constituency_Name,Constituency_Number,Total_Poll,Spoiled,Valid_Poll,Quota,Total_Electorate,Turnout_pct,Number_Of_Seats,Voting_Age_Pop
-Belfast East,2,,,,,64788,,5,74065
-Belfast North,10,,,,,68187,,5,78914
-Belfast South,13,,,,,67953,,5,91756
-Belfast West,17,,,,,61309,,5,69817
-East Antrim,1,,,,,62933,,5,70652
-East Londonderry,3,,,,,67392,,5,77437
-Fermanagh and South Tyrone,4,,,,,73100,,5,79405
-Foyle,5,,,,,69718,,5,76503
-Lagan Valley,6,,,,,72621,,5,80833
-Mid Ulster,7,,,,,69396,,5,75342
-Newry and Armagh,8,,,,,80140,,5,85884
-North Antrim,9,,,,,76739,,5,85122
-North Down,11,,,,,64461,,5,71239
-South Antrim,12,,,,,68475,,5,76066
-South Down,14,,,,,75415,,5,82463
-Strangford,15,,,,,64393,,5,70598
-Upper Bann,16,,,,,83431,,5,92012
-West Tyrone,18,,,,,64258,,5,69229
-NORTHERN IRELAND,NA,,,,,1254709,,90,1407337
+Belfast East,2,40828,,,,64788,63.02,5,74065
+Belfast North,10,42119,,,,68187,61.77,5,78914
+Belfast South,13,43465,,,,67953,63.96,5,91756
+Belfast West,17,40930,,,,61309,66.76,5,69817
+East Antrim,1,37836,,,,62933,60.12,5,70652
+East Londonderry,3,42248,,,,67392,62.69,5,77437
+Fermanagh and South Tyrone,4,53075,,,,73100,72.61,5,79405
+Foyle,5,45317,,,,69718,65.00,5,76503
+Lagan Valley,6,45440,,,,72621,62.57,5,80833
+Mid Ulster,7,50228,,,,69396,72.38,5,75342
+Newry and Armagh,8,55625,,,,80140,69.41,5,85884
+North Antrim,9,48518,,,,76739,63.22,5,85122
+North Down,11,38174,,,,64461,59.22,5,71239
+South Antrim,12,42726,,,,68475,62.40,5,76066
+South Down,14,49934,,,,75415,66.21,5,82463
+Strangford,15,39239,,,,64393,60.94,5,70598
+Upper Bann,16,52174,,,,83431,62.54,5,92012
+West Tyrone,18,44907,,,,64258,69.89,5,69229
+NORTHERN IRELAND,NA,812783,,,,1254709,64.78,90,1407337
