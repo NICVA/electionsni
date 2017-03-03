@@ -491,6 +491,16 @@
 "Constituency_Number": 11,
 "Elected": [
 {
+    "Candidate_First_Pref_Votes": "5178", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Agnew", 
+    "Firstname": "Steven", 
+    "Constituency_Number": "11", 
+    "Party_Name": "Green Party", 
+    "Candidate_Id": "3876"
+},
+{
     "Candidate_First_Pref_Votes": "7151", 
     "Status": "Elected", 
     "Occurred_On_Count": "1", 
