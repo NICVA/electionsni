@@ -1,6 +1,6 @@
-{"Constituency": {"countInfo": {"Valid_Poll": "", "Number_Of_Seats": "5", "Total_Poll": "38174", "Voting_Age_Pop": "71239", "Quota": "6350", "Constituency_Name": "North Down", "Constituency_Number": "11", "Total_Electorate": "64461", "Spoiled": ""},
+{"Constituency": {"countInfo": {"Valid_Poll": "37739", "Number_Of_Seats": "5", "Total_Poll": "38174", "Voting_Age_Pop": "71239", "Quota": "6290", "Constituency_Name": "North Down", "Constituency_Number": "11", "Total_Electorate": "64461", "Spoiled": "435"},
 "countGroup": [{
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "5178", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Agnew", 
@@ -11,10 +11,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 0, 
-    "Total_Votes": ""
+    "Total_Votes": "5178"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "92", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Carter", 
@@ -25,12 +25,12 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 1, 
-    "Total_Votes": ""
+    "Total_Votes": "92"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Candidate_First_Pref_Votes": "7151", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
     "Surname": "Chambers", 
     "Firstname": "Alan", 
     "Constituency_Number": "11", 
@@ -39,10 +39,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 2, 
-    "Total_Votes": ""
+    "Total_Votes": "7151"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "964", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Cudworth", 
@@ -53,10 +53,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 3, 
-    "Total_Votes": ""
+    "Total_Votes": "964"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "6118", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Dunne", 
@@ -67,12 +67,12 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 4, 
-    "Total_Votes": ""
+    "Total_Votes": "6118"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Candidate_First_Pref_Votes": "8034", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
     "Surname": "Easton", 
     "Firstname": "Alex", 
     "Constituency_Number": "11", 
@@ -81,12 +81,12 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 5, 
-    "Total_Votes": ""
+    "Total_Votes": "8034"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Candidate_First_Pref_Votes": "7014", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
     "Surname": "Farry", 
     "Firstname": "Stephen", 
     "Constituency_Number": "11", 
@@ -95,10 +95,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 6, 
-    "Total_Votes": ""
+    "Total_Votes": "7014"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "1246", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Kennedy", 
@@ -109,10 +109,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 7, 
-    "Total_Votes": ""
+    "Total_Votes": "1246"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "591", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Maxwell", 
@@ -123,10 +123,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 8, 
-    "Total_Votes": ""
+    "Total_Votes": "591"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "679", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "McNeill", 
@@ -137,10 +137,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 9, 
-    "Total_Votes": ""
+    "Total_Votes": "679"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "31", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Reynolds", 
@@ -151,10 +151,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 10, 
-    "Total_Votes": ""
+    "Total_Votes": "31"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "641", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Shivers", 
@@ -165,6 +165,6 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 11, 
-    "Total_Votes": ""
+    "Total_Votes": "641"
 }
 ]}}

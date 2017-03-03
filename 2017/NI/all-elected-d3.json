@@ -22,5 +22,41 @@
     "Constituency_Number": "17", 
     "Party_Name": "Sinn Fein", 
     "Candidate_Id": "19668"
+},
+{
+    "Candidate_First_Pref_Votes": "7151", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
+    "Surname": "Chambers", 
+    "Firstname": "Alan", 
+    "Colour": "#03A9F4", 
+    "Constituency_Name": "North Down", 
+    "Constituency_Number": "11", 
+    "Party_Name": "Ulster Unionist Party", 
+    "Candidate_Id": "8154"
+},
+{
+    "Candidate_First_Pref_Votes": "8034", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
+    "Surname": "Easton", 
+    "Firstname": "Alex", 
+    "Colour": "#FF5722", 
+    "Constituency_Name": "North Down", 
+    "Constituency_Number": "11", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "7178"
+},
+{
+    "Candidate_First_Pref_Votes": "7014", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
+    "Surname": "Farry", 
+    "Firstname": "Stephen", 
+    "Colour": "#FDD835", 
+    "Constituency_Name": "North Down", 
+    "Constituency_Number": "11", 
+    "Party_Name": "Alliance Party", 
+    "Candidate_Id": "3598"
 }
 ]

@@ -1,13 +1,13 @@
 Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_Pref_Votes,Transfers,Total_Votes,Status,Occurred_On_Count,Party_Name
-11,3876,1,Steven,Agnew,,0,,,,Green Party
-11,19748,1,Chris,Carter,,0,,,,Independent
-11,8154,1,Alan,Chambers,,0,,,,Ulster Unionist Party
-11,6914,1,William,Cudworth,,0,,,,Ulster Unionist Party
-11,11550,1,Gordon Mervyn,Dunne,,0,,,,Democratic Unionist Party
-11,7178,1,Alex,Easton,,0,,,,Democratic Unionist Party
-11,3598,1,Stephen,Farry,,0,,,,Alliance Party
-11,19712,1,Melanie,Kennedy,,0,,,,Independent
-11,19711,1,Kieran,Maxwell,,0,,,,Sinn Fein
-11,19715,1,Caoimhe,McNeill,,0,,,,Social Democratic and Labour Party
-11,19749,1,Gavan Aloysius,Reynolds,,0,,,,Independent
-11,11548,1,Frank,Shivers,,0,,,,NI Conservatives
+11,3876,1,Steven,Agnew,5178,0,5178,,,Green Party
+11,19748,1,Chris,Carter,92,0,92,,,Independent
+11,8154,1,Alan,Chambers,7151,0,7151,Elected,1,Ulster Unionist Party
+11,6914,1,William,Cudworth,964,0,964,,,Ulster Unionist Party
+11,11550,1,Gordon Mervyn,Dunne,6118,0,6118,,,Democratic Unionist Party
+11,7178,1,Alex,Easton,8034,0,8034,Elected,1,Democratic Unionist Party
+11,3598,1,Stephen,Farry,7014,0,7014,Elected,1,Alliance Party
+11,19712,1,Melanie,Kennedy,1246,0,1246,,,Independent
+11,19711,1,Kieran,Maxwell,591,0,591,,,Sinn Fein
+11,19715,1,Caoimhe,McNeill,679,0,679,,,Social Democratic and Labour Party
+11,19749,1,Gavan Aloysius,Reynolds,31,0,31,,,Independent
+11,11548,1,Frank,Shivers,641,0,641,,,NI Conservatives

@@ -80,7 +80,36 @@
 {"Constituency_Name": "North Down",
 "Constituency_Number": 11,
 "Elected": [
-]
+{
+    "Candidate_First_Pref_Votes": "7151", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
+    "Surname": "Chambers", 
+    "Firstname": "Alan", 
+    "Constituency_Number": "11", 
+    "Party_Name": "Ulster Unionist Party", 
+    "Candidate_Id": "8154"
+},
+{
+    "Candidate_First_Pref_Votes": "8034", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
+    "Surname": "Easton", 
+    "Firstname": "Alex", 
+    "Constituency_Number": "11", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "7178"
+},
+{
+    "Candidate_First_Pref_Votes": "7014", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
+    "Surname": "Farry", 
+    "Firstname": "Stephen", 
+    "Constituency_Number": "11", 
+    "Party_Name": "Alliance Party", 
+    "Candidate_Id": "3598"
+}]
 },
 {"Constituency_Name": "South Antrim",
 "Constituency_Number": 12,
