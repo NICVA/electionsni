@@ -218,7 +218,7 @@
     "Constituency_Number": "1", 
     "Party_Name": "Ulster Unionist Party", 
     "Candidate_Id": "7132", 
-    "Count_Number": "1", 
+    "Count_Number": "2", 
     "Transfers": "151", 
     "id": 15, 
     "Total_Votes": "5272"
@@ -232,7 +232,7 @@
     "Constituency_Number": "1", 
     "Party_Name": "Independent", 
     "Candidate_Id": "19741", 
-    "Count_Number": "1", 
+    "Count_Number": "2", 
     "Transfers": "-106", 
     "id": 16, 
     "Total_Votes": "0"
@@ -246,7 +246,7 @@
     "Constituency_Number": "1", 
     "Party_Name": "Alliance Party", 
     "Candidate_Id": "4591", 
-    "Count_Number": "1", 
+    "Count_Number": "2", 
     "Transfers": "437", 
     "id": 17, 
     "Total_Votes": "4616"
@@ -260,7 +260,7 @@
     "Constituency_Number": "1", 
     "Party_Name": "Alliance Party", 
     "Candidate_Id": "9805", 
-    "Count_Number": "1", 
+    "Count_Number": "2", 
     "Transfers": "270", 
     "id": 18, 
     "Total_Votes": "2087"
@@ -274,7 +274,7 @@
     "Constituency_Number": "1", 
     "Party_Name": "NI Conservatives", 
     "Candidate_Id": "6991", 
-    "Count_Number": "1", 
+    "Count_Number": "2", 
     "Transfers": "-152", 
     "id": 19, 
     "Total_Votes": "0"
@@ -288,7 +288,7 @@
     "Constituency_Number": "1", 
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "11447", 
-    "Count_Number": "1", 
+    "Count_Number": "2", 
     "Transfers": "37", 
     "id": 20, 
     "Total_Votes": "6037"
@@ -302,7 +302,7 @@
     "Constituency_Number": "1", 
     "Party_Name": "UK Independence Party", 
     "Candidate_Id": "6399", 
-    "Count_Number": "1", 
+    "Count_Number": "2", 
     "Transfers": "74", 
     "id": 21, 
     "Total_Votes": "1653"
@@ -316,7 +316,7 @@
     "Constituency_Number": "1", 
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "11448", 
-    "Count_Number": "1", 
+    "Count_Number": "2", 
     "Transfers": "18", 
     "id": 22, 
     "Total_Votes": "3869"
@@ -330,7 +330,7 @@
     "Constituency_Number": "1", 
     "Party_Name": "Social Democratic and Labour Party", 
     "Candidate_Id": "5389", 
-    "Count_Number": "1", 
+    "Count_Number": "2", 
     "Transfers": "109", 
     "id": 23, 
     "Total_Votes": "1633"
@@ -344,7 +344,7 @@
     "Constituency_Number": "1", 
     "Party_Name": "Sinn Fein", 
     "Candidate_Id": "1061", 
-    "Count_Number": "1", 
+    "Count_Number": "2", 
     "Transfers": "49", 
     "id": 24, 
     "Total_Votes": "3750"
@@ -358,7 +358,7 @@
     "Constituency_Number": "1", 
     "Party_Name": "Green Party", 
     "Candidate_Id": "10293", 
-    "Count_Number": "1", 
+    "Count_Number": "2", 
     "Transfers": "-777", 
     "id": 25, 
     "Total_Votes": "0"
@@ -372,7 +372,7 @@
     "Constituency_Number": "1", 
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "19685", 
-    "Count_Number": "1", 
+    "Count_Number": "2", 
     "Transfers": "21", 
     "id": 26, 
     "Total_Votes": "3334"
@@ -386,7 +386,7 @@
     "Constituency_Number": "1", 
     "Party_Name": "Cross-Community Labour Alternative", 
     "Candidate_Id": "11450", 
-    "Count_Number": "1", 
+    "Count_Number": "2", 
     "Transfers": "-393", 
     "id": 27, 
     "Total_Votes": "0"
@@ -400,7 +400,7 @@
     "Constituency_Number": "1", 
     "Party_Name": "Ulster Unionist Party", 
     "Candidate_Id": "8121", 
-    "Count_Number": "1", 
+    "Count_Number": "2", 
     "Transfers": "102", 
     "id": 28, 
     "Total_Votes": "3479"
@@ -414,7 +414,7 @@
     "Constituency_Number": "1", 
     "Party_Name": "Traditional Unionist Voice", 
     "Candidate_Id": "6985", 
-    "Count_Number": "1", 
+    "Count_Number": "2", 
     "Transfers": "53", 
     "id": 29, 
     "Total_Votes": "1587"

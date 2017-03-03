@@ -2,7 +2,16 @@
 {"Constituency_Name": "Belfast East",
 "Constituency_Number": 2,
 "Elected": [
-]
+{
+    "Candidate_First_Pref_Votes": "", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Long", 
+    "Firstname": "Naomi", 
+    "Constituency_Number": "2", 
+    "Party_Name": "Alliance Party", 
+    "Candidate_Id": "2454"
+}]
 },
 {"Constituency_Name": "Belfast North",
 "Constituency_Number": 10,

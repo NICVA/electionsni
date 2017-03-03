@@ -79,7 +79,11 @@
 ,
 	{"Constituency_Name": "South Antrim", "Counts": 
 		[
-
+		{"Count_Number": 2,
+			"From": {"NI Conservatives": -194.0},
+			"To": {"Independent": 14.0, "Social Democratic and Labour Party": 11.0, "Traditional Unionist Voice": 16.0, "Democratic Unionist Party": 39.0, "Sinn Fein": 4.0, "Green Party": 3.0, "People Before Profit Alliance": 5.0, "Ulster Unionist Party": 59.0, "Alliance Party": 35.0, "NI Conservatives": 0},
+			"Not_transferred": 8.0
+		}
 		]
 	}
 ,
