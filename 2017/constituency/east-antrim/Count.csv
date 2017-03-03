@@ -28,4 +28,49 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 1,19685,2,Stephen,Ross,3313,21,3334,,,Democratic Unionist Party
 1,11450,2,Conor,Sheridan,393,-393,0,Excluded,1,Cross-Community Labour Alternative
 1,8121,2,John,Stewart,3377,102,3479,,,Ulster Unionist Party
-1,6985,2,Ruth,Wilson,1534,53,1587,,,Traditional Unionist Voice
+1,6985,2,Ruth,Wilson,1534,53,1587,Excluded,2,Traditional Unionist Voice
+1,7132,3,Roy,Beggs,5121,317,5589,,,Ulster Unionist Party
+1,19741,3,Ricky,Best,106,0,0,Excluded,1,Independent
+1,4591,3,Stewart,Dickson,4179,42,4658,,,Alliance Party
+1,9805,3,Danny,Donnelly,1817,18,2105,,,Alliance Party
+1,6991,3,Alan,Dunlop,152,0,0,Excluded,1,NI Conservatives
+1,11447,3,David,Hilditch,6000,211,6248,Elected,3,Democratic Unionist Party
+1,6399,3,Noel,Jordan,1579,280,1933,,,UK Independence Party
+1,11448,3,Gordon,Lyons,3851,199,4068,,,Democratic Unionist Party
+1,5389,3,Margaret Anne,McKillop,1524,20,1653,Excluded,3,Social Democratic and Labour Party
+1,1061,3,Oliver,McMullan,3701,2,3752,,,Sinn Fein
+1,10293,3,Dawn,Patterson,777,0,0,Excluded,1,Green Party
+1,19685,3,Stephen,Ross,3313,193,3527,,,Democratic Unionist Party
+1,11450,3,Conor,Sheridan,393,0,0,Excluded,1,Cross-Community Labour Alternative
+1,8121,3,John,Stewart,3377,230,3709,,,Ulster Unionist Party
+1,6985,3,Ruth,Wilson,1534,-1587,0,Excluded,2,Traditional Unionist Voice
+1,7132,4,Roy,Beggs,5121,125,5714,,,Ulster Unionist Party
+1,19741,4,Ricky,Best,106,0,0,Excluded,1,Independent
+1,4591,4,Stewart,Dickson,4179,407,5065,,,Alliance Party
+1,9805,4,Danny,Donnelly,1817,365,2470,,,Alliance Party
+1,6991,4,Alan,Dunlop,152,0,0,Excluded,1,NI Conservatives
+1,11447,4,David,Hilditch,6000,0,6248,Elected,3,Democratic Unionist Party
+1,6399,4,Noel,Jordan,1579,22,1955,Excluded,4,UK Independence Party
+1,11448,4,Gordon,Lyons,3851,10,4078,,,Democratic Unionist Party
+1,5389,4,Margaret Anne,McKillop,1524,-1653,0,Excluded,3,Social Democratic and Labour Party
+1,1061,4,Oliver,McMullan,3701,526,4278,,,Sinn Fein
+1,10293,4,Dawn,Patterson,777,0,0,Excluded,1,Green Party
+1,19685,4,Stephen,Ross,3313,12,3539,,,Democratic Unionist Party
+1,11450,4,Conor,Sheridan,393,0,0,Excluded,1,Cross-Community Labour Alternative
+1,8121,4,John,Stewart,3377,79,3788,,,Ulster Unionist Party
+1,6985,4,Ruth,Wilson,1534,0,0,Excluded,2,Traditional Unionist Voice
+1,7132,5,Roy,Beggs,5121,442,6156,,,Ulster Unionist Party
+1,19741,5,Ricky,Best,106,0,0,Excluded,1,Independent
+1,4591,5,Stewart,Dickson,4179,106,5171,,,Alliance Party
+1,9805,5,Danny,Donnelly,1817,45,2515,Excluded,5,Alliance Party
+1,6991,5,Alan,Dunlop,152,0,0,Excluded,1,NI Conservatives
+1,11447,5,David,Hilditch,6000,0,6248,Elected,3,Democratic Unionist Party
+1,6399,5,Noel,Jordan,1579,-1955,0,Excluded,4,UK Independence Party
+1,11448,5,Gordon,Lyons,3851,395,4473,,,Democratic Unionist Party
+1,5389,5,Margaret Anne,McKillop,1524,0,0,Excluded,3,Social Democratic and Labour Party
+1,1061,5,Oliver,McMullan,3701,14,4292,,,Sinn Fein
+1,10293,5,Dawn,Patterson,777,0,0,Excluded,1,Green Party
+1,19685,5,Stephen,Ross,3313,277,3816,,,Democratic Unionist Party
+1,11450,5,Conor,Sheridan,393,0,0,Excluded,1,Cross-Community Labour Alternative
+1,8121,5,John,Stewart,3377,343,4131,,,Ulster Unionist Party
+1,6985,5,Ruth,Wilson,1534,0,0,Excluded,2,Traditional Unionist Voice

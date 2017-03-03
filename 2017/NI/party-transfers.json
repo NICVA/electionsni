@@ -29,7 +29,21 @@
 ,
 	{"Constituency_Name": "East Antrim", "Counts": 
 		[
-
+		{"Count_Number": 3,
+			"From": {"Traditional Unionist Voice": -1587.0},
+			"To": {"Independent": 0, "Social Democratic and Labour Party": 20.0, "Traditional Unionist Voice": 0, "Democratic Unionist Party": 603.0, "Cross-Community Labour Alternative": 0, "Sinn Fein": 2.0, "Green Party": 0, "UK Independence Party": 280.0, "Ulster Unionist Party": 547.0, "Alliance Party": 60.0, "NI Conservatives": 0},
+			"Not_transferred": 75.0
+		},
+		{"Count_Number": 4,
+			"From": {"Social Democratic and Labour Party": -1653.0},
+			"To": {"Independent": 0, "Social Democratic and Labour Party": 0, "Traditional Unionist Voice": 0, "Democratic Unionist Party": 22.0, "Cross-Community Labour Alternative": 0, "Sinn Fein": 526.0, "Green Party": 0, "UK Independence Party": 22.0, "Ulster Unionist Party": 204.0, "Alliance Party": 772.0, "NI Conservatives": 0},
+			"Not_transferred": 107.0
+		},
+		{"Count_Number": 5,
+			"From": {"UK Independence Party": -1955.0},
+			"To": {"Independent": 0, "Social Democratic and Labour Party": 0, "Traditional Unionist Voice": 0, "Democratic Unionist Party": 672.0, "Cross-Community Labour Alternative": 0, "Sinn Fein": 14.0, "Green Party": 0, "UK Independence Party": 0, "Ulster Unionist Party": 785.0, "Alliance Party": 151.0, "NI Conservatives": 0},
+			"Not_transferred": 333.0
+		}
 		]
 	}
 ,

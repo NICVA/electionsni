@@ -37,8 +37,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "6000", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "3", 
     "Surname": "Hilditch", 
     "Firstname": "David", 
     "Colour": "#FF5722", 
@@ -192,6 +192,18 @@
     "Candidate_Id": "3598"
 },
 {
+    "Candidate_First_Pref_Votes": "6891", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Kearney", 
+    "Firstname": "Declan", 
+    "Colour": "#4CAF50", 
+    "Constituency_Name": "South Antrim", 
+    "Constituency_Number": "12", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "4711"
+},
+{
     "Candidate_First_Pref_Votes": "10256", 
     "Status": "Elected", 
     "Occurred_On_Count": "1", 
@@ -214,6 +226,18 @@
     "Constituency_Number": "14", 
     "Party_Name": "Sinn Fein", 
     "Candidate_Id": "5994"
+},
+{
+    "Candidate_First_Pref_Votes": "5813", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Armstrong", 
+    "Firstname": "Kellie", 
+    "Colour": "#FDD835", 
+    "Constituency_Name": "Strangford", 
+    "Constituency_Number": "15", 
+    "Party_Name": "Alliance Party", 
+    "Candidate_Id": "4590"
 },
 {
     "Candidate_First_Pref_Votes": "9140", 
