@@ -8,6 +8,6 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 17,11439,1,Alex,Maskey,6346,0,6346,,,Sinn Fein
 17,11437,1,Fra,McCann,6201,0,6201,,,Sinn Fein
 17,7174,1,Frank,McCoubrey,4063,0,4063,,,Democratic Unionist Party
-17,11441,1,Ellen,Murray,251,0,251,,,Green Party
+17,11441,1,Ellen,Murray,251,0,251,Excluded,1,Green Party
 17,19686,1,Fred,Rodgers,486,0,486,Excluded,1,Ulster Unionist Party
 17,11436,1,Pat,Sheehan,5466,0,5466,,,Sinn Fein

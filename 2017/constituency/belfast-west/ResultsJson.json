@@ -127,8 +127,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "251", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Excluded", 
+    "Occurred_On_Count": "1", 
     "Surname": "Murray", 
     "Firstname": "Ellen", 
     "Constituency_Number": "17", 

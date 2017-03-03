@@ -14,7 +14,7 @@
     "Total_Votes": "4835"
 },
 {
-    "Candidate_First_Pref_Votes": "2053", 
+    "Candidate_First_Pref_Votes": "5929", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "N\u00ed Chuil\u00edn", 
@@ -25,10 +25,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 1, 
-    "Total_Votes": "2053"
+    "Total_Votes": "5929"
 },
 {
-    "Candidate_First_Pref_Votes": "1559", 
+    "Candidate_First_Pref_Votes": "2053", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Corr-Johnston", 
@@ -39,10 +39,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 2, 
-    "Total_Votes": "1559"
+    "Total_Votes": "2053"
 },
 {
-    "Candidate_First_Pref_Votes": "2418", 
+    "Candidate_First_Pref_Votes": "1559", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Ferguson", 
@@ -53,10 +53,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 3, 
-    "Total_Votes": "2418"
+    "Total_Votes": "1559"
 },
 {
-    "Candidate_First_Pref_Votes": "4418", 
+    "Candidate_First_Pref_Votes": "2418", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Foster", 
@@ -67,7 +67,7 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 4, 
-    "Total_Votes": "4418"
+    "Total_Votes": "2418"
 },
 {
     "Candidate_First_Pref_Votes": "6275", 
@@ -81,7 +81,7 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 5, 
-    "Total_Votes": "6275"
+    "Total_Votes": "4418"
 },
 {
     "Candidate_First_Pref_Votes": "5431", 
@@ -95,10 +95,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 6, 
-    "Total_Votes": "5431"
+    "Total_Votes": "6275"
 },
 {
-    "Candidate_First_Pref_Votes": "3487", 
+    "Candidate_First_Pref_Votes": "5431", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Mallon", 
@@ -109,10 +109,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 7, 
-    "Total_Votes": "3487"
+    "Total_Votes": "5431"
 },
 {
-    "Candidate_First_Pref_Votes": "4056", 
+    "Candidate_First_Pref_Votes": "3486", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "McAllister", 
@@ -123,10 +123,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 8, 
-    "Total_Votes": "4056"
+    "Total_Votes": "3487"
 },
 {
-    "Candidate_First_Pref_Votes": "5929", 
+    "Candidate_First_Pref_Votes": "4056", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "McCausland", 
@@ -137,7 +137,7 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 9, 
-    "Total_Votes": "5929"
+    "Total_Votes": "4056"
 },
 {
     "Candidate_First_Pref_Votes": "66", 
