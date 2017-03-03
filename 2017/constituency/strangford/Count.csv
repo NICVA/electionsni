@@ -1,14 +1,14 @@
 Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_Pref_Votes,Transfers,Total_Votes,Status,Occurred_On_Count,Party_Name
-15,4590,1,Kellie,Armstrong,,0,,,,Alliance Party
-15,19706,1,Ricky,Bamford,,0,,,,Green Party
-15,6251,1,Jonathan,Bell,,0,,,,Independent
-15,19718,1,Scott,Benton,,0,,,,NI Conservatives
-15,7179,1,Joe,Boyle,,0,,,,Social Democratic and Labour Party
-15,6984,1,Stephen,Cooper,,0,,,,Traditional Unionist Voice
-15,16581,1,Simon,Hamilton,,0,,,,Democratic Unionist Party
-15,12090,1,Dermot,Kennedy,,0,,,,Sinn Fein
-15,12092,1,Michelle,McIlveen,,0,,,,Democratic Unionist Party
-15,12094,1,Jimmy,Menagh,,0,,,,Independent
-15,302,1,Mike,Nesbitt,,0,,,,Ulster Unionist Party
-15,8115,1,Philip,Smith,,0,,,,Ulster Unionist Party
-15,11547,1,Peter,Weir,,0,,,,Democratic Unionist Party
+15,4590,1,Kellie,Armstrong,5813,0,5813,,,Alliance Party
+15,19706,1,Ricky,Bamford,918,0,918,,,Green Party
+15,6251,1,Jonathan,Bell,1479,0,1479,,,Independent
+15,19718,1,Scott,Benton,195,0,195,Excluded,1,NI Conservatives
+15,7179,1,Joe,Boyle,3045,0,3045,,,Social Democratic and Labour Party
+15,6984,1,Stephen,Cooper,1330,0,1330,,,Traditional Unionist Voice
+15,16581,1,Simon,Hamilton,6221,0,6221,,,Democratic Unionist Party
+15,12090,1,Dermot,Kennedy,1110,0,1110,,,Sinn Fein
+15,12092,1,Michelle,McIlveen,5728,0,5728,,,Democratic Unionist Party
+15,12094,1,Jimmy,Menagh,1627,0,1627,,,Independent
+15,302,1,Mike,Nesbitt,5323,0,5323,,,Ulster Unionist Party
+15,8115,1,Philip,Smith,2453,0,2453,,,Ulster Unionist Party
+15,11547,1,Peter,Weir,3543,0,3543,,,Democratic Unionist Party
