@@ -1,13 +1,13 @@
 Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_Pref_Votes,Transfers,Total_Votes,Status,Occurred_On_Count,Party_Name
-17,982,1,Alex,Attwood,,0,,,,Social Democratic and Labour Party
-17,8186,1,Conor,Campbell,,0,,,,Workers Party
-17,7199,1,Gerry,Carroll,,0,,,,People Before Profit Alliance
-17,19674,1,Michael,Collins,,0,,,,People Before Profit Alliance
-17,19688,1,Sorcha,Eastwood,,0,,,,Alliance Party
-17,19668,1,Órlaithí,Flynn,,0,,,,Sinn Fein
-17,11439,1,Alex,Maskey,,0,,,,Sinn Fein
-17,11437,1,Fra,McCann,,0,,,,Sinn Fein
-17,7174,1,Frank,McCoubrey,,0,,,,Democratic Unionist Party
-17,11441,1,Ellen,Murray,,0,,,,Green Party
-17,19686,1,Fred,Rodgers,,0,,,,Ulster Unionist Party
-17,11436,1,Pat,Sheehan,,0,,,,Sinn Fein
+17,982,1,Alex,Attwood,3452,0,3452,,,Social Democratic and Labour Party
+17,8186,1,Conor,Campbell,415,0,415,Excluded,1,Workers Party
+17,7199,1,Gerry,Carroll,4903,0,4903,,,People Before Profit Alliance
+17,19674,1,Michael,Collins,1096,0,1096,Excluded,1,People Before Profit Alliance
+17,19688,1,Sorcha,Eastwood,747,0,747,Excluded,1,Alliance Party
+17,19668,1,Órlaithí,Flynn,6918,0,6918,Elected,1,Sinn Fein
+17,11439,1,Alex,Maskey,6346,0,6346,,,Sinn Fein
+17,11437,1,Fra,McCann,6201,0,6201,,,Sinn Fein
+17,7174,1,Frank,McCoubrey,4063,0,4063,,,Democratic Unionist Party
+17,11441,1,Ellen,Murray,251,0,251,,,Green Party
+17,19686,1,Fred,Rodgers,486,0,486,Excluded,1,Ulster Unionist Party
+17,11436,1,Pat,Sheehan,5466,0,5466,,,Sinn Fein
