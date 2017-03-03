@@ -156,6 +156,18 @@
     "Candidate_Id": "8121"
 },
 {
+    "Candidate_First_Pref_Votes": "4918", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Sugden", 
+    "Firstname": "Claire", 
+    "Colour": "#B0BEC5", 
+    "Constituency_Name": "East Londonderry", 
+    "Constituency_Number": "3", 
+    "Party_Name": "Independent", 
+    "Candidate_Id": "12087"
+},
+{
     "Candidate_First_Pref_Votes": "6060", 
     "Status": "", 
     "Occurred_On_Count": "", 
@@ -214,6 +226,18 @@
     "Constituency_Number": "4", 
     "Party_Name": "Sinn Fein", 
     "Candidate_Id": "11528"
+},
+{
+    "Candidate_First_Pref_Votes": "6948", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Durkan", 
+    "Firstname": "Mark H.", 
+    "Colour": "#E53935", 
+    "Constituency_Name": "Foyle", 
+    "Constituency_Number": "5", 
+    "Party_Name": "Social Democratic and Labour Party", 
+    "Candidate_Id": "19640"
 },
 {
     "Candidate_First_Pref_Votes": "7240", 

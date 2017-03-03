@@ -152,7 +152,16 @@
 {"Constituency_Name": "East Londonderry",
 "Constituency_Number": 3,
 "Elected": [
-]
+{
+    "Candidate_First_Pref_Votes": "4918", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Sugden", 
+    "Firstname": "Claire", 
+    "Constituency_Number": "3", 
+    "Party_Name": "Independent", 
+    "Candidate_Id": "12087"
+}]
 },
 {"Constituency_Name": "Fermanagh and South Tyrone",
 "Constituency_Number": 4,
@@ -211,6 +220,16 @@
 {"Constituency_Name": "Foyle",
 "Constituency_Number": 5,
 "Elected": [
+{
+    "Candidate_First_Pref_Votes": "6948", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Durkan", 
+    "Firstname": "Mark H.", 
+    "Constituency_Number": "5", 
+    "Party_Name": "Social Democratic and Labour Party", 
+    "Candidate_Id": "19640"
+},
 {
     "Candidate_First_Pref_Votes": "7240", 
     "Status": "Elected", 
