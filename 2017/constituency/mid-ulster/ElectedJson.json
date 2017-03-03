@@ -1,8 +1,18 @@
 [
 {
-    "Candidate_First_Pref_Votes": "", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Candidate_First_Pref_Votes": "9568", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
+    "Surname": "Buchanan", 
+    "Firstname": "Keith Alexander", 
+    "Constituency_Number": "7", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "11273"
+},
+{
+    "Candidate_First_Pref_Votes": "10258", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
     "Surname": "O'Neill", 
     "Firstname": "Michelle", 
     "Constituency_Number": "7", 
