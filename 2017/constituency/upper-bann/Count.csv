@@ -1,13 +1,13 @@
 Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_Pref_Votes,Transfers,Total_Votes,Status,Occurred_On_Count,Party_Name
-16,8150,1,Doug,Beattie,,0,,,,Ulster Unionist Party
-16,19683,1,Jonathan,Buckley,,0,,,,Democratic Unionist Party
-16,19743,1,Colin,Craig,,0,,,,Workers Party
-16,4677,1,Jo-Anne,Dobson,,0,,,,Ulster Unionist Party
-16,19744,1,Tara,Doyle,,0,,,,Alliance Party
-16,12443,1,Roy,Ferguson,,0,,,,Traditional Unionist Voice
-16,699,1,Dolores,Kelly,,0,,,,Social Democratic and Labour Party
-16,12440,1,Simon,Lee,,0,,,,Green Party
-16,12439,1,Carla,Lockhart,,0,,,,Democratic Unionist Party
-16,12436,1,Ian,Nickels,,0,,,,NI Conservatives
-16,3752,1,John,O'Dowd,,0,,,,Sinn Fein
-16,19679,1,Nuala,Toman,,0,,,,Sinn Fein
+16,8150,1,Doug,Beattie,5467,0,5467,,,Ulster Unionist Party
+16,19683,1,Jonathan,Buckley,7745,0,7745,,,Democratic Unionist Party
+16,19743,1,Colin,Craig,218,0,218,Excluded,1,Workers Party
+16,4677,1,Jo-Anne,Dobson,5132,0,5132,,,Ulster Unionist Party
+16,19744,1,Tara,Doyle,2720,0,2720,,,Alliance Party
+16,12443,1,Roy,Ferguson,1035,0,1035,Excluded,1,Traditional Unionist Voice
+16,699,1,Dolores,Kelly,5127,0,5127,,,Social Democratic and Labour Party
+16,12440,1,Simon,Lee,555,0,555,Excluded,1,Green Party
+16,12439,1,Carla,Lockhart,9140,0,9140,Elected,1,Democratic Unionist Party
+16,12436,1,Ian,Nickels,81,0,81,Excluded,1,NI Conservatives
+16,3752,1,John,O'Dowd,8220,0,8220,,,Sinn Fein
+16,19679,1,Nuala,Toman,6108,0,6108,,,Sinn Fein

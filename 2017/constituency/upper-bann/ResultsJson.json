@@ -1,6 +1,6 @@
 {"Constituency": {"countInfo": {"Valid_Poll": "", "Number_Of_Seats": "5", "Total_Poll": "52174", "Voting_Age_Pop": "92012", "Quota": "8592", "Constituency_Name": "Upper Bann", "Constituency_Number": "16", "Total_Electorate": "83431", "Spoiled": ""},
 "countGroup": [{
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "5467", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Beattie", 
@@ -11,10 +11,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 0, 
-    "Total_Votes": ""
+    "Total_Votes": "5467"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "7745", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Buckley", 
@@ -25,12 +25,12 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 1, 
-    "Total_Votes": ""
+    "Total_Votes": "7745"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Candidate_First_Pref_Votes": "218", 
+    "Status": "Excluded", 
+    "Occurred_On_Count": "1", 
     "Surname": "Craig", 
     "Firstname": "Colin", 
     "Constituency_Number": "16", 
@@ -39,10 +39,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 2, 
-    "Total_Votes": ""
+    "Total_Votes": "218"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "5132", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Dobson", 
@@ -53,10 +53,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 3, 
-    "Total_Votes": ""
+    "Total_Votes": "5132"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "2720", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Doyle", 
@@ -67,12 +67,12 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 4, 
-    "Total_Votes": ""
+    "Total_Votes": "2720"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Candidate_First_Pref_Votes": "1035", 
+    "Status": "Excluded", 
+    "Occurred_On_Count": "1", 
     "Surname": "Ferguson", 
     "Firstname": "Roy", 
     "Constituency_Number": "16", 
@@ -81,10 +81,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 5, 
-    "Total_Votes": ""
+    "Total_Votes": "1035"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "5127", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Kelly", 
@@ -95,12 +95,12 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 6, 
-    "Total_Votes": ""
+    "Total_Votes": "5127"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Candidate_First_Pref_Votes": "555", 
+    "Status": "Excluded", 
+    "Occurred_On_Count": "1", 
     "Surname": "Lee", 
     "Firstname": "Simon", 
     "Constituency_Number": "16", 
@@ -109,12 +109,12 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 7, 
-    "Total_Votes": ""
+    "Total_Votes": "555"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Candidate_First_Pref_Votes": "9140", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
     "Surname": "Lockhart", 
     "Firstname": "Carla", 
     "Constituency_Number": "16", 
@@ -123,12 +123,12 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 8, 
-    "Total_Votes": ""
+    "Total_Votes": "9140"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Candidate_First_Pref_Votes": "81", 
+    "Status": "Excluded", 
+    "Occurred_On_Count": "1", 
     "Surname": "Nickels", 
     "Firstname": "Ian", 
     "Constituency_Number": "16", 
@@ -137,10 +137,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 9, 
-    "Total_Votes": ""
+    "Total_Votes": "81"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "8220", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "O'Dowd", 
@@ -151,10 +151,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 10, 
-    "Total_Votes": ""
+    "Total_Votes": "8220"
 },
 {
-    "Candidate_First_Pref_Votes": "", 
+    "Candidate_First_Pref_Votes": "6108", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Toman", 
@@ -165,6 +165,6 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 11, 
-    "Total_Votes": ""
+    "Total_Votes": "6108"
 }
 ]}}
