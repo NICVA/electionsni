@@ -504,6 +504,18 @@
     "Candidate_Id": "8151"
 },
 {
+    "Candidate_First_Pref_Votes": "4604", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Cameron", 
+    "Firstname": "Pam", 
+    "Colour": "#FF5722", 
+    "Constituency_Name": "South Antrim", 
+    "Constituency_Number": "12", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "13366"
+},
+{
     "Candidate_First_Pref_Votes": "5278", 
     "Status": "Elected", 
     "Occurred_On_Count": "7", 
@@ -514,6 +526,18 @@
     "Constituency_Number": "12", 
     "Party_Name": "Alliance Party", 
     "Candidate_Id": "13369"
+},
+{
+    "Candidate_First_Pref_Votes": "5152", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Girvan", 
+    "Firstname": "Paul", 
+    "Colour": "#FF5722", 
+    "Constituency_Name": "South Antrim", 
+    "Constituency_Number": "12", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "13370"
 },
 {
     "Candidate_First_Pref_Votes": "6891", 
