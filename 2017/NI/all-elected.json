@@ -50,6 +50,26 @@
 "Constituency_Number": 1,
 "Elected": [
 {
+    "Candidate_First_Pref_Votes": "5121", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Beggs", 
+    "Firstname": "Roy", 
+    "Constituency_Number": "1", 
+    "Party_Name": "Ulster Unionist Party", 
+    "Candidate_Id": "7132"
+},
+{
+    "Candidate_First_Pref_Votes": "4179", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Dickson", 
+    "Firstname": "Stewart", 
+    "Constituency_Number": "1", 
+    "Party_Name": "Alliance Party", 
+    "Candidate_Id": "4591"
+},
+{
     "Candidate_First_Pref_Votes": "6000", 
     "Status": "Elected", 
     "Occurred_On_Count": "3", 

@@ -36,6 +36,30 @@
     "Candidate_Id": "19668"
 },
 {
+    "Candidate_First_Pref_Votes": "5121", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Beggs", 
+    "Firstname": "Roy", 
+    "Colour": "#03A9F4", 
+    "Constituency_Name": "East Antrim", 
+    "Constituency_Number": "1", 
+    "Party_Name": "Ulster Unionist Party", 
+    "Candidate_Id": "7132"
+},
+{
+    "Candidate_First_Pref_Votes": "4179", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Dickson", 
+    "Firstname": "Stewart", 
+    "Colour": "#FDD835", 
+    "Constituency_Name": "East Antrim", 
+    "Constituency_Number": "1", 
+    "Party_Name": "Alliance Party", 
+    "Candidate_Id": "4591"
+},
+{
     "Candidate_First_Pref_Votes": "6000", 
     "Status": "Elected", 
     "Occurred_On_Count": "3", 
