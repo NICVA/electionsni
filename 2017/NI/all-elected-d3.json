@@ -564,6 +564,18 @@
     "Candidate_Id": "19683"
 },
 {
+    "Candidate_First_Pref_Votes": "5127", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Kelly", 
+    "Firstname": "Dolores", 
+    "Colour": "#E53935", 
+    "Constituency_Name": "Upper Bann", 
+    "Constituency_Number": "16", 
+    "Party_Name": "Social Democratic and Labour Party", 
+    "Candidate_Id": "699"
+},
+{
     "Candidate_First_Pref_Votes": "9140", 
     "Status": "Elected", 
     "Occurred_On_Count": "1", 
