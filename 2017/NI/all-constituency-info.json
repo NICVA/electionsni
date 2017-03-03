@@ -3,7 +3,7 @@
     "Constituency_Name": "Belfast East",
     "Constituency_Number": 2,
     "Directory": "belfast-east",
-    "countInfo": {"Valid_Poll": "", "Number_Of_Seats": "5", "Total_Poll": "", "Voting_Age_Pop": "74065", "Quota": "", "Constituency_Name": "Belfast East", "Constituency_Number": "2", "Total_Electorate": "64788", "Spoiled": ""}
+    "countInfo": {"Valid_Poll": "", "Number_Of_Seats": "5", "Total_Poll": "40828", "Voting_Age_Pop": "74065", "Quota": "", "Constituency_Name": "Belfast East", "Constituency_Number": "2", "Total_Electorate": "64788", "Spoiled": ""}
     },
 {
     "Constituency_Name": "Belfast North",
@@ -21,7 +21,7 @@
     "Constituency_Name": "Belfast West",
     "Constituency_Number": 17,
     "Directory": "belfast-west",
-    "countInfo": {"Valid_Poll": "", "Number_Of_Seats": "5", "Total_Poll": "", "Voting_Age_Pop": "69817", "Quota": "", "Constituency_Name": "Belfast West", "Constituency_Number": "17", "Total_Electorate": "61309", "Spoiled": ""}
+    "countInfo": {"Valid_Poll": "", "Number_Of_Seats": "5", "Total_Poll": "40430", "Voting_Age_Pop": "69817", "Quota": "", "Constituency_Name": "Belfast West", "Constituency_Number": "17", "Total_Electorate": "61309", "Spoiled": ""}
     },
 {
     "Constituency_Name": "East Antrim",
