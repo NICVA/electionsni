@@ -38,4 +38,14 @@
     "Constituency_Number": "8", 
     "Party_Name": "Social Democratic and Labour Party", 
     "Candidate_Id": "6086"
+},
+{
+    "Candidate_First_Pref_Votes": "8454", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "3", 
+    "Surname": "Murphy", 
+    "Firstname": "Conor", 
+    "Constituency_Number": "8", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "1856"
 }]

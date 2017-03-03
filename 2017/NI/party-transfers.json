@@ -96,7 +96,11 @@
 ,
 	{"Constituency_Name": "Newry and Armagh", "Counts": 
 		[
-
+		{"Count_Number": 3,
+			"From": {"Social Democratic and Labour Party": -931.0},
+			"To": {"Social Democratic and Labour Party": 0, "Citizens Independent Social Thought Alliance": 0, "Democratic Unionist Party": 0, "Sinn Fein": 337.0, "Green Party": 0, "Ulster Unionist Party": 264.0, "Alliance Party": 0},
+			"Not_transferred": 330.0
+		}
 		]
 	}
 ,
