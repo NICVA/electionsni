@@ -11,3 +11,15 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 17,11441,1,Ellen,Murray,251,0,251,Excluded,1,Green Party
 17,19686,1,Fred,Rodgers,486,0,486,Excluded,1,Ulster Unionist Party
 17,11436,1,Pat,Sheehan,5466,0,5466,,,Sinn Fein
+17,982,2,Alex,Attwood,3452,567,4019,Excluded,2,Social Democratic and Labour Party
+17,8186,2,Conor,Campbell,415,-415,0,Excluded,1,Workers Party
+17,7199,2,Gerry,Carroll,4903,1611,6514,,,People Before Profit Alliance
+17,19674,2,Michael,Collins,1096,-1096,0,Excluded,1,People Before Profit Alliance
+17,19688,2,Sorcha,Eastwood,747,-747,0,Excluded,1,Alliance Party
+17,19668,2,Órlaithí,Flynn,6918,0,6918,Elected,1,Sinn Fein
+17,11439,2,Alex,Maskey,6346,105,6451,,,Sinn Fein
+17,11437,2,Fra,McCann,6201,113,6314,,,Sinn Fein
+17,7174,2,Frank,McCoubrey,4063,309,4372,,,Democratic Unionist Party
+17,11441,2,Ellen,Murray,251,-251,0,Excluded,1,Green Party
+17,19686,2,Fred,Rodgers,486,-486,0,Excluded,1,Ulster Unionist Party
+17,11436,2,Pat,Sheehan,5466,49,5515,,,Sinn Fein
