@@ -95,6 +95,11 @@
 			"From": {"Alliance Party": -545.0},
 			"To": {"Independent": 0, "Social Democratic and Labour Party": 0, "Traditional Unionist Voice": 0, "Democratic Unionist Party": 33.06, "Cross-Community Labour Alternative": 0, "Sinn Fein": 167.58, "Green Party": 0, "UK Independence Party": 0, "Ulster Unionist Party": 339.72, "Alliance Party": 0, "NI Conservatives": 0},
 			"Not_transferred": 4.64
+		},
+		{"Count_Number": 9,
+			"From": {"Democratic Unionist Party": -1315.94},
+			"To": {"Independent": 0, "Social Democratic and Labour Party": 0, "Traditional Unionist Voice": 0, "Democratic Unionist Party": 0, "Cross-Community Labour Alternative": 0, "Sinn Fein": 72.19, "Green Party": 0, "UK Independence Party": 0, "Ulster Unionist Party": 1308.89, "Alliance Party": 0, "NI Conservatives": 0},
+			"Not_transferred": 65.14
 		}
 		]
 	}
