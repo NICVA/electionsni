@@ -89,7 +89,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 1,11450,6,Conor,Sheridan,393,0,0,Excluded,1,Cross-Community Labour Alternative
 1,8121,6,John,Stewart,3377,129,4260,,,Ulster Unionist Party
 1,6985,6,Ruth,Wilson,1534,0,0,Excluded,2,Traditional Unionist Voice
-1,7132,7,Roy,Beggs,5121,0,6324,,,Ulster Unionist Party
+1,7132,7,Roy,Beggs,5121,0,6324,Elected,6,Ulster Unionist Party
 1,19741,7,Ricky,Best,106,0,0,Excluded,1,Independent
 1,4591,7,Stewart,Dickson,4179,-545,6238,Elected,6,Alliance Party
 1,9805,7,Danny,Donnelly,1817,0,0,Excluded,5,Alliance Party
@@ -104,7 +104,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 1,11450,7,Conor,Sheridan,393,0,0,Excluded,1,Cross-Community Labour Alternative
 1,8121,7,John,Stewart,3377,339.72,4599.72,,,Ulster Unionist Party
 1,6985,7,Ruth,Wilson,1534,0,0,Excluded,2,Traditional Unionist Voice
-1,7132,8,Roy,Beggs,5121,0,6324,,,Ulster Unionist Party
+1,7132,8,Roy,Beggs,5121,0,6324,Elected,6,Ulster Unionist Party
 1,19741,8,Ricky,Best,106,0,0,Excluded,1,Independent
 1,4591,8,Stewart,Dickson,4179,0,6238,Elected,6,Alliance Party
 1,9805,8,Danny,Donnelly,1817,0,0,Excluded,5,Alliance Party
@@ -119,7 +119,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 1,11450,8,Conor,Sheridan,393,0,0,Excluded,1,Cross-Community Labour Alternative
 1,8121,8,John,Stewart,3377,435.27,5034.99,,,Ulster Unionist Party
 1,6985,8,Ruth,Wilson,1534,0,0,Excluded,2,Traditional Unionist Voice
-1,7132,9,Roy,Beggs,5121,0,6324,,,Ulster Unionist Party
+1,7132,9,Roy,Beggs,5121,0,6324,Elected,6,Ulster Unionist Party
 1,19741,9,Ricky,Best,106,0,0,Excluded,1,Independent
 1,4591,9,Stewart,Dickson,4179,0,6238,Elected,6,Alliance Party
 1,9805,9,Danny,Donnelly,1817,0,0,Excluded,5,Alliance Party

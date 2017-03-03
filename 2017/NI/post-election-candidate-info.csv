@@ -52,7 +52,7 @@ Candidate_First_Pref_Votes,Occurred_On_Count,Gender,Constituency_Name,Constituen
 251,1,Female,Belfast West,17,Green Party,belfast-west,,0,Excluded,,Murray,Ellen,ellenfromnowon,11441,111,4,0,
 486,1,Male,Belfast West,17,Ulster Unionist Party,belfast-west,,0,Excluded,,Rodgers,Fred,Fredjrodgers,19686,26,4,0,
 5466,4,male,Belfast West,17,Sinn Fein,belfast-west,,5903,Elected,1,Sheehan,Pat,PatSheehanMLA,11436,24,4,164,
-5121,,male,East Antrim,1,Ulster Unionist Party,east-antrim,roy.beggs@co.niassembly.gov.uk,6324,Elected,1,Beggs,Roy,roybeggs,7132,26,9,0,
+5121,6,male,East Antrim,1,Ulster Unionist Party,east-antrim,roy.beggs@co.niassembly.gov.uk,6324,Elected,1,Beggs,Roy,roybeggs,7132,26,9,0,
 106,1,Male,East Antrim,1,Independent,east-antrim,,0,Excluded,,Best,Ricky,VoteRickyBest,19741,21,9,0,
 4179,6,male,East Antrim,1,Alliance Party,east-antrim,stewart.dickson@allianceparty.org,6238,Elected,1,Dickson,Stewart,stewartcdickson,4591,19,9,0,
 1817,5,Male,East Antrim,1,Alliance Party,east-antrim,,0,Excluded,,Donnelly,Danny,DannyDonnelly1,9805,19,9,0,
