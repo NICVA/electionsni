@@ -25,8 +25,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "4903", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "3", 
     "Surname": "Carroll", 
     "Firstname": "Gerry", 
     "Colour": "#E91E63", 
@@ -49,8 +49,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "6346", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "3", 
     "Surname": "Maskey", 
     "Firstname": "Alex", 
     "Colour": "#4CAF50", 
@@ -61,8 +61,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "6201", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "4", 
     "Surname": "McCann", 
     "Firstname": "Fra", 
     "Colour": "#4CAF50", 
@@ -73,8 +73,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "5466", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "4", 
     "Surname": "Sheehan", 
     "Firstname": "Pat", 
     "Colour": "#4CAF50", 
@@ -121,8 +121,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "3851", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "8", 
     "Surname": "Lyons", 
     "Firstname": "Gordon", 
     "Colour": "#FF5722", 
@@ -145,8 +145,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "7767", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "3", 
     "Surname": "Dolan", 
     "Firstname": "Jemma", 
     "Colour": "#4CAF50", 
@@ -169,8 +169,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "7987", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "3", 
     "Surname": "Gildernew", 
     "Firstname": "Michelle", 
     "Colour": "#4CAF50", 
@@ -178,6 +178,18 @@
     "Constituency_Number": "4", 
     "Party_Name": "Sinn Fein", 
     "Candidate_Id": "2427"
+},
+{
+    "Candidate_First_Pref_Votes": "6254", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Lynch", 
+    "Firstname": "Se\u00e1n", 
+    "Colour": "#4CAF50", 
+    "Constituency_Name": "Fermanagh and South Tyrone", 
+    "Constituency_Number": "4", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "11528"
 },
 {
     "Candidate_First_Pref_Votes": "7240", 
@@ -445,8 +457,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "7786", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "5", 
     "Surname": "Wells", 
     "Firstname": "Jim", 
     "Colour": "#FF5722", 
@@ -469,8 +481,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "6221", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "5", 
     "Surname": "Hamilton", 
     "Firstname": "Simon", 
     "Colour": "#FF5722", 

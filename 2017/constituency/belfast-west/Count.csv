@@ -23,3 +23,27 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 17,11441,2,Ellen,Murray,251,-251,0,Excluded,1,Green Party
 17,19686,2,Fred,Rodgers,486,-486,0,Excluded,1,Ulster Unionist Party
 17,11436,2,Pat,Sheehan,5466,49,5515,,,Sinn Fein
+17,982,3,Alex,Attwood,3452,-4019,0,Excluded,2,Social Democratic and Labour Party
+17,8186,3,Conor,Campbell,415,0,0,Excluded,1,Workers Party
+17,7199,3,Gerry,Carroll,4903,1738,8252,Elected,3,People Before Profit Alliance
+17,19674,3,Michael,Collins,1096,0,0,Excluded,1,People Before Profit Alliance
+17,19688,3,Sorcha,Eastwood,747,0,0,Excluded,1,Alliance Party
+17,19668,3,Órlaithí,Flynn,6918,0,6918,Elected,1,Sinn Fein
+17,11439,3,Alex,Maskey,6346,585,7036,Elected,3,Sinn Fein
+17,11437,3,Fra,McCann,6201,222,6536,,,Sinn Fein
+17,7174,3,Frank,McCoubrey,4063,74,4446,,,Democratic Unionist Party
+17,11441,3,Ellen,Murray,251,0,0,Excluded,1,Green Party
+17,19686,3,Fred,Rodgers,486,0,0,Excluded,1,Ulster Unionist Party
+17,11436,3,Pat,Sheehan,5466,189,5704,,,Sinn Fein
+17,982,4,Alex,Attwood,3452,0,0,Excluded,2,Social Democratic and Labour Party
+17,8186,4,Conor,Campbell,415,0,0,Excluded,1,Workers Party
+17,7199,4,Gerry,Carroll,4903,-1527,6725,Elected,3,People Before Profit Alliance
+17,19674,4,Michael,Collins,1096,0,0,Excluded,1,People Before Profit Alliance
+17,19688,4,Sorcha,Eastwood,747,0,0,Excluded,1,Alliance Party
+17,19668,4,Órlaithí,Flynn,6918,0,6918,Elected,1,Sinn Fein
+17,11439,4,Alex,Maskey,6346,0,7036,Elected,3,Sinn Fein
+17,11437,4,Fra,McCann,6201,431,7067,Elected,4,Sinn Fein
+17,7174,4,Frank,McCoubrey,4063,31,4521,Excluded,4,Democratic Unionist Party
+17,11441,4,Ellen,Murray,251,0,0,Excluded,1,Green Party
+17,19686,4,Fred,Rodgers,486,0,0,Excluded,1,Ulster Unionist Party
+17,11436,4,Pat,Sheehan,5466,164,5903,Elected,4,Sinn Fein

@@ -1,8 +1,8 @@
 [
 {
     "Candidate_First_Pref_Votes": "4903", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "3", 
     "Surname": "Carroll", 
     "Firstname": "Gerry", 
     "Constituency_Number": "17", 
@@ -21,8 +21,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "6346", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "3", 
     "Surname": "Maskey", 
     "Firstname": "Alex", 
     "Constituency_Number": "17", 
@@ -31,8 +31,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "6201", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "4", 
     "Surname": "McCann", 
     "Firstname": "Fra", 
     "Constituency_Number": "17", 
@@ -41,8 +41,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "5466", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "4", 
     "Surname": "Sheehan", 
     "Firstname": "Pat", 
     "Constituency_Number": "17", 

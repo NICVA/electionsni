@@ -51,3 +51,55 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 15,302,4,Mike,Nesbitt,5323,13,5432,,,Ulster Unionist Party
 15,8115,4,Philip,Smith,2453,0,2507,,,Ulster Unionist Party
 15,11547,4,Peter,Weir,3543,0,3556,,,Democratic Unionist Party
+15,4590,5,Kellie,Armstrong,5813,0,6610,Elected,4,Alliance Party
+15,19706,5,Ricky,Bamford,918,0,0,Excluded,2,Green Party
+15,6251,5,Jonathan,Bell,1479,204,1782,,,Independent
+15,19718,5,Scott,Benton,195,0,0,Excluded,1,NI Conservatives
+15,7179,5,Joe,Boyle,3045,22,3900,,,Social Democratic and Labour Party
+15,6984,5,Stephen,Cooper,1330,-1373,0,Excluded,4,Traditional Unionist Voice
+15,16581,5,Simon,Hamilton,6221,269,6531,Elected,5,Democratic Unionist Party
+15,12090,5,Dermot,Kennedy,1110,0,0,Excluded,3,Sinn Fein
+15,12092,5,Michelle,McIlveen,5728,216,5963,,,Democratic Unionist Party
+15,12094,5,Jimmy,Menagh,1627,153,1842,,,Independent
+15,302,5,Mike,Nesbitt,5323,212,5644,,,Ulster Unionist Party
+15,8115,5,Philip,Smith,2453,141,2648,,,Ulster Unionist Party
+15,11547,5,Peter,Weir,3543,80,3636,,,Democratic Unionist Party
+15,4590,6,Kellie,Armstrong,5813,-145,6465,Elected,4,Alliance Party
+15,19706,6,Ricky,Bamford,918,0,0,Excluded,2,Green Party
+15,6251,6,Jonathan,Bell,1479,9.75,1791.75,,,Independent
+15,19718,6,Scott,Benton,195,0,0,Excluded,1,NI Conservatives
+15,7179,6,Joe,Boyle,3045,120.75,4020.75,,,Social Democratic and Labour Party
+15,6984,6,Stephen,Cooper,1330,0,0,Excluded,4,Traditional Unionist Voice
+15,16581,6,Simon,Hamilton,6221,0,6531,Elected,5,Democratic Unionist Party
+15,12090,6,Dermot,Kennedy,1110,0,0,Excluded,3,Sinn Fein
+15,12092,6,Michelle,McIlveen,5728,0.75,5963.75,,,Democratic Unionist Party
+15,12094,6,Jimmy,Menagh,1627,3,1845,,,Independent
+15,302,6,Mike,Nesbitt,5323,9,5653,,,Ulster Unionist Party
+15,8115,6,Philip,Smith,2453,0,2648,,,Ulster Unionist Party
+15,11547,6,Peter,Weir,3543,0,3636,,,Democratic Unionist Party
+15,4590,7,Kellie,Armstrong,5813,0,6465,Elected,4,Alliance Party
+15,19706,7,Ricky,Bamford,918,0,0,Excluded,2,Green Party
+15,6251,7,Jonathan,Bell,1479,2.25,1794,Excluded,7,Independent
+15,19718,7,Scott,Benton,195,0,0,Excluded,1,NI Conservatives
+15,7179,7,Joe,Boyle,3045,0.25,4021,,,Social Democratic and Labour Party
+15,6984,7,Stephen,Cooper,1330,0,0,Excluded,4,Traditional Unionist Voice
+15,16581,7,Simon,Hamilton,6221,0,6531,Elected,5,Democratic Unionist Party
+15,12090,7,Dermot,Kennedy,1110,0,0,Excluded,3,Sinn Fein
+15,12092,7,Michelle,McIlveen,5728,49.5,6013.25,,,Democratic Unionist Party
+15,12094,7,Jimmy,Menagh,1627,1.5,1846.5,,,Independent
+15,302,7,Mike,Nesbitt,5323,4,5657,,,Ulster Unionist Party
+15,8115,7,Philip,Smith,2453,3,2651,,,Ulster Unionist Party
+15,11547,7,Peter,Weir,3543,3.5,3639.5,,,Democratic Unionist Party
+15,4590,8,Kellie,Armstrong,5813,0,6465,Elected,4,Alliance Party
+15,19706,8,Ricky,Bamford,918,0,0,Excluded,2,Green Party
+15,6251,8,Jonathan,Bell,1479,-1794,1794,Excluded,7,Independent
+15,19718,8,Scott,Benton,195,0,0,Excluded,1,NI Conservatives
+15,7179,8,Joe,Boyle,3045,94,4115,,,Social Democratic and Labour Party
+15,6984,8,Stephen,Cooper,1330,0,0,Excluded,4,Traditional Unionist Voice
+15,16581,8,Simon,Hamilton,6221,0,6531,Elected,5,Democratic Unionist Party
+15,12090,8,Dermot,Kennedy,1110,0,0,Excluded,3,Sinn Fein
+15,12092,8,Michelle,McIlveen,5728,316.75,6330,,,Democratic Unionist Party
+15,12094,8,Jimmy,Menagh,1627,343.25,2189.75,Excluded,8,Independent
+15,302,8,Mike,Nesbitt,5323,455,6112,,,Ulster Unionist Party
+15,8115,8,Philip,Smith,2453,149,2800,,,Ulster Unionist Party
+15,11547,8,Peter,Weir,3543,238.25,3877.75,,,Democratic Unionist Party
