@@ -42,7 +42,7 @@
     "Total_Votes": "6007"
 },
 {
-    "Candidate_First_Pref_Votes": "250", 
+    "Candidate_First_Pref_Votes": "4431", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "Douglas", 
@@ -53,10 +53,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 3, 
-    "Total_Votes": "250"
+    "Total_Votes": "4431"
 },
 {
-    "Candidate_First_Pref_Votes": "4431", 
+    "Candidate_First_Pref_Votes": "250", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "de Faoite", 
@@ -67,7 +67,7 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 4, 
-    "Total_Votes": "4431"
+    "Total_Votes": "250"
 },
 {
     "Candidate_First_Pref_Votes": "917", 
