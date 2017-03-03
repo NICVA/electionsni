@@ -110,8 +110,8 @@
 "Elected": [
 {
     "Candidate_First_Pref_Votes": "8479", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "2", 
     "Surname": "Foster", 
     "Firstname": "Arlene", 
     "Constituency_Number": "4", 
@@ -124,8 +124,8 @@
 "Elected": [
 {
     "Candidate_First_Pref_Votes": "7240", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "3", 
     "Surname": "Eastwood", 
     "Firstname": "Colum", 
     "Constituency_Number": "5", 
@@ -144,8 +144,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "7145", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "2", 
     "Surname": "McCartney", 
     "Firstname": "Raymond", 
     "Constituency_Number": "5", 

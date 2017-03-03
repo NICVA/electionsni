@@ -35,6 +35,11 @@
 			"From": {"Sinn Fein": -434.0},
 			"To": {"Workers Party": 5.22, "Social Democratic and Labour Party": 258.96, "Traditional Unionist Voice": 0.36, "Democratic Unionist Party": 1.86, "Cross-Community Labour Alternative": 8.76, "Sinn Fein": 0, "People Before Profit Alliance": 29.58, "Green Party": 45.78, "Ulster Unionist Party": 3.0, "Alliance Party": 65.22, "NI Conservatives": 0.48},
 			"Not_transferred": 14.78
+		},
+		{"Count_Number": 4,
+			"From": {"Cross-Community Labour Alternative": -566.42},
+			"To": {"Workers Party": 0, "Social Democratic and Labour Party": 78.94, "Traditional Unionist Voice": 7.12, "Democratic Unionist Party": 11.0, "Cross-Community Labour Alternative": 0, "Sinn Fein": 0, "People Before Profit Alliance": 142.14, "Green Party": 181.34, "Ulster Unionist Party": 23.0, "Alliance Party": 91.44, "NI Conservatives": 0},
+			"Not_transferred": 31.44
 		}
 		]
 	}
@@ -88,7 +93,16 @@
 ,
 	{"Constituency_Name": "Foyle", "Counts": 
 		[
-
+		{"Count_Number": 2,
+			"From": {"Sinn Fein": -1768.0},
+			"To": {"Independent": 0.57, "Social Democratic and Labour Party": 167.57999999999998, "Citizens Independent Social Thought Alliance": 3.61, "Democratic Unionist Party": 0, "Sinn Fein": 1463.76, "People Before Profit Alliance": 90.63, "Green Party": 2.09, "Ulster Unionist Party": 1.52, "Alliance Party": 8.93, "NI Conservatives": 0.19},
+			"Not_transferred": 29.12
+		},
+		{"Count_Number": 3,
+			"From": {"Sinn Fein": -1171.76},
+			"To": {"Independent": 11.78, "Social Democratic and Labour Party": 515.28, "Citizens Independent Social Thought Alliance": 25.84, "Democratic Unionist Party": 1.71, "Sinn Fein": 0, "People Before Profit Alliance": 236.17, "Green Party": 20.33, "Ulster Unionist Party": 7.41, "Alliance Party": 46.74, "NI Conservatives": 1.71},
+			"Not_transferred": 304.79
+		}
 		]
 	}
 ,

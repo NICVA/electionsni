@@ -11,3 +11,27 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 5,11860,1,Raymond,McCartney,7145,0,7145,,,Sinn Fein
 5,19742,1,Arthur,McGuinness,44,0,44,,,Independent
 5,7209,1,Gary,Middleton,5975,0,5975,,,Democratic Unionist Party
+5,7656,2,Stuart,Canning,77,0.19,77.19,,,NI Conservatives
+5,19694,2,Colm,Cavanagh,1124,8.93,1132.93,,,Alliance Party
+5,19701,2,Shannon,Downey,242,2.09,244.09,,,Green Party
+5,19640,2,Mark H.,Durkan,6948,75.05,7023.05,,,Social Democratic and Labour Party
+5,11857,2,Colum,Eastwood,7240,92.53,7332.53,,,Social Democratic and Labour Party
+5,6404,2,Julia,Kee,1660,1.52,1661.52,,,Ulster Unionist Party
+5,11859,2,John,Lindsay,196,3.61,199.61,,,Citizens Independent Social Thought Alliance
+5,19678,2,Elisha,McCallion,9205,-1768,7437,Elected,1,Sinn Fein
+5,2294,2,Eamonn,McCann,4760,90.63,4850.63,,,People Before Profit Alliance
+5,11860,2,Raymond,McCartney,7145,1463.76,8608.76,Elected,2,Sinn Fein
+5,19742,2,Arthur,McGuinness,44,0.57,44.57,,,Independent
+5,7209,2,Gary,Middleton,5975,0,5975,,,Democratic Unionist Party
+5,7656,3,Stuart,Canning,77,1.71,78.9,Excluded,3,NI Conservatives
+5,19694,3,Colm,Cavanagh,1124,46.74,1179.67,,,Alliance Party
+5,19701,3,Shannon,Downey,242,20.33,264.42,Excluded,3,Green Party
+5,19640,3,Mark H.,Durkan,6948,252.51,7275.56,,,Social Democratic and Labour Party
+5,11857,3,Colum,Eastwood,7240,262.77,7595.3,Elected,3,Social Democratic and Labour Party
+5,6404,3,Julia,Kee,1660,7.41,1668.93,,,Ulster Unionist Party
+5,11859,3,John,Lindsay,196,25.84,225.45,Excluded,3,Citizens Independent Social Thought Alliance
+5,19678,3,Elisha,McCallion,9205,0,7437,Elected,1,Sinn Fein
+5,2294,3,Eamonn,McCann,4760,236.17,5086.8,,,People Before Profit Alliance
+5,11860,3,Raymond,McCartney,7145,-1171.76,7437,Elected,2,Sinn Fein
+5,19742,3,Arthur,McGuinness,44,11.78,56.35,Excluded,3,Independent
+5,7209,3,Gary,Middleton,5975,1.71,5976.71,,,Democratic Unionist Party
