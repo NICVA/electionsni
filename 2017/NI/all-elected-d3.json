@@ -408,6 +408,18 @@
     "Candidate_Id": "5994"
 },
 {
+    "Candidate_First_Pref_Votes": "7786", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Wells", 
+    "Firstname": "Jim", 
+    "Colour": "#FF5722", 
+    "Constituency_Name": "South Down", 
+    "Constituency_Number": "14", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "2333"
+},
+{
     "Candidate_First_Pref_Votes": "5813", 
     "Status": "Elected", 
     "Occurred_On_Count": "4", 
@@ -430,6 +442,18 @@
     "Constituency_Number": "15", 
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "16581"
+},
+{
+    "Candidate_First_Pref_Votes": "7745", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Buckley", 
+    "Firstname": "Jonathan", 
+    "Colour": "#FF5722", 
+    "Constituency_Name": "Upper Bann", 
+    "Constituency_Number": "16", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "19683"
 },
 {
     "Candidate_First_Pref_Votes": "9140", 
