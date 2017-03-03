@@ -20,6 +20,26 @@
     "Candidate_Id": "1871"
 },
 {
+    "Candidate_First_Pref_Votes": "6034", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "McAleer", 
+    "Firstname": "Declan", 
+    "Constituency_Number": "18", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "11343"
+},
+{
+    "Candidate_First_Pref_Votes": "6283", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "McCrossan", 
+    "Firstname": "Daniel", 
+    "Constituency_Number": "18", 
+    "Party_Name": "Social Democratic and Labour Party", 
+    "Candidate_Id": "5185"
+},
+{
     "Candidate_First_Pref_Votes": "7573", 
     "Status": "Elected", 
     "Occurred_On_Count": "1", 

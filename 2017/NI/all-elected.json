@@ -35,11 +35,31 @@
     "Constituency_Number": "10", 
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "11380"
+},
+{
+    "Candidate_First_Pref_Votes": "6275", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Humphrey", 
+    "Firstname": "William", 
+    "Constituency_Number": "10", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "575"
 }]
 },
 {"Constituency_Name": "Belfast South",
 "Constituency_Number": 13,
 "Elected": [
+{
+    "Candidate_First_Pref_Votes": "5595", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Bradshaw", 
+    "Firstname": "Paula", 
+    "Constituency_Number": "13", 
+    "Party_Name": "Alliance Party", 
+    "Candidate_Id": "1679"
+},
 {
     "Candidate_First_Pref_Votes": "7610", 
     "Status": "Elected", 
@@ -327,6 +347,16 @@
     "Constituency_Number": "7", 
     "Party_Name": "Sinn Fein", 
     "Candidate_Id": "11274"
+},
+{
+    "Candidate_First_Pref_Votes": "1244", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Loughrin", 
+    "Firstname": "Hannah", 
+    "Constituency_Number": "7", 
+    "Party_Name": "Traditional Unionist Voice", 
+    "Candidate_Id": "11290"
 },
 {
     "Candidate_First_Pref_Votes": "6419", 
@@ -709,6 +739,26 @@
     "Constituency_Number": "18", 
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "1871"
+},
+{
+    "Candidate_First_Pref_Votes": "6034", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "McAleer", 
+    "Firstname": "Declan", 
+    "Constituency_Number": "18", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "11343"
+},
+{
+    "Candidate_First_Pref_Votes": "6283", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "McCrossan", 
+    "Firstname": "Daniel", 
+    "Constituency_Number": "18", 
+    "Party_Name": "Social Democratic and Labour Party", 
+    "Candidate_Id": "5185"
 },
 {
     "Candidate_First_Pref_Votes": "7573", 
