@@ -18,4 +18,24 @@
     "Constituency_Number": "15", 
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "16581"
+},
+{
+    "Candidate_First_Pref_Votes": "5728", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "McIlveen", 
+    "Firstname": "Michelle", 
+    "Constituency_Number": "15", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "12092"
+},
+{
+    "Candidate_First_Pref_Votes": "5323", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Nesbitt", 
+    "Firstname": "Mike", 
+    "Constituency_Number": "15", 
+    "Party_Name": "Ulster Unionist Party", 
+    "Candidate_Id": "302"
 }]

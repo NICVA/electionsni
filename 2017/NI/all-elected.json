@@ -149,6 +149,16 @@
 "Constituency_Number": 4,
 "Elected": [
 {
+    "Candidate_First_Pref_Votes": "7767", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Dolan", 
+    "Firstname": "Jemma", 
+    "Constituency_Number": "4", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "19672"
+},
+{
     "Candidate_First_Pref_Votes": "8479", 
     "Status": "Elected", 
     "Occurred_On_Count": "2", 
@@ -157,6 +167,16 @@
     "Constituency_Number": "4", 
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "11526"
+},
+{
+    "Candidate_First_Pref_Votes": "7987", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Gildernew", 
+    "Firstname": "Michelle", 
+    "Constituency_Number": "4", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "2427"
 }]
 },
 {"Constituency_Name": "Foyle",
@@ -444,6 +464,26 @@
     "Constituency_Number": "15", 
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "16581"
+},
+{
+    "Candidate_First_Pref_Votes": "5728", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "McIlveen", 
+    "Firstname": "Michelle", 
+    "Constituency_Number": "15", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "12092"
+},
+{
+    "Candidate_First_Pref_Votes": "5323", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Nesbitt", 
+    "Firstname": "Mike", 
+    "Constituency_Number": "15", 
+    "Party_Name": "Ulster Unionist Party", 
+    "Candidate_Id": "302"
 }]
 },
 {"Constituency_Name": "Upper Bann",

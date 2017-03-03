@@ -1,5 +1,15 @@
 [
 {
+    "Candidate_First_Pref_Votes": "7767", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Dolan", 
+    "Firstname": "Jemma", 
+    "Constituency_Number": "4", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "19672"
+},
+{
     "Candidate_First_Pref_Votes": "8479", 
     "Status": "Elected", 
     "Occurred_On_Count": "2", 
@@ -8,4 +18,14 @@
     "Constituency_Number": "4", 
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "11526"
+},
+{
+    "Candidate_First_Pref_Votes": "7987", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Gildernew", 
+    "Firstname": "Michelle", 
+    "Constituency_Number": "4", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "2427"
 }]

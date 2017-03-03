@@ -144,6 +144,18 @@
     "Candidate_Id": "8121"
 },
 {
+    "Candidate_First_Pref_Votes": "7767", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Dolan", 
+    "Firstname": "Jemma", 
+    "Colour": "#4CAF50", 
+    "Constituency_Name": "Fermanagh and South Tyrone", 
+    "Constituency_Number": "4", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "19672"
+},
+{
     "Candidate_First_Pref_Votes": "8479", 
     "Status": "Elected", 
     "Occurred_On_Count": "2", 
@@ -154,6 +166,18 @@
     "Constituency_Number": "4", 
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "11526"
+},
+{
+    "Candidate_First_Pref_Votes": "7987", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Gildernew", 
+    "Firstname": "Michelle", 
+    "Colour": "#4CAF50", 
+    "Constituency_Name": "Fermanagh and South Tyrone", 
+    "Constituency_Number": "4", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "2427"
 },
 {
     "Candidate_First_Pref_Votes": "7240", 
@@ -454,6 +478,30 @@
     "Constituency_Number": "15", 
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "16581"
+},
+{
+    "Candidate_First_Pref_Votes": "5728", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "McIlveen", 
+    "Firstname": "Michelle", 
+    "Colour": "#FF5722", 
+    "Constituency_Name": "Strangford", 
+    "Constituency_Number": "15", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "12092"
+},
+{
+    "Candidate_First_Pref_Votes": "5323", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Nesbitt", 
+    "Firstname": "Mike", 
+    "Colour": "#03A9F4", 
+    "Constituency_Name": "Strangford", 
+    "Constituency_Number": "15", 
+    "Party_Name": "Ulster Unionist Party", 
+    "Candidate_Id": "302"
 },
 {
     "Candidate_First_Pref_Votes": "5467", 
