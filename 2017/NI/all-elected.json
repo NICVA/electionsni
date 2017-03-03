@@ -16,7 +16,16 @@
 {"Constituency_Name": "Belfast North",
 "Constituency_Number": 10,
 "Elected": [
-]
+{
+    "Candidate_First_Pref_Votes": "4835", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Bradley", 
+    "Firstname": "Paula", 
+    "Constituency_Number": "10", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "11380"
+}]
 },
 {"Constituency_Name": "Belfast South",
 "Constituency_Number": 13,
@@ -348,7 +357,16 @@
 {"Constituency_Name": "North Antrim",
 "Constituency_Number": 9,
 "Elected": [
-]
+{
+    "Candidate_First_Pref_Votes": "6022", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Swann", 
+    "Firstname": "Robin", 
+    "Constituency_Number": "9", 
+    "Party_Name": "Ulster Unionist Party", 
+    "Candidate_Id": "4723"
+}]
 },
 {"Constituency_Name": "North Down",
 "Constituency_Number": 11,

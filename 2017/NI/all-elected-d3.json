@@ -12,6 +12,18 @@
     "Candidate_Id": "2454"
 },
 {
+    "Candidate_First_Pref_Votes": "4835", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Bradley", 
+    "Firstname": "Paula", 
+    "Colour": "#FF5722", 
+    "Constituency_Name": "Belfast North", 
+    "Constituency_Number": "10", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "11380"
+},
+{
     "Candidate_First_Pref_Votes": "7610", 
     "Status": "Elected", 
     "Occurred_On_Count": "1", 
@@ -358,6 +370,18 @@
     "Constituency_Number": "8", 
     "Party_Name": "Sinn Fein", 
     "Candidate_Id": "1856"
+},
+{
+    "Candidate_First_Pref_Votes": "6022", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Swann", 
+    "Firstname": "Robin", 
+    "Colour": "#03A9F4", 
+    "Constituency_Name": "North Antrim", 
+    "Constituency_Number": "9", 
+    "Party_Name": "Ulster Unionist Party", 
+    "Candidate_Id": "4723"
 },
 {
     "Candidate_First_Pref_Votes": "7151", 
