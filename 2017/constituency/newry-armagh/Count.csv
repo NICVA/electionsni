@@ -1,10 +1,10 @@
 Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_Pref_Votes,Transfers,Total_Votes,Status,Occurred_On_Count,Party_Name
-8,11394,1,Cathal,Boylan,,0,,,,Sinn Fein
-8,19696,1,Jackie,Coade,,0,,,,Alliance Party
-8,11395,1,Emmet,Crossan,,0,,,,Citizens Independent Social Thought Alliance
-8,11396,1,Megan,Fearon,,0,,,,Sinn Fein
-8,1872,1,William George,Irwin,,0,,,,Democratic Unionist Party
-8,31,1,Danny,Kennedy,,0,,,,Ulster Unionist Party
-8,6086,1,Justin,McNulty,,0,,,,Social Democratic and Labour Party
-8,1856,1,Conor,Murphy,,0,,,,Sinn Fein
-8,19702,1,Rowan,Tunnicliffe,,0,,,,Green Party
+8,11394,1,Cathal,Boylan,9197,0,9197,,,Sinn Fein
+8,19696,1,Jackie,Coade,1418,0,1418,,,Alliance Party
+8,11395,1,Emmet,Crossan,704,0,704,,,Citizens Independent Social Thought Alliance
+8,11396,1,Megan,Fearon,8881,0,8881,,,Sinn Fein
+8,1872,1,William George,Irwin,9760,0,9760,,,Democratic Unionist Party
+8,31,1,Danny,Kennedy,7256,0,7256,,,Ulster Unionist Party
+8,6086,1,Justin,McNulty,8983,0,8983,,,Social Democratic and Labour Party
+8,1856,1,Conor,Murphy,8454,0,8454,,,Sinn Fein
+8,19702,1,Rowan,Tunnicliffe,265,0,265,,,Green Party

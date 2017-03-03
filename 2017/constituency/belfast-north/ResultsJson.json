@@ -126,7 +126,7 @@
     "Total_Votes": "4056"
 },
 {
-    "Candidate_First_Pref_Votes": "66", 
+    "Candidate_First_Pref_Votes": "5929", 
     "Status": "", 
     "Occurred_On_Count": "", 
     "Surname": "McCausland", 
@@ -137,10 +137,10 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 9, 
-    "Total_Votes": "66"
+    "Total_Votes": "5929"
 },
 {
-    "Candidate_First_Pref_Votes": "5929", 
+    "Candidate_First_Pref_Votes": "66", 
     "Status": "Excluded", 
     "Occurred_On_Count": "1", 
     "Surname": "Millar", 
@@ -151,7 +151,7 @@
     "Count_Number": "1", 
     "Transfers": "0", 
     "id": 10, 
-    "Total_Votes": "5929"
+    "Total_Votes": "66"
 },
 {
     "Candidate_First_Pref_Votes": "711", 

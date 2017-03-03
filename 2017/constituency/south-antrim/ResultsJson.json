@@ -141,8 +141,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "194", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Excluded", 
+    "Occurred_On_Count": "1", 
     "Surname": "Logan", 
     "Firstname": "Mark", 
     "Constituency_Number": "12", 
@@ -323,8 +323,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "194", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Excluded", 
+    "Occurred_On_Count": "1", 
     "Surname": "Logan", 
     "Firstname": "Mark", 
     "Constituency_Number": "12", 

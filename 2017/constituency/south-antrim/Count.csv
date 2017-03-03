@@ -9,7 +9,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 12,13369,1,David RJ,Ford,5278,0,5278,,,Alliance Party
 12,13370,1,Paul,Girvan,5152,0,5152,,,Democratic Unionist Party
 12,4711,1,Declan,Kearney,6891,0,6891,,,Sinn Fein
-12,19721,1,Mark,Logan,194,0,194,,,NI Conservatives
+12,19721,1,Mark,Logan,194,0,194,Excluded,1,NI Conservatives
 12,5390,1,Roisin,Lynch,4024,0,4024,,,Social Democratic and Labour Party
 12,13371,1,David,McMaster,503,0,503,,,Independent
 12,8151,2,Steve,Aiken,6287,39,6326,,,Ulster Unionist Party
@@ -22,6 +22,6 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 12,13369,2,David RJ,Ford,5278,35,5313,,,Alliance Party
 12,13370,2,Paul,Girvan,5152,12,5164,,,Democratic Unionist Party
 12,4711,2,Declan,Kearney,6891,4,6895,,,Sinn Fein
-12,19721,2,Mark,Logan,194,-194,0,,,NI Conservatives
+12,19721,2,Mark,Logan,194,-194,0,Excluded,1,NI Conservatives
 12,5390,2,Roisin,Lynch,4024,11,4035,,,Social Democratic and Labour Party
 12,13371,2,David,McMaster,503,14,517,,,Independent

@@ -8,7 +8,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 10,131,1,Gerry,Kelly,5431,0,5431,,,Sinn Fein
 10,11385,1,Nichola,Mallon,3487,0,3487,,,Social Democratic and Labour Party
 10,11374,1,Nuala,McAllister,4056,0,4056,,,Alliance Party
-10,11375,1,Nelson,McCausland,66,0,66,,,Democratic Unionist Party
-10,19676,1,Adam,Millar,5929,0,5929,Excluded,1,Independent
+10,11375,1,Nelson,McCausland,5929,0,5929,,,Democratic Unionist Party
+10,19676,1,Adam,Millar,66,0,66,Excluded,1,Independent
 10,11378,1,Malachai,O'Hara,711,0,711,Excluded,1,Green Party
 10,6264,1,Gemma,Weir,248,0,248,Excluded,1,Workers Party
