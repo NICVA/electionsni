@@ -1,8 +1,8 @@
 [
 {
     "Candidate_First_Pref_Votes": "6287", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "5", 
     "Surname": "Aiken", 
     "Firstname": "Steve", 
     "Constituency_Number": "12", 
@@ -11,8 +11,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "6891", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "4", 
     "Surname": "Kearney", 
     "Firstname": "Declan", 
     "Constituency_Number": "12", 

@@ -14,7 +14,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 12,13371,1,David,McMaster,503,0,503,,,Independent
 12,8151,2,Steve,Aiken,6287,39,6326,,,Ulster Unionist Party
 12,19681,2,Ivanka,Antova,530,5,535,,,People Before Profit Alliance
-12,19704,2,Eleanor,Bailey,501,3,504,,,Green Party
+12,19704,2,Eleanor,Bailey,501,3,504,Excluded,2,Green Party
 12,6346,2,Richard William,Cairns,1353,16,1369,,,Traditional Unionist Voice
 12,13366,2,Pam,Cameron,4604,9,4613,,,Democratic Unionist Party
 12,13367,2,Trevor,Clarke,4522,18,4540,,,Democratic Unionist Party
@@ -25,3 +25,42 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 12,19721,2,Mark,Logan,194,-194,0,Excluded,1,NI Conservatives
 12,5390,2,Roisin,Lynch,4024,11,4035,,,Social Democratic and Labour Party
 12,13371,2,David,McMaster,503,14,517,,,Independent
+12,8151,3,Steve,Aiken,6287,42,6368,,,Ulster Unionist Party
+12,19681,3,Ivanka,Antova,530,123,658,,,People Before Profit Alliance
+12,19704,3,Eleanor,Bailey,501,-504,0,Excluded,2,Green Party
+12,6346,3,Richard William,Cairns,1353,9,1378,,,Traditional Unionist Voice
+12,13366,3,Pam,Cameron,4604,11,4624,,,Democratic Unionist Party
+12,13367,3,Trevor,Clarke,4522,5,4545,,,Democratic Unionist Party
+12,8153,3,Adrian David,Cochrane-Watson,2505,6,2531,,,Ulster Unionist Party
+12,13369,3,David RJ,Ford,5278,181,5494,,,Alliance Party
+12,13370,3,Paul,Girvan,5152,1,5165,,,Democratic Unionist Party
+12,4711,3,Declan,Kearney,6891,30,6925,,,Sinn Fein
+12,19721,3,Mark,Logan,194,0,0,Excluded,1,NI Conservatives
+12,5390,3,Roisin,Lynch,4024,34,4069,,,Social Democratic and Labour Party
+12,13371,3,David,McMaster,503,46,563,Excluded,2,Independent
+12,8151,4,Steve,Aiken,6287,126,6494,,,Ulster Unionist Party
+12,19681,4,Ivanka,Antova,530,-658,0,Excluded,3,People Before Profit Alliance
+12,19704,4,Eleanor,Bailey,501,0,0,Excluded,2,Green Party
+12,6346,4,Richard William,Cairns,1353,31,1409,Excluded,4,Traditional Unionist Voice
+12,13366,4,Pam,Cameron,4604,20,4644,,,Democratic Unionist Party
+12,13367,4,Trevor,Clarke,4522,14,4559,,,Democratic Unionist Party
+12,8153,4,Adrian David,Cochrane-Watson,2505,52,2583,Excluded,4,Ulster Unionist Party
+12,13369,4,David RJ,Ford,5278,496,5990,,,Alliance Party
+12,13370,4,Paul,Girvan,5152,58,5223,,,Democratic Unionist Party
+12,4711,4,Declan,Kearney,6891,140,7065,Elected,4,Sinn Fein
+12,19721,4,Mark,Logan,194,0,0,Excluded,1,NI Conservatives
+12,5390,4,Roisin,Lynch,4024,160,4229,,,Social Democratic and Labour Party
+12,13371,4,David,McMaster,503,-563,0,Excluded,3,Independent
+12,8151,5,Steve,Aiken,6287,2314,8808,Elected,5,Ulster Unionist Party
+12,19681,5,Ivanka,Antova,530,0,0,Excluded,3,People Before Profit Alliance
+12,19704,5,Eleanor,Bailey,501,0,0,Excluded,2,Green Party
+12,6346,5,Richard William,Cairns,1353,-1409,0,Excluded,4,Traditional Unionist Voice
+12,13366,5,Pam,Cameron,4604,335,4979,,,Democratic Unionist Party
+12,13367,5,Trevor,Clarke,4522,436,4995,,,Democratic Unionist Party
+12,8153,5,Adrian David,Cochrane-Watson,2505,-2583,0,Excluded,4,Ulster Unionist Party
+12,13369,5,David RJ,Ford,5278,232,6222,,,Alliance Party
+12,13370,5,Paul,Girvan,5152,353,5576,,,Democratic Unionist Party
+12,4711,5,Declan,Kearney,6891,0,7065,Elected,4,Sinn Fein
+12,19721,5,Mark,Logan,194,0,0,Excluded,1,NI Conservatives
+12,5390,5,Roisin,Lynch,4024,131,4360,,,Social Democratic and Labour Party
+12,13371,5,David,McMaster,503,0,0,Excluded,3,Independent

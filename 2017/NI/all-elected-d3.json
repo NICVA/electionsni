@@ -252,6 +252,18 @@
     "Candidate_Id": "8154"
 },
 {
+    "Candidate_First_Pref_Votes": "6118", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "2", 
+    "Surname": "Dunne", 
+    "Firstname": "Gordon Mervyn", 
+    "Colour": "#FF5722", 
+    "Constituency_Name": "North Down", 
+    "Constituency_Number": "11", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "11550"
+},
+{
     "Candidate_First_Pref_Votes": "8034", 
     "Status": "Elected", 
     "Occurred_On_Count": "1", 
@@ -277,8 +289,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "6287", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "5", 
     "Surname": "Aiken", 
     "Firstname": "Steve", 
     "Colour": "#03A9F4", 
@@ -289,8 +301,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "6891", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "4", 
     "Surname": "Kearney", 
     "Firstname": "Declan", 
     "Colour": "#4CAF50", 

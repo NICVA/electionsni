@@ -265,6 +265,16 @@
     "Candidate_Id": "8154"
 },
 {
+    "Candidate_First_Pref_Votes": "6118", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "2", 
+    "Surname": "Dunne", 
+    "Firstname": "Gordon Mervyn", 
+    "Constituency_Number": "11", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "11550"
+},
+{
     "Candidate_First_Pref_Votes": "8034", 
     "Status": "Elected", 
     "Occurred_On_Count": "1", 
@@ -290,8 +300,8 @@
 "Elected": [
 {
     "Candidate_First_Pref_Votes": "6287", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "5", 
     "Surname": "Aiken", 
     "Firstname": "Steve", 
     "Constituency_Number": "12", 
@@ -300,8 +310,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "6891", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "4", 
     "Surname": "Kearney", 
     "Firstname": "Declan", 
     "Constituency_Number": "12", 

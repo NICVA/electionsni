@@ -11,3 +11,27 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 11,19715,1,Caoimhe,McNeill,679,0,679,,,Social Democratic and Labour Party
 11,19749,1,Gavan Aloysius,Reynolds,31,0,31,,,Independent
 11,11548,1,Frank,Shivers,641,0,641,,,NI Conservatives
+11,3876,2,Steven,Agnew,5178,42.24,5220.24,,,Green Party
+11,19748,2,Chris,Carter,92,2.2,94.2,,,Independent
+11,8154,2,Alan,Chambers,7151,0,7151,Elected,1,Ulster Unionist Party
+11,6914,2,William,Cudworth,964,65.12,1029.12,,,Ulster Unionist Party
+11,11550,2,Gordon Mervyn,Dunne,6118,1560.88,7678.88,Elected,2,Democratic Unionist Party
+11,7178,2,Alex,Easton,8034,-1744,6290,Elected,1,Democratic Unionist Party
+11,3598,2,Stephen,Farry,7014,0,7014,Elected,1,Alliance Party
+11,19712,2,Melanie,Kennedy,1246,39.82,1285.82,,,Independent
+11,19711,2,Kieran,Maxwell,591,0.22,591.22,,,Sinn Fein
+11,19715,2,Caoimhe,McNeill,679,2.86,681.86,,,Social Democratic and Labour Party
+11,19749,2,Gavan Aloysius,Reynolds,31,1.54,32.54,,,Independent
+11,11548,2,Frank,Shivers,641,13.2,654.2,,,NI Conservatives
+11,3876,3,Steven,Agnew,5178,100.54,5320.78,,,Green Party
+11,19748,3,Chris,Carter,92,21.78,115.98,,,Independent
+11,8154,3,Alan,Chambers,7151,0,7151,Elected,1,Ulster Unionist Party
+11,6914,3,William,Cudworth,964,852.5,1881.62,,,Ulster Unionist Party
+11,11550,3,Gordon Mervyn,Dunne,6118,-1388.88,6290,Elected,2,Democratic Unionist Party
+11,7178,3,Alex,Easton,8034,0,6290,Elected,1,Democratic Unionist Party
+11,3598,3,Stephen,Farry,7014,0,7014,Elected,1,Alliance Party
+11,19712,3,Melanie,Kennedy,1246,85.8,1371.62,,,Independent
+11,19711,3,Kieran,Maxwell,591,0.66,591.88,,,Sinn Fein
+11,19715,3,Caoimhe,McNeill,679,4.4,686.26,,,Social Democratic and Labour Party
+11,19749,3,Gavan Aloysius,Reynolds,31,4.84,37.38,,,Independent
+11,11548,3,Frank,Shivers,641,86.46,740.66,,,NI Conservatives
