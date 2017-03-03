@@ -96,6 +96,30 @@
     "Candidate_Id": "11447"
 },
 {
+    "Candidate_First_Pref_Votes": "8479", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Foster", 
+    "Firstname": "Arlene", 
+    "Colour": "#FF5722", 
+    "Constituency_Name": "Fermanagh and South Tyrone", 
+    "Constituency_Number": "4", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "11526"
+},
+{
+    "Candidate_First_Pref_Votes": "7240", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Eastwood", 
+    "Firstname": "Colum", 
+    "Colour": "#E53935", 
+    "Constituency_Name": "Foyle", 
+    "Constituency_Number": "5", 
+    "Party_Name": "Social Democratic and Labour Party", 
+    "Candidate_Id": "11857"
+},
+{
     "Candidate_First_Pref_Votes": "9205", 
     "Status": "Elected", 
     "Occurred_On_Count": "1", 
