@@ -77,3 +77,16 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 12,19721,6,Mark,Logan,194,0,0,Excluded,1,NI Conservatives
 12,5390,6,Roisin,Lynch,4024,235.52,4595.52,Excluded,6,Social Democratic and Labour Party
 12,13371,6,David,McMaster,503,0,0,Excluded,3,Independent
+12,8151,7,Steve,Aiken,6287,0,7058,Elected,5,Ulster Unionist Party
+12,19681,7,Ivanka,Antova,530,0,0,Excluded,3,People Before Profit Alliance
+12,19704,7,Eleanor,Bailey,501,0,0,Excluded,2,Green Party
+12,6346,7,Richard William,Cairns,1353,0,0,Excluded,4,Traditional Unionist Voice
+12,13366,7,Pam,Cameron,4604,101.8,5458.92,,,Democratic Unionist Party
+12,13367,7,Trevor,Clarke,4522,87,5445.4,,,Democratic Unionist Party
+12,8153,7,Adrian David,Cochrane-Watson,2505,0,0,Excluded,4,Ulster Unionist Party
+12,13369,7,David RJ,Ford,5278,3094,9861.56,Elected,7,Alliance Party
+12,13370,7,Paul,Girvan,5152,73.08,5872.64,,,Democratic Unionist Party
+12,4711,7,Declan,Kearney,6891,0,7065,Elected,4,Sinn Fein
+12,19721,7,Mark,Logan,194,0,0,Excluded,1,NI Conservatives
+12,5390,7,Roisin,Lynch,4024,-4595.52,0,Excluded,6,Social Democratic and Labour Party
+12,13371,7,David,McMaster,503,0,0,Excluded,3,Independent
