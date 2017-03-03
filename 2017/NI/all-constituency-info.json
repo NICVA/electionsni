@@ -27,7 +27,7 @@
     "Constituency_Name": "East Antrim",
     "Constituency_Number": 1,
     "Directory": "east-antrim",
-    "countInfo": {"Valid_Poll": "", "Number_Of_Seats": "5", "Total_Poll": "48518", "Voting_Age_Pop": "70652", "Quota": "", "Constituency_Name": "East Antrim", "Constituency_Number": "1", "Total_Electorate": "62933", "Spoiled": ""}
+    "countInfo": {"Valid_Poll": "", "Number_Of_Seats": "5", "Total_Poll": "", "Voting_Age_Pop": "70652", "Quota": "", "Constituency_Name": "East Antrim", "Constituency_Number": "1", "Total_Electorate": "62933", "Spoiled": ""}
     },
 {
     "Constituency_Name": "East Londonderry",
@@ -57,7 +57,7 @@
     "Constituency_Name": "Mid Ulster",
     "Constituency_Number": 7,
     "Directory": "mid-ulster",
-    "countInfo": {"Valid_Poll": "", "Number_Of_Seats": "5", "Total_Poll": "", "Voting_Age_Pop": "75342", "Quota": "", "Constituency_Name": "Mid Ulster", "Constituency_Number": "7", "Total_Electorate": "69396", "Spoiled": ""}
+    "countInfo": {"Valid_Poll": "", "Number_Of_Seats": "5", "Total_Poll": "50228", "Voting_Age_Pop": "75342", "Quota": "", "Constituency_Name": "Mid Ulster", "Constituency_Number": "7", "Total_Electorate": "69396", "Spoiled": ""}
     },
 {
     "Constituency_Name": "Newry and Armagh",
@@ -69,7 +69,7 @@
     "Constituency_Name": "North Antrim",
     "Constituency_Number": 9,
     "Directory": "north-antrim",
-    "countInfo": {"Valid_Poll": "", "Number_Of_Seats": "5", "Total_Poll": "", "Voting_Age_Pop": "85122", "Quota": "", "Constituency_Name": "North Antrim", "Constituency_Number": "9", "Total_Electorate": "76739", "Spoiled": ""}
+    "countInfo": {"Valid_Poll": "", "Number_Of_Seats": "5", "Total_Poll": "48518", "Voting_Age_Pop": "85122", "Quota": "", "Constituency_Name": "North Antrim", "Constituency_Number": "9", "Total_Electorate": "76739", "Spoiled": ""}
     },
 {
     "Constituency_Name": "North Down",
