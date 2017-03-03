@@ -48,6 +48,18 @@
     "Candidate_Id": "11380"
 },
 {
+    "Candidate_First_Pref_Votes": "5929", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "N\u00ed Chuil\u00edn", 
+    "Firstname": "Car\u00e1l", 
+    "Colour": "#4CAF50", 
+    "Constituency_Name": "Belfast North", 
+    "Constituency_Number": "10", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "11377"
+},
+{
     "Candidate_First_Pref_Votes": "6275", 
     "Status": "Elected", 
     "Occurred_On_Count": "6", 
@@ -58,6 +70,30 @@
     "Constituency_Number": "10", 
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "575"
+},
+{
+    "Candidate_First_Pref_Votes": "5431", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Kelly", 
+    "Firstname": "Gerry", 
+    "Colour": "#4CAF50", 
+    "Constituency_Name": "Belfast North", 
+    "Constituency_Number": "10", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "131"
+},
+{
+    "Candidate_First_Pref_Votes": "5431", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Mallon", 
+    "Firstname": "Nichola", 
+    "Colour": "#E53935", 
+    "Constituency_Name": "Belfast North", 
+    "Constituency_Number": "10", 
+    "Party_Name": "Social Democratic and Labour Party", 
+    "Candidate_Id": "11385"
 },
 {
     "Candidate_First_Pref_Votes": "5595", 
