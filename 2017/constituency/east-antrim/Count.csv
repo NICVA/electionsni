@@ -1,16 +1,16 @@
 Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_Pref_Votes,Transfers,Total_Votes,Status,Occurred_On_Count,Party_Name
-1,7132,1,Roy,Beggs,,0,,,,Ulster Unionist Party
-1,19741,1,Ricky,Best,,0,,,,Independent
-1,4591,1,Stewart,Dickson,,0,,,,Alliance Party
-1,9805,1,Danny,Donnelly,,0,,,,Alliance Party
-1,6991,1,Alan,Dunlop,,0,,,,NI Conservatives
-1,11447,1,David,Hilditch,,0,,,,Democratic Unionist Party
-1,6399,1,Noel,Jordan,,0,,,,UK Independence Party
-1,11448,1,Gordon,Lyons,,0,,,,Democratic Unionist Party
-1,5389,1,Margaret Anne,McKillop,,0,,,,Social Democratic and Labour Party
-1,1061,1,Oliver,McMullan,,0,,,,Sinn Fein
-1,10293,1,Dawn,Patterson,,0,,,,Green Party
-1,19685,1,Stephen,Ross,,0,,,,Democratic Unionist Party
-1,11450,1,Conor,Sheridan,,0,,,,Cross-Community Labour Alternative
-1,8121,1,John,Stewart,,0,,,,Ulster Unionist Party
-1,6985,1,Ruth,Wilson,,0,,,,Traditional Unionist Voice
+1,7132,1,Roy,Beggs,5121,0,5121,,,Ulster Unionist Party
+1,19741,1,Ricky,Best,106,0,106,,,Independent
+1,4591,1,Stewart,Dickson,4179,0,4179,,,Alliance Party
+1,9805,1,Danny,Donnelly,1817,0,1817,,,Alliance Party
+1,6991,1,Alan,Dunlop,152,0,152,,,NI Conservatives
+1,11447,1,David,Hilditch,6000,0,6000,,,Democratic Unionist Party
+1,6399,1,Noel,Jordan,1579,0,1579,,,UK Independence Party
+1,11448,1,Gordon,Lyons,3851,0,3851,,,Democratic Unionist Party
+1,5389,1,Margaret Anne,McKillop,1524,0,1524,,,Social Democratic and Labour Party
+1,1061,1,Oliver,McMullan,3701,0,3701,,,Sinn Fein
+1,10293,1,Dawn,Patterson,777,0,777,,,Green Party
+1,19685,1,Stephen,Ross,3313,0,3313,,,Democratic Unionist Party
+1,11450,1,Conor,Sheridan,393,0,393,,,Cross-Community Labour Alternative
+1,8121,1,John,Stewart,3377,0,3377,,,Ulster Unionist Party
+1,6985,1,Ruth,Wilson,1534,0,1534,,,Traditional Unionist Voice
