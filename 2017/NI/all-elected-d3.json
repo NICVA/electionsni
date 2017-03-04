@@ -1,8 +1,8 @@
 [
 {
     "Candidate_First_Pref_Votes": "5275", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "9", 
     "Surname": "Allen", 
     "Firstname": "Andy", 
     "Colour": "#03A9F4", 
@@ -25,8 +25,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "5059", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "8", 
     "Surname": "Lyttle", 
     "Firstname": "Chris", 
     "Colour": "#FDD835", 
@@ -385,8 +385,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "5975", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "6", 
     "Surname": "Middleton", 
     "Firstname": "Gary", 
     "Colour": "#FF5722", 

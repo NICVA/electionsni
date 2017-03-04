@@ -105,9 +105,37 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 2,13035,8,Andrew,Girvin,917,0,0,Excluded,5,Traditional Unionist Voice
 2,13037,8,John,Kyle,2658,198.51,3148.79,,,Progressive Unionist Party
 2,2454,8,Naomi,Long,7610,0,6727,Elected,1,Alliance Party
-2,13038,8,Chris,Lyttle,5059,901,7268.87,,,Alliance Party
+2,13038,8,Chris,Lyttle,5059,901,7268.87,Elected,8,Alliance Party
 2,19746,8,Jordy,McKeag,84,0,0,Excluded,2,Independent
-2,19699,8,Georgina,Milne,1447,-208.65,1872,Excluded,7,Green Party
+2,19699,8,Georgina,Milne,1447,0,2080.65,Excluded,7,Green Party
 2,13040,8,Robin,Newton,4729,25.11,4890.72,,,Democratic Unionist Party
 2,19680,8,Máiréad,O'Donnell,1173,0,0,Excluded,6,Sinn Fein
 2,13041,8,Courtney,Robinson,442,0,0,Excluded,4,Cross-Community Labour Alternative
+2,8116,9,Andy,Allen,5275,1209,7257.62,Elected,9,Ulster Unionist Party
+2,19719,9,Sheila,Bodel,275,0,0,Excluded,4,NI Conservatives
+2,13032,9,Joanne,Bunting,484,46.55,6321.56,,,Democratic Unionist Party
+2,19687,9,David,Douglas,395.52,27.33,4627.06,,,Democratic Unionist Party
+2,19745,9,Séamas,de Faoite,250,0,0,Excluded,3,Social Democratic and Labour Party
+2,13035,9,Andrew,Girvin,917,0,0,Excluded,5,Traditional Unionist Voice
+2,13037,9,John,Kyle,-198.51,198.51,3347.3,,,Progressive Unionist Party
+2,2454,9,Naomi,Long,7610,0,6727,Elected,1,Alliance Party
+2,13038,9,Chris,Lyttle,5059,0,7268.87,Elected,8,Alliance Party
+2,19746,9,Jordy,McKeag,84,0,0,Excluded,2,Independent
+2,19699,9,Georgina,Milne,1447,-2080.65,0,Excluded,7,Green Party
+2,13040,9,Robin,Newton,4729,377.54,5268.26,,,Democratic Unionist Party
+2,19680,9,Máiréad,O'Donnell,1173,0,0,Excluded,6,Sinn Fein
+2,13041,9,Courtney,Robinson,442,0,0,Excluded,4,Cross-Community Labour Alternative
+2,8116,10,Andy,Allen,5275,0,7257.62,Elected,9,Ulster Unionist Party
+2,19719,10,Sheila,Bodel,275,0,0,Excluded,4,NI Conservatives
+2,13032,10,Joanne,Bunting,484,0,6321.56,,,Democratic Unionist Party
+2,19687,10,David,Douglas,395.52,0,4627.06,,,Democratic Unionist Party
+2,19745,10,Séamas,de Faoite,250,0,0,Excluded,3,Social Democratic and Labour Party
+2,13035,10,Andrew,Girvin,917,0,0,Excluded,5,Traditional Unionist Voice
+2,13037,10,John,Kyle,-198.51,0,3347.3,,,Progressive Unionist Party
+2,2454,10,Naomi,Long,7610,0,6727,Elected,1,Alliance Party
+2,13038,10,Chris,Lyttle,5059,-541.87,6727,Elected,8,Alliance Party
+2,19746,10,Jordy,McKeag,84,0,0,Excluded,2,Independent
+2,19699,10,Georgina,Milne,1447,0,0,Excluded,7,Green Party
+2,13040,10,Robin,Newton,4729,0,5268.26,,,Democratic Unionist Party
+2,19680,10,Máiréad,O'Donnell,1173,0,0,Excluded,6,Sinn Fein
+2,13041,10,Courtney,Robinson,442,0,0,Excluded,4,Cross-Community Labour Alternative

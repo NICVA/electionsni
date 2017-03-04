@@ -519,8 +519,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "1124", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "4", 
     "Surname": "Cavanagh", 
     "Firstname": "Colm", 
     "Constituency_Number": "5", 
@@ -687,8 +687,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "1124", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "4", 
     "Surname": "Cavanagh", 
     "Firstname": "Colm", 
     "Constituency_Number": "5", 
@@ -697,7 +697,7 @@
     "Count_Number": "5", 
     "Transfers": "0", 
     "id": 49, 
-    "Total_Votes": "1295.22"
+    "Total_Votes": "0"
 },
 {
     "Candidate_First_Pref_Votes": "242", 
@@ -723,9 +723,9 @@
     "Party_Name": "Social Democratic and Labour Party", 
     "Candidate_Id": "19640", 
     "Count_Number": "5", 
-    "Transfers": "8413.68", 
+    "Transfers": "1033", 
     "id": 51, 
-    "Total_Votes": "7380.68"
+    "Total_Votes": "8413.68"
 },
 {
     "Candidate_First_Pref_Votes": "7240", 
@@ -739,7 +739,7 @@
     "Count_Number": "5", 
     "Transfers": "0", 
     "id": 52, 
-    "Total_Votes": "7595.3"
+    "Total_Votes": "7595"
 },
 {
     "Candidate_First_Pref_Votes": "1660", 
@@ -781,7 +781,7 @@
     "Count_Number": "5", 
     "Transfers": "0", 
     "id": 55, 
-    "Total_Votes": "7437"
+    "Total_Votes": "0"
 },
 {
     "Candidate_First_Pref_Votes": "4760", 
@@ -793,9 +793,9 @@
     "Party_Name": "People Before Profit Alliance", 
     "Candidate_Id": "2294", 
     "Count_Number": "5", 
-    "Transfers": "5922.16", 
+    "Transfers": "630.53", 
     "id": 56, 
-    "Total_Votes": "5291.63"
+    "Total_Votes": "5922.16"
 },
 {
     "Candidate_First_Pref_Votes": "7145", 
@@ -809,7 +809,7 @@
     "Count_Number": "5", 
     "Transfers": "0", 
     "id": 57, 
-    "Total_Votes": "7437"
+    "Total_Votes": "0"
 },
 {
     "Candidate_First_Pref_Votes": "44", 
@@ -835,8 +835,176 @@
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "7209", 
     "Count_Number": "5", 
-    "Transfers": "6902.37", 
+    "Transfers": "894.28", 
     "id": 59, 
-    "Total_Votes": "6008.09"
+    "Total_Votes": "6902.37"
+},
+{
+    "Candidate_First_Pref_Votes": "77", 
+    "Status": "Excluded", 
+    "Occurred_On_Count": "3", 
+    "Surname": "Canning", 
+    "Firstname": "Stuart", 
+    "Constituency_Number": "5", 
+    "Party_Name": "NI Conservatives", 
+    "Candidate_Id": "7656", 
+    "Count_Number": "6", 
+    "Transfers": "0", 
+    "id": 60, 
+    "Total_Votes": "0"
+},
+{
+    "Candidate_First_Pref_Votes": "1124", 
+    "Status": "Excluded", 
+    "Occurred_On_Count": "4", 
+    "Surname": "Cavanagh", 
+    "Firstname": "Colm", 
+    "Constituency_Number": "5", 
+    "Party_Name": "Alliance Party", 
+    "Candidate_Id": "19694", 
+    "Count_Number": "6", 
+    "Transfers": "0", 
+    "id": 61, 
+    "Total_Votes": "0"
+},
+{
+    "Candidate_First_Pref_Votes": "242", 
+    "Status": "Excluded", 
+    "Occurred_On_Count": "3", 
+    "Surname": "Downey", 
+    "Firstname": "Shannon", 
+    "Constituency_Number": "5", 
+    "Party_Name": "Green Party", 
+    "Candidate_Id": "19701", 
+    "Count_Number": "6", 
+    "Transfers": "0", 
+    "id": 62, 
+    "Total_Votes": "0"
+},
+{
+    "Candidate_First_Pref_Votes": "6948", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "5", 
+    "Surname": "Durkan", 
+    "Firstname": "Mark H.", 
+    "Constituency_Number": "5", 
+    "Party_Name": "Social Democratic and Labour Party", 
+    "Candidate_Id": "19640", 
+    "Count_Number": "6", 
+    "Transfers": "-976.68", 
+    "id": 63, 
+    "Total_Votes": "7437"
+},
+{
+    "Candidate_First_Pref_Votes": "7240", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "3", 
+    "Surname": "Eastwood", 
+    "Firstname": "Colum", 
+    "Constituency_Number": "5", 
+    "Party_Name": "Social Democratic and Labour Party", 
+    "Candidate_Id": "11857", 
+    "Count_Number": "6", 
+    "Transfers": "0", 
+    "id": 64, 
+    "Total_Votes": "7595"
+},
+{
+    "Candidate_First_Pref_Votes": "1660", 
+    "Status": "Excluded", 
+    "Occurred_On_Count": "4", 
+    "Surname": "Kee", 
+    "Firstname": "Julia", 
+    "Constituency_Number": "5", 
+    "Party_Name": "Ulster Unionist Party", 
+    "Candidate_Id": "6404", 
+    "Count_Number": "6", 
+    "Transfers": "0", 
+    "id": 65, 
+    "Total_Votes": "0"
+},
+{
+    "Candidate_First_Pref_Votes": "196", 
+    "Status": "Excluded", 
+    "Occurred_On_Count": "3", 
+    "Surname": "Lindsay", 
+    "Firstname": "John", 
+    "Constituency_Number": "5", 
+    "Party_Name": "Citizens Independent Social Thought Alliance", 
+    "Candidate_Id": "11859", 
+    "Count_Number": "6", 
+    "Transfers": "0", 
+    "id": 66, 
+    "Total_Votes": "0"
+},
+{
+    "Candidate_First_Pref_Votes": "9205", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "1", 
+    "Surname": "McCallion", 
+    "Firstname": "Elisha", 
+    "Constituency_Number": "5", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "19678", 
+    "Count_Number": "6", 
+    "Transfers": "0", 
+    "id": 67, 
+    "Total_Votes": "0"
+},
+{
+    "Candidate_First_Pref_Votes": "4760", 
+    "Status": "Excluded", 
+    "Occurred_On_Count": "6", 
+    "Surname": "McCann", 
+    "Firstname": "Eamonn", 
+    "Constituency_Number": "5", 
+    "Party_Name": "People Before Profit Alliance", 
+    "Candidate_Id": "2294", 
+    "Count_Number": "6", 
+    "Transfers": "451", 
+    "id": 68, 
+    "Total_Votes": "6373.16"
+},
+{
+    "Candidate_First_Pref_Votes": "7145", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "2", 
+    "Surname": "McCartney", 
+    "Firstname": "Raymond", 
+    "Constituency_Number": "5", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "11860", 
+    "Count_Number": "6", 
+    "Transfers": "0", 
+    "id": 69, 
+    "Total_Votes": "0"
+},
+{
+    "Candidate_First_Pref_Votes": "44", 
+    "Status": "Excluded", 
+    "Occurred_On_Count": "3", 
+    "Surname": "McGuinness", 
+    "Firstname": "Arthur", 
+    "Constituency_Number": "5", 
+    "Party_Name": "Independent", 
+    "Candidate_Id": "19742", 
+    "Count_Number": "6", 
+    "Transfers": "0", 
+    "id": 70, 
+    "Total_Votes": "0"
+},
+{
+    "Candidate_First_Pref_Votes": "5975", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "6", 
+    "Surname": "Middleton", 
+    "Firstname": "Gary", 
+    "Constituency_Number": "5", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "7209", 
+    "Count_Number": "6", 
+    "Transfers": "134", 
+    "id": 71, 
+    "Total_Votes": "7036.37"
 }
 ]}}

@@ -1,8 +1,8 @@
 [
 {
     "Candidate_First_Pref_Votes": "5275", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "9", 
     "Surname": "Allen", 
     "Firstname": "Andy", 
     "Constituency_Number": "2", 
@@ -21,8 +21,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "5059", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "8", 
     "Surname": "Lyttle", 
     "Firstname": "Chris", 
     "Constituency_Number": "2", 
