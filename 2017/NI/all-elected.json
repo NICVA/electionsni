@@ -111,16 +111,6 @@
 "Constituency_Number": 13,
 "Elected": [
 {
-    "Candidate_First_Pref_Votes": "4247", 
-    "Status": "Elected", 
-    "Occurred_On_Count": "9", 
-    "Surname": "Bailey", 
-    "Firstname": "Clare", 
-    "Constituency_Number": "13", 
-    "Party_Name": "Green Party", 
-    "Candidate_Id": "5824"
-},
-{
     "Candidate_First_Pref_Votes": "5595", 
     "Status": "Elected", 
     "Occurred_On_Count": "6", 
@@ -274,8 +264,8 @@
 "Elected": [
 {
     "Candidate_First_Pref_Votes": "5851", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "12", 
     "Surname": "Archibald", 
     "Firstname": "Caoimhe", 
     "Constituency_Number": "3", 
@@ -294,7 +284,7 @@
 },
 {
     "Candidate_First_Pref_Votes": "3319", 
-    "Status": "", 
+    "Status": "Elected", 
     "Occurred_On_Count": "", 
     "Surname": "Dallat", 
     "Firstname": "John", 
@@ -510,8 +500,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "6419", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "5", 
     "Surname": "McGlone", 
     "Firstname": "Patsy", 
     "Constituency_Number": "7", 
@@ -790,8 +780,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "5110", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "7", 
     "Surname": "McGrath", 
     "Firstname": "Colin", 
     "Constituency_Number": "14", 
@@ -834,8 +824,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "5728", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "9", 
     "Surname": "McIlveen", 
     "Firstname": "Michelle", 
     "Constituency_Number": "15", 
@@ -844,8 +834,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "5323", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "9", 
     "Surname": "Nesbitt", 
     "Firstname": "Mike", 
     "Constituency_Number": "15", 
@@ -868,8 +858,8 @@
 "Elected": [
 {
     "Candidate_First_Pref_Votes": "5467", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "5", 
     "Surname": "Beattie", 
     "Firstname": "Doug", 
     "Constituency_Number": "16", 
@@ -878,8 +868,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "7745", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "4", 
     "Surname": "Buckley", 
     "Firstname": "Jonathan", 
     "Constituency_Number": "16", 
@@ -888,8 +878,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "5127", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "6", 
     "Surname": "Kelly", 
     "Firstname": "Dolores", 
     "Constituency_Number": "16", 
@@ -908,8 +898,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "8220", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "5", 
     "Surname": "O'Dowd", 
     "Firstname": "John", 
     "Constituency_Number": "16", 
@@ -942,8 +932,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "6034", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "5", 
     "Surname": "McAleer", 
     "Firstname": "Declan", 
     "Constituency_Number": "18", 
@@ -952,8 +942,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "6283", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "5", 
     "Surname": "McCrossan", 
     "Firstname": "Daniel", 
     "Constituency_Number": "18", 

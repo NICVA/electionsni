@@ -149,18 +149,18 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 3,12086,10,George,Robinson,4715,0,7801,Elected,9,Democratic Unionist Party
 3,12087,10,Claire,Sugden,4918,0,7555,Elected,8,Independent
 3,12088,10,Russell,Watton,879,0,0,Excluded,3,Progressive Unionist Party
-3,5979,11,Caoimhe,Archibald,5851,8,6328,,,Sinn Fein
+3,5979,11,Caoimhe,Archibald,5851,10,6330,Elected,12,Sinn Fein
 3,12079,11,Jordan,Armstrong,1038,0,0,Excluded,4,Traditional Unionist Voice
 3,12080,11,Maurice,Bradley,5444,0,6979,Elected,9,Democratic Unionist Party
 3,19750,11,Gavin,Campbell,492,0,0,Excluded,2,People Before Profit Alliance
-3,19682,11,John,Dallat,3319,266,5709,,,Social Democratic and Labour Party
+3,19682,11,John,Dallat,3319,648,6091,Elected,,Social Democratic and Labour Party
 3,19700,11,Anthony,Flynn,305,0,0,Excluded,2,Green Party
 3,4013,11,David,Harding,219,0,0,Excluded,1,NI Conservatives
 3,6403,11,William,McCandless,2814,0,0,Excluded,7,Ulster Unionist Party
 3,11861,11,Chris,McCaw,1841,0,0,Excluded,6,Alliance Party
 3,12083,11,Adrian,McQuillan,3881,0,0,Excluded,8,Democratic Unionist Party
 3,7078,11,Gerry,Mullan,1204,0,0,Excluded,5,Independent
-3,12084,11,Cathal,óhOisín,4953,25,5236,,,Sinn Fein
+3,12084,11,Cathal,óhOisín,4953,27,5238,Excluded,12,Sinn Fein
 3,12086,11,George,Robinson,4715,-822,6979,Elected,9,Democratic Unionist Party
 3,12087,11,Claire,Sugden,4918,0,7555,Elected,8,Independent
 3,12088,11,Russell,Watton,879,0,0,Excluded,3,Progressive Unionist Party

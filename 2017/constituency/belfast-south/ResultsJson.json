@@ -1569,8 +1569,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "4247", 
-    "Status": "Elected", 
-    "Occurred_On_Count": "9", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
     "Surname": "Bailey", 
     "Firstname": "Clare", 
     "Constituency_Number": "13", 
@@ -1639,8 +1639,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "3863", 
-    "Status": "Excluded", 
-    "Occurred_On_Count": "9", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
     "Surname": "Henderson", 
     "Firstname": "Micheal", 
     "Constituency_Number": "13", 

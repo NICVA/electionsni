@@ -2101,17 +2101,17 @@
 },
 {
     "Candidate_First_Pref_Votes": "5851", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "12", 
     "Surname": "Archibald", 
     "Firstname": "Caoimhe", 
     "Constituency_Number": "3", 
     "Party_Name": "Sinn Fein", 
     "Candidate_Id": "5979", 
     "Count_Number": "11", 
-    "Transfers": "8", 
+    "Transfers": "10", 
     "id": 150, 
-    "Total_Votes": "6328"
+    "Total_Votes": "6330"
 },
 {
     "Candidate_First_Pref_Votes": "1038", 
@@ -2157,7 +2157,7 @@
 },
 {
     "Candidate_First_Pref_Votes": "3319", 
-    "Status": "", 
+    "Status": "Elected", 
     "Occurred_On_Count": "", 
     "Surname": "Dallat", 
     "Firstname": "John", 
@@ -2165,9 +2165,9 @@
     "Party_Name": "Social Democratic and Labour Party", 
     "Candidate_Id": "19682", 
     "Count_Number": "11", 
-    "Transfers": "266", 
+    "Transfers": "648", 
     "id": 154, 
-    "Total_Votes": "5709"
+    "Total_Votes": "6091"
 },
 {
     "Candidate_First_Pref_Votes": "305", 
@@ -2255,17 +2255,17 @@
 },
 {
     "Candidate_First_Pref_Votes": "4953", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Excluded", 
+    "Occurred_On_Count": "12", 
     "Surname": "\u00f3hOis\u00edn", 
     "Firstname": "Cathal", 
     "Constituency_Number": "3", 
     "Party_Name": "Sinn Fein", 
     "Candidate_Id": "12084", 
     "Count_Number": "11", 
-    "Transfers": "25", 
+    "Transfers": "27", 
     "id": 161, 
-    "Total_Votes": "5236"
+    "Total_Votes": "5238"
 },
 {
     "Candidate_First_Pref_Votes": "4715", 

@@ -1,8 +1,8 @@
 [
 {
     "Candidate_First_Pref_Votes": "5851", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "12", 
     "Surname": "Archibald", 
     "Firstname": "Caoimhe", 
     "Constituency_Number": "3", 
@@ -21,7 +21,7 @@
 },
 {
     "Candidate_First_Pref_Votes": "3319", 
-    "Status": "", 
+    "Status": "Elected", 
     "Occurred_On_Count": "", 
     "Surname": "Dallat", 
     "Firstname": "John", 

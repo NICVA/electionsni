@@ -14,3 +14,63 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 18,11345,1,Barry,McElduff,7573,0,7573,Elected,1,Sinn Fein
 18,19675,1,Roisin,McMackin,85,0,85,,,Independent
 18,7348,1,Susan-Anne,White,41,0,41,,,Independent
+18,11342,2,Michaela,Boyle,7714,0,7714,Elected,1,Sinn Fein
+18,6920,2,Barry,Brown,373,7.6,380.6,,,Citizens Independent Social Thought Alliance
+18,1871,2,Thomas,Buchanan,9064,-1676,7388,Elected,1,Democratic Unionist Party
+18,19733,2,Charlie,Chittick,851,577.79,1428.79,,,Traditional Unionist Voice
+18,19689,2,Alicia,Clarke,3654,1034.93,4688.93,,,Ulster Unionist Party
+18,6365,2,Stephen,Donnelly,1252,7.98,1259.98,,,Alliance Party
+18,11347,2,Corey,French,98,0.57,98.57,,,Independent
+18,11346,2,Roger,Lomas,27,4.75,31.75,,,NI Conservatives
+18,11343,2,Declan,McAleer,6034,0.57,6034.57,,,Sinn Fein
+18,11337,2,Sorcha,McAnespy,864,2.47,866.47,,,Independent
+18,5184,2,Ciaran,McClean,412,3.99,415.99,,,Green Party
+18,5185,2,Daniel,McCrossan,6283,17.1,6300.1,,,Social Democratic and Labour Party
+18,11345,2,Barry,McElduff,7573,0,7573,Elected,1,Sinn Fein
+18,19675,2,Roisin,McMackin,85,0.76,85.76,,,Independent
+18,7348,2,Susan-Anne,White,41,4.18,45.18,,,Independent
+18,11342,3,Michaela,Boyle,7714,-326,7388,Elected,1,Sinn Fein
+18,6920,3,Barry,Brown,373,3.68,384.28,,,Citizens Independent Social Thought Alliance
+18,1871,3,Thomas,Buchanan,9064,0,7388,Elected,1,Democratic Unionist Party
+18,19733,3,Charlie,Chittick,851,0.16,1428.95,,,Traditional Unionist Voice
+18,19689,3,Alicia,Clarke,3654,0.56,4689.49,,,Ulster Unionist Party
+18,6365,3,Stephen,Donnelly,1252,3.76,1263.74,,,Alliance Party
+18,11347,3,Corey,French,98,2.92,101.49,,,Independent
+18,11346,3,Roger,Lomas,27,0.4,32.15,,,NI Conservatives
+18,11343,3,Declan,McAleer,6034,254.76,6289.33,,,Sinn Fein
+18,11337,3,Sorcha,McAnespy,864,4.08,870.55,,,Independent
+18,5184,3,Ciaran,McClean,412,1.32,417.31,,,Green Party
+18,5185,3,Daniel,McCrossan,6283,33.24,6333.34,,,Social Democratic and Labour Party
+18,11345,3,Barry,McElduff,7573,0,7573,Elected,1,Sinn Fein
+18,19675,3,Roisin,McMackin,85,0.28,86.04,,,Independent
+18,7348,3,Susan-Anne,White,41,0.04,45.22,,,Independent
+18,11342,4,Michaela,Boyle,7714,0,7388,Elected,1,Sinn Fein
+18,6920,4,Barry,Brown,373,1.14,385.42,,,Citizens Independent Social Thought Alliance
+18,1871,4,Thomas,Buchanan,9064,0,7388,Elected,1,Democratic Unionist Party
+18,19733,4,Charlie,Chittick,851,0.02,1428.97,Excluded,4,Traditional Unionist Voice
+18,19689,4,Alicia,Clarke,3654,0.24,4689.73,,,Ulster Unionist Party
+18,6365,4,Stephen,Donnelly,1252,1.86,1265.6,Excluded,4,Alliance Party
+18,11347,4,Corey,French,98,0.07,101.56,Excluded,4,Independent
+18,11346,4,Roger,Lomas,27,0.04,32.19,Excluded,4,NI Conservatives
+18,11343,4,Declan,McAleer,6034,132,6421.33,,,Sinn Fein
+18,11337,4,Sorcha,McAnespy,864,4.38,874.93,Excluded,4,Independent
+18,5184,4,Ciaran,McClean,412,0.88,418.19,Excluded,4,Green Party
+18,5185,4,Daniel,McCrossan,6283,9.26,6342.6,,,Social Democratic and Labour Party
+18,11345,4,Barry,McElduff,7573,-185,7388,Elected,1,Sinn Fein
+18,19675,4,Roisin,McMackin,85,0.44,86.48,Excluded,4,Independent
+18,7348,4,Susan-Anne,White,41,0.06,45.28,Excluded,4,Independent
+18,11342,5,Michaela,Boyle,7714,0,7388,Elected,1,Sinn Fein
+18,6920,5,Barry,Brown,373,0,385.42,,,Citizens Independent Social Thought Alliance
+18,1871,5,Thomas,Buchanan,9064,0,7388,Elected,1,Democratic Unionist Party
+18,19733,5,Charlie,Chittick,851,0,1428.97,Excluded,4,Traditional Unionist Voice
+18,19689,5,Alicia,Clarke,3654,1584.81,6274.54,Excluded,5,Ulster Unionist Party
+18,6365,5,Stephen,Donnelly,1252,0,1265.6,Excluded,4,Alliance Party
+18,11347,5,Corey,French,98,0,101.56,Excluded,4,Independent
+18,11346,5,Roger,Lomas,27,0,32.19,Excluded,4,NI Conservatives
+18,11343,5,Declan,McAleer,6034,613.66,7034.99,Elected,5,Sinn Fein
+18,11337,5,Sorcha,McAnespy,864,0,874.93,Excluded,4,Independent
+18,5184,5,Ciaran,McClean,412,0,418.19,Excluded,4,Green Party
+18,5185,5,Daniel,McCrossan,6283,1339,7681.6,Elected,5,Social Democratic and Labour Party
+18,11345,5,Barry,McElduff,7573,0,7388,Elected,1,Sinn Fein
+18,19675,5,Roisin,McMackin,85,0,86.48,Excluded,4,Independent
+18,7348,5,Susan-Anne,White,41,0,45.28,Excluded,4,Independent
