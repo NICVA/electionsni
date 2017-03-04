@@ -23,15 +23,63 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 9,19695,2,Patricia,O'Lynn,2616,39,2655,,,Alliance Party
 9,12757,2,Mervyn,Storey,6857,6,6863,,,Democratic Unionist Party
 9,4723,2,Robin,Swann,6022,10,6032,,,Ulster Unionist Party
-9,2134,3,Jim,Allister,6214,0,6215,,,Traditional Unionist Voice
-9,19703,3,Mark,Bailey,530,0,547,,,Green Party
-9,19714,3,Monica,Digney,435,0,454,Excluded,2,Independent
-9,12750,3,Connor,Duncan,3519,0,3527,,,Social Democratic and Labour Party
-9,12751,3,Paul,Frew,6975,0,6977,,,Democratic Unionist Party
-9,5985,3,Timothy,Gaston,1505,0,1506,,,Traditional Unionist Voice
-9,12753,3,Phillip,Logan,5708,0,5709,,,Democratic Unionist Party
+9,2134,3,Jim,Allister,6214,14,6229,,,Traditional Unionist Voice
+9,19703,3,Mark,Bailey,530,33,580,Excluded,3,Green Party
+9,19714,3,Monica,Digney,435,-454,0,Excluded,2,Independent
+9,12750,3,Connor,Duncan,3519,138,3665,,,Social Democratic and Labour Party
+9,12751,3,Paul,Frew,6975,7,6984,,,Democratic Unionist Party
+9,5985,3,Timothy,Gaston,1505,3,1509,Excluded,3,Traditional Unionist Voice
+9,12753,3,Phillip,Logan,5708,2,5711,,,Democratic Unionist Party
 9,19725,3,Adam,McBride,113,0,0,Excluded,1,Independent
-9,19673,3,Philip,McGuigan,7600,0,7601,,,Sinn Fein
-9,19695,3,Patricia,O'Lynn,2616,0,2655,,,Alliance Party
-9,12757,3,Mervyn,Storey,6857,0,6863,,,Democratic Unionist Party
-9,4723,3,Robin,Swann,6022,0,6032,,,Ulster Unionist Party
+9,19673,3,Philip,McGuigan,7600,128,7729,,,Sinn Fein
+9,19695,3,Patricia,O'Lynn,2616,66,2721,,,Alliance Party
+9,12757,3,Mervyn,Storey,6857,5,6868,,,Democratic Unionist Party
+9,4723,3,Robin,Swann,6022,17,6049,,,Ulster Unionist Party
+9,2134,4,Jim,Allister,6214,1335,7564,,,Traditional Unionist Voice
+9,19703,4,Mark,Bailey,530,-580,0,Excluded,3,Green Party
+9,19714,4,Monica,Digney,435,0,0,Excluded,2,Independent
+9,12750,4,Connor,Duncan,3519,94,3759,,,Social Democratic and Labour Party
+9,12751,4,Paul,Frew,6975,71,7055,,,Democratic Unionist Party
+9,5985,4,Timothy,Gaston,1505,-1509,0,Excluded,3,Traditional Unionist Voice
+9,12753,4,Phillip,Logan,5708,-2,5709,,,Democratic Unionist Party
+9,19725,4,Adam,McBride,113,0,0,Excluded,1,Independent
+9,19673,4,Philip,McGuigan,7600,40,7769,,,Sinn Fein
+9,19695,4,Patricia,O'Lynn,2616,309,3030,Excluded,4,Alliance Party
+9,12757,4,Mervyn,Storey,6857,28,6896,,,Democratic Unionist Party
+9,4723,4,Robin,Swann,6022,78,6127,,,Ulster Unionist Party
+9,2134,5,Jim,Allister,6214,115,7679,,,Traditional Unionist Voice
+9,19703,5,Mark,Bailey,530,0,0,Excluded,3,Green Party
+9,19714,5,Monica,Digney,435,0,0,Excluded,2,Independent
+9,12750,5,Connor,Duncan,3519,1233,4992,Excluded,5,Social Democratic and Labour Party
+9,12751,5,Paul,Frew,6975,80,7135,,,Democratic Unionist Party
+9,5985,5,Timothy,Gaston,1505,0,0,Excluded,3,Traditional Unionist Voice
+9,12753,5,Phillip,Logan,5708,101,5810,,,Democratic Unionist Party
+9,19725,5,Adam,McBride,113,0,0,Excluded,1,Independent
+9,19673,5,Philip,McGuigan,7600,191,7960,,,Sinn Fein
+9,19695,5,Patricia,O'Lynn,2616,-3030,0,Excluded,4,Alliance Party
+9,12757,5,Mervyn,Storey,6857,69,6965,,,Democratic Unionist Party
+9,4723,5,Robin,Swann,6022,839,6966,,,Ulster Unionist Party
+9,2134,6,Jim,Allister,6214,155,7834,,,Traditional Unionist Voice
+9,19703,6,Mark,Bailey,530,0,0,Excluded,3,Green Party
+9,19714,6,Monica,Digney,435,0,0,Excluded,2,Independent
+9,12750,6,Connor,Duncan,3519,-4992,0,Excluded,5,Social Democratic and Labour Party
+9,12751,6,Paul,Frew,6975,64,7199,,,Democratic Unionist Party
+9,5985,6,Timothy,Gaston,1505,0,0,Excluded,3,Traditional Unionist Voice
+9,12753,6,Phillip,Logan,5708,30,5840,,,Democratic Unionist Party
+9,19725,6,Adam,McBride,113,0,0,Excluded,1,Independent
+9,19673,6,Philip,McGuigan,7600,1820,9780,Elected,6,Sinn Fein
+9,19695,6,Patricia,O'Lynn,2616,0,0,Excluded,4,Alliance Party
+9,12757,6,Mervyn,Storey,6857,48,7013,,,Democratic Unionist Party
+9,4723,6,Robin,Swann,6022,1447,8413,Elected,6,Ulster Unionist Party
+9,2134,7,Jim,Allister,6214,155,7989,Elected,7,Traditional Unionist Voice
+9,19703,7,Mark,Bailey,530,0,0,Excluded,3,Green Party
+9,19714,7,Monica,Digney,435,0,0,Excluded,2,Independent
+9,12750,7,Connor,Duncan,3519,0,0,Excluded,5,Social Democratic and Labour Party
+9,12751,7,Paul,Frew,6975,32,7231,Elected,7,Democratic Unionist Party
+9,5985,7,Timothy,Gaston,1505,0,0,Excluded,3,Traditional Unionist Voice
+9,12753,7,Phillip,Logan,5708,20,5860,Excluded,7,Democratic Unionist Party
+9,19725,7,Adam,McBride,113,0,0,Excluded,1,Independent
+9,19673,7,Philip,McGuigan,7600,-1764,8016,Elected,6,Sinn Fein
+9,19695,7,Patricia,O'Lynn,2616,0,0,Excluded,4,Alliance Party
+9,12757,7,Mervyn,Storey,6857,53,7066,Elected,7,Democratic Unionist Party
+9,4723,7,Robin,Swann,6022,0,8413,Elected,6,Ulster Unionist Party

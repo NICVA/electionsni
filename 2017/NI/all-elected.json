@@ -14,13 +14,23 @@
 },
 {
     "Candidate_First_Pref_Votes": "484", 
-    "Status": "", 
+    "Status": "Elected", 
     "Occurred_On_Count": "", 
     "Surname": "Bunting", 
     "Firstname": "Joanne", 
     "Constituency_Number": "2", 
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "13032"
+},
+{
+    "Candidate_First_Pref_Votes": "-198.51", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "10", 
+    "Surname": "Kyle", 
+    "Firstname": "John", 
+    "Constituency_Number": "2", 
+    "Party_Name": "Progressive Unionist Party", 
+    "Candidate_Id": "13037"
 },
 {
     "Candidate_First_Pref_Votes": "7610", 
@@ -44,8 +54,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "4729", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "11", 
     "Surname": "Newton", 
     "Firstname": "Robin", 
     "Constituency_Number": "2", 
@@ -253,6 +263,16 @@
 "Constituency_Number": 3,
 "Elected": [
 {
+    "Candidate_First_Pref_Votes": "5851", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Archibald", 
+    "Firstname": "Caoimhe", 
+    "Constituency_Number": "3", 
+    "Party_Name": "Sinn Fein", 
+    "Candidate_Id": "5979"
+},
+{
     "Candidate_First_Pref_Votes": "5444", 
     "Status": "Elected", 
     "Occurred_On_Count": "9", 
@@ -261,6 +281,16 @@
     "Constituency_Number": "3", 
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "12080"
+},
+{
+    "Candidate_First_Pref_Votes": "3319", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Dallat", 
+    "Firstname": "John", 
+    "Constituency_Number": "3", 
+    "Party_Name": "Social Democratic and Labour Party", 
+    "Candidate_Id": "19682"
 },
 {
     "Candidate_First_Pref_Votes": "4715", 
@@ -558,8 +588,8 @@
 "Elected": [
 {
     "Candidate_First_Pref_Votes": "6214", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "7", 
     "Surname": "Allister", 
     "Firstname": "Jim", 
     "Constituency_Number": "9", 
@@ -568,8 +598,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "6975", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "7", 
     "Surname": "Frew", 
     "Firstname": "Paul", 
     "Constituency_Number": "9", 
@@ -578,8 +608,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "7600", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "6", 
     "Surname": "McGuigan", 
     "Firstname": "Philip", 
     "Constituency_Number": "9", 
@@ -588,8 +618,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "6857", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "7", 
     "Surname": "Storey", 
     "Firstname": "Mervyn", 
     "Constituency_Number": "9", 
@@ -598,8 +628,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "6022", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "6", 
     "Surname": "Swann", 
     "Firstname": "Robin", 
     "Constituency_Number": "9", 

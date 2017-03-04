@@ -1,8 +1,8 @@
 [
 {
     "Candidate_First_Pref_Votes": "6214", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "7", 
     "Surname": "Allister", 
     "Firstname": "Jim", 
     "Constituency_Number": "9", 
@@ -11,8 +11,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "6975", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "7", 
     "Surname": "Frew", 
     "Firstname": "Paul", 
     "Constituency_Number": "9", 
@@ -21,8 +21,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "7600", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "6", 
     "Surname": "McGuigan", 
     "Firstname": "Philip", 
     "Constituency_Number": "9", 
@@ -31,8 +31,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "6857", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "7", 
     "Surname": "Storey", 
     "Firstname": "Mervyn", 
     "Constituency_Number": "9", 
@@ -41,8 +41,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "6022", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "6", 
     "Surname": "Swann", 
     "Firstname": "Robin", 
     "Constituency_Number": "9", 

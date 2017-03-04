@@ -11,13 +11,23 @@
 },
 {
     "Candidate_First_Pref_Votes": "484", 
-    "Status": "", 
+    "Status": "Elected", 
     "Occurred_On_Count": "", 
     "Surname": "Bunting", 
     "Firstname": "Joanne", 
     "Constituency_Number": "2", 
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "13032"
+},
+{
+    "Candidate_First_Pref_Votes": "-198.51", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "10", 
+    "Surname": "Kyle", 
+    "Firstname": "John", 
+    "Constituency_Number": "2", 
+    "Party_Name": "Progressive Unionist Party", 
+    "Candidate_Id": "13037"
 },
 {
     "Candidate_First_Pref_Votes": "7610", 
@@ -41,8 +51,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "4729", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "11", 
     "Surname": "Newton", 
     "Firstname": "Robin", 
     "Constituency_Number": "2", 
