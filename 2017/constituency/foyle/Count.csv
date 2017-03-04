@@ -54,9 +54,9 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 5,11857,5,Colum,Eastwood,7240,0,7595,Elected,3,Social Democratic and Labour Party
 5,6404,5,Julia,Kee,1660,-1704.5,0,Excluded,4,Ulster Unionist Party
 5,11859,5,John,Lindsay,196,0,0,Excluded,3,Citizens Independent Social Thought Alliance
-5,19678,5,Elisha,McCallion,9205,0,0,Elected,1,Sinn Fein
+5,19678,5,Elisha,McCallion,9205,0,7437,Elected,1,Sinn Fein
 5,2294,5,Eamonn,McCann,4760,630.53,5922.16,,,People Before Profit Alliance
-5,11860,5,Raymond,McCartney,7145,0,0,Elected,2,Sinn Fein
+5,11860,5,Raymond,McCartney,7145,0,7437,Elected,2,Sinn Fein
 5,19742,5,Arthur,McGuinness,44,0,0,Excluded,3,Independent
 5,7209,5,Gary,Middleton,5975,894.28,6902.37,,,Democratic Unionist Party
 5,7656,6,Stuart,Canning,77,0,0,Excluded,3,NI Conservatives
@@ -66,8 +66,8 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 5,11857,6,Colum,Eastwood,7240,0,7595,Elected,3,Social Democratic and Labour Party
 5,6404,6,Julia,Kee,1660,0,0,Excluded,4,Ulster Unionist Party
 5,11859,6,John,Lindsay,196,0,0,Excluded,3,Citizens Independent Social Thought Alliance
-5,19678,6,Elisha,McCallion,9205,0,0,Elected,1,Sinn Fein
+5,19678,6,Elisha,McCallion,9205,0,7437,Elected,1,Sinn Fein
 5,2294,6,Eamonn,McCann,4760,451,6373.16,Excluded,6,People Before Profit Alliance
-5,11860,6,Raymond,McCartney,7145,0,0,Elected,2,Sinn Fein
+5,11860,6,Raymond,McCartney,7145,0,7437,Elected,2,Sinn Fein
 5,19742,6,Arthur,McGuinness,44,0,0,Excluded,3,Independent
 5,7209,6,Gary,Middleton,5975,134,7036.37,Elected,6,Democratic Unionist Party
