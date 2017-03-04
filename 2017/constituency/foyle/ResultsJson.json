@@ -519,7 +519,7 @@
 },
 {
     "Candidate_First_Pref_Votes": "1124", 
-    "Status": "Elected", 
+    "Status": "Excluded", 
     "Occurred_On_Count": "4", 
     "Surname": "Cavanagh", 
     "Firstname": "Colm", 
@@ -687,7 +687,7 @@
 },
 {
     "Candidate_First_Pref_Votes": "1124", 
-    "Status": "Elected", 
+    "Status": "Excluded", 
     "Occurred_On_Count": "4", 
     "Surname": "Cavanagh", 
     "Firstname": "Colm", 

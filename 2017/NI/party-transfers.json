@@ -80,6 +80,11 @@
 			"From": {"Cross-Community Labour Alternative": -566.42},
 			"To": {"Workers Party": 0, "Social Democratic and Labour Party": 78.94, "Traditional Unionist Voice": 7.12, "Democratic Unionist Party": 11.0, "Cross-Community Labour Alternative": 0, "Sinn Fein": 0, "People Before Profit Alliance": 142.14, "Green Party": 181.34, "Ulster Unionist Party": 23.0, "Alliance Party": 91.44, "NI Conservatives": 0},
 			"Not_transferred": 31.44
+		},
+		{"Count_Number": 7,
+			"From": {"Social Democratic and Labour Party": -1476.54},
+			"To": {"Workers Party": 0, "Social Democratic and Labour Party": 0, "Traditional Unionist Voice": 0, "Democratic Unionist Party": 30.0, "Cross-Community Labour Alternative": 0, "Sinn Fein": 0, "People Before Profit Alliance": 0, "Green Party": 894.0, "Ulster Unionist Party": 310.0, "Alliance Party": 0, "NI Conservatives": 0},
+			"Not_transferred": 242.54
 		}
 		]
 	}

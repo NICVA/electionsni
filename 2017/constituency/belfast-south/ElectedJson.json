@@ -1,8 +1,8 @@
 [
 {
     "Candidate_First_Pref_Votes": "5595", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "6", 
     "Surname": "Bradshaw", 
     "Firstname": "Paula", 
     "Constituency_Number": "13", 
@@ -11,8 +11,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "6559", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "6", 
     "Surname": "Hanna", 
     "Firstname": "Claire", 
     "Constituency_Number": "13", 

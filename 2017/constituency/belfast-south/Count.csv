@@ -65,7 +65,35 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 13,6023,5,George,Jabbour,200,0,0,Excluded,2,NI Conservatives
 13,6265,5,Lily,Kerr,163,0,0,Excluded,2,Workers Party
 13,19677,5,Emmet,McDonough-Brown,2053,66.42,2185.34,Excluded,5,Alliance Party
-13,19670,5,Pádraigín,Mervyn,760,-970.86,0,,,People Before Profit Alliance
+13,19670,5,Pádraigín,Mervyn,760,-970.86,0,Excluded,4,People Before Profit Alliance
 13,4597,5,Máirtín,Ó Muilleoir,7610,0,7176,Elected,1,Sinn Fein
 13,11458,5,Emma,Little Pengelly,4446,179.06,4655.9,,,Democratic Unionist Party
 13,11461,5,Christopher David Matthew,Stalford,4529,150,4704.08,,,Democratic Unionist Party
+13,5824,6,Clare,Bailey,4247,376.04,5450,,,Green Party
+13,1679,6,Paula,Bradshaw,5595,1824,7690.38,Elected,6,Alliance Party
+13,11455,6,Sean,Burns,531,0,0,Excluded,3,Cross-Community Labour Alternative
+13,19698,6,Naomh,Gallagher,1794,-1962.22,0,Excluded,5,Social Democratic and Labour Party
+13,3475,6,Claire,Hanna,6559,1671,8652.54,Elected,6,Social Democratic and Labour Party
+13,19709,6,Micheal,Henderson,3863,97.38,4337.8,,,Ulster Unionist Party
+13,11457,6,John,Andrew Hiddleston,703,0,0,Excluded,4,Traditional Unionist Voice
+13,6023,6,George,Jabbour,200,0,0,Excluded,2,NI Conservatives
+13,6265,6,Lily,Kerr,163,0,0,Excluded,2,Workers Party
+13,19677,6,Emmet,McDonough-Brown,2053,-2185.34,0,Excluded,5,Alliance Party
+13,19670,6,Pádraigín,Mervyn,760,0,0,Excluded,4,People Before Profit Alliance
+13,4597,6,Máirtín,Ó Muilleoir,7610,0,7176,Elected,1,Sinn Fein
+13,11458,6,Emma,Little Pengelly,4446,20.36,4676.26,,,Democratic Unionist Party
+13,11461,6,Christopher David Matthew,Stalford,4529,11.18,4715.26,,,Democratic Unionist Party
+13,5824,7,Clare,Bailey,4247,894,6344,,,Green Party
+13,1679,7,Paula,Bradshaw,5595,0,7690.38,Elected,6,Alliance Party
+13,11455,7,Sean,Burns,531,0,0,Excluded,3,Cross-Community Labour Alternative
+13,19698,7,Naomh,Gallagher,1794,0,0,Excluded,5,Social Democratic and Labour Party
+13,3475,7,Claire,Hanna,6559,-1476.54,7176,Elected,6,Social Democratic and Labour Party
+13,19709,7,Micheal,Henderson,3863,310,4647.8,,,Ulster Unionist Party
+13,11457,7,John,Andrew Hiddleston,703,0,0,Excluded,4,Traditional Unionist Voice
+13,6023,7,George,Jabbour,200,0,0,Excluded,2,NI Conservatives
+13,6265,7,Lily,Kerr,163,0,0,Excluded,2,Workers Party
+13,19677,7,Emmet,McDonough-Brown,2053,0,0,Excluded,5,Alliance Party
+13,19670,7,Pádraigín,Mervyn,760,0,0,Excluded,4,People Before Profit Alliance
+13,4597,7,Máirtín,Ó Muilleoir,7610,0,7176,Elected,1,Sinn Fein
+13,11458,7,Emma,Little Pengelly,4446,19,4695.26,,,Democratic Unionist Party
+13,11461,7,Christopher David Matthew,Stalford,4529,11,4726.26,,,Democratic Unionist Party

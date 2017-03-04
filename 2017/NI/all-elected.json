@@ -13,6 +13,16 @@
     "Candidate_Id": "8116"
 },
 {
+    "Candidate_First_Pref_Votes": "484", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Bunting", 
+    "Firstname": "Joanne", 
+    "Constituency_Number": "2", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "13032"
+},
+{
     "Candidate_First_Pref_Votes": "7610", 
     "Status": "Elected", 
     "Occurred_On_Count": "1", 
@@ -92,8 +102,8 @@
 "Elected": [
 {
     "Candidate_First_Pref_Votes": "5595", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "6", 
     "Surname": "Bradshaw", 
     "Firstname": "Paula", 
     "Constituency_Number": "13", 
@@ -102,8 +112,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "6559", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "6", 
     "Surname": "Hanna", 
     "Firstname": "Claire", 
     "Constituency_Number": "13", 

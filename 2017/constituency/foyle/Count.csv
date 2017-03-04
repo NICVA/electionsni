@@ -36,7 +36,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 5,19742,3,Arthur,McGuinness,44,11.78,56.35,Excluded,3,Independent
 5,7209,3,Gary,Middleton,5975,1.71,5976.71,,,Democratic Unionist Party
 5,7656,4,Stuart,Canning,77,-78.9,0,Excluded,3,NI Conservatives
-5,19694,4,Colm,Cavanagh,1124,115.55,1295.22,Elected,4,Alliance Party
+5,19694,4,Colm,Cavanagh,1124,115.55,1295.22,Excluded,4,Alliance Party
 5,19701,4,Shannon,Downey,242,-264.42,0,Excluded,3,Green Party
 5,19640,4,Mark H.,Durkan,6948,105.12,7380.68,,,Social Democratic and Labour Party
 5,11857,4,Colum,Eastwood,7240,0,7595.3,Elected,3,Social Democratic and Labour Party
@@ -48,7 +48,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 5,19742,4,Arthur,McGuinness,44,-56.35,0,Excluded,3,Independent
 5,7209,4,Gary,Middleton,5975,31.38,6008.09,,,Democratic Unionist Party
 5,7656,5,Stuart,Canning,77,0,0,Excluded,3,NI Conservatives
-5,19694,5,Colm,Cavanagh,1124,0,0,Elected,4,Alliance Party
+5,19694,5,Colm,Cavanagh,1124,0,0,Excluded,4,Alliance Party
 5,19701,5,Shannon,Downey,242,0,0,Excluded,3,Green Party
 5,19640,5,Mark H.,Durkan,6948,1033,8413.68,Elected,5,Social Democratic and Labour Party
 5,11857,5,Colum,Eastwood,7240,0,7595,Elected,3,Social Democratic and Labour Party
