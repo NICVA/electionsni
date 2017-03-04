@@ -121,8 +121,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "4247", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "9", 
     "Surname": "Bailey", 
     "Firstname": "Clare", 
     "Colour": "#64DD17", 
@@ -949,8 +949,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "3543", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "11", 
     "Surname": "Weir", 
     "Firstname": "Peter", 
     "Colour": "#FF5722", 

@@ -1569,17 +1569,17 @@
 },
 {
     "Candidate_First_Pref_Votes": "4247", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "9", 
     "Surname": "Bailey", 
     "Firstname": "Clare", 
     "Constituency_Number": "13", 
     "Party_Name": "Green Party", 
     "Candidate_Id": "5824", 
     "Count_Number": "9", 
-    "Transfers": "0", 
+    "Transfers": "77.86", 
     "id": 112, 
-    "Total_Votes": "6719.36"
+    "Total_Votes": "6797.22"
 },
 {
     "Candidate_First_Pref_Votes": "5595", 
@@ -1639,17 +1639,17 @@
 },
 {
     "Candidate_First_Pref_Votes": "3863", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Excluded", 
+    "Occurred_On_Count": "9", 
     "Surname": "Henderson", 
     "Firstname": "Micheal", 
     "Constituency_Number": "13", 
     "Party_Name": "Ulster Unionist Party", 
     "Candidate_Id": "19709", 
     "Count_Number": "9", 
-    "Transfers": "0", 
+    "Transfers": "494.54", 
     "id": 117, 
-    "Total_Votes": "4761.4"
+    "Total_Votes": "5255.94"
 },
 {
     "Candidate_First_Pref_Votes": "703", 

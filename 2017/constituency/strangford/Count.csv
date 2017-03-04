@@ -116,3 +116,29 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 15,302,9,Mike,Nesbitt,5323,428,6540,Elected,9,Ulster Unionist Party
 15,8115,9,Philip,Smith,2453,279.25,3079.25,Excluded,9,Ulster Unionist Party
 15,11547,9,Peter,Weir,3543,313.5,4191.25,,,Democratic Unionist Party
+15,4590,10,Kellie,Armstrong,5813,0,6465,Elected,4,Alliance Party
+15,19706,10,Ricky,Bamford,918,0,0,Excluded,2,Green Party
+15,6251,10,Jonathan,Bell,1479,0,0,Excluded,7,Independent
+15,19718,10,Scott,Benton,195,0,0,Excluded,1,NI Conservatives
+15,7179,10,Joe,Boyle,3045,934,5163.25,,,Social Democratic and Labour Party
+15,6984,10,Stephen,Cooper,1330,0,0,Excluded,4,Traditional Unionist Voice
+15,16581,10,Simon,Hamilton,6221,0,6531,Elected,5,Democratic Unionist Party
+15,12090,10,Dermot,Kennedy,1110,0,0,Excluded,3,Sinn Fein
+15,12092,10,Michelle,McIlveen,5728,0,6762,Elected,9,Democratic Unionist Party
+15,12094,10,Jimmy,Menagh,1627,0,0,Excluded,8,Independent
+15,302,10,Mike,Nesbitt,5323,0,6540,Elected,9,Ulster Unionist Party
+15,8115,10,Philip,Smith,2453,-3079.25,0,Excluded,9,Ulster Unionist Party
+15,11547,10,Peter,Weir,3543,910.25,5101.5,,,Democratic Unionist Party
+15,4590,11,Kellie,Armstrong,5813,0,6465,Elected,4,Alliance Party
+15,19706,11,Ricky,Bamford,918,0,0,Excluded,2,Green Party
+15,6251,11,Jonathan,Bell,1479,0,0,Excluded,7,Independent
+15,19718,11,Scott,Benton,195,0,0,Excluded,1,NI Conservatives
+15,7179,11,Joe,Boyle,3045,3.84,5167.09,Excluded,11,Social Democratic and Labour Party
+15,6984,11,Stephen,Cooper,1330,0,0,Excluded,4,Traditional Unionist Voice
+15,16581,11,Simon,Hamilton,6221,0,6531,Elected,5,Democratic Unionist Party
+15,12090,11,Dermot,Kennedy,1110,0,0,Excluded,3,Sinn Fein
+15,12092,11,Michelle,McIlveen,5728,-297,6465,Elected,9,Democratic Unionist Party
+15,12094,11,Jimmy,Menagh,1627,0,0,Excluded,8,Independent
+15,302,11,Mike,Nesbitt,5323,0,6540,Elected,9,Ulster Unionist Party
+15,8115,11,Philip,Smith,2453,0,0,Excluded,9,Ulster Unionist Party
+15,11547,11,Peter,Weir,3543,290.88,5392.38,Elected,11,Democratic Unionist Party

@@ -45,7 +45,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 18,19675,3,Roisin,McMackin,85,0.28,86.04,,,Independent
 18,7348,3,Susan-Anne,White,41,0.04,45.22,,,Independent
 18,11342,4,Michaela,Boyle,7714,0,7388,Elected,1,Sinn Fein
-18,6920,4,Barry,Brown,373,1.14,385.42,,,Citizens Independent Social Thought Alliance
+18,6920,4,Barry,Brown,373,1.14,385.42,Excluded,4,Citizens Independent Social Thought Alliance
 18,1871,4,Thomas,Buchanan,9064,0,7388,Elected,1,Democratic Unionist Party
 18,19733,4,Charlie,Chittick,851,0.02,1428.97,Excluded,4,Traditional Unionist Voice
 18,19689,4,Alicia,Clarke,3654,0.24,4689.73,,,Ulster Unionist Party
@@ -60,7 +60,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 18,19675,4,Roisin,McMackin,85,0.44,86.48,Excluded,4,Independent
 18,7348,4,Susan-Anne,White,41,0.06,45.28,Excluded,4,Independent
 18,11342,5,Michaela,Boyle,7714,0,7388,Elected,1,Sinn Fein
-18,6920,5,Barry,Brown,373,0,385.42,,,Citizens Independent Social Thought Alliance
+18,6920,5,Barry,Brown,373,0,385.42,Excluded,4,Citizens Independent Social Thought Alliance
 18,1871,5,Thomas,Buchanan,9064,0,7388,Elected,1,Democratic Unionist Party
 18,19733,5,Charlie,Chittick,851,0,1428.97,Excluded,4,Traditional Unionist Voice
 18,19689,5,Alicia,Clarke,3654,1584.81,6274.54,Excluded,5,Ulster Unionist Party

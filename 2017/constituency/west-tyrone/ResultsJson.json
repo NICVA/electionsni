@@ -645,8 +645,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "373", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Excluded", 
+    "Occurred_On_Count": "4", 
     "Surname": "Brown", 
     "Firstname": "Barry", 
     "Constituency_Number": "18", 
@@ -855,8 +855,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "373", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Excluded", 
+    "Occurred_On_Count": "4", 
     "Surname": "Brown", 
     "Firstname": "Barry", 
     "Constituency_Number": "18", 
