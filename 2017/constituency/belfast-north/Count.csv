@@ -4,10 +4,10 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 10,19690,1,Julie-Anne,Corr-Johnston,2053,0,2053,,,Progressive Unionist Party
 10,11371,1,Fiona,Ferguson,1559,0,1559,,,People Before Profit Alliance
 10,19697,1,Robert,Foster,2418,0,2418,,,Ulster Unionist Party
-10,575,1,William,Humphrey,6275,0,4418,,,Democratic Unionist Party
-10,131,1,Gerry,Kelly,5431,0,6275,,,Sinn Fein
+10,575,1,William,Humphrey,4418,0,4418,,,Democratic Unionist Party
+10,131,1,Gerry,Kelly,6275,0,6275,,,Sinn Fein
 10,11385,1,Nichola,Mallon,5431,0,5431,,,Social Democratic and Labour Party
-10,11374,1,Nuala,McAllister,3486,0,3487,,,Alliance Party
+10,11374,1,Nuala,McAllister,3487,0,3487,,,Alliance Party
 10,11375,1,Nelson,McCausland,4056,0,4056,,,Democratic Unionist Party
 10,19676,1,Adam,Millar,66,0,66,Excluded,1,Independent
 10,11378,1,Malachai,O'Hara,711,0,711,Excluded,1,Green Party
@@ -17,10 +17,10 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 10,19690,2,Julie-Anne,Corr-Johnston,2053,50,2103,,,Progressive Unionist Party
 10,11371,2,Fiona,Ferguson,1559,290,1849,Excluded,2,People Before Profit Alliance
 10,19697,2,Robert,Foster,2418,39,2457,,,Ulster Unionist Party
-10,575,2,William,Humphrey,6275,5,4423,,,Democratic Unionist Party
-10,131,2,Gerry,Kelly,5431,54,6329,,,Sinn Fein
+10,575,2,William,Humphrey,4418,5,4423,,,Democratic Unionist Party
+10,131,2,Gerry,Kelly,6275,54,6329,,,Sinn Fein
 10,11385,2,Nichola,Mallon,5431,142,5573,,,Social Democratic and Labour Party
-10,11374,2,Nuala,McAllister,3486,312,3799,,,Alliance Party
+10,11374,2,Nuala,McAllister,3487,312,3799,,,Alliance Party
 10,11375,2,Nelson,McCausland,4056,13,4069,,,Democratic Unionist Party
 10,19676,2,Adam,Millar,66,-66,0,Excluded,1,Independent
 10,11378,2,Malachai,O'Hara,711,-711,0,Excluded,1,Green Party
@@ -30,10 +30,10 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 10,19690,3,Julie-Anne,Corr-Johnston,2053,71,2174,Excluded,3,Progressive Unionist Party
 10,11371,3,Fiona,Ferguson,1559,-1849,0,Excluded,2,People Before Profit Alliance
 10,19697,3,Robert,Foster,2418,60,2517,,,Ulster Unionist Party
-10,575,3,William,Humphrey,6275,6,4429,,,Democratic Unionist Party
-10,131,3,Gerry,Kelly,5431,243,6572,,,Sinn Fein
+10,575,3,William,Humphrey,4418,6,4429,,,Democratic Unionist Party
+10,131,3,Gerry,Kelly,6275,243,6572,,,Sinn Fein
 10,11385,3,Nichola,Mallon,5431,503,6076,,,Social Democratic and Labour Party
-10,11374,3,Nuala,McAllister,3486,555,4354,,,Alliance Party
+10,11374,3,Nuala,McAllister,3487,555,4354,,,Alliance Party
 10,11375,3,Nelson,McCausland,4056,10,4079,,,Democratic Unionist Party
 10,19676,3,Adam,Millar,66,0,0,Excluded,1,Independent
 10,11378,3,Malachai,O'Hara,711,0,0,Excluded,1,Green Party
@@ -43,10 +43,10 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 10,19690,4,Julie-Anne,Corr-Johnston,2053,-2174,0,Excluded,3,Progressive Unionist Party
 10,11371,4,Fiona,Ferguson,1559,0,0,Excluded,2,People Before Profit Alliance
 10,19697,4,Robert,Foster,2418,624,3141,Excluded,4,Ulster Unionist Party
-10,575,4,William,Humphrey,6275,508,4937,,,Democratic Unionist Party
-10,131,4,Gerry,Kelly,5431,10,6582,,,Sinn Fein
+10,575,4,William,Humphrey,4418,508,4937,,,Democratic Unionist Party
+10,131,4,Gerry,Kelly,6275,10,6582,,,Sinn Fein
 10,11385,4,Nichola,Mallon,5431,49,6125,,,Social Democratic and Labour Party
-10,11374,4,Nuala,McAllister,3486,161,4515,,,Alliance Party
+10,11374,4,Nuala,McAllister,3487,161,4515,,,Alliance Party
 10,11375,4,Nelson,McCausland,4056,293,4372,,,Democratic Unionist Party
 10,19676,4,Adam,Millar,66,0,0,Excluded,1,Independent
 10,11378,4,Malachai,O'Hara,711,0,0,Excluded,1,Green Party
@@ -56,10 +56,10 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 10,19690,5,Julie-Anne,Corr-Johnston,2053,0,0,Excluded,3,Progressive Unionist Party
 10,11371,5,Fiona,Ferguson,1559,0,0,Excluded,2,People Before Profit Alliance
 10,19697,5,Robert,Foster,2418,-3141,0,Excluded,4,Ulster Unionist Party
-10,575,5,William,Humphrey,6275,323,5260,,,Democratic Unionist Party
-10,131,5,Gerry,Kelly,5431,9,6591,,,Sinn Fein
+10,575,5,William,Humphrey,4418,323,5260,,,Democratic Unionist Party
+10,131,5,Gerry,Kelly,6275,9,6591,,,Sinn Fein
 10,11385,5,Nichola,Mallon,5431,537,6662,,,Social Democratic and Labour Party
-10,11374,5,Nuala,McAllister,3486,742,5257,,,Alliance Party
+10,11374,5,Nuala,McAllister,3487,742,5257,,,Alliance Party
 10,11375,5,Nelson,McCausland,4056,337,4709,Excluded,5,Democratic Unionist Party
 10,19676,5,Adam,Millar,66,0,0,Excluded,1,Independent
 10,11378,5,Malachai,O'Hara,711,0,0,Excluded,1,Green Party
@@ -69,10 +69,10 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 10,19690,6,Julie-Anne,Corr-Johnston,2053,0,0,Excluded,3,Progressive Unionist Party
 10,11371,6,Fiona,Ferguson,1559,0,0,Excluded,2,People Before Profit Alliance
 10,19697,6,Robert,Foster,2418,0,0,Excluded,4,Ulster Unionist Party
-10,575,6,William,Humphrey,6275,2016,7276,Elected,6,Democratic Unionist Party
-10,131,6,Gerry,Kelly,5431,2,6593,,,Sinn Fein
+10,575,6,William,Humphrey,4418,2016,7276,Elected,6,Democratic Unionist Party
+10,131,6,Gerry,Kelly,6275,2,6593,,,Sinn Fein
 10,11385,6,Nichola,Mallon,5431,30,6692,,,Social Democratic and Labour Party
-10,11374,6,Nuala,McAllister,3486,39,5296,,,Alliance Party
+10,11374,6,Nuala,McAllister,3487,39,5296,,,Alliance Party
 10,11375,6,Nelson,McCausland,4056,-4709,0,Excluded,5,Democratic Unionist Party
 10,19676,6,Adam,Millar,66,0,0,Excluded,1,Independent
 10,11378,6,Malachai,O'Hara,711,0,0,Excluded,1,Green Party
@@ -82,10 +82,10 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 10,19690,7,Julie-Anne,Corr-Johnston,2053,0,0,Excluded,3,Progressive Unionist Party
 10,11371,7,Fiona,Ferguson,1559,0,0,Excluded,2,People Before Profit Alliance
 10,19697,7,Robert,Foster,2418,0,0,Excluded,4,Ulster Unionist Party
-10,575,7,William,Humphrey,6275,0,7276,Elected,6,Democratic Unionist Party
-10,131,7,Gerry,Kelly,5431,2,6595,Elected,7,Sinn Fein
+10,575,7,William,Humphrey,4418,0,7276,Elected,6,Democratic Unionist Party
+10,131,7,Gerry,Kelly,6275,2,6595,Elected,7,Sinn Fein
 10,11385,7,Nichola,Mallon,5431,114,6806,Elected,7,Social Democratic and Labour Party
-10,11374,7,Nuala,McAllister,3486,312,5608,Excluded,7,Alliance Party
+10,11374,7,Nuala,McAllister,3487,312,5608,Excluded,7,Alliance Party
 10,11375,7,Nelson,McCausland,4056,0,0,Excluded,5,Democratic Unionist Party
 10,19676,7,Adam,Millar,66,0,0,Excluded,1,Independent
 10,11378,7,Malachai,O'Hara,711,0,0,Excluded,1,Green Party
