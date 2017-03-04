@@ -48,6 +48,18 @@
     "Candidate_Id": "13038"
 },
 {
+    "Candidate_First_Pref_Votes": "4729", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Newton", 
+    "Firstname": "Robin", 
+    "Colour": "#FF5722", 
+    "Constituency_Name": "Belfast East", 
+    "Constituency_Number": "2", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "13040"
+},
+{
     "Candidate_First_Pref_Votes": "4835", 
     "Status": "Elected", 
     "Occurred_On_Count": "6", 

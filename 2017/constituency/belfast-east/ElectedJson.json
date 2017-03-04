@@ -38,4 +38,14 @@
     "Constituency_Number": "2", 
     "Party_Name": "Alliance Party", 
     "Candidate_Id": "13038"
+},
+{
+    "Candidate_First_Pref_Votes": "4729", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Newton", 
+    "Firstname": "Robin", 
+    "Constituency_Number": "2", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "13040"
 }]
