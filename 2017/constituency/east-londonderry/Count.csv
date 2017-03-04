@@ -121,7 +121,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 3,12088,8,Russell,Watton,879,0,0,Excluded,3,Progressive Unionist Party
 3,5979,9,Caoimhe,Archibald,5851,9,6320,,,Sinn Fein
 3,12079,9,Jordan,Armstrong,1038,0,0,Excluded,4,Traditional Unionist Voice
-3,12080,9,Maurice,Bradley,5444,1317,8056,,,Democratic Unionist Party
+3,12080,9,Maurice,Bradley,5444,1317,8056,Elected,9,Democratic Unionist Party
 3,19750,9,Gavin,Campbell,492,0,0,Excluded,2,People Before Profit Alliance
 3,19682,9,John,Dallat,3319,155,5298,,,Social Democratic and Labour Party
 3,19700,9,Anthony,Flynn,305,0,0,Excluded,2,Green Party
@@ -131,6 +131,6 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 3,12083,9,Adrian,McQuillan,3881,-4566,0,Excluded,8,Democratic Unionist Party
 3,7078,9,Gerry,Mullan,1204,0,0,Excluded,5,Independent
 3,12084,9,Cathal,óhOisín,4953,9,5211,,,Sinn Fein
-3,12086,9,George,Robinson,4715,2466,7801,,,Democratic Unionist Party
+3,12086,9,George,Robinson,4715,2466,7801,Elected,9,Democratic Unionist Party
 3,12087,9,Claire,Sugden,4918,0,7555,Elected,8,Independent
 3,12088,9,Russell,Watton,879,0,0,Excluded,3,Progressive Unionist Party

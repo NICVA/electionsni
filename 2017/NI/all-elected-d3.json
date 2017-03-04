@@ -241,8 +241,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "5444", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "9", 
     "Surname": "Bradley", 
     "Firstname": "Maurice", 
     "Colour": "#FF5722", 
@@ -253,8 +253,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "4715", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "9", 
     "Surname": "Robinson", 
     "Firstname": "George", 
     "Colour": "#FF5722", 
@@ -397,8 +397,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "6846", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "7", 
     "Surname": "Butler", 
     "Firstname": "Robbie", 
     "Colour": "#03A9F4", 
@@ -409,8 +409,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "3795", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "8", 
     "Surname": "Catney", 
     "Firstname": "Pat", 
     "Colour": "#E53935", 
@@ -433,8 +433,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "6105", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "7", 
     "Surname": "Lunn", 
     "Firstname": "Trevor", 
     "Colour": "#FDD835", 
@@ -445,8 +445,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "6013", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "8", 
     "Surname": "Poots", 
     "Firstname": "Edwin", 
     "Colour": "#FF5722", 
@@ -478,6 +478,18 @@
     "Constituency_Number": "7", 
     "Party_Name": "Sinn Fein", 
     "Candidate_Id": "11274"
+},
+{
+    "Candidate_First_Pref_Votes": "1244", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Loughrin", 
+    "Firstname": "Hannah", 
+    "Colour": "#303F9F", 
+    "Constituency_Name": "Mid Ulster", 
+    "Constituency_Number": "7", 
+    "Party_Name": "Traditional Unionist Voice", 
+    "Candidate_Id": "11290"
 },
 {
     "Candidate_First_Pref_Votes": "6419", 

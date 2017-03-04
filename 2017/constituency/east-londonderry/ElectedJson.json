@@ -1,8 +1,8 @@
 [
 {
     "Candidate_First_Pref_Votes": "5444", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "9", 
     "Surname": "Bradley", 
     "Firstname": "Maurice", 
     "Constituency_Number": "3", 
@@ -11,8 +11,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "4715", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "9", 
     "Surname": "Robinson", 
     "Firstname": "George", 
     "Constituency_Number": "3", 

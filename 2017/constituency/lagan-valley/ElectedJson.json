@@ -1,8 +1,8 @@
 [
 {
     "Candidate_First_Pref_Votes": "6846", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "7", 
     "Surname": "Butler", 
     "Firstname": "Robbie", 
     "Constituency_Number": "6", 
@@ -11,8 +11,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "3795", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "8", 
     "Surname": "Catney", 
     "Firstname": "Pat", 
     "Constituency_Number": "6", 
@@ -31,8 +31,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "6105", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "7", 
     "Surname": "Lunn", 
     "Firstname": "Trevor", 
     "Constituency_Number": "6", 
@@ -41,8 +41,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "6013", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "8", 
     "Surname": "Poots", 
     "Firstname": "Edwin", 
     "Constituency_Number": "6", 
