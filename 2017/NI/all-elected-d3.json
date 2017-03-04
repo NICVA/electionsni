@@ -24,18 +24,6 @@
     "Candidate_Id": "13032"
 },
 {
-    "Candidate_First_Pref_Votes": "-198.51", 
-    "Status": "Elected", 
-    "Occurred_On_Count": "10", 
-    "Surname": "Kyle", 
-    "Firstname": "John", 
-    "Colour": "#880E4F", 
-    "Constituency_Name": "Belfast East", 
-    "Constituency_Number": "2", 
-    "Party_Name": "Progressive Unionist Party", 
-    "Candidate_Id": "13037"
-},
-{
     "Candidate_First_Pref_Votes": "7610", 
     "Status": "Elected", 
     "Occurred_On_Count": "1", 
@@ -132,6 +120,18 @@
     "Candidate_Id": "11385"
 },
 {
+    "Candidate_First_Pref_Votes": "4247", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "9", 
+    "Surname": "Bailey", 
+    "Firstname": "Clare", 
+    "Colour": "#64DD17", 
+    "Constituency_Name": "Belfast South", 
+    "Constituency_Number": "13", 
+    "Party_Name": "Green Party", 
+    "Candidate_Id": "5824"
+},
+{
     "Candidate_First_Pref_Votes": "5595", 
     "Status": "Elected", 
     "Occurred_On_Count": "6", 
@@ -166,6 +166,18 @@
     "Constituency_Number": "13", 
     "Party_Name": "Sinn Fein", 
     "Candidate_Id": "4597"
+},
+{
+    "Candidate_First_Pref_Votes": "4529", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "9", 
+    "Surname": "Stalford", 
+    "Firstname": "Christopher David Matthew", 
+    "Colour": "#FF5722", 
+    "Constituency_Name": "Belfast South", 
+    "Constituency_Number": "13", 
+    "Party_Name": "Democratic Unionist Party", 
+    "Candidate_Id": "11461"
 },
 {
     "Candidate_First_Pref_Votes": "4903", 

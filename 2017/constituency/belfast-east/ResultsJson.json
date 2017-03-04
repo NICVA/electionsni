@@ -1653,7 +1653,7 @@
 },
 {
     "Candidate_First_Pref_Votes": "-198.51", 
-    "Status": "Elected", 
+    "Status": "Excluded", 
     "Occurred_On_Count": "9", 
     "Surname": "Kyle", 
     "Firstname": "John", 
@@ -1849,7 +1849,7 @@
 },
 {
     "Candidate_First_Pref_Votes": "-198.51", 
-    "Status": "Elected", 
+    "Status": "Excluded", 
     "Occurred_On_Count": "9", 
     "Surname": "Kyle", 
     "Firstname": "John", 
@@ -2045,7 +2045,7 @@
 },
 {
     "Candidate_First_Pref_Votes": "-198.51", 
-    "Status": "Elected", 
+    "Status": "Excluded", 
     "Occurred_On_Count": "10", 
     "Surname": "Kyle", 
     "Firstname": "John", 
