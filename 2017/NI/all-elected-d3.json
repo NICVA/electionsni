@@ -120,6 +120,18 @@
     "Candidate_Id": "11385"
 },
 {
+    "Candidate_First_Pref_Votes": "4247", 
+    "Status": "", 
+    "Occurred_On_Count": "", 
+    "Surname": "Bailey", 
+    "Firstname": "Clare", 
+    "Colour": "#64DD17", 
+    "Constituency_Name": "Belfast South", 
+    "Constituency_Number": "13", 
+    "Party_Name": "Green Party", 
+    "Candidate_Id": "5824"
+},
+{
     "Candidate_First_Pref_Votes": "5595", 
     "Status": "Elected", 
     "Occurred_On_Count": "6", 
