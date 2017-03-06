@@ -44,7 +44,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 7,10203,4,Stefan,Taylor,243,-247,0,Excluded,3,Green Party
 7,19693,4,Fay,Watson,1017,-1036,0,Excluded,3,Alliance Party
 7,11273,5,Keith Alexander,Buchanan,9568,0,8280,Elected,1,Democratic Unionist Party
-7,11274,5,Linda,Dillon,7806,0,9032,Elected,2,Sinn Fein
+7,11274,5,Linda,Dillon,7806,-752,8280,Elected,2,Sinn Fein
 7,11290,5,Hannah,Loughrin,1244,0,0,Excluded,3,Traditional Unionist Voice
 7,19727,5,Hugh,McCloy,247,0,0,Excluded,3,Independent
 7,11291,5,Patsy,McGlone,6419,515,8247,Elected,5,Social Democratic and Labour Party

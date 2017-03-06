@@ -842,7 +842,7 @@
 {
     "Candidate_First_Pref_Votes": "1389", 
     "Status": "Excluded", 
-    "Occurred_On_Count": "6", 
+    "Occurred_On_Count": "5", 
     "Surname": "Morrison", 
     "Firstname": "Samuel", 
     "Constituency_Number": "6", 
@@ -1024,7 +1024,7 @@
 {
     "Candidate_First_Pref_Votes": "1389", 
     "Status": "Excluded", 
-    "Occurred_On_Count": "6", 
+    "Occurred_On_Count": "5", 
     "Surname": "Morrison", 
     "Firstname": "Samuel", 
     "Constituency_Number": "6", 
@@ -1206,7 +1206,7 @@
 {
     "Candidate_First_Pref_Votes": "1389", 
     "Status": "Excluded", 
-    "Occurred_On_Count": "6", 
+    "Occurred_On_Count": "5", 
     "Surname": "Morrison", 
     "Firstname": "Samuel", 
     "Constituency_Number": "6", 
@@ -1241,9 +1241,9 @@
     "Party_Name": "Ulster Unionist Party", 
     "Candidate_Id": "8113", 
     "Count_Number": "7", 
-    "Transfers": "0", 
+    "Transfers": "-5094.72", 
     "id": 88, 
-    "Total_Votes": "5094.72"
+    "Total_Votes": "0"
 },
 {
     "Candidate_First_Pref_Votes": "6013", 
@@ -1274,6 +1274,20 @@
     "Total_Votes": "0"
 },
 {
+    "Candidate_First_Pref_Votes": "912", 
+    "Status": "Excluded", 
+    "Occurred_On_Count": "4", 
+    "Surname": "Barrios-O'Neill", 
+    "Firstname": "Dan", 
+    "Constituency_Number": "6", 
+    "Party_Name": "Green Party", 
+    "Candidate_Id": "11537", 
+    "Count_Number": "8", 
+    "Transfers": "0", 
+    "id": 91, 
+    "Total_Votes": "0"
+},
+{
     "Candidate_First_Pref_Votes": "6846", 
     "Status": "Elected", 
     "Occurred_On_Count": "7", 
@@ -1283,8 +1297,8 @@
     "Party_Name": "Ulster Unionist Party", 
     "Candidate_Id": "8114", 
     "Count_Number": "8", 
-    "Transfers": "7512", 
-    "id": 91, 
+    "Transfers": "-3525.42", 
+    "id": 92, 
     "Total_Votes": "7512"
 },
 {
@@ -1297,8 +1311,8 @@
     "Party_Name": "Social Democratic and Labour Party", 
     "Candidate_Id": "7180", 
     "Count_Number": "8", 
-    "Transfers": "-4188.5", 
-    "id": 92, 
+    "Transfers": "1156", 
+    "id": 93, 
     "Total_Votes": "6848.92"
 },
 {
@@ -1311,8 +1325,8 @@
     "Party_Name": "Sinn Fein", 
     "Candidate_Id": "19716", 
     "Count_Number": "8", 
-    "Transfers": "-5692.92", 
-    "id": 93, 
+    "Transfers": "0", 
+    "id": 94, 
     "Total_Votes": "0"
 },
 {
@@ -1325,8 +1339,8 @@
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "11540", 
     "Count_Number": "8", 
-    "Transfers": "7512", 
-    "id": 94, 
+    "Transfers": "0", 
+    "id": 95, 
     "Total_Votes": "7512"
 },
 {
@@ -1339,8 +1353,8 @@
     "Party_Name": "Independent", 
     "Candidate_Id": "19747", 
     "Count_Number": "8", 
-    "Transfers": "-7512", 
-    "id": 95, 
+    "Transfers": "0", 
+    "id": 96, 
     "Total_Votes": "0"
 },
 {
@@ -1353,8 +1367,8 @@
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "11541", 
     "Count_Number": "8", 
-    "Transfers": "6415.7", 
-    "id": 96, 
+    "Transfers": "854", 
+    "id": 97, 
     "Total_Votes": "6415.7"
 },
 {
@@ -1367,22 +1381,22 @@
     "Party_Name": "Alliance Party", 
     "Candidate_Id": "763", 
     "Count_Number": "8", 
-    "Transfers": "2095.16", 
-    "id": 97, 
+    "Transfers": "0", 
+    "id": 98, 
     "Total_Votes": "7656.86"
 },
 {
     "Candidate_First_Pref_Votes": "1389", 
     "Status": "Excluded", 
-    "Occurred_On_Count": "6", 
+    "Occurred_On_Count": "5", 
     "Surname": "Morrison", 
     "Firstname": "Samuel", 
     "Constituency_Number": "6", 
     "Party_Name": "Traditional Unionist Voice", 
     "Candidate_Id": "297", 
     "Count_Number": "8", 
-    "Transfers": "-7656.86", 
-    "id": 98, 
+    "Transfers": "0", 
+    "id": 99, 
     "Total_Votes": "0"
 },
 {
@@ -1396,7 +1410,7 @@
     "Candidate_Id": "7410", 
     "Count_Number": "8", 
     "Transfers": "0", 
-    "id": 99, 
+    "id": 100, 
     "Total_Votes": "0"
 },
 {
@@ -1409,9 +1423,9 @@
     "Party_Name": "Ulster Unionist Party", 
     "Candidate_Id": "8113", 
     "Count_Number": "8", 
-    "Transfers": "5094.72", 
-    "id": 100, 
-    "Total_Votes": "5094.72"
+    "Transfers": "0", 
+    "id": 101, 
+    "Total_Votes": "0"
 },
 {
     "Candidate_First_Pref_Votes": "6013", 
@@ -1423,8 +1437,8 @@
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "11544", 
     "Count_Number": "8", 
-    "Transfers": "2307.1", 
-    "id": 101, 
+    "Transfers": "581", 
+    "id": 102, 
     "Total_Votes": "7401.82"
 },
 {
@@ -1437,8 +1451,8 @@
     "Party_Name": "NI Conservatives", 
     "Candidate_Id": "19723", 
     "Count_Number": "8", 
-    "Transfers": "-6820.82", 
-    "id": 102, 
+    "Transfers": "0", 
+    "id": 103, 
     "Total_Votes": "0"
 }
 ]}}

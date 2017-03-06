@@ -1457,8 +1457,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "2658", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Excluded", 
+    "Occurred_On_Count": "8", 
     "Surname": "Kyle", 
     "Firstname": "John", 
     "Constituency_Number": "2", 
@@ -1521,9 +1521,9 @@
     "Party_Name": "Green Party", 
     "Candidate_Id": "19699", 
     "Count_Number": "8", 
-    "Transfers": "0", 
+    "Transfers": "-2080.64", 
     "id": 108, 
-    "Total_Votes": "2080.65"
+    "Total_Votes": "0"
 },
 {
     "Candidate_First_Pref_Votes": "4729", 
@@ -1597,8 +1597,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "6007", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "9", 
     "Surname": "Bunting", 
     "Firstname": "Joanne", 
     "Constituency_Number": "2", 
@@ -1654,16 +1654,16 @@
 {
     "Candidate_First_Pref_Votes": "2658", 
     "Status": "Excluded", 
-    "Occurred_On_Count": "9", 
+    "Occurred_On_Count": "8", 
     "Surname": "Kyle", 
     "Firstname": "John", 
     "Constituency_Number": "2", 
     "Party_Name": "Progressive Unionist Party", 
     "Candidate_Id": "13037", 
     "Count_Number": "9", 
-    "Transfers": "198.51", 
+    "Transfers": "-3148.79", 
     "id": 118, 
-    "Total_Votes": "3347.3"
+    "Total_Votes": "0"
 },
 {
     "Candidate_First_Pref_Votes": "7610", 
@@ -1717,7 +1717,7 @@
     "Party_Name": "Green Party", 
     "Candidate_Id": "19699", 
     "Count_Number": "9", 
-    "Transfers": "-2080.65", 
+    "Transfers": "0", 
     "id": 122, 
     "Total_Votes": "0"
 },
@@ -1793,8 +1793,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "6007", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Elected", 
+    "Occurred_On_Count": "9", 
     "Surname": "Bunting", 
     "Firstname": "Joanne", 
     "Constituency_Number": "2", 
@@ -1850,14 +1850,14 @@
 {
     "Candidate_First_Pref_Votes": "2658", 
     "Status": "Excluded", 
-    "Occurred_On_Count": "9", 
+    "Occurred_On_Count": "8", 
     "Surname": "Kyle", 
     "Firstname": "John", 
     "Constituency_Number": "2", 
     "Party_Name": "Progressive Unionist Party", 
     "Candidate_Id": "13037", 
     "Count_Number": "10", 
-    "Transfers": "-3347.3", 
+    "Transfers": "0", 
     "id": 132, 
     "Total_Votes": "0"
 },
@@ -1885,9 +1885,9 @@
     "Party_Name": "Alliance Party", 
     "Candidate_Id": "13038", 
     "Count_Number": "10", 
-    "Transfers": "0", 
+    "Transfers": "-541.87", 
     "id": 134, 
-    "Total_Votes": "7268.87"
+    "Total_Votes": "6727"
 },
 {
     "Candidate_First_Pref_Votes": "84", 
@@ -1969,9 +1969,9 @@
     "Party_Name": "Ulster Unionist Party", 
     "Candidate_Id": "8116", 
     "Count_Number": "11", 
-    "Transfers": "0", 
+    "Transfers": "-530.62", 
     "id": 140, 
-    "Total_Votes": "7257.62"
+    "Total_Votes": "6727"
 },
 {
     "Candidate_First_Pref_Votes": "275", 
@@ -1990,7 +1990,7 @@
 {
     "Candidate_First_Pref_Votes": "6007", 
     "Status": "Elected", 
-    "Occurred_On_Count": "", 
+    "Occurred_On_Count": "9", 
     "Surname": "Bunting", 
     "Firstname": "Joanne", 
     "Constituency_Number": "2", 
@@ -2004,7 +2004,7 @@
 {
     "Candidate_First_Pref_Votes": "4431", 
     "Status": "Excluded", 
-    "Occurred_On_Count": "", 
+    "Occurred_On_Count": "11", 
     "Surname": "Douglas", 
     "Firstname": "David", 
     "Constituency_Number": "2", 
@@ -2046,7 +2046,7 @@
 {
     "Candidate_First_Pref_Votes": "2658", 
     "Status": "Excluded", 
-    "Occurred_On_Count": "10", 
+    "Occurred_On_Count": "8", 
     "Surname": "Kyle", 
     "Firstname": "John", 
     "Constituency_Number": "2", 
@@ -2081,7 +2081,7 @@
     "Party_Name": "Alliance Party", 
     "Candidate_Id": "13038", 
     "Count_Number": "11", 
-    "Transfers": "-541.87", 
+    "Transfers": "0", 
     "id": 148, 
     "Total_Votes": "6727"
 },

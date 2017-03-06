@@ -1185,7 +1185,7 @@
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "16581", 
     "Count_Number": "7", 
-    "Transfers": "0", 
+    "Transfers": "-66", 
     "id": 84, 
     "Total_Votes": "6531"
 },
@@ -1369,7 +1369,7 @@
     "Count_Number": "8", 
     "Transfers": "0", 
     "id": 97, 
-    "Total_Votes": "6531"
+    "Total_Votes": "6465"
 },
 {
     "Candidate_First_Pref_Votes": "1110", 
@@ -1551,7 +1551,7 @@
     "Count_Number": "9", 
     "Transfers": "0", 
     "id": 110, 
-    "Total_Votes": "6531"
+    "Total_Votes": "6465"
 },
 {
     "Candidate_First_Pref_Votes": "1110", 
@@ -1733,7 +1733,7 @@
     "Count_Number": "10", 
     "Transfers": "0", 
     "id": 123, 
-    "Total_Votes": "6531"
+    "Total_Votes": "6465"
 },
 {
     "Candidate_First_Pref_Votes": "1110", 
@@ -1915,7 +1915,7 @@
     "Count_Number": "11", 
     "Transfers": "0", 
     "id": 136, 
-    "Total_Votes": "6531"
+    "Total_Votes": "6465"
 },
 {
     "Candidate_First_Pref_Votes": "1110", 

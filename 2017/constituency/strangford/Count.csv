@@ -83,7 +83,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 15,19718,7,Scott,Benton,195,0,0,Excluded,1,NI Conservatives
 15,7179,7,Joe,Boyle,3045,0.25,4021,,,Social Democratic and Labour Party
 15,6984,7,Stephen,Cooper,1330,0,0,Excluded,4,Traditional Unionist Voice
-15,16581,7,Simon,Hamilton,6221,0,6531,Elected,5,Democratic Unionist Party
+15,16581,7,Simon,Hamilton,6221,-66,6531,Elected,5,Democratic Unionist Party
 15,12090,7,Dermot,Kennedy,1110,0,0,Excluded,3,Sinn Fein
 15,12092,7,Michelle,McIlveen,5728,49.5,6013.25,,,Democratic Unionist Party
 15,12094,7,Jimmy,Menagh,1627,1.5,1846.5,,,Independent
@@ -96,7 +96,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 15,19718,8,Scott,Benton,195,0,0,Excluded,1,NI Conservatives
 15,7179,8,Joe,Boyle,3045,94,4115,,,Social Democratic and Labour Party
 15,6984,8,Stephen,Cooper,1330,0,0,Excluded,4,Traditional Unionist Voice
-15,16581,8,Simon,Hamilton,6221,0,6531,Elected,5,Democratic Unionist Party
+15,16581,8,Simon,Hamilton,6221,0,6465,Elected,5,Democratic Unionist Party
 15,12090,8,Dermot,Kennedy,1110,0,0,Excluded,3,Sinn Fein
 15,12092,8,Michelle,McIlveen,5728,316.75,6330,,,Democratic Unionist Party
 15,12094,8,Jimmy,Menagh,1627,343.25,2189.75,Excluded,8,Independent
@@ -109,7 +109,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 15,19718,9,Scott,Benton,195,0,0,Excluded,1,NI Conservatives
 15,7179,9,Joe,Boyle,3045,114.25,4229.25,,,Social Democratic and Labour Party
 15,6984,9,Stephen,Cooper,1330,0,0,Excluded,4,Traditional Unionist Voice
-15,16581,9,Simon,Hamilton,6221,0,6531,Elected,5,Democratic Unionist Party
+15,16581,9,Simon,Hamilton,6221,0,6465,Elected,5,Democratic Unionist Party
 15,12090,9,Dermot,Kennedy,1110,0,0,Excluded,3,Sinn Fein
 15,12092,9,Michelle,McIlveen,5728,432,6762,Elected,9,Democratic Unionist Party
 15,12094,9,Jimmy,Menagh,1627,-2189.75,0,Excluded,8,Independent
@@ -122,7 +122,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 15,19718,10,Scott,Benton,195,0,0,Excluded,1,NI Conservatives
 15,7179,10,Joe,Boyle,3045,934,5163.25,,,Social Democratic and Labour Party
 15,6984,10,Stephen,Cooper,1330,0,0,Excluded,4,Traditional Unionist Voice
-15,16581,10,Simon,Hamilton,6221,0,6531,Elected,5,Democratic Unionist Party
+15,16581,10,Simon,Hamilton,6221,0,6465,Elected,5,Democratic Unionist Party
 15,12090,10,Dermot,Kennedy,1110,0,0,Excluded,3,Sinn Fein
 15,12092,10,Michelle,McIlveen,5728,0,6762,Elected,9,Democratic Unionist Party
 15,12094,10,Jimmy,Menagh,1627,0,0,Excluded,8,Independent
@@ -135,7 +135,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 15,19718,11,Scott,Benton,195,0,0,Excluded,1,NI Conservatives
 15,7179,11,Joe,Boyle,3045,3.84,5167.09,Excluded,11,Social Democratic and Labour Party
 15,6984,11,Stephen,Cooper,1330,0,0,Excluded,4,Traditional Unionist Voice
-15,16581,11,Simon,Hamilton,6221,0,6531,Elected,5,Democratic Unionist Party
+15,16581,11,Simon,Hamilton,6221,0,6465,Elected,5,Democratic Unionist Party
 15,12090,11,Dermot,Kennedy,1110,0,0,Excluded,3,Sinn Fein
 15,12092,11,Michelle,McIlveen,5728,-297,6465,Elected,9,Democratic Unionist Party
 15,12094,11,Jimmy,Menagh,1627,0,0,Excluded,8,Independent

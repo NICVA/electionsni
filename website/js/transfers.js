@@ -99,6 +99,11 @@ var parties_info = {
     "Party_Abbreviation": "CISTA",
     "Hex_Col": "#F84651"
   },
+  "Citizens Independent Social Thought Alliance": {
+    "Party_Id": 993,
+    "Party_Abbreviation": "CISTA",
+    "Hex_Col": "#F84651"
+  },
   "Cross-Community Labour Alternative": {
     "Party_Id": 987,
     "Party_Abbreviation": "CCLAB",
@@ -154,7 +159,7 @@ function getTransfersData(year) {
 				for (var donor in count.From) break; // get the name of the donor party
 				// create party if does not exist
 				if (!transfers[con][donor]) {
-					transfers[con][donor] = {total: count.From[donor]}; //initialise and add total  
+					transfers[con][donor] = {total: count.From[donor]}; //initialise and add total
 				} else {
 					transfers[con][donor].total += count.From[donor]; // add to existing total
 				}
@@ -167,7 +172,7 @@ function getTransfersData(year) {
 					if (!transfers[con][donor][recipient]) { // if recipient does not exist
 						transfers[con][donor][recipient] = amount; // set recipient value = amount
 					} else {
-						transfers[con][donor][recipient] += amount // add to existing recipient amount 
+						transfers[con][donor][recipient] += amount // add to existing recipient amount
 					};
 				});
 			});
@@ -188,16 +193,16 @@ function getTransfersData(year) {
 							donor_short: parties_info[donor].Party_Abbreviation,
 							recipient: parties_info[recipient].Party_Abbreviation,
 							color: parties_info[donor].Hex_Col,
-							amount: amount / totalTransfers * 100 
+							amount: amount / totalTransfers * 100
 						});
 					}
 				});
 			});
 			transferData[cname] = data;
 		});
-		
+
 		console.log("transferData", transferData);
-		
+
 		function loadViz() {
 			$.get("/website/jsonspec/transferSpec.json", function (json) {
 				var spec = JSON5.parse(json);
@@ -216,15 +221,15 @@ function getTransfersData(year) {
 					  source: "transfers",
 					  transform: [
 						{
-							type: "aggregate", 
+							type: "aggregate",
 							groupby: "donor",
 							summarize: {donor: "distinct"}
 						},
 						{
-							type: "rank", 
+							type: "rank",
 							field: "donor"
 						},                    {
-							type: "formula", 
+							type: "formula",
 							field: "height",
 							expr: "datum.rank*30"
 						}
@@ -235,15 +240,15 @@ function getTransfersData(year) {
 					  source: "transfers",
 					  transform: [
 						{
-							type: "aggregate", 
+							type: "aggregate",
 							groupby: "recipient",
 							summarize: {recipient: "distinct"}
 						},
 						{
-							type: "rank", 
+							type: "rank",
 							field: "recipient"
 						},                    {
-							type: "formula", 
+							type: "formula",
 							field: "width",
 							expr: "datum.rank*35"
 						}
@@ -269,7 +274,7 @@ function getTransfersData(year) {
 				});
 			}, "text");
 		}
-		
+
 		$("#constituencySelect").change(loadViz);
 		loadViz();
 });

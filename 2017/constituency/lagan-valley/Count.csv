@@ -59,7 +59,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 6,19747,5,Keith John,Gray,76,0,0,Excluded,1,Independent
 6,11541,5,Brenda,Hale,4566,19.12,4927.14,,,Democratic Unionist Party
 6,763,5,Trevor,Lunn,6105,678.06,7018.86,,,Alliance Party
-6,297,5,Samuel,Morrison,1389,14,1448,Excluded,6,Traditional Unionist Voice
+6,297,5,Samuel,Morrison,1389,14,1448,Excluded,5,Traditional Unionist Voice
 6,7410,5,Jonny,Orr,856,0,0,Excluded,3,Independent
 6,8113,5,Jenny,Palmer,4492,64.12,4736.7,,,Ulster Unionist Party
 6,11544,5,Edwin,Poots,6013,18,6185.04,,,Democratic Unionist Party
@@ -72,7 +72,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 6,19747,6,Keith John,Gray,76,0,0,Excluded,1,Independent
 6,11541,6,Brenda,Hale,4566,333.7,5260.84,,,Democratic Unionist Party
 6,763,6,Trevor,Lunn,6105,375,7393.86,,,Alliance Party
-6,297,6,Samuel,Morrison,1389,-1448,0,Excluded,6,Traditional Unionist Voice
+6,297,6,Samuel,Morrison,1389,-1448,0,Excluded,5,Traditional Unionist Voice
 6,7410,6,Jonny,Orr,856,0,0,Excluded,3,Independent
 6,8113,6,Jenny,Palmer,4492,358.02,5094.72,Excluded,6,Ulster Unionist Party
 6,11544,6,Edwin,Poots,6013,287.44,6472.48,,,Democratic Unionist Party
@@ -85,20 +85,21 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 6,19747,7,Keith John,Gray,76,0,0,Excluded,1,Independent
 6,11541,7,Brenda,Hale,4566,300.86,5561.7,,,Democratic Unionist Party
 6,763,7,Trevor,Lunn,6105,263,7656.86,Elected,7,Alliance Party
-6,297,7,Samuel,Morrison,1389,0,0,Excluded,6,Traditional Unionist Voice
+6,297,7,Samuel,Morrison,1389,0,0,Excluded,5,Traditional Unionist Voice
 6,7410,7,Jonny,Orr,856,0,0,Excluded,3,Independent
-6,8113,7,Jenny,Palmer,4492,0,5094.72,Excluded,6,Ulster Unionist Party
+6,8113,7,Jenny,Palmer,4492,-5094.72,0,Excluded,6,Ulster Unionist Party
 6,11544,7,Edwin,Poots,6013,348.34,6820.82,,,Democratic Unionist Party
 6,19723,7,Matthew,Robinson,183,0,0,Excluded,1,NI Conservatives
-6,8114,8,Robbie,Butler,6846,7512,7512,Elected,7,Ulster Unionist Party
-6,7180,8,Pat,Catney,3795,-4188.5,6848.92,Elected,8,Social Democratic and Labour Party
-6,19716,8,Peter,Doran,1801,-5692.92,0,Excluded,5,Sinn Fein
-6,11540,8,Paul,Givan,8035,7512,7512,Elected,1,Democratic Unionist Party
-6,19747,8,Keith John,Gray,76,-7512,0,Excluded,1,Independent
-6,11541,8,Brenda,Hale,4566,6415.7,6415.7,Excluded,8,Democratic Unionist Party
-6,763,8,Trevor,Lunn,6105,2095.16,7656.86,Elected,7,Alliance Party
-6,297,8,Samuel,Morrison,1389,-7656.86,0,Excluded,6,Traditional Unionist Voice
+6,11537,8,Dan,Barrios-O'Neill,912,0,0,Excluded,4,Green Party
+6,8114,8,Robbie,Butler,6846,-3525.42,7512,Elected,7,Ulster Unionist Party
+6,7180,8,Pat,Catney,3795,1156,6848.92,Elected,8,Social Democratic and Labour Party
+6,19716,8,Peter,Doran,1801,0,0,Excluded,5,Sinn Fein
+6,11540,8,Paul,Givan,8035,0,7512,Elected,1,Democratic Unionist Party
+6,19747,8,Keith John,Gray,76,0,0,Excluded,1,Independent
+6,11541,8,Brenda,Hale,4566,854,6415.7,Excluded,8,Democratic Unionist Party
+6,763,8,Trevor,Lunn,6105,0,7656.86,Elected,7,Alliance Party
+6,297,8,Samuel,Morrison,1389,0,0,Excluded,5,Traditional Unionist Voice
 6,7410,8,Jonny,Orr,856,0,0,Excluded,3,Independent
-6,8113,8,Jenny,Palmer,4492,5094.72,5094.72,Excluded,6,Ulster Unionist Party
-6,11544,8,Edwin,Poots,6013,2307.1,7401.82,Elected,8,Democratic Unionist Party
-6,19723,8,Matthew,Robinson,183,-6820.82,0,Excluded,1,NI Conservatives
+6,8113,8,Jenny,Palmer,4492,0,0,Excluded,6,Ulster Unionist Party
+6,11544,8,Edwin,Poots,6013,581,7401.82,Elected,8,Democratic Unionist Party
+6,19723,8,Matthew,Robinson,183,0,0,Excluded,1,NI Conservatives

@@ -379,8 +379,8 @@
 },
 {
     "Candidate_First_Pref_Votes": "530", 
-    "Status": "", 
-    "Occurred_On_Count": "", 
+    "Status": "Excluded", 
+    "Occurred_On_Count": "3", 
     "Surname": "Antova", 
     "Firstname": "Ivanka", 
     "Constituency_Number": "12", 

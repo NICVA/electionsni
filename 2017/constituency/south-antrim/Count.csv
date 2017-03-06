@@ -26,7 +26,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 12,5390,2,Roisin,Lynch,4024,11,4035,,,Social Democratic and Labour Party
 12,13371,2,David,McMaster,503,14,517,,,Independent
 12,8151,3,Steve,Aiken,6287,42,6368,,,Ulster Unionist Party
-12,19681,3,Ivanka,Antova,530,123,658,,,People Before Profit Alliance
+12,19681,3,Ivanka,Antova,530,123,658,Excluded,3,People Before Profit Alliance
 12,19704,3,Eleanor,Bailey,501,-504,0,Excluded,2,Green Party
 12,6346,3,Richard William,Cairns,1353,9,1378,,,Traditional Unionist Voice
 12,13366,3,Pam,Cameron,4604,11,4624,,,Democratic Unionist Party

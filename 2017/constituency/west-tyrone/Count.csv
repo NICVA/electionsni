@@ -60,17 +60,17 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 18,19675,4,Roisin,McMackin,85,0.44,86.48,Excluded,4,Independent
 18,7348,4,Susan-Anne,White,41,0.06,45.28,Excluded,4,Independent
 18,11342,5,Michaela,Boyle,7714,0,7388,Elected,1,Sinn Fein
-18,6920,5,Barry,Brown,373,0,385.42,Excluded,4,Citizens Independent Social Thought Alliance
+18,6920,5,Barry,Brown,373,-385.42,0,Excluded,4,Citizens Independent Social Thought Alliance
 18,1871,5,Thomas,Buchanan,9064,0,7388,Elected,1,Democratic Unionist Party
-18,19733,5,Charlie,Chittick,851,0,1428.97,Excluded,4,Traditional Unionist Voice
+18,19733,5,Charlie,Chittick,851,-1428.97,0,Excluded,4,Traditional Unionist Voice
 18,19689,5,Alicia,Clarke,3654,1584.81,6274.54,Excluded,5,Ulster Unionist Party
-18,6365,5,Stephen,Donnelly,1252,0,1265.6,Excluded,4,Alliance Party
-18,11347,5,Corey,French,98,0,101.56,Excluded,4,Independent
-18,11346,5,Roger,Lomas,27,0,32.19,Excluded,4,NI Conservatives
+18,6365,5,Stephen,Donnelly,1252,-1265.6,0,Excluded,4,Alliance Party
+18,11347,5,Corey,French,98,-101.56,0,Excluded,4,Independent
+18,11346,5,Roger,Lomas,27,-32.19,0,Excluded,4,NI Conservatives
 18,11343,5,Declan,McAleer,6034,613.66,7034.99,Elected,5,Sinn Fein
-18,11337,5,Sorcha,McAnespy,864,0,874.93,Excluded,4,Independent
-18,5184,5,Ciaran,McClean,412,0,418.19,Excluded,4,Green Party
+18,11337,5,Sorcha,McAnespy,864,-874.93,0,Excluded,4,Independent
+18,5184,5,Ciaran,McClean,412,-418.19,0,Excluded,4,Green Party
 18,5185,5,Daniel,McCrossan,6283,1339,7681.6,Elected,5,Social Democratic and Labour Party
 18,11345,5,Barry,McElduff,7573,0,7388,Elected,1,Sinn Fein
-18,19675,5,Roisin,McMackin,85,0,86.48,Excluded,4,Independent
-18,7348,5,Susan-Anne,White,41,0,45.28,Excluded,4,Independent
+18,19675,5,Roisin,McMackin,85,-86.48,0,Excluded,4,Independent
+18,7348,5,Susan-Anne,White,41,-45.28,0,Excluded,4,Independent
