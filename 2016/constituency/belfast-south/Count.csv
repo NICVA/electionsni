@@ -2,7 +2,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 13,37,1,Brigitte,ANTON,246,0,246,,,NI Labour Representation Committee
 13,38,1,Clare,BAILEY,3521,0,3521,,,Green Party
 13,39,1,Paula,BRADSHAW,3332,0,3332,,,Alliance Party
-13,40,1,Sean,BURNS,871,0,871,,,Labour Alternative
+13,40,1,Sean,BURNS,871,0,871,,,Cross-Community Labour Alternative
 13,41,1,William,DICKSON,351,0,351,,,South Belfast Unionists
 13,42,1,Claire,HANNA,4516,0,4516,,,Social Democratic and Labour Party
 13,43,1,John Andrew,HIDDLESTON,495,0,495,,,Traditional Unionist Voice
@@ -20,7 +20,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 13,37,2,Brigitte,ANTON,246,2,248,,,NI Labour Representation Committee
 13,38,2,Clare,BAILEY,3521,13,3534,,,Green Party
 13,39,2,Paula,BRADSHAW,3332,20,3352,,,Alliance Party
-13,40,2,Sean,BURNS,871,0,871,,,Labour Alternative
+13,40,2,Sean,BURNS,871,0,871,,,Cross-Community Labour Alternative
 13,41,2,William,DICKSON,351,6,357,,,South Belfast Unionists
 13,42,2,Claire,HANNA,4516,6,4522,,,Social Democratic and Labour Party
 13,43,2,John Andrew,HIDDLESTON,495,3,498,,,Traditional Unionist Voice
@@ -38,7 +38,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 13,37,3,Brigitte,ANTON,246,10,258,Excluded,3,NI Labour Representation Committee
 13,38,3,Clare,BAILEY,3521,66,3600,,,Green Party
 13,39,3,Paula,BRADSHAW,3332,17,3369,,,Alliance Party
-13,40,3,Sean,BURNS,871,38,909,,,Labour Alternative
+13,40,3,Sean,BURNS,871,38,909,,,Cross-Community Labour Alternative
 13,41,3,William,DICKSON,351,1,358,,,South Belfast Unionists
 13,42,3,Claire,HANNA,4516,37,4559,,,Social Democratic and Labour Party
 13,43,3,John Andrew,HIDDLESTON,495,1,499,,,Traditional Unionist Voice
@@ -56,7 +56,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 13,37,4,Brigitte,ANTON,246,-258,0,Excluded,3,NI Labour Representation Committee
 13,38,4,Clare,BAILEY,3521,70,3670,,,Green Party
 13,39,4,Paula,BRADSHAW,3332,31,3400,,,Alliance Party
-13,40,4,Sean,BURNS,871,62,971,,,Labour Alternative
+13,40,4,Sean,BURNS,871,62,971,,,Cross-Community Labour Alternative
 13,41,4,William,DICKSON,351,1,359,Excluded,4,South Belfast Unionists
 13,42,4,Claire,HANNA,4516,15,4574,,,Social Democratic and Labour Party
 13,43,4,John Andrew,HIDDLESTON,495,2,501,,,Traditional Unionist Voice
@@ -74,7 +74,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 13,37,5,Brigitte,ANTON,246,0,0,Excluded,3,NI Labour Representation Committee
 13,38,5,Clare,BAILEY,3521,8,3678,,,Green Party
 13,39,5,Paula,BRADSHAW,3332,18,3418,,,Alliance Party
-13,40,5,Sean,BURNS,871,3,974,,,Labour Alternative
+13,40,5,Sean,BURNS,871,3,974,,,Cross-Community Labour Alternative
 13,41,5,William,DICKSON,351,-359,0,Excluded,4,South Belfast Unionists
 13,42,5,Claire,HANNA,4516,7,4581,,,Social Democratic and Labour Party
 13,43,5,John Andrew,HIDDLESTON,495,57,558,,,Traditional Unionist Voice
@@ -92,7 +92,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 13,37,6,Brigitte,ANTON,246,0,0,Excluded,3,NI Labour Representation Committee
 13,38,6,Clare,BAILEY,3521,13,3691,,,Green Party
 13,39,6,Paula,BRADSHAW,3332,7,3425,,,Alliance Party
-13,40,6,Sean,BURNS,871,11,985,,,Labour Alternative
+13,40,6,Sean,BURNS,871,11,985,,,Cross-Community Labour Alternative
 13,41,6,William,DICKSON,351,0,0,Excluded,4,South Belfast Unionists
 13,42,6,Claire,HANNA,4516,1,4582,,,Social Democratic and Labour Party
 13,43,6,John Andrew,HIDDLESTON,495,32,590,,,Traditional Unionist Voice
@@ -110,7 +110,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 13,37,7,Brigitte,ANTON,246,0,0,Excluded,3,NI Labour Representation Committee
 13,38,7,Clare,BAILEY,3521,16,3707,,,Green Party
 13,39,7,Paula,BRADSHAW,3332,12,3437,,,Alliance Party
-13,40,7,Sean,BURNS,871,4,989,Excluded,7,Labour Alternative
+13,40,7,Sean,BURNS,871,4,989,Excluded,7,Cross-Community Labour Alternative
 13,41,7,William,DICKSON,351,0,0,Excluded,4,South Belfast Unionists
 13,42,7,Claire,HANNA,4516,9,4591,,,Social Democratic and Labour Party
 13,43,7,John Andrew,HIDDLESTON,495,95,685,Excluded,7,Traditional Unionist Voice
@@ -128,7 +128,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 13,37,8,Brigitte,ANTON,246,0,0,Excluded,3,NI Labour Representation Committee
 13,38,8,Clare,BAILEY,3521,582,4289,,,Green Party
 13,39,8,Paula,BRADSHAW,3332,133,3570,,,Alliance Party
-13,40,8,Sean,BURNS,871,-989,0,Excluded,7,Labour Alternative
+13,40,8,Sean,BURNS,871,-989,0,Excluded,7,Cross-Community Labour Alternative
 13,41,8,William,DICKSON,351,0,0,Excluded,4,South Belfast Unionists
 13,42,8,Claire,HANNA,4516,147,4738,,,Social Democratic and Labour Party
 13,43,8,John Andrew,HIDDLESTON,495,-685,0,Excluded,7,Traditional Unionist Voice
@@ -146,7 +146,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 13,37,9,Brigitte,ANTON,246,0,0,Excluded,3,NI Labour Representation Committee
 13,38,9,Clare,BAILEY,3521,235,4524,,,Green Party
 13,39,9,Paula,BRADSHAW,3332,2159,5729,Elected,9,Alliance Party
-13,40,9,Sean,BURNS,871,0,0,Excluded,7,Labour Alternative
+13,40,9,Sean,BURNS,871,0,0,Excluded,7,Cross-Community Labour Alternative
 13,41,9,William,DICKSON,351,0,0,Excluded,4,South Belfast Unionists
 13,42,9,Claire,HANNA,4516,196,4934,,,Social Democratic and Labour Party
 13,43,9,John Andrew,HIDDLESTON,495,0,0,Excluded,7,Traditional Unionist Voice
@@ -164,7 +164,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 13,37,10,Brigitte,ANTON,246,0,0,Excluded,3,NI Labour Representation Committee
 13,38,10,Clare,BAILEY,3521,205.5,4729.5,,,Green Party
 13,39,10,Paula,BRADSHAW,3332,-482,5247,Elected,9,Alliance Party
-13,40,10,Sean,BURNS,871,0,0,Excluded,7,Labour Alternative
+13,40,10,Sean,BURNS,871,0,0,Excluded,7,Cross-Community Labour Alternative
 13,41,10,William,DICKSON,351,0,0,Excluded,4,South Belfast Unionists
 13,42,10,Claire,HANNA,4516,122.5,5056.5,,,Social Democratic and Labour Party
 13,43,10,John Andrew,HIDDLESTON,495,0,0,Excluded,7,Traditional Unionist Voice
@@ -182,7 +182,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 13,37,11,Brigitte,ANTON,246,0,0,Excluded,3,NI Labour Representation Committee
 13,38,11,Clare,BAILEY,3521,203.25,4932.75,,,Green Party
 13,39,11,Paula,BRADSHAW,3332,0,5247,Elected,9,Alliance Party
-13,40,11,Sean,BURNS,871,0,0,Excluded,7,Labour Alternative
+13,40,11,Sean,BURNS,871,0,0,Excluded,7,Cross-Community Labour Alternative
 13,41,11,William,DICKSON,351,0,0,Excluded,4,South Belfast Unionists
 13,42,11,Claire,HANNA,4516,2585,7641.5,Elected,11,Social Democratic and Labour Party
 13,43,11,John Andrew,HIDDLESTON,495,0,0,Excluded,7,Traditional Unionist Voice
@@ -200,7 +200,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 13,37,12,Brigitte,ANTON,246,0,0,Excluded,3,NI Labour Representation Committee
 13,38,12,Clare,BAILEY,3521,1124,6056.75,Elected,12,Green Party
 13,39,12,Paula,BRADSHAW,3332,0,5247,Elected,9,Alliance Party
-13,40,12,Sean,BURNS,871,0,0,Excluded,7,Labour Alternative
+13,40,12,Sean,BURNS,871,0,0,Excluded,7,Cross-Community Labour Alternative
 13,41,12,William,DICKSON,351,0,0,Excluded,4,South Belfast Unionists
 13,42,12,Claire,HANNA,4516,-2394.5,5247,Elected,11,Social Democratic and Labour Party
 13,43,12,John Andrew,HIDDLESTON,495,0,0,Excluded,7,Traditional Unionist Voice

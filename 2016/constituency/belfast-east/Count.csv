@@ -15,7 +15,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 2,14,1,Tim,MORROW,2372,0,2372,,,Alliance Party
 2,15,1,Robin,NEWTON,3875,0,3875,,,Democratic Unionist Party
 2,16,1,Niall,O DONNGHAILE,946,0,946,,,Sinn Fein
-2,17,1,Courtney,ROBINSON,517,0,517,,,Labour Alternative
+2,17,1,Courtney,ROBINSON,517,0,517,,,Cross-Community Labour Alternative
 2,18,1,Neil,WILSON,477,0,477,,,NI Conservatives
 2,1,2,Andy,ALLEN,3047,10.28,3057.28,,,Ulster Unionist Party
 2,2,2,Ross,BROWN,2183,1.4,2184.4,,,Green Party
@@ -33,7 +33,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 2,14,2,Tim,MORROW,2372,0.36,2372.36,,,Alliance Party
 2,15,2,Robin,NEWTON,3875,21.88,3896.88,,,Democratic Unionist Party
 2,16,2,Niall,O DONNGHAILE,946,0,946,,,Sinn Fein
-2,17,2,Courtney,ROBINSON,517,0.2,517.2,,,Labour Alternative
+2,17,2,Courtney,ROBINSON,517,0.2,517.2,,,Cross-Community Labour Alternative
 2,18,2,Neil,WILSON,477,0.36,477.36,,,NI Conservatives
 2,1,3,Andy,ALLEN,3047,8,3065.28,,,Ulster Unionist Party
 2,2,3,Ross,BROWN,2183,38,2222.4,,,Green Party
@@ -51,7 +51,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 2,14,3,Tim,MORROW,2372,18,2390.36,,,Alliance Party
 2,15,3,Robin,NEWTON,3875,3.16,3900.04,,,Democratic Unionist Party
 2,16,3,Niall,O DONNGHAILE,946,17,963,,,Sinn Fein
-2,17,3,Courtney,ROBINSON,517,29,546.2,,,Labour Alternative
+2,17,3,Courtney,ROBINSON,517,29,546.2,,,Cross-Community Labour Alternative
 2,18,3,Neil,WILSON,477,5,482.36,,,NI Conservatives
 2,1,4,Andy,ALLEN,3047,4.29,3069.57,,,Ulster Unionist Party
 2,2,4,Ross,BROWN,2183,10.89,2233.29,,,Green Party
@@ -69,7 +69,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 2,14,4,Tim,MORROW,2372,14.61,2404.97,,,Alliance Party
 2,15,4,Robin,NEWTON,3875,2.46,3902.5,,,Democratic Unionist Party
 2,16,4,Niall,O DONNGHAILE,946,1.71,964.71,,,Sinn Fein
-2,17,4,Courtney,ROBINSON,517,2.37,548.57,,,Labour Alternative
+2,17,4,Courtney,ROBINSON,517,2.37,548.57,,,Cross-Community Labour Alternative
 2,18,4,Neil,WILSON,477,1.14,483.5,Excluded,4,NI Conservatives
 2,1,5,Andy,ALLEN,3047,107.15,3176.72,,,Ulster Unionist Party
 2,2,5,Ross,BROWN,2183,50.2,2283.49,,,Green Party
@@ -87,7 +87,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 2,14,5,Tim,MORROW,2372,26.1,2431.07,,,Alliance Party
 2,15,5,Robin,NEWTON,3875,36.12,3938.62,,,Democratic Unionist Party
 2,16,5,Niall,O DONNGHAILE,946,2,966.71,,,Sinn Fein
-2,17,5,Courtney,ROBINSON,517,8,556.57,Excluded,5,Labour Alternative
+2,17,5,Courtney,ROBINSON,517,8,556.57,Excluded,5,Cross-Community Labour Alternative
 2,18,5,Neil,WILSON,477,-483.5,0,Excluded,4,NI Conservatives
 2,1,6,Andy,ALLEN,3047,25.09,3201.81,,,Ulster Unionist Party
 2,2,6,Ross,BROWN,2183,213.74,2497.23,,,Green Party
@@ -105,7 +105,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 2,14,6,Tim,MORROW,2372,38.18,2469.25,,,Alliance Party
 2,15,6,Robin,NEWTON,3875,8,3946.62,,,Democratic Unionist Party
 2,16,6,Niall,O DONNGHAILE,946,19.06,985.77,,,Sinn Fein
-2,17,6,Courtney,ROBINSON,517,-556.57,0,Excluded,5,Labour Alternative
+2,17,6,Courtney,ROBINSON,517,-556.57,0,Excluded,5,Cross-Community Labour Alternative
 2,18,6,Neil,WILSON,477,0,0,Excluded,4,NI Conservatives
 2,1,7,Andy,ALLEN,3047,81.34,3283.15,,,Ulster Unionist Party
 2,2,7,Ross,BROWN,2183,62.09,2559.32,,,Green Party
@@ -123,7 +123,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 2,14,7,Tim,MORROW,2372,9.16,2478.41,,,Alliance Party
 2,15,7,Robin,NEWTON,3875,48.2,3994.82,,,Democratic Unionist Party
 2,16,7,Niall,O DONNGHAILE,946,3,988.77,Excluded,7,Sinn Fein
-2,17,7,Courtney,ROBINSON,517,0,0,Excluded,5,Labour Alternative
+2,17,7,Courtney,ROBINSON,517,0,0,Excluded,5,Cross-Community Labour Alternative
 2,18,7,Neil,WILSON,477,0,0,Excluded,4,NI Conservatives
 2,1,8,Andy,ALLEN,3047,3,3286.15,,,Ulster Unionist Party
 2,2,8,Ross,BROWN,2183,334.63,2893.95,,,Green Party
@@ -141,7 +141,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 2,14,8,Tim,MORROW,2372,48.15,2526.56,,,Alliance Party
 2,15,8,Robin,NEWTON,3875,4.03,3998.85,,,Democratic Unionist Party
 2,16,8,Niall,O DONNGHAILE,946,-988.77,0,Excluded,7,Sinn Fein
-2,17,8,Courtney,ROBINSON,517,0,0,Excluded,5,Labour Alternative
+2,17,8,Courtney,ROBINSON,517,0,0,Excluded,5,Cross-Community Labour Alternative
 2,18,8,Neil,WILSON,477,0,0,Excluded,4,NI Conservatives
 2,1,9,Andy,ALLEN,3047,234.44,3520.59,,,Ulster Unionist Party
 2,2,9,Ross,BROWN,2183,41.23,2935.18,,,Green Party
@@ -159,7 +159,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 2,14,9,Tim,MORROW,2372,7,2533.56,,,Alliance Party
 2,15,9,Robin,NEWTON,3875,106.43,4105.28,,,Democratic Unionist Party
 2,16,9,Niall,O DONNGHAILE,946,0,0,Excluded,7,Sinn Fein
-2,17,9,Courtney,ROBINSON,517,0,0,Excluded,5,Labour Alternative
+2,17,9,Courtney,ROBINSON,517,0,0,Excluded,5,Cross-Community Labour Alternative
 2,18,9,Neil,WILSON,477,0,0,Excluded,4,NI Conservatives
 2,1,10,Andy,ALLEN,3047,257.35,3777.94,,,Ulster Unionist Party
 2,2,10,Ross,BROWN,2183,83.28,3018.46,,,Green Party
@@ -177,7 +177,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 2,14,10,Tim,MORROW,2372,5,2538.56,,,Alliance Party
 2,15,10,Robin,NEWTON,3875,77.27,4182.55,,,Democratic Unionist Party
 2,16,10,Niall,O DONNGHAILE,946,0,0,Excluded,7,Sinn Fein
-2,17,10,Courtney,ROBINSON,517,0,0,Excluded,5,Labour Alternative
+2,17,10,Courtney,ROBINSON,517,0,0,Excluded,5,Cross-Community Labour Alternative
 2,18,10,Neil,WILSON,477,0,0,Excluded,4,NI Conservatives
 2,1,11,Andy,ALLEN,3047,978.59,4756.53,,,Ulster Unionist Party
 2,2,11,Ross,BROWN,2183,32.38,3050.84,,,Green Party
@@ -195,7 +195,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 2,14,11,Tim,MORROW,2372,29.51,2568.07,,,Alliance Party
 2,15,11,Robin,NEWTON,3875,85.28,4267.83,,,Democratic Unionist Party
 2,16,11,Niall,O DONNGHAILE,946,0,0,Excluded,7,Sinn Fein
-2,17,11,Courtney,ROBINSON,517,0,0,Excluded,5,Labour Alternative
+2,17,11,Courtney,ROBINSON,517,0,0,Excluded,5,Cross-Community Labour Alternative
 2,18,11,Neil,WILSON,477,0,0,Excluded,4,NI Conservatives
 2,1,12,Andy,ALLEN,3047,576,5332.53,Elected,12,Ulster Unionist Party
 2,2,12,Ross,BROWN,2183,242.41,3293.25,,,Green Party
@@ -213,7 +213,7 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 2,14,12,Tim,MORROW,2372,68.55,2636.62,Excluded,12,Alliance Party
 2,15,12,Robin,NEWTON,3875,477.67,4745.5,,,Democratic Unionist Party
 2,16,12,Niall,O DONNGHAILE,946,0,0,Excluded,7,Sinn Fein
-2,17,12,Courtney,ROBINSON,517,0,0,Excluded,5,Labour Alternative
+2,17,12,Courtney,ROBINSON,517,0,0,Excluded,5,Cross-Community Labour Alternative
 2,18,12,Neil,WILSON,477,0,0,Excluded,4,NI Conservatives
 2,1,13,Andy,ALLEN,3047,0,5332.53,Elected,12,Ulster Unionist Party
 2,2,13,Ross,BROWN,2183,194.44,3487.69,Excluded,13,Green Party
@@ -231,5 +231,5 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 2,14,13,Tim,MORROW,2372,-2636.62,0,Excluded,12,Alliance Party
 2,15,13,Robin,NEWTON,3875,67.04,4812.54,Elected,13,Democratic Unionist Party
 2,16,13,Niall,O DONNGHAILE,946,0,0,Excluded,7,Sinn Fein
-2,17,13,Courtney,ROBINSON,517,0,0,Excluded,5,Labour Alternative
+2,17,13,Courtney,ROBINSON,517,0,0,Excluded,5,Cross-Community Labour Alternative
 2,18,13,Neil,WILSON,477,0,0,Excluded,4,NI Conservatives
