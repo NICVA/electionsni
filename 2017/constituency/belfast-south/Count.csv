@@ -1,127 +1,127 @@
 Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_Pref_Votes,Transfers,Total_Votes,Status,Occurred_On_Count,Party_Name
-13,5824,1,Clare,Bailey,4247,0,4247,,,Green Party
-13,1679,1,Paula,Bradshaw,5595,0,5595,,,Alliance Party
-13,11455,1,Sean,Burns,531,0,531,,,Cross-Community Labour Alternative
-13,19698,1,Naomh,Gallagher,1794,0,1794,,,Social Democratic and Labour Party
-13,3475,1,Claire,Hanna,6559,0,6559,,,Social Democratic and Labour Party
-13,19709,1,Micheal,Henderson,3863,0,3863,,,Ulster Unionist Party
-13,11457,1,John,Andrew Hiddleston,703,0,703,,,Traditional Unionist Voice
-13,6023,1,George,Jabbour,200,0,200,,,NI Conservatives
-13,6265,1,Lily,Kerr,163,0,163,,,Workers Party
-13,19677,1,Emmet,McDonough-Brown,2053,0,2053,,,Alliance Party
-13,19670,1,Pádraigín,Mervyn,760,0,760,,,People Before Profit Alliance
-13,4597,1,Máirtín,Ó Muilleoir,7610,0,7610,Elected,1,Sinn Fein
-13,11458,1,Emma,Little Pengelly,4446,0,4446,,,Democratic Unionist Party
-13,11461,1,Christopher David Matthew,Stalford,4529,0,4529,,,Democratic Unionist Party
+13,5824,1,Clare,Bailey,4247,0.00,4247.00,,,Green Party
+13,1679,1,Paula,Bradshaw,5595,0.00,5595.00,,,Alliance Party
+13,11455,1,Sean,Burns,531,0.00,531.00,,,Cross-Community Labour Alternative
+13,19698,1,Naomh,Gallagher,1794,0.00,1794.00,,,Social Democratic and Labour Party
+13,3475,1,Claire,Hanna,6559,0.00,6559.00,,,Social Democratic and Labour Party
+13,19709,1,Micheal,Henderson,3863,0.00,3863.00,,,Ulster Unionist Party
+13,11457,1,John,Andrew Hiddleston,703,0.00,703.00,,,Traditional Unionist Voice
+13,6023,1,George,Jabbour,200,0.00,200.00,,,NI Conservatives
+13,6265,1,Lily,Kerr,163,0.00,163.00,,,Workers Party
+13,19677,1,Emmet,McDonough-Brown,2053,0.00,2053.00,,,Alliance Party
+13,19670,1,Pádraigín,Mervyn,760,0.00,760.00,,,People Before Profit Alliance
+13,4597,1,Máirtín,Ó Muilleoir,7610,0.00,7610.00,Elected,1,Sinn Fein
+13,11458,1,Emma,Little Pengelly,4446,0.00,4446.00,,,Democratic Unionist Party
+13,11461,1,Christopher David Matthew,Stalford,4529,0.00,4529.00,,,Democratic Unionist Party
 13,5824,2,Clare,Bailey,4247,45.78,4292.78,,,Green Party
 13,1679,2,Paula,Bradshaw,5595,37.26,5632.26,,,Alliance Party
 13,11455,2,Sean,Burns,531,8.76,539.76,,,Cross-Community Labour Alternative
 13,19698,2,Naomh,Gallagher,1794,61.68,1855.68,,,Social Democratic and Labour Party
 13,3475,2,Claire,Hanna,6559,197.28,6756.28,,,Social Democratic and Labour Party
-13,19709,2,Micheal,Henderson,3863,3,3866,,,Ulster Unionist Party
+13,19709,2,Micheal,Henderson,3863,3.00,3866.00,,,Ulster Unionist Party
 13,11457,2,John,Andrew Hiddleston,703,0.36,703.36,,,Traditional Unionist Voice
 13,6023,2,George,Jabbour,200,0.48,200.48,Excluded,2,NI Conservatives
 13,6265,2,Lily,Kerr,163,5.22,168.22,Excluded,2,Workers Party
 13,19677,2,Emmet,McDonough-Brown,2053,27.96,2080.96,,,Alliance Party
 13,19670,2,Pádraigín,Mervyn,760,29.58,789.58,,,People Before Profit Alliance
-13,4597,2,Máirtín,Ó Muilleoir,7610,-434,7176,Elected,1,Sinn Fein
+13,4597,2,Máirtín,Ó Muilleoir,7610,-434.00,7176.00,Elected,1,Sinn Fein
 13,11458,2,Emma,Little Pengelly,4446,0.78,4446.78,,,Democratic Unionist Party
 13,11461,2,Christopher David Matthew,Stalford,4529,1.08,4530.08,,,Democratic Unionist Party
 13,5824,3,Clare,Bailey,4247,48.96,4341.74,,,Green Party
-13,1679,3,Paula,Bradshaw,5595,40.24,5672.5,,,Alliance Party
+13,1679,3,Paula,Bradshaw,5595,40.24,5672.50,,,Alliance Party
 13,11455,3,Sean,Burns,531,26.66,566.42,Excluded,3,Cross-Community Labour Alternative
 13,19698,3,Naomh,Gallagher,1794,10.24,1865.92,,,Social Democratic and Labour Party
 13,3475,3,Claire,Hanna,6559,31.84,6788.12,,,Social Democratic and Labour Party
 13,19709,3,Micheal,Henderson,3863,66.12,3932.12,,,Ulster Unionist Party
-13,11457,3,John,Andrew Hiddleston,703,14,717.36,,,Traditional Unionist Voice
-13,6023,3,George,Jabbour,200,-200.48,0,Excluded,2,NI Conservatives
-13,6265,3,Lily,Kerr,163,-168.22,0,Excluded,2,Workers Party
+13,11457,3,John,Andrew Hiddleston,703,14.00,717.36,,,Traditional Unionist Voice
+13,6023,3,George,Jabbour,200,-200.48,0.00,Excluded,2,NI Conservatives
+13,6265,3,Lily,Kerr,163,-168.22,0.00,Excluded,2,Workers Party
 13,19677,3,Emmet,McDonough-Brown,2053,14.42,2095.38,,,Alliance Party
 13,19670,3,Pádraigín,Mervyn,760,39.14,828.72,,,People Before Profit Alliance
-13,4597,3,Máirtín,Ó Muilleoir,7610,0,7176,Elected,1,Sinn Fein
+13,4597,3,Máirtín,Ó Muilleoir,7610,0.00,7176.00,Elected,1,Sinn Fein
 13,11458,3,Emma,Little Pengelly,4446,22.06,4468.84,,,Democratic Unionist Party
-13,11461,3,Christopher David Matthew,Stalford,4529,21,4551.08,,,Democratic Unionist Party
+13,11461,3,Christopher David Matthew,Stalford,4529,21.00,4551.08,,,Democratic Unionist Party
 13,5824,4,Clare,Bailey,4247,181.34,4523.08,,,Green Party
-13,1679,4,Paula,Bradshaw,5595,67.9,5740.4,,,Alliance Party
-13,11455,4,Sean,Burns,531,-566.42,0,Excluded,3,Cross-Community Labour Alternative
-13,19698,4,Naomh,Gallagher,1794,27.5,1893.42,,,Social Democratic and Labour Party
+13,1679,4,Paula,Bradshaw,5595,67.90,5740.40,,,Alliance Party
+13,11455,4,Sean,Burns,531,-566.42,0.00,Excluded,3,Cross-Community Labour Alternative
+13,19698,4,Naomh,Gallagher,1794,27.50,1893.42,,,Social Democratic and Labour Party
 13,3475,4,Claire,Hanna,6559,51.44,6839.56,,,Social Democratic and Labour Party
-13,19709,4,Micheal,Henderson,3863,23,3955.12,,,Ulster Unionist Party
+13,19709,4,Micheal,Henderson,3863,23.00,3955.12,,,Ulster Unionist Party
 13,11457,4,John,Andrew Hiddleston,703,7.12,724.48,Excluded,4,Traditional Unionist Voice
-13,6023,4,George,Jabbour,200,0,0,Excluded,2,NI Conservatives
-13,6265,4,Lily,Kerr,163,0,0,Excluded,2,Workers Party
+13,6023,4,George,Jabbour,200,0.00,0.00,Excluded,2,NI Conservatives
+13,6265,4,Lily,Kerr,163,0.00,0.00,Excluded,2,Workers Party
 13,19677,4,Emmet,McDonough-Brown,2053,23.54,2118.92,,,Alliance Party
 13,19670,4,Pádraigín,Mervyn,760,142.14,970.86,Excluded,4,People Before Profit Alliance
-13,4597,4,Máirtín,Ó Muilleoir,7610,0,7176,Elected,1,Sinn Fein
-13,11458,4,Emma,Little Pengelly,4446,8,4476.84,,,Democratic Unionist Party
-13,11461,4,Christopher David Matthew,Stalford,4529,3,4554.08,,,Democratic Unionist Party
+13,4597,4,Máirtín,Ó Muilleoir,7610,0.00,7176.00,Elected,1,Sinn Fein
+13,11458,4,Emma,Little Pengelly,4446,8.00,4476.84,,,Democratic Unionist Party
+13,11461,4,Christopher David Matthew,Stalford,4529,3.00,4554.08,,,Democratic Unionist Party
 13,5824,5,Clare,Bailey,4247,550.88,5073.96,,,Green Party
 13,1679,5,Paula,Bradshaw,5595,125.98,5866.38,,,Alliance Party
-13,11455,5,Sean,Burns,531,0,0,Excluded,3,Cross-Community Labour Alternative
-13,19698,5,Naomh,Gallagher,1794,68.8,1962.22,Excluded,5,Social Democratic and Labour Party
+13,11455,5,Sean,Burns,531,0.00,0.00,Excluded,3,Cross-Community Labour Alternative
+13,19698,5,Naomh,Gallagher,1794,68.80,1962.22,Excluded,5,Social Democratic and Labour Party
 13,3475,5,Claire,Hanna,6559,141.98,6981.54,,,Social Democratic and Labour Party
-13,19709,5,Micheal,Henderson,3863,285.3,4240.42,,,Ulster Unionist Party
-13,11457,5,John,Andrew Hiddleston,703,-724.48,0,Excluded,4,Traditional Unionist Voice
-13,6023,5,George,Jabbour,200,0,0,Excluded,2,NI Conservatives
-13,6265,5,Lily,Kerr,163,0,0,Excluded,2,Workers Party
+13,19709,5,Micheal,Henderson,3863,285.30,4240.42,,,Ulster Unionist Party
+13,11457,5,John,Andrew Hiddleston,703,-724.48,0.00,Excluded,4,Traditional Unionist Voice
+13,6023,5,George,Jabbour,200,0.00,0.00,Excluded,2,NI Conservatives
+13,6265,5,Lily,Kerr,163,0.00,0.00,Excluded,2,Workers Party
 13,19677,5,Emmet,McDonough-Brown,2053,66.42,2185.34,Excluded,5,Alliance Party
-13,19670,5,Pádraigín,Mervyn,760,-970.86,0,Excluded,4,People Before Profit Alliance
-13,4597,5,Máirtín,Ó Muilleoir,7610,0,7176,Elected,1,Sinn Fein
-13,11458,5,Emma,Little Pengelly,4446,179.06,4655.9,,,Democratic Unionist Party
-13,11461,5,Christopher David Matthew,Stalford,4529,150,4704.08,,,Democratic Unionist Party
-13,5824,6,Clare,Bailey,4247,376.04,5450,,,Green Party
-13,1679,6,Paula,Bradshaw,5595,1824,7690.38,Elected,6,Alliance Party
-13,11455,6,Sean,Burns,531,0,0,Excluded,3,Cross-Community Labour Alternative
-13,19698,6,Naomh,Gallagher,1794,-1962.22,0,Excluded,5,Social Democratic and Labour Party
-13,3475,6,Claire,Hanna,6559,1671,8652.54,Elected,6,Social Democratic and Labour Party
-13,19709,6,Micheal,Henderson,3863,97.38,4337.8,,,Ulster Unionist Party
-13,11457,6,John,Andrew Hiddleston,703,0,0,Excluded,4,Traditional Unionist Voice
-13,6023,6,George,Jabbour,200,0,0,Excluded,2,NI Conservatives
-13,6265,6,Lily,Kerr,163,0,0,Excluded,2,Workers Party
-13,19677,6,Emmet,McDonough-Brown,2053,-2185.34,0,Excluded,5,Alliance Party
-13,19670,6,Pádraigín,Mervyn,760,0,0,Excluded,4,People Before Profit Alliance
-13,4597,6,Máirtín,Ó Muilleoir,7610,0,7176,Elected,1,Sinn Fein
+13,19670,5,Pádraigín,Mervyn,760,-970.86,0.00,Excluded,4,People Before Profit Alliance
+13,4597,5,Máirtín,Ó Muilleoir,7610,0.00,7176.00,Elected,1,Sinn Fein
+13,11458,5,Emma,Little Pengelly,4446,179.06,4655.90,,,Democratic Unionist Party
+13,11461,5,Christopher David Matthew,Stalford,4529,150.00,4704.08,,,Democratic Unionist Party
+13,5824,6,Clare,Bailey,4247,376.04,5450.00,,,Green Party
+13,1679,6,Paula,Bradshaw,5595,1824.00,7690.38,Elected,6,Alliance Party
+13,11455,6,Sean,Burns,531,0.00,0.00,Excluded,3,Cross-Community Labour Alternative
+13,19698,6,Naomh,Gallagher,1794,-1962.22,0.00,Excluded,5,Social Democratic and Labour Party
+13,3475,6,Claire,Hanna,6559,1671.00,8652.54,Elected,6,Social Democratic and Labour Party
+13,19709,6,Micheal,Henderson,3863,97.38,4337.80,,,Ulster Unionist Party
+13,11457,6,John,Andrew Hiddleston,703,0.00,0.00,Excluded,4,Traditional Unionist Voice
+13,6023,6,George,Jabbour,200,0.00,0.00,Excluded,2,NI Conservatives
+13,6265,6,Lily,Kerr,163,0.00,0.00,Excluded,2,Workers Party
+13,19677,6,Emmet,McDonough-Brown,2053,-2185.34,0.00,Excluded,5,Alliance Party
+13,19670,6,Pádraigín,Mervyn,760,0.00,0.00,Excluded,4,People Before Profit Alliance
+13,4597,6,Máirtín,Ó Muilleoir,7610,0.00,7176.00,Elected,1,Sinn Fein
 13,11458,6,Emma,Little Pengelly,4446,20.36,4676.26,,,Democratic Unionist Party
 13,11461,6,Christopher David Matthew,Stalford,4529,11.18,4715.26,,,Democratic Unionist Party
-13,5824,7,Clare,Bailey,4247,894,6344,,,Green Party
-13,1679,7,Paula,Bradshaw,5595,0,7690.38,Elected,6,Alliance Party
-13,11455,7,Sean,Burns,531,0,0,Excluded,3,Cross-Community Labour Alternative
-13,19698,7,Naomh,Gallagher,1794,0,0,Excluded,5,Social Democratic and Labour Party
-13,3475,7,Claire,Hanna,6559,-1476.54,7176,Elected,6,Social Democratic and Labour Party
-13,19709,7,Micheal,Henderson,3863,310,4647.8,,,Ulster Unionist Party
-13,11457,7,John,Andrew Hiddleston,703,0,0,Excluded,4,Traditional Unionist Voice
-13,6023,7,George,Jabbour,200,0,0,Excluded,2,NI Conservatives
-13,6265,7,Lily,Kerr,163,0,0,Excluded,2,Workers Party
-13,19677,7,Emmet,McDonough-Brown,2053,0,0,Excluded,5,Alliance Party
-13,19670,7,Pádraigín,Mervyn,760,0,0,Excluded,4,People Before Profit Alliance
-13,4597,7,Máirtín,Ó Muilleoir,7610,0,7176,Elected,1,Sinn Fein
-13,11458,7,Emma,Little Pengelly,4446,19,4695.26,,,Democratic Unionist Party
-13,11461,7,Christopher David Matthew,Stalford,4529,11,4726.26,,,Democratic Unionist Party
+13,5824,7,Clare,Bailey,4247,894.00,6344.00,,,Green Party
+13,1679,7,Paula,Bradshaw,5595,0.00,7690.38,Elected,6,Alliance Party
+13,11455,7,Sean,Burns,531,0.00,0.00,Excluded,3,Cross-Community Labour Alternative
+13,19698,7,Naomh,Gallagher,1794,0.00,0.00,Excluded,5,Social Democratic and Labour Party
+13,3475,7,Claire,Hanna,6559,-1476.54,7176.00,Elected,6,Social Democratic and Labour Party
+13,19709,7,Micheal,Henderson,3863,310.00,4647.80,,,Ulster Unionist Party
+13,11457,7,John,Andrew Hiddleston,703,0.00,0.00,Excluded,4,Traditional Unionist Voice
+13,6023,7,George,Jabbour,200,0.00,0.00,Excluded,2,NI Conservatives
+13,6265,7,Lily,Kerr,163,0.00,0.00,Excluded,2,Workers Party
+13,19677,7,Emmet,McDonough-Brown,2053,0.00,0.00,Excluded,5,Alliance Party
+13,19670,7,Pádraigín,Mervyn,760,0.00,0.00,Excluded,4,People Before Profit Alliance
+13,4597,7,Máirtín,Ó Muilleoir,7610,0.00,7176.00,Elected,1,Sinn Fein
+13,11458,7,Emma,Little Pengelly,4446,19.00,4695.26,,,Democratic Unionist Party
+13,11461,7,Christopher David Matthew,Stalford,4529,11.00,4726.26,,,Democratic Unionist Party
 13,5824,8,Clare,Bailey,4247,375.36,6719.36,,,Green Party
-13,1679,8,Paula,Bradshaw,5595,-514.38,7176,Elected,6,Alliance Party
-13,11455,8,Sean,Burns,531,0,0,Excluded,3,Cross-Community Labour Alternative
-13,19698,8,Naomh,Gallagher,1794,0,0,Excluded,5,Social Democratic and Labour Party
-13,3475,8,Claire,Hanna,6559,0,7176,Elected,6,Social Democratic and Labour Party
-13,19709,8,Micheal,Henderson,3863,113.6,4761.4,,,Ulster Unionist Party
-13,11457,8,John,Andrew Hiddleston,703,0,0,Excluded,4,Traditional Unionist Voice
-13,6023,8,George,Jabbour,200,0,0,Excluded,2,NI Conservatives
-13,6265,8,Lily,Kerr,163,0,0,Excluded,2,Workers Party
-13,19677,8,Emmet,McDonough-Brown,2053,0,0,Excluded,5,Alliance Party
-13,19670,8,Pádraigín,Mervyn,760,0,0,Excluded,4,People Before Profit Alliance
-13,4597,8,Máirtín,Ó Muilleoir,7610,0,7176,Elected,1,Sinn Fein
-13,11458,8,Emma,Little Pengelly,4446,8,4703.26,Excluded,8,Democratic Unionist Party
-13,11461,8,Christopher David Matthew,Stalford,4529,2.24,4728.5,,,Democratic Unionist Party
+13,1679,8,Paula,Bradshaw,5595,-514.38,7176.00,Elected,6,Alliance Party
+13,11455,8,Sean,Burns,531,0.00,0.00,Excluded,3,Cross-Community Labour Alternative
+13,19698,8,Naomh,Gallagher,1794,0.00,0.00,Excluded,5,Social Democratic and Labour Party
+13,3475,8,Claire,Hanna,6559,0.00,7176.00,Elected,6,Social Democratic and Labour Party
+13,19709,8,Micheal,Henderson,3863,113.60,4761.40,,,Ulster Unionist Party
+13,11457,8,John,Andrew Hiddleston,703,0.00,0.00,Excluded,4,Traditional Unionist Voice
+13,6023,8,George,Jabbour,200,0.00,0.00,Excluded,2,NI Conservatives
+13,6265,8,Lily,Kerr,163,0.00,0.00,Excluded,2,Workers Party
+13,19677,8,Emmet,McDonough-Brown,2053,0.00,0.00,Excluded,5,Alliance Party
+13,19670,8,Pádraigín,Mervyn,760,0.00,0.00,Excluded,4,People Before Profit Alliance
+13,4597,8,Máirtín,Ó Muilleoir,7610,0.00,7176.00,Elected,1,Sinn Fein
+13,11458,8,Emma,Little Pengelly,4446,8.00,4703.26,Excluded,8,Democratic Unionist Party
+13,11461,8,Christopher David Matthew,Stalford,4529,2.24,4728.50,,,Democratic Unionist Party
 13,5824,9,Clare,Bailey,4247,77.86,6797.22,Elected,9,Green Party
-13,1679,9,Paula,Bradshaw,5595,0,7176,Elected,6,Alliance Party
-13,11455,9,Sean,Burns,531,0,0,Excluded,3,Cross-Community Labour Alternative
-13,19698,9,Naomh,Gallagher,1794,0,0,Excluded,5,Social Democratic and Labour Party
-13,3475,9,Claire,Hanna,6559,0,7176,Elected,6,Social Democratic and Labour Party
+13,1679,9,Paula,Bradshaw,5595,0.00,7176.00,Elected,6,Alliance Party
+13,11455,9,Sean,Burns,531,0.00,0.00,Excluded,3,Cross-Community Labour Alternative
+13,19698,9,Naomh,Gallagher,1794,0.00,0.00,Excluded,5,Social Democratic and Labour Party
+13,3475,9,Claire,Hanna,6559,0.00,7176.00,Elected,6,Social Democratic and Labour Party
 13,19709,9,Micheal,Henderson,3863,494.54,5255.94,Excluded,9,Ulster Unionist Party
-13,11457,9,John,Andrew Hiddleston,703,0,0,Excluded,4,Traditional Unionist Voice
-13,6023,9,George,Jabbour,200,0,0,Excluded,2,NI Conservatives
-13,6265,9,Lily,Kerr,163,0,0,Excluded,2,Workers Party
-13,19677,9,Emmet,McDonough-Brown,2053,0,0,Excluded,5,Alliance Party
-13,19670,9,Pádraigín,Mervyn,760,0,0,Excluded,4,People Before Profit Alliance
-13,4597,9,Máirtín,Ó Muilleoir,7610,0,7176,Elected,1,Sinn Fein
-13,11458,9,Emma,Little Pengelly,4446,-4703.26,0,Excluded,8,Democratic Unionist Party
-13,11461,9,Christopher David Matthew,Stalford,4529,3939,8667.5,Elected,9,Democratic Unionist Party
+13,11457,9,John,Andrew Hiddleston,703,0.00,0.00,Excluded,4,Traditional Unionist Voice
+13,6023,9,George,Jabbour,200,0.00,0.00,Excluded,2,NI Conservatives
+13,6265,9,Lily,Kerr,163,0.00,0.00,Excluded,2,Workers Party
+13,19677,9,Emmet,McDonough-Brown,2053,0.00,0.00,Excluded,5,Alliance Party
+13,19670,9,Pádraigín,Mervyn,760,0.00,0.00,Excluded,4,People Before Profit Alliance
+13,4597,9,Máirtín,Ó Muilleoir,7610,0.00,7176.00,Elected,1,Sinn Fein
+13,11458,9,Emma,Little Pengelly,4446,-4703.26,0.00,Excluded,8,Democratic Unionist Party
+13,11461,9,Christopher David Matthew,Stalford,4529,3939.00,8667.50,Elected,9,Democratic Unionist Party

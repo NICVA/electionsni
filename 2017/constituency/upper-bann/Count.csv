@@ -1,73 +1,73 @@
 Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_Pref_Votes,Transfers,Total_Votes,Status,Occurred_On_Count,Party_Name
-16,8150,1,Doug,Beattie,5467,0,5467,,,Ulster Unionist Party
-16,19683,1,Jonathan,Buckley,7745,0,7745,,,Democratic Unionist Party
-16,19743,1,Colin,Craig,218,0,218,Excluded,1,Workers Party
-16,4677,1,Jo-Anne,Dobson,5132,0,5132,,,Ulster Unionist Party
-16,19744,1,Tara,Doyle,2720,0,2720,,,Alliance Party
-16,12443,1,Roy,Ferguson,1035,0,1035,Excluded,1,Traditional Unionist Voice
-16,699,1,Dolores,Kelly,5127,0,5127,,,Social Democratic and Labour Party
-16,12440,1,Simon,Lee,555,0,555,Excluded,1,Green Party
-16,12439,1,Carla,Lockhart,9140,0,9140,Elected,1,Democratic Unionist Party
-16,12436,1,Ian,Nickels,81,0,81,Excluded,1,NI Conservatives
-16,3752,1,John,O'Dowd,8220,0,8220,,,Sinn Fein
-16,19679,1,Nuala,Toman,6108,0,6108,,,Sinn Fein
-16,8150,2,Doug,Beattie,5467,288,5755,,,Ulster Unionist Party
-16,19683,2,Jonathan,Buckley,7745,493,8238,,,Democratic Unionist Party
-16,19743,2,Colin,Craig,218,-218,0,Excluded,1,Workers Party
-16,4677,2,Jo-Anne,Dobson,5132,272,5404,,,Ulster Unionist Party
-16,19744,2,Tara,Doyle,2720,377,3097,Excluded,2,Alliance Party
-16,12443,2,Roy,Ferguson,1035,-1035,0,Excluded,1,Traditional Unionist Voice
-16,699,2,Dolores,Kelly,5127,121,5248,,,Social Democratic and Labour Party
-16,12440,2,Simon,Lee,555,-555,0,Excluded,1,Green Party
-16,12439,2,Carla,Lockhart,9140,0,9140,Elected,1,Democratic Unionist Party
-16,12436,2,Ian,Nickels,81,-81,0,Excluded,1,NI Conservatives
-16,3752,2,John,O'Dowd,8220,78,8298,,,Sinn Fein
-16,19679,2,Nuala,Toman,6108,61,6169,,,Sinn Fein
-16,8150,3,Doug,Beattie,5467,419,6174,,,Ulster Unionist Party
-16,19683,3,Jonathan,Buckley,7745,76,8314,,,Democratic Unionist Party
-16,19743,3,Colin,Craig,218,0,0,Excluded,1,Workers Party
-16,4677,3,Jo-Anne,Dobson,5132,506,5910,,,Ulster Unionist Party
-16,19744,3,Tara,Doyle,2720,-3097,0,Excluded,2,Alliance Party
-16,12443,3,Roy,Ferguson,1035,0,0,Excluded,1,Traditional Unionist Voice
-16,699,3,Dolores,Kelly,5127,1261,6509,,,Social Democratic and Labour Party
-16,12440,3,Simon,Lee,555,0,0,Excluded,1,Green Party
-16,12439,3,Carla,Lockhart,9140,0,9140,Elected,1,Democratic Unionist Party
-16,12436,3,Ian,Nickels,81,0,0,Excluded,1,NI Conservatives
-16,3752,3,John,O'Dowd,8220,262,8560,,,Sinn Fein
-16,19679,3,Nuala,Toman,6108,125,6294,,,Sinn Fein
-16,8150,4,Doug,Beattie,5467,28,6202,,,Ulster Unionist Party
-16,19683,4,Jonathan,Buckley,7745,450,8764,Elected,4,Democratic Unionist Party
-16,19743,4,Colin,Craig,218,0,0,Excluded,1,Workers Party
-16,4677,4,Jo-Anne,Dobson,5132,59,5969,Excluded,4,Ulster Unionist Party
-16,19744,4,Tara,Doyle,2720,0,0,Excluded,2,Alliance Party
-16,12443,4,Roy,Ferguson,1035,0,0,Excluded,1,Traditional Unionist Voice
-16,699,4,Dolores,Kelly,5127,2,6511,,,Social Democratic and Labour Party
-16,12440,4,Simon,Lee,555,0,0,Excluded,1,Green Party
-16,12439,4,Carla,Lockhart,9140,-548,8592,Elected,1,Democratic Unionist Party
-16,12436,4,Ian,Nickels,81,0,0,Excluded,1,NI Conservatives
-16,3752,4,John,O'Dowd,8220,0,8560,,,Sinn Fein
-16,19679,4,Nuala,Toman,6108,0,6294,,,Sinn Fein
-16,8150,5,Doug,Beattie,5467,4526.86,10728.86,Elected,5,Ulster Unionist Party
-16,19683,5,Jonathan,Buckley,7745,0,8764,Elected,4,Democratic Unionist Party
-16,19743,5,Colin,Craig,218,0,0,Excluded,1,Workers Party
-16,4677,5,Jo-Anne,Dobson,5132,-5969,0,Excluded,4,Ulster Unionist Party
-16,19744,5,Tara,Doyle,2720,0,0,Excluded,2,Alliance Party
-16,12443,5,Roy,Ferguson,1035,0,0,Excluded,1,Traditional Unionist Voice
-16,699,5,Dolores,Kelly,5127,678.92,7189.92,,,Social Democratic and Labour Party
-16,12440,5,Simon,Lee,555,0,0,Excluded,1,Green Party
-16,12439,5,Carla,Lockhart,9140,0,8592,Elected,1,Democratic Unionist Party
-16,12436,5,Ian,Nickels,81,0,0,Excluded,1,NI Conservatives
-16,3752,5,John,O'Dowd,8220,33.6,8593.6,Elected,5,Sinn Fein
-16,19679,5,Nuala,Toman,6108,22.6,6316.6,,,Sinn Fein
-16,8150,6,Doug,Beattie,5467,-2136.86,8592,Elected,5,Ulster Unionist Party
-16,19683,6,Jonathan,Buckley,7745,0,8764,Elected,4,Democratic Unionist Party
-16,19743,6,Colin,Craig,218,0,0,Excluded,1,Workers Party
-16,4677,6,Jo-Anne,Dobson,5132,0,0,Excluded,4,Ulster Unionist Party
-16,19744,6,Tara,Doyle,2720,0,0,Excluded,2,Alliance Party
-16,12443,6,Roy,Ferguson,1035,0,0,Excluded,1,Traditional Unionist Voice
-16,699,6,Dolores,Kelly,5127,1864,9053.92,Elected,6,Social Democratic and Labour Party
-16,12440,6,Simon,Lee,555,0,0,Excluded,1,Green Party
-16,12439,6,Carla,Lockhart,9140,0,8592,Elected,1,Democratic Unionist Party
-16,12436,6,Ian,Nickels,81,0,0,Excluded,1,NI Conservatives
-16,3752,6,John,O'Dowd,8220,0,8593.6,Elected,5,Sinn Fein
-16,19679,6,Nuala,Toman,6108,25,6341.6,Excluded,6,Sinn Fein
+16,8150,1,Doug,Beattie,5467,0.00,5467.00,,,Ulster Unionist Party
+16,19683,1,Jonathan,Buckley,7745,0.00,7745.00,,,Democratic Unionist Party
+16,19743,1,Colin,Craig,218,0.00,218.00,Excluded,1,Workers Party
+16,4677,1,Jo-Anne,Dobson,5132,0.00,5132.00,,,Ulster Unionist Party
+16,19744,1,Tara,Doyle,2720,0.00,2720.00,,,Alliance Party
+16,12443,1,Roy,Ferguson,1035,0.00,1035.00,Excluded,1,Traditional Unionist Voice
+16,699,1,Dolores,Kelly,5127,0.00,5127.00,,,Social Democratic and Labour Party
+16,12440,1,Simon,Lee,555,0.00,555.00,Excluded,1,Green Party
+16,12439,1,Carla,Lockhart,9140,0.00,9140.00,Elected,1,Democratic Unionist Party
+16,12436,1,Ian,Nickels,81,0.00,81.00,Excluded,1,NI Conservatives
+16,3752,1,John,O'Dowd,8220,0.00,8220.00,,,Sinn Fein
+16,19679,1,Nuala,Toman,6108,0.00,6108.00,,,Sinn Fein
+16,8150,2,Doug,Beattie,5467,288.00,5755.00,,,Ulster Unionist Party
+16,19683,2,Jonathan,Buckley,7745,493.00,8238.00,,,Democratic Unionist Party
+16,19743,2,Colin,Craig,218,-218.00,0.00,Excluded,1,Workers Party
+16,4677,2,Jo-Anne,Dobson,5132,272.00,5404.00,,,Ulster Unionist Party
+16,19744,2,Tara,Doyle,2720,377.00,3097.00,Excluded,2,Alliance Party
+16,12443,2,Roy,Ferguson,1035,-1035.00,0.00,Excluded,1,Traditional Unionist Voice
+16,699,2,Dolores,Kelly,5127,121.00,5248.00,,,Social Democratic and Labour Party
+16,12440,2,Simon,Lee,555,-555.00,0.00,Excluded,1,Green Party
+16,12439,2,Carla,Lockhart,9140,0.00,9140.00,Elected,1,Democratic Unionist Party
+16,12436,2,Ian,Nickels,81,-81.00,0.00,Excluded,1,NI Conservatives
+16,3752,2,John,O'Dowd,8220,78.00,8298.00,,,Sinn Fein
+16,19679,2,Nuala,Toman,6108,61.00,6169.00,,,Sinn Fein
+16,8150,3,Doug,Beattie,5467,419.00,6174.00,,,Ulster Unionist Party
+16,19683,3,Jonathan,Buckley,7745,76.00,8314.00,,,Democratic Unionist Party
+16,19743,3,Colin,Craig,218,0.00,0.00,Excluded,1,Workers Party
+16,4677,3,Jo-Anne,Dobson,5132,506.00,5910.00,,,Ulster Unionist Party
+16,19744,3,Tara,Doyle,2720,-3097.00,0.00,Excluded,2,Alliance Party
+16,12443,3,Roy,Ferguson,1035,0.00,0.00,Excluded,1,Traditional Unionist Voice
+16,699,3,Dolores,Kelly,5127,1261.00,6509.00,,,Social Democratic and Labour Party
+16,12440,3,Simon,Lee,555,0.00,0.00,Excluded,1,Green Party
+16,12439,3,Carla,Lockhart,9140,0.00,9140.00,Elected,1,Democratic Unionist Party
+16,12436,3,Ian,Nickels,81,0.00,0.00,Excluded,1,NI Conservatives
+16,3752,3,John,O'Dowd,8220,262.00,8560.00,,,Sinn Fein
+16,19679,3,Nuala,Toman,6108,125.00,6294.00,,,Sinn Fein
+16,8150,4,Doug,Beattie,5467,28.86,6202.86,,,Ulster Unionist Party
+16,19683,4,Jonathan,Buckley,7745,450.84,8764.84,Elected,4,Democratic Unionist Party
+16,19743,4,Colin,Craig,218,0.00,0.00,Excluded,1,Workers Party
+16,4677,4,Jo-Anne,Dobson,5132,59.58,5969.58,Excluded,4,Ulster Unionist Party
+16,19744,4,Tara,Doyle,2720,0.00,0.00,Excluded,2,Alliance Party
+16,12443,4,Roy,Ferguson,1035,0.00,0.00,Excluded,1,Traditional Unionist Voice
+16,699,4,Dolores,Kelly,5127,2.76,6511.76,,,Social Democratic and Labour Party
+16,12440,4,Simon,Lee,555,0.00,0.00,Excluded,1,Green Party
+16,12439,4,Carla,Lockhart,9140,-548.00,8592.00,Elected,1,Democratic Unionist Party
+16,12436,4,Ian,Nickels,81,0.00,0.00,Excluded,1,NI Conservatives
+16,3752,4,John,O'Dowd,8220,0.60,8560.60,,,Sinn Fein
+16,19679,4,Nuala,Toman,6108,0.30,6294.30,,,Sinn Fein
+16,8150,5,Doug,Beattie,5467,4526.00,10728.86,Elected,5,Ulster Unionist Party
+16,19683,5,Jonathan,Buckley,7745,0.00,8764.84,Elected,4,Democratic Unionist Party
+16,19743,5,Colin,Craig,218,0.00,0.00,Excluded,1,Workers Party
+16,4677,5,Jo-Anne,Dobson,5132,-5969.58,0.00,Excluded,4,Ulster Unionist Party
+16,19744,5,Tara,Doyle,2720,0.00,0.00,Excluded,2,Alliance Party
+16,12443,5,Roy,Ferguson,1035,0.00,0.00,Excluded,1,Traditional Unionist Voice
+16,699,5,Dolores,Kelly,5127,678.16,7189.92,,,Social Democratic and Labour Party
+16,12440,5,Simon,Lee,555,0.00,0.00,Excluded,1,Green Party
+16,12439,5,Carla,Lockhart,9140,0.00,8592.00,Elected,1,Democratic Unionist Party
+16,12436,5,Ian,Nickels,81,0.00,0.00,Excluded,1,NI Conservatives
+16,3752,5,John,O'Dowd,8220,33.00,8593.60,Elected,5,Sinn Fein
+16,19679,5,Nuala,Toman,6108,22.30,6316.60,,,Sinn Fein
+16,8150,6,Doug,Beattie,5467,-2136.86,8592.00,Elected,5,Ulster Unionist Party
+16,19683,6,Jonathan,Buckley,7745,0.00,8764.84,Elected,4,Democratic Unionist Party
+16,19743,6,Colin,Craig,218,0.00,0.00,Excluded,1,Workers Party
+16,4677,6,Jo-Anne,Dobson,5132,0.00,0.00,Excluded,4,Ulster Unionist Party
+16,19744,6,Tara,Doyle,2720,0.00,0.00,Excluded,2,Alliance Party
+16,12443,6,Roy,Ferguson,1035,0.00,0.00,Excluded,1,Traditional Unionist Voice
+16,699,6,Dolores,Kelly,5127,1864.00,9053.92,Elected,6,Social Democratic and Labour Party
+16,12440,6,Simon,Lee,555,0.00,0.00,Excluded,1,Green Party
+16,12439,6,Carla,Lockhart,9140,0.00,8592.00,Elected,1,Democratic Unionist Party
+16,12436,6,Ian,Nickels,81,0.00,0.00,Excluded,1,NI Conservatives
+16,3752,6,John,O'Dowd,8220,0.00,8593.60,Elected,5,Sinn Fein
+16,19679,6,Nuala,Toman,6108,25.00,6341.60,Excluded,6,Sinn Fein

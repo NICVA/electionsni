@@ -1,92 +1,92 @@
 Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_Pref_Votes,Transfers,Total_Votes,Status,Occurred_On_Count,Party_Name
-10,11380,1,Paula,Bradley,4835,0,4835,,,Democratic Unionist Party
-10,11377,1,Carál,Ní Chuilín,5929,0,5929,,,Sinn Fein
-10,19690,1,Julie-Anne,Corr-Johnston,2053,0,2053,,,Progressive Unionist Party
-10,11371,1,Fiona,Ferguson,1559,0,1559,,,People Before Profit Alliance
-10,19697,1,Robert,Foster,2418,0,2418,,,Ulster Unionist Party
-10,575,1,William,Humphrey,4418,0,4418,,,Democratic Unionist Party
-10,131,1,Gerry,Kelly,6275,0,6275,,,Sinn Fein
-10,11385,1,Nichola,Mallon,5431,0,5431,,,Social Democratic and Labour Party
-10,11374,1,Nuala,McAllister,3487,0,3487,,,Alliance Party
-10,11375,1,Nelson,McCausland,4056,0,4056,,,Democratic Unionist Party
-10,19676,1,Adam,Millar,66,0,66,Excluded,1,Independent
-10,11378,1,Malachai,O'Hara,711,0,711,Excluded,1,Green Party
-10,6264,1,Gemma,Weir,248,0,248,Excluded,1,Workers Party
-10,11380,2,Paula,Bradley,4835,8,4843,,,Democratic Unionist Party
-10,11377,2,Carál,Ní Chuilín,5929,54,5983,,,Sinn Fein
-10,19690,2,Julie-Anne,Corr-Johnston,2053,50,2103,,,Progressive Unionist Party
-10,11371,2,Fiona,Ferguson,1559,290,1849,Excluded,2,People Before Profit Alliance
-10,19697,2,Robert,Foster,2418,39,2457,,,Ulster Unionist Party
-10,575,2,William,Humphrey,4418,5,4423,,,Democratic Unionist Party
-10,131,2,Gerry,Kelly,6275,54,6329,,,Sinn Fein
-10,11385,2,Nichola,Mallon,5431,142,5573,,,Social Democratic and Labour Party
-10,11374,2,Nuala,McAllister,3487,312,3799,,,Alliance Party
-10,11375,2,Nelson,McCausland,4056,13,4069,,,Democratic Unionist Party
-10,19676,2,Adam,Millar,66,-66,0,Excluded,1,Independent
-10,11378,2,Malachai,O'Hara,711,-711,0,Excluded,1,Green Party
-10,6264,2,Gemma,Weir,248,-248,0,Excluded,1,Workers Party
-10,11380,3,Paula,Bradley,4835,22,4865,,,Democratic Unionist Party
-10,11377,3,Carál,Ní Chuilín,5929,168,6151,,,Sinn Fein
-10,19690,3,Julie-Anne,Corr-Johnston,2053,71,2174,Excluded,3,Progressive Unionist Party
-10,11371,3,Fiona,Ferguson,1559,-1849,0,Excluded,2,People Before Profit Alliance
-10,19697,3,Robert,Foster,2418,60,2517,,,Ulster Unionist Party
-10,575,3,William,Humphrey,4418,6,4429,,,Democratic Unionist Party
-10,131,3,Gerry,Kelly,6275,243,6572,,,Sinn Fein
-10,11385,3,Nichola,Mallon,5431,503,6076,,,Social Democratic and Labour Party
-10,11374,3,Nuala,McAllister,3487,555,4354,,,Alliance Party
-10,11375,3,Nelson,McCausland,4056,10,4079,,,Democratic Unionist Party
-10,19676,3,Adam,Millar,66,0,0,Excluded,1,Independent
-10,11378,3,Malachai,O'Hara,711,0,0,Excluded,1,Green Party
-10,6264,3,Gemma,Weir,248,0,0,Excluded,1,Workers Party
-10,11380,4,Paula,Bradley,4835,371,5236,,,Democratic Unionist Party
-10,11377,4,Carál,Ní Chuilín,5929,4,6155,,,Sinn Fein
-10,19690,4,Julie-Anne,Corr-Johnston,2053,-2174,0,Excluded,3,Progressive Unionist Party
-10,11371,4,Fiona,Ferguson,1559,0,0,Excluded,2,People Before Profit Alliance
-10,19697,4,Robert,Foster,2418,624,3141,Excluded,4,Ulster Unionist Party
-10,575,4,William,Humphrey,4418,508,4937,,,Democratic Unionist Party
-10,131,4,Gerry,Kelly,6275,10,6582,,,Sinn Fein
-10,11385,4,Nichola,Mallon,5431,49,6125,,,Social Democratic and Labour Party
-10,11374,4,Nuala,McAllister,3487,161,4515,,,Alliance Party
-10,11375,4,Nelson,McCausland,4056,293,4372,,,Democratic Unionist Party
-10,19676,4,Adam,Millar,66,0,0,Excluded,1,Independent
-10,11378,4,Malachai,O'Hara,711,0,0,Excluded,1,Green Party
-10,6264,4,Gemma,Weir,248,0,0,Excluded,1,Workers Party
-10,11380,5,Paula,Bradley,4835,766,6002,,,Democratic Unionist Party
-10,11377,5,Carál,Ní Chuilín,5929,3,6158,,,Sinn Fein
-10,19690,5,Julie-Anne,Corr-Johnston,2053,0,0,Excluded,3,Progressive Unionist Party
-10,11371,5,Fiona,Ferguson,1559,0,0,Excluded,2,People Before Profit Alliance
-10,19697,5,Robert,Foster,2418,-3141,0,Excluded,4,Ulster Unionist Party
-10,575,5,William,Humphrey,4418,323,5260,,,Democratic Unionist Party
-10,131,5,Gerry,Kelly,6275,9,6591,,,Sinn Fein
-10,11385,5,Nichola,Mallon,5431,537,6662,,,Social Democratic and Labour Party
-10,11374,5,Nuala,McAllister,3487,742,5257,,,Alliance Party
-10,11375,5,Nelson,McCausland,4056,337,4709,Excluded,5,Democratic Unionist Party
-10,19676,5,Adam,Millar,66,0,0,Excluded,1,Independent
-10,11378,5,Malachai,O'Hara,711,0,0,Excluded,1,Green Party
-10,6264,5,Gemma,Weir,248,0,0,Excluded,1,Workers Party
-10,11380,6,Paula,Bradley,4835,2456,8458,Elected,6,Democratic Unionist Party
-10,11377,6,Carál,Ní Chuilín,5929,1,6159,,,Sinn Fein
-10,19690,6,Julie-Anne,Corr-Johnston,2053,0,0,Excluded,3,Progressive Unionist Party
-10,11371,6,Fiona,Ferguson,1559,0,0,Excluded,2,People Before Profit Alliance
-10,19697,6,Robert,Foster,2418,0,0,Excluded,4,Ulster Unionist Party
-10,575,6,William,Humphrey,4418,2016,7276,Elected,6,Democratic Unionist Party
-10,131,6,Gerry,Kelly,6275,2,6593,,,Sinn Fein
-10,11385,6,Nichola,Mallon,5431,30,6692,,,Social Democratic and Labour Party
-10,11374,6,Nuala,McAllister,3487,39,5296,,,Alliance Party
-10,11375,6,Nelson,McCausland,4056,-4709,0,Excluded,5,Democratic Unionist Party
-10,19676,6,Adam,Millar,66,0,0,Excluded,1,Independent
-10,11378,6,Malachai,O'Hara,711,0,0,Excluded,1,Green Party
-10,6264,6,Gemma,Weir,248,0,0,Excluded,1,Workers Party
-10,11380,7,Paula,Bradley,4835,-1543,6915,Elected,6,Democratic Unionist Party
-10,11377,7,Carál,Ní Chuilín,5929,5,6164,Elected,7,Sinn Fein
-10,19690,7,Julie-Anne,Corr-Johnston,2053,0,0,Excluded,3,Progressive Unionist Party
-10,11371,7,Fiona,Ferguson,1559,0,0,Excluded,2,People Before Profit Alliance
-10,19697,7,Robert,Foster,2418,0,0,Excluded,4,Ulster Unionist Party
-10,575,7,William,Humphrey,4418,0,7276,Elected,6,Democratic Unionist Party
-10,131,7,Gerry,Kelly,6275,2,6595,Elected,7,Sinn Fein
-10,11385,7,Nichola,Mallon,5431,114,6806,Elected,7,Social Democratic and Labour Party
-10,11374,7,Nuala,McAllister,3487,312,5608,Excluded,7,Alliance Party
-10,11375,7,Nelson,McCausland,4056,0,0,Excluded,5,Democratic Unionist Party
-10,19676,7,Adam,Millar,66,0,0,Excluded,1,Independent
-10,11378,7,Malachai,O'Hara,711,0,0,Excluded,1,Green Party
-10,6264,7,Gemma,Weir,248,0,0,Excluded,1,Workers Party
+10,11380,1,Paula,Bradley,4835,0.00,4835.00,,,Democratic Unionist Party
+10,11377,1,Carál,Ní Chuilín,5929,0.00,5929.00,,,Sinn Fein
+10,19690,1,Julie-Anne,Corr-Johnston,2053,0.00,2053.00,,,Progressive Unionist Party
+10,11371,1,Fiona,Ferguson,1559,0.00,1559.00,,,People Before Profit Alliance
+10,19697,1,Robert,Foster,2418,0.00,2418.00,,,Ulster Unionist Party
+10,575,1,William,Humphrey,4418,0.00,4418.00,,,Democratic Unionist Party
+10,131,1,Gerry,Kelly,6275,0.00,6275.00,,,Sinn Fein
+10,11385,1,Nichola,Mallon,5431,0.00,5431.00,,,Social Democratic and Labour Party
+10,11374,1,Nuala,McAllister,3487,0.00,3487.00,,,Alliance Party
+10,11375,1,Nelson,McCausland,4056,0.00,4056.00,,,Democratic Unionist Party
+10,19676,1,Adam,Millar,66,0.00,66.00,Excluded,1,Independent
+10,11378,1,Malachai,O'Hara,711,0.00,711.00,Excluded,1,Green Party
+10,6264,1,Gemma,Weir,248,0.00,248.00,Excluded,1,Workers Party
+10,11380,2,Paula,Bradley,4835,8.00,4843.00,,,Democratic Unionist Party
+10,11377,2,Carál,Ní Chuilín,5929,54.00,5983.00,,,Sinn Fein
+10,19690,2,Julie-Anne,Corr-Johnston,2053,50.00,2103.00,,,Progressive Unionist Party
+10,11371,2,Fiona,Ferguson,1559,290.00,1849.00,Excluded,2,People Before Profit Alliance
+10,19697,2,Robert,Foster,2418,39.00,2457.00,,,Ulster Unionist Party
+10,575,2,William,Humphrey,4418,5.00,4423.00,,,Democratic Unionist Party
+10,131,2,Gerry,Kelly,6275,54.00,6329.00,,,Sinn Fein
+10,11385,2,Nichola,Mallon,5431,142.00,5573.00,,,Social Democratic and Labour Party
+10,11374,2,Nuala,McAllister,3487,312.00,3799.00,,,Alliance Party
+10,11375,2,Nelson,McCausland,4056,13.00,4069.00,,,Democratic Unionist Party
+10,19676,2,Adam,Millar,66,-66.00,0.00,Excluded,1,Independent
+10,11378,2,Malachai,O'Hara,711,-711.00,0.00,Excluded,1,Green Party
+10,6264,2,Gemma,Weir,248,-248.00,0.00,Excluded,1,Workers Party
+10,11380,3,Paula,Bradley,4835,22.00,4865.00,,,Democratic Unionist Party
+10,11377,3,Carál,Ní Chuilín,5929,168.00,6151.00,,,Sinn Fein
+10,19690,3,Julie-Anne,Corr-Johnston,2053,71.00,2174.00,Excluded,3,Progressive Unionist Party
+10,11371,3,Fiona,Ferguson,1559,-1849.00,0.00,Excluded,2,People Before Profit Alliance
+10,19697,3,Robert,Foster,2418,60.00,2517.00,,,Ulster Unionist Party
+10,575,3,William,Humphrey,4418,6.00,4429.00,,,Democratic Unionist Party
+10,131,3,Gerry,Kelly,6275,243.00,6572.00,,,Sinn Fein
+10,11385,3,Nichola,Mallon,5431,503.00,6076.00,,,Social Democratic and Labour Party
+10,11374,3,Nuala,McAllister,3487,555.00,4354.00,,,Alliance Party
+10,11375,3,Nelson,McCausland,4056,10.00,4079.00,,,Democratic Unionist Party
+10,19676,3,Adam,Millar,66,0.00,0.00,Excluded,1,Independent
+10,11378,3,Malachai,O'Hara,711,0.00,0.00,Excluded,1,Green Party
+10,6264,3,Gemma,Weir,248,0.00,0.00,Excluded,1,Workers Party
+10,11380,4,Paula,Bradley,4835,371.00,5236.00,,,Democratic Unionist Party
+10,11377,4,Carál,Ní Chuilín,5929,4.00,6155.00,,,Sinn Fein
+10,19690,4,Julie-Anne,Corr-Johnston,2053,-2174.00,0.00,Excluded,3,Progressive Unionist Party
+10,11371,4,Fiona,Ferguson,1559,0.00,0.00,Excluded,2,People Before Profit Alliance
+10,19697,4,Robert,Foster,2418,624.00,3141.00,Excluded,4,Ulster Unionist Party
+10,575,4,William,Humphrey,4418,508.00,4937.00,,,Democratic Unionist Party
+10,131,4,Gerry,Kelly,6275,10.00,6582.00,,,Sinn Fein
+10,11385,4,Nichola,Mallon,5431,49.00,6125.00,,,Social Democratic and Labour Party
+10,11374,4,Nuala,McAllister,3487,161.00,4515.00,,,Alliance Party
+10,11375,4,Nelson,McCausland,4056,293.00,4372.00,,,Democratic Unionist Party
+10,19676,4,Adam,Millar,66,0.00,0.00,Excluded,1,Independent
+10,11378,4,Malachai,O'Hara,711,0.00,0.00,Excluded,1,Green Party
+10,6264,4,Gemma,Weir,248,0.00,0.00,Excluded,1,Workers Party
+10,11380,5,Paula,Bradley,4835,766.00,6002.00,,,Democratic Unionist Party
+10,11377,5,Carál,Ní Chuilín,5929,3.00,6158.00,,,Sinn Fein
+10,19690,5,Julie-Anne,Corr-Johnston,2053,0.00,0.00,Excluded,3,Progressive Unionist Party
+10,11371,5,Fiona,Ferguson,1559,0.00,0.00,Excluded,2,People Before Profit Alliance
+10,19697,5,Robert,Foster,2418,-3141.00,0.00,Excluded,4,Ulster Unionist Party
+10,575,5,William,Humphrey,4418,323.00,5260.00,,,Democratic Unionist Party
+10,131,5,Gerry,Kelly,6275,9.00,6591.00,,,Sinn Fein
+10,11385,5,Nichola,Mallon,5431,537.00,6662.00,,,Social Democratic and Labour Party
+10,11374,5,Nuala,McAllister,3487,742.00,5257.00,,,Alliance Party
+10,11375,5,Nelson,McCausland,4056,337.00,4709.00,Excluded,5,Democratic Unionist Party
+10,19676,5,Adam,Millar,66,0.00,0.00,Excluded,1,Independent
+10,11378,5,Malachai,O'Hara,711,0.00,0.00,Excluded,1,Green Party
+10,6264,5,Gemma,Weir,248,0.00,0.00,Excluded,1,Workers Party
+10,11380,6,Paula,Bradley,4835,2456.00,8458.00,Elected,6,Democratic Unionist Party
+10,11377,6,Carál,Ní Chuilín,5929,1.00,6159.00,,,Sinn Fein
+10,19690,6,Julie-Anne,Corr-Johnston,2053,0.00,0.00,Excluded,3,Progressive Unionist Party
+10,11371,6,Fiona,Ferguson,1559,0.00,0.00,Excluded,2,People Before Profit Alliance
+10,19697,6,Robert,Foster,2418,0.00,0.00,Excluded,4,Ulster Unionist Party
+10,575,6,William,Humphrey,4418,2016.00,7276.00,Elected,6,Democratic Unionist Party
+10,131,6,Gerry,Kelly,6275,2.00,6593.00,,,Sinn Fein
+10,11385,6,Nichola,Mallon,5431,30.00,6692.00,,,Social Democratic and Labour Party
+10,11374,6,Nuala,McAllister,3487,39.00,5296.00,,,Alliance Party
+10,11375,6,Nelson,McCausland,4056,-4709.00,0.00,Excluded,5,Democratic Unionist Party
+10,19676,6,Adam,Millar,66,0.00,0.00,Excluded,1,Independent
+10,11378,6,Malachai,O'Hara,711,0.00,0.00,Excluded,1,Green Party
+10,6264,6,Gemma,Weir,248,0.00,0.00,Excluded,1,Workers Party
+10,11380,7,Paula,Bradley,4835,-1543.00,6915.00,Elected,6,Democratic Unionist Party
+10,11377,7,Carál,Ní Chuilín,5929,5.00,6164.00,Elected,7,Sinn Fein
+10,19690,7,Julie-Anne,Corr-Johnston,2053,0.00,0.00,Excluded,3,Progressive Unionist Party
+10,11371,7,Fiona,Ferguson,1559,0.00,0.00,Excluded,2,People Before Profit Alliance
+10,19697,7,Robert,Foster,2418,0.00,0.00,Excluded,4,Ulster Unionist Party
+10,575,7,William,Humphrey,4418,0.00,7276.00,Elected,6,Democratic Unionist Party
+10,131,7,Gerry,Kelly,6275,2.00,6595.00,Elected,7,Sinn Fein
+10,11385,7,Nichola,Mallon,5431,114.00,6806.00,Elected,7,Social Democratic and Labour Party
+10,11374,7,Nuala,McAllister,3487,312.00,5608.00,Excluded,7,Alliance Party
+10,11375,7,Nelson,McCausland,4056,0.00,0.00,Excluded,5,Democratic Unionist Party
+10,19676,7,Adam,Millar,66,0.00,0.00,Excluded,1,Independent
+10,11378,7,Malachai,O'Hara,711,0.00,0.00,Excluded,1,Green Party
+10,6264,7,Gemma,Weir,248,0.00,0.00,Excluded,1,Workers Party

@@ -1,16 +1,16 @@
 Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_Pref_Votes,Transfers,Total_Votes,Status,Occurred_On_Count,Party_Name
-5,7656,1,Stuart,Canning,77,0,77,,,NI Conservatives
-5,19694,1,Colm,Cavanagh,1124,0,1124,,,Alliance Party
-5,19701,1,Shannon,Downey,242,0,242,,,Green Party
-5,19640,1,Mark H.,Durkan,6948,0,6948,,,Social Democratic and Labour Party
-5,11857,1,Colum,Eastwood,7240,0,7240,,,Social Democratic and Labour Party
-5,6404,1,Julia,Kee,1660,0,1660,,,Ulster Unionist Party
-5,11859,1,John,Lindsay,196,0,196,,,Citizens Independent Social Thought Alliance
-5,19678,1,Elisha,McCallion,9205,0,9205,Elected,1,Sinn Fein
-5,2294,1,Eamonn,McCann,4760,0,4760,,,People Before Profit Alliance
-5,11860,1,Raymond,McCartney,7145,0,7145,,,Sinn Fein
-5,19742,1,Arthur,McGuinness,44,0,44,,,Independent
-5,7209,1,Gary,Middleton,5975,0,5975,,,Democratic Unionist Party
+5,7656,1,Stuart,Canning,77,0.00,77.00,,,NI Conservatives
+5,19694,1,Colm,Cavanagh,1124,0.00,1124.00,,,Alliance Party
+5,19701,1,Shannon,Downey,242,0.00,242.00,,,Green Party
+5,19640,1,Mark H.,Durkan,6948,0.00,6948.00,,,Social Democratic and Labour Party
+5,11857,1,Colum,Eastwood,7240,0.00,7240.00,,,Social Democratic and Labour Party
+5,6404,1,Julia,Kee,1660,0.00,1660.00,,,Ulster Unionist Party
+5,11859,1,John,Lindsay,196,0.00,196.00,,,Citizens Independent Social Thought Alliance
+5,19678,1,Elisha,McCallion,9205,0.00,9205.00,Elected,1,Sinn Fein
+5,2294,1,Eamonn,McCann,4760,0.00,4760.00,,,People Before Profit Alliance
+5,11860,1,Raymond,McCartney,7145,0.00,7145.00,,,Sinn Fein
+5,19742,1,Arthur,McGuinness,44,0.00,44.00,,,Independent
+5,7209,1,Gary,Middleton,5975,0.00,5975.00,,,Democratic Unionist Party
 5,7656,2,Stuart,Canning,77,0.19,77.19,,,NI Conservatives
 5,19694,2,Colm,Cavanagh,1124,8.93,1132.93,,,Alliance Party
 5,19701,2,Shannon,Downey,242,2.09,244.09,,,Green Party
@@ -18,56 +18,56 @@ Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_
 5,11857,2,Colum,Eastwood,7240,92.53,7332.53,,,Social Democratic and Labour Party
 5,6404,2,Julia,Kee,1660,1.52,1661.52,,,Ulster Unionist Party
 5,11859,2,John,Lindsay,196,3.61,199.61,,,Citizens Independent Social Thought Alliance
-5,19678,2,Elisha,McCallion,9205,-1768,7437,Elected,1,Sinn Fein
+5,19678,2,Elisha,McCallion,9205,-1768.00,7437.00,Elected,1,Sinn Fein
 5,2294,2,Eamonn,McCann,4760,90.63,4850.63,,,People Before Profit Alliance
 5,11860,2,Raymond,McCartney,7145,1463.76,8608.76,Elected,2,Sinn Fein
 5,19742,2,Arthur,McGuinness,44,0.57,44.57,,,Independent
-5,7209,2,Gary,Middleton,5975,0,5975,,,Democratic Unionist Party
-5,7656,3,Stuart,Canning,77,1.71,78.9,Excluded,3,NI Conservatives
+5,7209,2,Gary,Middleton,5975,0.00,5975.00,,,Democratic Unionist Party
+5,7656,3,Stuart,Canning,77,1.71,78.90,Excluded,3,NI Conservatives
 5,19694,3,Colm,Cavanagh,1124,46.74,1179.67,,,Alliance Party
 5,19701,3,Shannon,Downey,242,20.33,264.42,Excluded,3,Green Party
 5,19640,3,Mark H.,Durkan,6948,252.51,7275.56,,,Social Democratic and Labour Party
-5,11857,3,Colum,Eastwood,7240,262.77,7595.3,Elected,3,Social Democratic and Labour Party
+5,11857,3,Colum,Eastwood,7240,262.77,7595.30,Elected,3,Social Democratic and Labour Party
 5,6404,3,Julia,Kee,1660,7.41,1668.93,,,Ulster Unionist Party
 5,11859,3,John,Lindsay,196,25.84,225.45,Excluded,3,Citizens Independent Social Thought Alliance
-5,19678,3,Elisha,McCallion,9205,0,7437,Elected,1,Sinn Fein
-5,2294,3,Eamonn,McCann,4760,236.17,5086.8,,,People Before Profit Alliance
-5,11860,3,Raymond,McCartney,7145,-1171.76,7437,Elected,2,Sinn Fein
+5,19678,3,Elisha,McCallion,9205,0.00,7437.00,Elected,1,Sinn Fein
+5,2294,3,Eamonn,McCann,4760,236.17,5086.80,,,People Before Profit Alliance
+5,11860,3,Raymond,McCartney,7145,-1171.76,7437.00,Elected,2,Sinn Fein
 5,19742,3,Arthur,McGuinness,44,11.78,56.35,Excluded,3,Independent
 5,7209,3,Gary,Middleton,5975,1.71,5976.71,,,Democratic Unionist Party
-5,7656,4,Stuart,Canning,77,-78.9,0,Excluded,3,NI Conservatives
+5,7656,4,Stuart,Canning,77,-78.90,0.00,Excluded,3,NI Conservatives
 5,19694,4,Colm,Cavanagh,1124,115.55,1295.22,Excluded,4,Alliance Party
-5,19701,4,Shannon,Downey,242,-264.42,0,Excluded,3,Green Party
+5,19701,4,Shannon,Downey,242,-264.42,0.00,Excluded,3,Green Party
 5,19640,4,Mark H.,Durkan,6948,105.12,7380.68,,,Social Democratic and Labour Party
-5,11857,4,Colum,Eastwood,7240,0,7595.3,Elected,3,Social Democratic and Labour Party
-5,6404,4,Julia,Kee,1660,35.57,1704.5,Excluded,4,Ulster Unionist Party
-5,11859,4,John,Lindsay,196,-225.45,0,Excluded,3,Citizens Independent Social Thought Alliance
-5,19678,4,Elisha,McCallion,9205,0,7437,Elected,1,Sinn Fein
+5,11857,4,Colum,Eastwood,7240,0.00,7595.30,Elected,3,Social Democratic and Labour Party
+5,6404,4,Julia,Kee,1660,35.57,1704.50,Excluded,4,Ulster Unionist Party
+5,11859,4,John,Lindsay,196,-225.45,0.00,Excluded,3,Citizens Independent Social Thought Alliance
+5,19678,4,Elisha,McCallion,9205,0.00,7437.00,Elected,1,Sinn Fein
 5,2294,4,Eamonn,McCann,4760,204.83,5291.63,,,People Before Profit Alliance
-5,11860,4,Raymond,McCartney,7145,0,7437,Elected,2,Sinn Fein
-5,19742,4,Arthur,McGuinness,44,-56.35,0,Excluded,3,Independent
+5,11860,4,Raymond,McCartney,7145,0.00,7437.00,Elected,2,Sinn Fein
+5,19742,4,Arthur,McGuinness,44,-56.35,0.00,Excluded,3,Independent
 5,7209,4,Gary,Middleton,5975,31.38,6008.09,,,Democratic Unionist Party
-5,7656,5,Stuart,Canning,77,0,0,Excluded,3,NI Conservatives
-5,19694,5,Colm,Cavanagh,1124,-1295,0,Excluded,4,Alliance Party
-5,19701,5,Shannon,Downey,242,0,0,Excluded,3,Green Party
-5,19640,5,Mark H.,Durkan,6948,1033,8413.68,Elected,5,Social Democratic and Labour Party
-5,11857,5,Colum,Eastwood,7240,0,7595,Elected,3,Social Democratic and Labour Party
-5,6404,5,Julia,Kee,1660,-1704.5,0,Excluded,4,Ulster Unionist Party
-5,11859,5,John,Lindsay,196,0,0,Excluded,3,Citizens Independent Social Thought Alliance
-5,19678,5,Elisha,McCallion,9205,0,7437,Elected,1,Sinn Fein
+5,7656,5,Stuart,Canning,77,0.00,0.00,Excluded,3,NI Conservatives
+5,19694,5,Colm,Cavanagh,1124,-1295.00,0.00,Excluded,4,Alliance Party
+5,19701,5,Shannon,Downey,242,0.00,0.00,Excluded,3,Green Party
+5,19640,5,Mark H.,Durkan,6948,1033.00,8413.68,Elected,5,Social Democratic and Labour Party
+5,11857,5,Colum,Eastwood,7240,0.00,7595.00,Elected,3,Social Democratic and Labour Party
+5,6404,5,Julia,Kee,1660,-1704.50,0.00,Excluded,4,Ulster Unionist Party
+5,11859,5,John,Lindsay,196,0.00,0.00,Excluded,3,Citizens Independent Social Thought Alliance
+5,19678,5,Elisha,McCallion,9205,0.00,7437.00,Elected,1,Sinn Fein
 5,2294,5,Eamonn,McCann,4760,630.53,5922.16,,,People Before Profit Alliance
-5,11860,5,Raymond,McCartney,7145,0,7437,Elected,2,Sinn Fein
-5,19742,5,Arthur,McGuinness,44,0,0,Excluded,3,Independent
+5,11860,5,Raymond,McCartney,7145,0.00,7437.00,Elected,2,Sinn Fein
+5,19742,5,Arthur,McGuinness,44,0.00,0.00,Excluded,3,Independent
 5,7209,5,Gary,Middleton,5975,894.28,6902.37,,,Democratic Unionist Party
-5,7656,6,Stuart,Canning,77,0,0,Excluded,3,NI Conservatives
-5,19694,6,Colm,Cavanagh,1124,0,0,Excluded,4,Alliance Party
-5,19701,6,Shannon,Downey,242,0,0,Excluded,3,Green Party
-5,19640,6,Mark H.,Durkan,6948,-976.68,7437,Elected,5,Social Democratic and Labour Party
-5,11857,6,Colum,Eastwood,7240,0,7595,Elected,3,Social Democratic and Labour Party
-5,6404,6,Julia,Kee,1660,0,0,Excluded,4,Ulster Unionist Party
-5,11859,6,John,Lindsay,196,0,0,Excluded,3,Citizens Independent Social Thought Alliance
-5,19678,6,Elisha,McCallion,9205,0,7437,Elected,1,Sinn Fein
-5,2294,6,Eamonn,McCann,4760,451,6373.16,Excluded,6,People Before Profit Alliance
-5,11860,6,Raymond,McCartney,7145,0,7437,Elected,2,Sinn Fein
-5,19742,6,Arthur,McGuinness,44,0,0,Excluded,3,Independent
-5,7209,6,Gary,Middleton,5975,134,7036.37,Elected,6,Democratic Unionist Party
+5,7656,6,Stuart,Canning,77,0.00,0.00,Excluded,3,NI Conservatives
+5,19694,6,Colm,Cavanagh,1124,0.00,0.00,Excluded,4,Alliance Party
+5,19701,6,Shannon,Downey,242,0.00,0.00,Excluded,3,Green Party
+5,19640,6,Mark H.,Durkan,6948,-976.68,7437.00,Elected,5,Social Democratic and Labour Party
+5,11857,6,Colum,Eastwood,7240,0.00,7595.00,Elected,3,Social Democratic and Labour Party
+5,6404,6,Julia,Kee,1660,0.00,0.00,Excluded,4,Ulster Unionist Party
+5,11859,6,John,Lindsay,196,0.00,0.00,Excluded,3,Citizens Independent Social Thought Alliance
+5,19678,6,Elisha,McCallion,9205,0.00,7437.00,Elected,1,Sinn Fein
+5,2294,6,Eamonn,McCann,4760,451.00,6373.16,Excluded,6,People Before Profit Alliance
+5,11860,6,Raymond,McCartney,7145,0.00,7437.00,Elected,2,Sinn Fein
+5,19742,6,Arthur,McGuinness,44,0.00,0.00,Excluded,3,Independent
+5,7209,6,Gary,Middleton,5975,134.00,7036.37,Elected,6,Democratic Unionist Party

@@ -1,49 +1,49 @@
 Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_Pref_Votes,Transfers,Total_Votes,Status,Occurred_On_Count,Party_Name
-17,982,1,Alex,Attwood,3452,0,3452,,,Social Democratic and Labour Party
-17,8186,1,Conor,Campbell,415,0,415,Excluded,1,Workers Party
-17,7199,1,Gerry,Carroll,4903,0,4903,,,People Before Profit Alliance
-17,19674,1,Michael,Collins,1096,0,1096,Excluded,1,People Before Profit Alliance
-17,19688,1,Sorcha,Eastwood,747,0,747,Excluded,1,Alliance Party
-17,19668,1,Órlaithí,Flynn,6918,0,6918,Elected,1,Sinn Fein
-17,11439,1,Alex,Maskey,6346,0,6346,,,Sinn Fein
-17,11437,1,Fra,McCann,6201,0,6201,,,Sinn Fein
-17,7174,1,Frank,McCoubrey,4063,0,4063,,,Democratic Unionist Party
-17,11441,1,Ellen,Murray,251,0,251,Excluded,1,Green Party
-17,19686,1,Fred,Rodgers,486,0,486,Excluded,1,Ulster Unionist Party
-17,11436,1,Pat,Sheehan,5466,0,5466,,,Sinn Fein
-17,982,2,Alex,Attwood,3452,567,4019,Excluded,2,Social Democratic and Labour Party
-17,8186,2,Conor,Campbell,415,-415,0,Excluded,1,Workers Party
-17,7199,2,Gerry,Carroll,4903,1611,6514,,,People Before Profit Alliance
-17,19674,2,Michael,Collins,1096,-1096,0,Excluded,1,People Before Profit Alliance
-17,19688,2,Sorcha,Eastwood,747,-747,0,Excluded,1,Alliance Party
-17,19668,2,Órlaithí,Flynn,6918,0,6918,Elected,1,Sinn Fein
-17,11439,2,Alex,Maskey,6346,105,6451,,,Sinn Fein
-17,11437,2,Fra,McCann,6201,113,6314,,,Sinn Fein
-17,7174,2,Frank,McCoubrey,4063,309,4372,,,Democratic Unionist Party
-17,11441,2,Ellen,Murray,251,-251,0,Excluded,1,Green Party
-17,19686,2,Fred,Rodgers,486,-486,0,Excluded,1,Ulster Unionist Party
-17,11436,2,Pat,Sheehan,5466,49,5515,,,Sinn Fein
-17,982,3,Alex,Attwood,3452,-4019,0,Excluded,2,Social Democratic and Labour Party
-17,8186,3,Conor,Campbell,415,0,0,Excluded,1,Workers Party
-17,7199,3,Gerry,Carroll,4903,1738,8252,Elected,3,People Before Profit Alliance
-17,19674,3,Michael,Collins,1096,0,0,Excluded,1,People Before Profit Alliance
-17,19688,3,Sorcha,Eastwood,747,0,0,Excluded,1,Alliance Party
-17,19668,3,Órlaithí,Flynn,6918,0,6918,Elected,1,Sinn Fein
-17,11439,3,Alex,Maskey,6346,585,7036,Elected,3,Sinn Fein
-17,11437,3,Fra,McCann,6201,222,6536,,,Sinn Fein
-17,7174,3,Frank,McCoubrey,4063,74,4446,,,Democratic Unionist Party
-17,11441,3,Ellen,Murray,251,0,0,Excluded,1,Green Party
-17,19686,3,Fred,Rodgers,486,0,0,Excluded,1,Ulster Unionist Party
-17,11436,3,Pat,Sheehan,5466,189,5704,,,Sinn Fein
-17,982,4,Alex,Attwood,3452,0,0,Excluded,2,Social Democratic and Labour Party
-17,8186,4,Conor,Campbell,415,0,0,Excluded,1,Workers Party
-17,7199,4,Gerry,Carroll,4903,-1527,6725,Elected,3,People Before Profit Alliance
-17,19674,4,Michael,Collins,1096,0,0,Excluded,1,People Before Profit Alliance
-17,19688,4,Sorcha,Eastwood,747,0,0,Excluded,1,Alliance Party
-17,19668,4,Órlaithí,Flynn,6918,0,6918,Elected,1,Sinn Fein
-17,11439,4,Alex,Maskey,6346,0,7036,Elected,3,Sinn Fein
-17,11437,4,Fra,McCann,6201,431,7067,Elected,4,Sinn Fein
-17,7174,4,Frank,McCoubrey,4063,31,4521,Excluded,4,Democratic Unionist Party
-17,11441,4,Ellen,Murray,251,0,0,Excluded,1,Green Party
-17,19686,4,Fred,Rodgers,486,0,0,Excluded,1,Ulster Unionist Party
-17,11436,4,Pat,Sheehan,5466,164,5903,Elected,4,Sinn Fein
+17,982,1,Alex,Attwood,3452,0.00,3452.00,,,Social Democratic and Labour Party
+17,8186,1,Conor,Campbell,415,0.00,415.00,Excluded,1,Workers Party
+17,7199,1,Gerry,Carroll,4903,0.00,4903.00,,,People Before Profit Alliance
+17,19674,1,Michael,Collins,1096,0.00,1096.00,Excluded,1,People Before Profit Alliance
+17,19688,1,Sorcha,Eastwood,747,0.00,747.00,Excluded,1,Alliance Party
+17,19668,1,Órlaithí,Flynn,6918,0.00,6918.00,Elected,1,Sinn Fein
+17,11439,1,Alex,Maskey,6346,0.00,6346.00,,,Sinn Fein
+17,11437,1,Fra,McCann,6201,0.00,6201.00,,,Sinn Fein
+17,7174,1,Frank,McCoubrey,4063,0.00,4063.00,,,Democratic Unionist Party
+17,11441,1,Ellen,Murray,251,0.00,251.00,Excluded,1,Green Party
+17,19686,1,Fred,Rodgers,486,0.00,486.00,Excluded,1,Ulster Unionist Party
+17,11436,1,Pat,Sheehan,5466,0.00,5466.00,,,Sinn Fein
+17,982,2,Alex,Attwood,3452,567.00,4019.00,Excluded,2,Social Democratic and Labour Party
+17,8186,2,Conor,Campbell,415,-415.00,0.00,Excluded,1,Workers Party
+17,7199,2,Gerry,Carroll,4903,1611.00,6514.00,,,People Before Profit Alliance
+17,19674,2,Michael,Collins,1096,-1096.00,0.00,Excluded,1,People Before Profit Alliance
+17,19688,2,Sorcha,Eastwood,747,-747.00,0.00,Excluded,1,Alliance Party
+17,19668,2,Órlaithí,Flynn,6918,0.00,6918.00,Elected,1,Sinn Fein
+17,11439,2,Alex,Maskey,6346,105.00,6451.00,,,Sinn Fein
+17,11437,2,Fra,McCann,6201,113.00,6314.00,,,Sinn Fein
+17,7174,2,Frank,McCoubrey,4063,309.00,4372.00,,,Democratic Unionist Party
+17,11441,2,Ellen,Murray,251,-251.00,0.00,Excluded,1,Green Party
+17,19686,2,Fred,Rodgers,486,-486.00,0.00,Excluded,1,Ulster Unionist Party
+17,11436,2,Pat,Sheehan,5466,49.00,5515.00,,,Sinn Fein
+17,982,3,Alex,Attwood,3452,-4019.00,0.00,Excluded,2,Social Democratic and Labour Party
+17,8186,3,Conor,Campbell,415,0.00,0.00,Excluded,1,Workers Party
+17,7199,3,Gerry,Carroll,4903,1738.00,8252.00,Elected,3,People Before Profit Alliance
+17,19674,3,Michael,Collins,1096,0.00,0.00,Excluded,1,People Before Profit Alliance
+17,19688,3,Sorcha,Eastwood,747,0.00,0.00,Excluded,1,Alliance Party
+17,19668,3,Órlaithí,Flynn,6918,0.00,6918.00,Elected,1,Sinn Fein
+17,11439,3,Alex,Maskey,6346,585.00,7036.00,Elected,3,Sinn Fein
+17,11437,3,Fra,McCann,6201,322.00,6636.00,,,Sinn Fein
+17,7174,3,Frank,McCoubrey,4063,118.00,4490.00,,,Democratic Unionist Party
+17,11441,3,Ellen,Murray,251,0.00,0.00,Excluded,1,Green Party
+17,19686,3,Fred,Rodgers,486,0.00,0.00,Excluded,1,Ulster Unionist Party
+17,11436,3,Pat,Sheehan,5466,224.00,5739.00,,,Sinn Fein
+17,982,4,Alex,Attwood,3452,0.00,0.00,Excluded,2,Social Democratic and Labour Party
+17,8186,4,Conor,Campbell,415,0.00,0.00,Excluded,1,Workers Party
+17,7199,4,Gerry,Carroll,4903,-1527.00,6725.00,Elected,3,People Before Profit Alliance
+17,19674,4,Michael,Collins,1096,0.00,0.00,Excluded,1,People Before Profit Alliance
+17,19688,4,Sorcha,Eastwood,747,0.00,0.00,Excluded,1,Alliance Party
+17,19668,4,Órlaithí,Flynn,6918,0.00,6918.00,Elected,1,Sinn Fein
+17,11439,4,Alex,Maskey,6346,0.00,7036.00,Elected,3,Sinn Fein
+17,11437,4,Fra,McCann,6201,431.00,7067.00,Elected,4,Sinn Fein
+17,7174,4,Frank,McCoubrey,4063,31.00,4521.00,Excluded,4,Democratic Unionist Party
+17,11441,4,Ellen,Murray,251,0.00,0.00,Excluded,1,Green Party
+17,19686,4,Fred,Rodgers,486,0.00,0.00,Excluded,1,Ulster Unionist Party
+17,11436,4,Pat,Sheehan,5466,164.00,5903.00,Elected,4,Sinn Fein

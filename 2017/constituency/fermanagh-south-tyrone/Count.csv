@@ -1,49 +1,49 @@
 Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_Pref_Votes,Transfers,Total_Votes,Status,Occurred_On_Count,Party_Name
-4,8123,1,Rosemary,Barton,6060,0,6060,,,Ulster Unionist Party
-4,19684,1,Noreen,Campbell,1437,0,1437,Excluded,1,Alliance Party
-4,19672,1,Jemma,Dolan,7767,0,7767,,,Sinn Fein
-4,19720,1,Richard,Dunn,70,0,70,Excluded,1,NI Conservatives
-4,19692,1,Alex,Elliot,780,0,780,Excluded,1,Traditional Unionist Voice
-4,11526,1,Arlene,Foster,8479,0,8479,,,Democratic Unionist Party
-4,2427,1,Michelle,Gildernew,7987,0,7987,,,Sinn Fein
-4,4674,1,Tanya,Jones,550,0,550,Excluded,1,Green Party
-4,11528,1,Seán,Lynch,6254,0,6254,,,Sinn Fein
-4,11529,1,Richie,McPhillips,5134,0,5134,,,Social Democratic and Labour Party
-4,11530,1,Maurice,Morrow,7102,0,7102,,,Democratic Unionist Party
-4,19717,1,Donal,O'Cofaigh,643,0,643,Excluded,1,Cross-Community Labour Alternative
-4,8123,2,Rosemary,Barton,6060,803,6863,,,Ulster Unionist Party
-4,19684,2,Noreen,Campbell,1437,-1437,0,Excluded,1,Alliance Party
-4,19672,2,Jemma,Dolan,7767,256,8023,,,Sinn Fein
-4,19720,2,Richard,Dunn,70,-70,0,Excluded,1,NI Conservatives
-4,19692,2,Alex,Elliot,780,-780,0,Excluded,1,Traditional Unionist Voice
-4,11526,2,Arlene,Foster,8479,266,8745,Elected,2,Democratic Unionist Party
-4,2427,2,Michelle,Gildernew,7987,241,8228,,,Sinn Fein
-4,4674,2,Tanya,Jones,550,-550,0,Excluded,1,Green Party
-4,11528,2,Seán,Lynch,6254,84,6338,,,Sinn Fein
-4,11529,2,Richie,McPhillips,5134,1142,6276,Excluded,2,Social Democratic and Labour Party
-4,11530,2,Maurice,Morrow,7102,230,7332,,,Democratic Unionist Party
-4,19717,2,Donal,O'Cofaigh,643,-643,0,Excluded,1,Cross-Community Labour Alternative
-4,8123,3,Rosemary,Barton,6060,1471,8334,,,Ulster Unionist Party
-4,19684,3,Noreen,Campbell,1437,0,0,Excluded,1,Alliance Party
-4,19672,3,Jemma,Dolan,7767,905,8928,Elected,3,Sinn Fein
-4,19720,3,Richard,Dunn,70,0,0,Excluded,1,NI Conservatives
-4,19692,3,Alex,Elliot,780,0,0,Excluded,1,Traditional Unionist Voice
-4,11526,3,Arlene,Foster,8479,0,8745,Elected,2,Democratic Unionist Party
-4,2427,3,Michelle,Gildernew,7987,1157,9385,Elected,3,Sinn Fein
-4,4674,3,Tanya,Jones,550,0,0,Excluded,1,Green Party
-4,11528,3,Seán,Lynch,6254,836,7174,,,Sinn Fein
-4,11529,3,Richie,McPhillips,5134,-6276,0,Excluded,2,Social Democratic and Labour Party
-4,11530,3,Maurice,Morrow,7102,73,7405,,,Democratic Unionist Party
-4,19717,3,Donal,O'Cofaigh,643,0,0,Excluded,1,Cross-Community Labour Alternative
-4,8123,4,Rosemary,Barton,6060,108,8442,Elected,4,Ulster Unionist Party
-4,19684,4,Noreen,Campbell,1437,0,0,Excluded,1,Alliance Party
-4,19672,4,Jemma,Dolan,7767,0,8928,Elected,3,Sinn Fein
-4,19720,4,Richard,Dunn,70,0,0,Excluded,1,NI Conservatives
-4,19692,4,Alex,Elliot,780,0,0,Excluded,1,Traditional Unionist Voice
-4,11526,4,Arlene,Foster,8479,0,8745,Elected,2,Democratic Unionist Party
-4,2427,4,Michelle,Gildernew,7987,-674,8711,Elected,3,Sinn Fein
-4,4674,4,Tanya,Jones,550,0,0,Excluded,1,Green Party
-4,11528,4,Seán,Lynch,6254,543,7717,Elected,4,Sinn Fein
-4,11529,4,Richie,McPhillips,5134,0,0,Excluded,2,Social Democratic and Labour Party
-4,11530,4,Maurice,Morrow,7102,6,7411,Excluded,4,Democratic Unionist Party
-4,19717,4,Donal,O'Cofaigh,643,0,0,Excluded,1,Cross-Community Labour Alternative
+4,8123,1,Rosemary,Barton,6060,0.00,6060.00,,,Ulster Unionist Party
+4,19684,1,Noreen,Campbell,1437,0.00,1437.00,Excluded,1,Alliance Party
+4,19672,1,Jemma,Dolan,7767,0.00,7767.00,,,Sinn Fein
+4,19720,1,Richard,Dunn,70,0.00,70.00,Excluded,1,NI Conservatives
+4,19692,1,Alex,Elliot,780,0.00,780.00,Excluded,1,Traditional Unionist Voice
+4,11526,1,Arlene,Foster,8479,0.00,8479.00,,,Democratic Unionist Party
+4,2427,1,Michelle,Gildernew,7987,0.00,7987.00,,,Sinn Fein
+4,4674,1,Tanya,Jones,550,0.00,550.00,Excluded,1,Green Party
+4,11528,1,Seán,Lynch,6254,0.00,6254.00,,,Sinn Fein
+4,11529,1,Richie,McPhillips,5134,0.00,5134.00,,,Social Democratic and Labour Party
+4,11530,1,Maurice,Morrow,7102,0.00,7102.00,,,Democratic Unionist Party
+4,19717,1,Donal,O'Cofaigh,643,0.00,643.00,Excluded,1,Cross-Community Labour Alternative
+4,8123,2,Rosemary,Barton,6060,803.00,6863.00,,,Ulster Unionist Party
+4,19684,2,Noreen,Campbell,1437,-1437.00,0.00,Excluded,1,Alliance Party
+4,19672,2,Jemma,Dolan,7767,256.00,8023.00,,,Sinn Fein
+4,19720,2,Richard,Dunn,70,-70.00,0.00,Excluded,1,NI Conservatives
+4,19692,2,Alex,Elliot,780,-780.00,0.00,Excluded,1,Traditional Unionist Voice
+4,11526,2,Arlene,Foster,8479,266.00,8745.00,Elected,2,Democratic Unionist Party
+4,2427,2,Michelle,Gildernew,7987,241.00,8228.00,,,Sinn Fein
+4,4674,2,Tanya,Jones,550,-550.00,0.00,Excluded,1,Green Party
+4,11528,2,Seán,Lynch,6254,84.00,6338.00,,,Sinn Fein
+4,11529,2,Richie,McPhillips,5134,1142.00,6276.00,Excluded,2,Social Democratic and Labour Party
+4,11530,2,Maurice,Morrow,7102,230.00,7332.00,,,Democratic Unionist Party
+4,19717,2,Donal,O'Cofaigh,643,-643.00,0.00,Excluded,1,Cross-Community Labour Alternative
+4,8123,3,Rosemary,Barton,6060,1471.00,8334.00,,,Ulster Unionist Party
+4,19684,3,Noreen,Campbell,1437,0.00,0.00,Excluded,1,Alliance Party
+4,19672,3,Jemma,Dolan,7767,905.00,8928.00,Elected,3,Sinn Fein
+4,19720,3,Richard,Dunn,70,0.00,0.00,Excluded,1,NI Conservatives
+4,19692,3,Alex,Elliot,780,0.00,0.00,Excluded,1,Traditional Unionist Voice
+4,11526,3,Arlene,Foster,8479,0.00,8745.00,Elected,2,Democratic Unionist Party
+4,2427,3,Michelle,Gildernew,7987,1157.00,9385.00,Elected,3,Sinn Fein
+4,4674,3,Tanya,Jones,550,0.00,0.00,Excluded,1,Green Party
+4,11528,3,Seán,Lynch,6254,836.00,7174.00,,,Sinn Fein
+4,11529,3,Richie,McPhillips,5134,-6276.00,0.00,Excluded,2,Social Democratic and Labour Party
+4,11530,3,Maurice,Morrow,7102,73.00,7405.00,,,Democratic Unionist Party
+4,19717,3,Donal,O'Cofaigh,643,0.00,0.00,Excluded,1,Cross-Community Labour Alternative
+4,8123,4,Rosemary,Barton,6060,108.00,8442.00,Elected,4,Ulster Unionist Party
+4,19684,4,Noreen,Campbell,1437,0.00,0.00,Excluded,1,Alliance Party
+4,19672,4,Jemma,Dolan,7767,0.00,8928.00,Elected,3,Sinn Fein
+4,19720,4,Richard,Dunn,70,0.00,0.00,Excluded,1,NI Conservatives
+4,19692,4,Alex,Elliot,780,0.00,0.00,Excluded,1,Traditional Unionist Voice
+4,11526,4,Arlene,Foster,8479,0.00,8745.00,Elected,2,Democratic Unionist Party
+4,2427,4,Michelle,Gildernew,7987,-674.00,8711.00,Elected,3,Sinn Fein
+4,4674,4,Tanya,Jones,550,0.00,0.00,Excluded,1,Green Party
+4,11528,4,Seán,Lynch,6254,543.00,7717.00,Elected,4,Sinn Fein
+4,11529,4,Richie,McPhillips,5134,0.00,0.00,Excluded,2,Social Democratic and Labour Party
+4,11530,4,Maurice,Morrow,7102,6.00,7411.00,Excluded,4,Democratic Unionist Party
+4,19717,4,Donal,O'Cofaigh,643,0.00,0.00,Excluded,1,Cross-Community Labour Alternative

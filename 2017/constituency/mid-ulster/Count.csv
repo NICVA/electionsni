@@ -1,56 +1,56 @@
 Constituency_Number,Candidate_Id,Count_Number,Firstname,Surname,Candidate_First_Pref_Votes,Transfers,Total_Votes,Status,Occurred_On_Count,Party_Name
-7,11273,1,Keith Alexander,Buchanan,9568,0,9568,Elected,1,Democratic Unionist Party
-7,11274,1,Linda,Dillon,7806,0,7806,,,Sinn Fein
-7,11290,1,Hannah,Loughrin,1244,0,1244,,,Traditional Unionist Voice
-7,19727,1,Hugh,McCloy,247,0,247,,,Independent
-7,11291,1,Patsy,McGlone,6419,0,6419,,,Social Democratic and Labour Party
-7,11275,1,Ian,Milne,8143,0,8143,,,Sinn Fein
-7,11276,1,Michelle,O'Neill,10258,0,10258,Elected,1,Sinn Fein
-7,3870,1,Sandra,Overend,4516,0,4516,,,Ulster Unionist Party
-7,7088,1,Hugh,Scullion,217,0,217,,,Workers Party
-7,10203,1,Stefan,Taylor,243,0,243,,,Green Party
-7,19693,1,Fay,Watson,1017,0,1017,,,Alliance Party
-7,11273,2,Keith Alexander,Buchanan,9568,0,9568,Elected,1,Democratic Unionist Party
-7,11274,2,Linda,Dillon,7806,1226,9032,Elected,2,Sinn Fein
-7,11290,2,Hannah,Loughrin,1244,1,1245,,,Traditional Unionist Voice
-7,19727,2,Hugh,McCloy,247,6,253,,,Independent
-7,11291,2,Patsy,McGlone,6419,264,6683,,,Social Democratic and Labour Party
-7,11275,2,Ian,Milne,8143,410,8553,Elected,2,Sinn Fein
-7,11276,2,Michelle,O'Neill,10258,-1978,8280,Elected,1,Sinn Fein
-7,3870,2,Sandra,Overend,4516,3,4519,,,Ulster Unionist Party
-7,7088,2,Hugh,Scullion,217,4,221,,,Workers Party
-7,10203,2,Stefan,Taylor,243,3,246,,,Green Party
-7,19693,2,Fay,Watson,1017,13,1030,,,Alliance Party
-7,11273,3,Keith Alexander,Buchanan,9568,-1288,8280,Elected,1,Democratic Unionist Party
-7,11274,3,Linda,Dillon,7806,0,9032,Elected,2,Sinn Fein
-7,11290,3,Hannah,Loughrin,1244,447,1692,Excluded,3,Traditional Unionist Voice
-7,19727,3,Hugh,McCloy,247,3,256,Excluded,3,Independent
-7,11291,3,Patsy,McGlone,6419,16,6699,,,Social Democratic and Labour Party
-7,11275,3,Ian,Milne,8143,0,8553,Elected,2,Sinn Fein
-7,11276,3,Michelle,O'Neill,10258,0,8280,Elected,1,Sinn Fein
-7,3870,3,Sandra,Overend,4516,741,5260,,,Ulster Unionist Party
-7,7088,3,Hugh,Scullion,217,1,222,Excluded,3,Workers Party
-7,10203,3,Stefan,Taylor,243,1,247,Excluded,3,Green Party
-7,19693,3,Fay,Watson,1017,6,1036,Excluded,3,Alliance Party
-7,11273,4,Keith Alexander,Buchanan,9568,0,8280,Elected,1,Democratic Unionist Party
-7,11274,4,Linda,Dillon,7806,0,9032,Elected,2,Sinn Fein
-7,11290,4,Hannah,Loughrin,1244,-1692,0,Excluded,3,Traditional Unionist Voice
-7,19727,4,Hugh,McCloy,247,-256,0,Excluded,3,Independent
-7,11291,4,Patsy,McGlone,6419,1033,7732,,,Social Democratic and Labour Party
-7,11275,4,Ian,Milne,8143,0,8553,Elected,2,Sinn Fein
-7,11276,4,Michelle,O'Neill,10258,0,8280,Elected,1,Sinn Fein
-7,3870,4,Sandra,Overend,4516,1792,7052,,,Ulster Unionist Party
-7,7088,4,Hugh,Scullion,217,-222,0,Excluded,3,Workers Party
-7,10203,4,Stefan,Taylor,243,-247,0,Excluded,3,Green Party
-7,19693,4,Fay,Watson,1017,-1036,0,Excluded,3,Alliance Party
-7,11273,5,Keith Alexander,Buchanan,9568,0,8280,Elected,1,Democratic Unionist Party
-7,11274,5,Linda,Dillon,7806,-752,8280,Elected,2,Sinn Fein
-7,11290,5,Hannah,Loughrin,1244,0,0,Excluded,3,Traditional Unionist Voice
-7,19727,5,Hugh,McCloy,247,0,0,Excluded,3,Independent
-7,11291,5,Patsy,McGlone,6419,515,8247,Elected,5,Social Democratic and Labour Party
-7,11275,5,Ian,Milne,8143,0,8553,Elected,2,Sinn Fein
-7,11276,5,Michelle,O'Neill,10258,0,8280,Elected,1,Sinn Fein
-7,3870,5,Sandra,Overend,4516,6,7058,Excluded,5,Ulster Unionist Party
-7,7088,5,Hugh,Scullion,217,0,0,Excluded,3,Workers Party
-7,10203,5,Stefan,Taylor,243,0,0,Excluded,3,Green Party
-7,19693,5,Fay,Watson,1017,0,0,Excluded,3,Alliance Party
+7,11273,1,Keith Alexander,Buchanan,9568,0.00,9568.00,Elected,1,Democratic Unionist Party
+7,11274,1,Linda,Dillon,7806,0.00,7806.00,,,Sinn Fein
+7,11290,1,Hannah,Loughrin,1244,0.00,1244.00,,,Traditional Unionist Voice
+7,19727,1,Hugh,McCloy,247,0.00,247.00,,,Independent
+7,11291,1,Patsy,McGlone,6419,0.00,6419.00,,,Social Democratic and Labour Party
+7,11275,1,Ian,Milne,8143,0.00,8143.00,,,Sinn Fein
+7,11276,1,Michelle,O'Neill,10258,0.00,10258.00,Elected,1,Sinn Fein
+7,3870,1,Sandra,Overend,4516,0.00,4516.00,,,Ulster Unionist Party
+7,7088,1,Hugh,Scullion,217,0.00,217.00,,,Workers Party
+7,10203,1,Stefan,Taylor,243,0.00,243.00,,,Green Party
+7,19693,1,Fay,Watson,1017,0.00,1017.00,,,Alliance Party
+7,11273,2,Keith Alexander,Buchanan,9568,0.00,9568.00,Elected,1,Democratic Unionist Party
+7,11274,2,Linda,Dillon,7806,1226.64,9032.64,Elected,2,Sinn Fein
+7,11290,2,Hannah,Loughrin,1244,1.90,1245.90,,,Traditional Unionist Voice
+7,19727,2,Hugh,McCloy,247,6.84,253.84,,,Independent
+7,11291,2,Patsy,McGlone,6419,264.67,6683.67,,,Social Democratic and Labour Party
+7,11275,2,Ian,Milne,8143,410.21,8553.21,Elected,2,Sinn Fein
+7,11276,2,Michelle,O'Neill,10258,-1978.00,8280.00,Elected,1,Sinn Fein
+7,3870,2,Sandra,Overend,4516,3.42,4519.42,,,Ulster Unionist Party
+7,7088,2,Hugh,Scullion,217,4.37,221.37,,,Workers Party
+7,10203,2,Stefan,Taylor,243,3.04,246.04,,,Green Party
+7,19693,2,Fay,Watson,1017,13.11,1030.11,,,Alliance Party
+7,11273,3,Keith Alexander,Buchanan,9568,-1288.00,8280.00,Elected,1,Democratic Unionist Party
+7,11274,3,Linda,Dillon,7806,0.00,9032.64,Elected,2,Sinn Fein
+7,11290,3,Hannah,Loughrin,1244,446.94,1692.84,Excluded,3,Traditional Unionist Voice
+7,19727,3,Hugh,McCloy,247,3.12,256.96,Excluded,3,Independent
+7,11291,3,Patsy,McGlone,6419,15.34,6699.01,,,Social Democratic and Labour Party
+7,11275,3,Ian,Milne,8143,0.00,8553.21,Elected,2,Sinn Fein
+7,11276,3,Michelle,O'Neill,10258,0.00,8280.00,Elected,1,Sinn Fein
+7,3870,3,Sandra,Overend,4516,740.61,5260.03,,,Ulster Unionist Party
+7,7088,3,Hugh,Scullion,217,0.78,222.15,Excluded,3,Workers Party
+7,10203,3,Stefan,Taylor,243,1.69,247.73,Excluded,3,Green Party
+7,19693,3,Fay,Watson,1017,6.50,1036.61,Excluded,3,Alliance Party
+7,11273,4,Keith Alexander,Buchanan,9568,0.00,8280.00,Elected,1,Democratic Unionist Party
+7,11274,4,Linda,Dillon,7806,0.00,9032.64,Elected,2,Sinn Fein
+7,11290,4,Hannah,Loughrin,1244,-1692.84,0.00,Excluded,3,Traditional Unionist Voice
+7,19727,4,Hugh,McCloy,247,-256.96,0.00,Excluded,3,Independent
+7,11291,4,Patsy,McGlone,6419,1033.96,7732.97,,,Social Democratic and Labour Party
+7,11275,4,Ian,Milne,8143,0.00,8553.21,Elected,2,Sinn Fein
+7,11276,4,Michelle,O'Neill,10258,0.00,8280.00,Elected,1,Sinn Fein
+7,3870,4,Sandra,Overend,4516,1792.38,7052.41,,,Ulster Unionist Party
+7,7088,4,Hugh,Scullion,217,-222.15,0.00,Excluded,3,Workers Party
+7,10203,4,Stefan,Taylor,243,-247.73,0.00,Excluded,3,Green Party
+7,19693,4,Fay,Watson,1017,-1036.61,0.00,Excluded,3,Alliance Party
+7,11273,5,Keith Alexander,Buchanan,9568,0.00,8280.00,Elected,1,Democratic Unionist Party
+7,11274,5,Linda,Dillon,7806,-752.64,8280.00,Elected,2,Sinn Fein
+7,11290,5,Hannah,Loughrin,1244,0.00,0.00,Excluded,3,Traditional Unionist Voice
+7,19727,5,Hugh,McCloy,247,0.00,0.00,Excluded,3,Independent
+7,11291,5,Patsy,McGlone,6419,514.90,8247.87,Elected,5,Social Democratic and Labour Party
+7,11275,5,Ian,Milne,8143,0.00,8553.21,Elected,2,Sinn Fein
+7,11276,5,Michelle,O'Neill,10258,0.00,8280.00,Elected,1,Sinn Fein
+7,3870,5,Sandra,Overend,4516,6.46,7058.87,Excluded,5,Ulster Unionist Party
+7,7088,5,Hugh,Scullion,217,0.00,0.00,Excluded,3,Workers Party
+7,10203,5,Stefan,Taylor,243,0.00,0.00,Excluded,3,Green Party
+7,19693,5,Fay,Watson,1017,0.00,0.00,Excluded,3,Alliance Party
