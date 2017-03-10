@@ -9,9 +9,9 @@
     "Party_Name": "Ulster Unionist Party", 
     "Candidate_Id": "8116", 
     "Count_Number": "1", 
-    "Transfers": "0", 
+    "Transfers": "0.00", 
     "id": 0, 
-    "Total_Votes": "5275"
+    "Total_Votes": "5275.00"
 },
 {
     "Candidate_First_Pref_Votes": "275", 
@@ -23,9 +23,9 @@
     "Party_Name": "NI Conservatives", 
     "Candidate_Id": "19719", 
     "Count_Number": "1", 
-    "Transfers": "0", 
+    "Transfers": "0.00", 
     "id": 1, 
-    "Total_Votes": "275"
+    "Total_Votes": "275.00"
 },
 {
     "Candidate_First_Pref_Votes": "6007", 
@@ -37,9 +37,9 @@
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "13032", 
     "Count_Number": "1", 
-    "Transfers": "0", 
+    "Transfers": "0.00", 
     "id": 2, 
-    "Total_Votes": "6007"
+    "Total_Votes": "6007.00"
 },
 {
     "Candidate_First_Pref_Votes": "4431", 
@@ -51,9 +51,9 @@
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "19687", 
     "Count_Number": "1", 
-    "Transfers": "0", 
+    "Transfers": "0.00", 
     "id": 3, 
-    "Total_Votes": "4431"
+    "Total_Votes": "4431.00"
 },
 {
     "Candidate_First_Pref_Votes": "250", 
@@ -65,9 +65,9 @@
     "Party_Name": "Social Democratic and Labour Party", 
     "Candidate_Id": "19745", 
     "Count_Number": "1", 
-    "Transfers": "0", 
+    "Transfers": "0.00", 
     "id": 4, 
-    "Total_Votes": "250"
+    "Total_Votes": "250.00"
 },
 {
     "Candidate_First_Pref_Votes": "917", 
@@ -79,9 +79,9 @@
     "Party_Name": "Traditional Unionist Voice", 
     "Candidate_Id": "13035", 
     "Count_Number": "1", 
-    "Transfers": "0", 
+    "Transfers": "0.00", 
     "id": 5, 
-    "Total_Votes": "917"
+    "Total_Votes": "917.00"
 },
 {
     "Candidate_First_Pref_Votes": "2658", 
@@ -93,9 +93,9 @@
     "Party_Name": "Progressive Unionist Party", 
     "Candidate_Id": "13037", 
     "Count_Number": "1", 
-    "Transfers": "0", 
+    "Transfers": "0.00", 
     "id": 6, 
-    "Total_Votes": "2658"
+    "Total_Votes": "2658.00"
 },
 {
     "Candidate_First_Pref_Votes": "7610", 
@@ -107,9 +107,9 @@
     "Party_Name": "Alliance Party", 
     "Candidate_Id": "2454", 
     "Count_Number": "1", 
-    "Transfers": "0", 
+    "Transfers": "0.00", 
     "id": 7, 
-    "Total_Votes": "7610"
+    "Total_Votes": "7610.00"
 },
 {
     "Candidate_First_Pref_Votes": "5059", 
@@ -121,9 +121,9 @@
     "Party_Name": "Alliance Party", 
     "Candidate_Id": "13038", 
     "Count_Number": "1", 
-    "Transfers": "0", 
+    "Transfers": "0.00", 
     "id": 8, 
-    "Total_Votes": "5059"
+    "Total_Votes": "5059.00"
 },
 {
     "Candidate_First_Pref_Votes": "84", 
@@ -135,9 +135,9 @@
     "Party_Name": "Independent", 
     "Candidate_Id": "19746", 
     "Count_Number": "1", 
-    "Transfers": "0", 
+    "Transfers": "0.00", 
     "id": 9, 
-    "Total_Votes": "84"
+    "Total_Votes": "84.00"
 },
 {
     "Candidate_First_Pref_Votes": "1447", 
@@ -149,9 +149,9 @@
     "Party_Name": "Green Party", 
     "Candidate_Id": "19699", 
     "Count_Number": "1", 
-    "Transfers": "0", 
+    "Transfers": "0.00", 
     "id": 10, 
-    "Total_Votes": "1447"
+    "Total_Votes": "1447.00"
 },
 {
     "Candidate_First_Pref_Votes": "4729", 
@@ -163,9 +163,9 @@
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "13040", 
     "Count_Number": "1", 
-    "Transfers": "0", 
+    "Transfers": "0.00", 
     "id": 11, 
-    "Total_Votes": "4729"
+    "Total_Votes": "4729.00"
 },
 {
     "Candidate_First_Pref_Votes": "1173", 
@@ -177,9 +177,9 @@
     "Party_Name": "Sinn Fein", 
     "Candidate_Id": "19680", 
     "Count_Number": "1", 
-    "Transfers": "0", 
+    "Transfers": "0.00", 
     "id": 12, 
-    "Total_Votes": "1173"
+    "Total_Votes": "1173.00"
 },
 {
     "Candidate_First_Pref_Votes": "442", 
@@ -191,9 +191,9 @@
     "Party_Name": "Cross-Community Labour Alternative", 
     "Candidate_Id": "13041", 
     "Count_Number": "1", 
-    "Transfers": "0", 
+    "Transfers": "0.00", 
     "id": 13, 
-    "Total_Votes": "442"
+    "Total_Votes": "442.00"
 },
 {
     "Candidate_First_Pref_Votes": "5275", 
@@ -303,9 +303,9 @@
     "Party_Name": "Alliance Party", 
     "Candidate_Id": "2454", 
     "Count_Number": "2", 
-    "Transfers": "-883", 
+    "Transfers": "-883.00", 
     "id": 21, 
-    "Total_Votes": "6727"
+    "Total_Votes": "6727.00"
 },
 {
     "Candidate_First_Pref_Votes": "5059", 
@@ -359,9 +359,9 @@
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "13040", 
     "Count_Number": "2", 
-    "Transfers": "5.5", 
+    "Transfers": "5.50", 
     "id": 25, 
-    "Total_Votes": "4734.5"
+    "Total_Votes": "4734.50"
 },
 {
     "Candidate_First_Pref_Votes": "1173", 
@@ -429,7 +429,7 @@
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "13032", 
     "Count_Number": "3", 
-    "Transfers": "5", 
+    "Transfers": "5.00", 
     "id": 30, 
     "Total_Votes": "6021.02"
 },
@@ -443,7 +443,7 @@
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "19687", 
     "Count_Number": "3", 
-    "Transfers": "1", 
+    "Transfers": "1.00", 
     "id": 31, 
     "Total_Votes": "4436.18"
 },
@@ -471,7 +471,7 @@
     "Party_Name": "Traditional Unionist Voice", 
     "Candidate_Id": "13035", 
     "Count_Number": "3", 
-    "Transfers": "2", 
+    "Transfers": "2.00", 
     "id": 33, 
     "Total_Votes": "920.65"
 },
@@ -499,9 +499,9 @@
     "Party_Name": "Alliance Party", 
     "Candidate_Id": "2454", 
     "Count_Number": "3", 
-    "Transfers": "0", 
+    "Transfers": "0.00", 
     "id": 35, 
-    "Total_Votes": "6727"
+    "Total_Votes": "6727.00"
 },
 {
     "Candidate_First_Pref_Votes": "5059", 
@@ -529,7 +529,7 @@
     "Count_Number": "3", 
     "Transfers": "-85.43", 
     "id": 37, 
-    "Total_Votes": "0"
+    "Total_Votes": "0.00"
 },
 {
     "Candidate_First_Pref_Votes": "1447", 
@@ -555,9 +555,9 @@
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "13040", 
     "Count_Number": "3", 
-    "Transfers": "2", 
+    "Transfers": "2.00", 
     "id": 39, 
-    "Total_Votes": "4736.5"
+    "Total_Votes": "4736.50"
 },
 {
     "Candidate_First_Pref_Votes": "1173", 
@@ -583,7 +583,7 @@
     "Party_Name": "Cross-Community Labour Alternative", 
     "Candidate_Id": "13041", 
     "Count_Number": "3", 
-    "Transfers": "7", 
+    "Transfers": "7.00", 
     "id": 41, 
     "Total_Votes": "456.48"
 },
@@ -599,7 +599,7 @@
     "Count_Number": "4", 
     "Transfers": "33.21", 
     "id": 42, 
-    "Total_Votes": "5356.6"
+    "Total_Votes": "5356.60"
 },
 {
     "Candidate_First_Pref_Votes": "275", 
@@ -611,7 +611,7 @@
     "Party_Name": "NI Conservatives", 
     "Candidate_Id": "19719", 
     "Count_Number": "4", 
-    "Transfers": "2", 
+    "Transfers": "2.00", 
     "id": 43, 
     "Total_Votes": "280.43"
 },
@@ -639,7 +639,7 @@
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "19687", 
     "Count_Number": "4", 
-    "Transfers": "4", 
+    "Transfers": "4.00", 
     "id": 45, 
     "Total_Votes": "4440.18"
 },
@@ -655,7 +655,7 @@
     "Count_Number": "4", 
     "Transfers": "-260.56", 
     "id": 46, 
-    "Total_Votes": "0"
+    "Total_Votes": "0.00"
 },
 {
     "Candidate_First_Pref_Votes": "917", 
@@ -695,9 +695,9 @@
     "Party_Name": "Alliance Party", 
     "Candidate_Id": "2454", 
     "Count_Number": "4", 
-    "Transfers": "0", 
+    "Transfers": "0.00", 
     "id": 49, 
-    "Total_Votes": "6727"
+    "Total_Votes": "6727.00"
 },
 {
     "Candidate_First_Pref_Votes": "5059", 
@@ -723,9 +723,9 @@
     "Party_Name": "Independent", 
     "Candidate_Id": "19746", 
     "Count_Number": "4", 
-    "Transfers": "0", 
+    "Transfers": "0.00", 
     "id": 51, 
-    "Total_Votes": "0"
+    "Total_Votes": "0.00"
 },
 {
     "Candidate_First_Pref_Votes": "1447", 
@@ -751,9 +751,9 @@
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "13040", 
     "Count_Number": "4", 
-    "Transfers": "3", 
+    "Transfers": "3.00", 
     "id": 53, 
-    "Total_Votes": "4739.5"
+    "Total_Votes": "4739.50"
 },
 {
     "Candidate_First_Pref_Votes": "1173", 
@@ -809,7 +809,7 @@
     "Count_Number": "5", 
     "Transfers": "-280.43", 
     "id": 57, 
-    "Total_Votes": "0"
+    "Total_Votes": "0.00"
 },
 {
     "Candidate_First_Pref_Votes": "6007", 
@@ -837,7 +837,7 @@
     "Count_Number": "5", 
     "Transfers": "15.22", 
     "id": 59, 
-    "Total_Votes": "4455.4"
+    "Total_Votes": "4455.40"
 },
 {
     "Candidate_First_Pref_Votes": "250", 
@@ -849,9 +849,9 @@
     "Party_Name": "Social Democratic and Labour Party", 
     "Candidate_Id": "19745", 
     "Count_Number": "5", 
-    "Transfers": "0", 
+    "Transfers": "0.00", 
     "id": 60, 
-    "Total_Votes": "0"
+    "Total_Votes": "0.00"
 },
 {
     "Candidate_First_Pref_Votes": "917", 
@@ -891,9 +891,9 @@
     "Party_Name": "Alliance Party", 
     "Candidate_Id": "2454", 
     "Count_Number": "5", 
-    "Transfers": "0", 
+    "Transfers": "0.00", 
     "id": 63, 
-    "Total_Votes": "6727"
+    "Total_Votes": "6727.00"
 },
 {
     "Candidate_First_Pref_Votes": "5059", 
@@ -919,9 +919,9 @@
     "Party_Name": "Independent", 
     "Candidate_Id": "19746", 
     "Count_Number": "5", 
-    "Transfers": "0", 
+    "Transfers": "0.00", 
     "id": 65, 
-    "Total_Votes": "0"
+    "Total_Votes": "0.00"
 },
 {
     "Candidate_First_Pref_Votes": "1447", 
@@ -947,9 +947,9 @@
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "13040", 
     "Count_Number": "5", 
-    "Transfers": "35", 
+    "Transfers": "35.00", 
     "id": 67, 
-    "Total_Votes": "4774.5"
+    "Total_Votes": "4774.50"
 },
 {
     "Candidate_First_Pref_Votes": "1173", 
@@ -977,7 +977,7 @@
     "Count_Number": "5", 
     "Transfers": "-467.81", 
     "id": 69, 
-    "Total_Votes": "0"
+    "Total_Votes": "0.00"
 },
 {
     "Candidate_First_Pref_Votes": "5275", 
@@ -1003,9 +1003,9 @@
     "Party_Name": "NI Conservatives", 
     "Candidate_Id": "19719", 
     "Count_Number": "6", 
-    "Transfers": "0", 
+    "Transfers": "0.00", 
     "id": 71, 
-    "Total_Votes": "0"
+    "Total_Votes": "0.00"
 },
 {
     "Candidate_First_Pref_Votes": "6007", 
@@ -1031,9 +1031,9 @@
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "19687", 
     "Count_Number": "6", 
-    "Transfers": "113", 
+    "Transfers": "113.00", 
     "id": 73, 
-    "Total_Votes": "4568.4"
+    "Total_Votes": "4568.40"
 },
 {
     "Candidate_First_Pref_Votes": "250", 
@@ -1045,9 +1045,9 @@
     "Party_Name": "Social Democratic and Labour Party", 
     "Candidate_Id": "19745", 
     "Count_Number": "6", 
-    "Transfers": "0", 
+    "Transfers": "0.00", 
     "id": 74, 
-    "Total_Votes": "0"
+    "Total_Votes": "0.00"
 },
 {
     "Candidate_First_Pref_Votes": "917", 
@@ -1061,7 +1061,7 @@
     "Count_Number": "6", 
     "Transfers": "-958.87", 
     "id": 75, 
-    "Total_Votes": "0"
+    "Total_Votes": "0.00"
 },
 {
     "Candidate_First_Pref_Votes": "2658", 
@@ -1087,9 +1087,9 @@
     "Party_Name": "Alliance Party", 
     "Candidate_Id": "2454", 
     "Count_Number": "6", 
-    "Transfers": "0", 
+    "Transfers": "0.00", 
     "id": 77, 
-    "Total_Votes": "6727"
+    "Total_Votes": "6727.00"
 },
 {
     "Candidate_First_Pref_Votes": "5059", 
@@ -1115,9 +1115,9 @@
     "Party_Name": "Independent", 
     "Candidate_Id": "19746", 
     "Count_Number": "6", 
-    "Transfers": "0", 
+    "Transfers": "0.00", 
     "id": 79, 
-    "Total_Votes": "0"
+    "Total_Votes": "0.00"
 },
 {
     "Candidate_First_Pref_Votes": "1447", 
@@ -1159,7 +1159,7 @@
     "Count_Number": "6", 
     "Transfers": "2.22", 
     "id": 82, 
-    "Total_Votes": "1235.1"
+    "Total_Votes": "1235.10"
 },
 {
     "Candidate_First_Pref_Votes": "442", 
@@ -1171,9 +1171,9 @@
     "Party_Name": "Cross-Community Labour Alternative", 
     "Candidate_Id": "13041", 
     "Count_Number": "6", 
-    "Transfers": "0", 
+    "Transfers": "0.00", 
     "id": 83, 
-    "Total_Votes": "0"
+    "Total_Votes": "0.00"
 },
 {
     "Candidate_First_Pref_Votes": "5275", 
@@ -1199,9 +1199,9 @@
     "Party_Name": "NI Conservatives", 
     "Candidate_Id": "19719", 
     "Count_Number": "7", 
-    "Transfers": "0", 
+    "Transfers": "0.00", 
     "id": 85, 
-    "Total_Votes": "0"
+    "Total_Votes": "0.00"
 },
 {
     "Candidate_First_Pref_Votes": "6007", 
@@ -1213,7 +1213,7 @@
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "13032", 
     "Count_Number": "7", 
-    "Transfers": "11", 
+    "Transfers": "11.00", 
     "id": 86, 
     "Total_Votes": "6228.46"
 },
@@ -1227,9 +1227,9 @@
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "19687", 
     "Count_Number": "7", 
-    "Transfers": "4", 
+    "Transfers": "4.00", 
     "id": 87, 
-    "Total_Votes": "4572.4"
+    "Total_Votes": "4572.40"
 },
 {
     "Candidate_First_Pref_Votes": "250", 
@@ -1241,9 +1241,9 @@
     "Party_Name": "Social Democratic and Labour Party", 
     "Candidate_Id": "19745", 
     "Count_Number": "7", 
-    "Transfers": "0", 
+    "Transfers": "0.00", 
     "id": 88, 
-    "Total_Votes": "0"
+    "Total_Votes": "0.00"
 },
 {
     "Candidate_First_Pref_Votes": "917", 
@@ -1255,9 +1255,9 @@
     "Party_Name": "Traditional Unionist Voice", 
     "Candidate_Id": "13035", 
     "Count_Number": "7", 
-    "Transfers": "0", 
+    "Transfers": "0.00", 
     "id": 89, 
-    "Total_Votes": "0"
+    "Total_Votes": "0.00"
 },
 {
     "Candidate_First_Pref_Votes": "2658", 
@@ -1269,7 +1269,7 @@
     "Party_Name": "Progressive Unionist Party", 
     "Candidate_Id": "13037", 
     "Count_Number": "7", 
-    "Transfers": "14", 
+    "Transfers": "14.00", 
     "id": 90, 
     "Total_Votes": "2950.28"
 },
@@ -1283,9 +1283,9 @@
     "Party_Name": "Alliance Party", 
     "Candidate_Id": "2454", 
     "Count_Number": "7", 
-    "Transfers": "0", 
+    "Transfers": "0.00", 
     "id": 91, 
-    "Total_Votes": "6727"
+    "Total_Votes": "6727.00"
 },
 {
     "Candidate_First_Pref_Votes": "5059", 
@@ -1311,9 +1311,9 @@
     "Party_Name": "Independent", 
     "Candidate_Id": "19746", 
     "Count_Number": "7", 
-    "Transfers": "0", 
+    "Transfers": "0.00", 
     "id": 93, 
-    "Total_Votes": "0"
+    "Total_Votes": "0.00"
 },
 {
     "Candidate_First_Pref_Votes": "1447", 
@@ -1339,7 +1339,7 @@
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "13040", 
     "Count_Number": "7", 
-    "Transfers": "3", 
+    "Transfers": "3.00", 
     "id": 95, 
     "Total_Votes": "4865.61"
 },
@@ -1353,9 +1353,9 @@
     "Party_Name": "Sinn Fein", 
     "Candidate_Id": "19680", 
     "Count_Number": "7", 
-    "Transfers": "-1235.1", 
+    "Transfers": "-1235.10", 
     "id": 96, 
-    "Total_Votes": "0"
+    "Total_Votes": "0.00"
 },
 {
     "Candidate_First_Pref_Votes": "442", 
@@ -1367,9 +1367,9 @@
     "Party_Name": "Cross-Community Labour Alternative", 
     "Candidate_Id": "13041", 
     "Count_Number": "7", 
-    "Transfers": "0", 
+    "Transfers": "0.00", 
     "id": 97, 
-    "Total_Votes": "0"
+    "Total_Votes": "0.00"
 },
 {
     "Candidate_First_Pref_Votes": "5275", 
@@ -1395,9 +1395,9 @@
     "Party_Name": "NI Conservatives", 
     "Candidate_Id": "19719", 
     "Count_Number": "8", 
-    "Transfers": "0", 
+    "Transfers": "0.00", 
     "id": 99, 
-    "Total_Votes": "0"
+    "Total_Votes": "0.00"
 },
 {
     "Candidate_First_Pref_Votes": "6007", 
@@ -1437,9 +1437,9 @@
     "Party_Name": "Social Democratic and Labour Party", 
     "Candidate_Id": "19745", 
     "Count_Number": "8", 
-    "Transfers": "0", 
+    "Transfers": "0.00", 
     "id": 102, 
-    "Total_Votes": "0"
+    "Total_Votes": "0.00"
 },
 {
     "Candidate_First_Pref_Votes": "917", 
@@ -1451,9 +1451,9 @@
     "Party_Name": "Traditional Unionist Voice", 
     "Candidate_Id": "13035", 
     "Count_Number": "8", 
-    "Transfers": "0", 
+    "Transfers": "0.00", 
     "id": 103, 
-    "Total_Votes": "0"
+    "Total_Votes": "0.00"
 },
 {
     "Candidate_First_Pref_Votes": "2658", 
@@ -1479,9 +1479,9 @@
     "Party_Name": "Alliance Party", 
     "Candidate_Id": "2454", 
     "Count_Number": "8", 
-    "Transfers": "0", 
+    "Transfers": "0.00", 
     "id": 105, 
-    "Total_Votes": "6727"
+    "Total_Votes": "6727.00"
 },
 {
     "Candidate_First_Pref_Votes": "5059", 
@@ -1493,7 +1493,7 @@
     "Party_Name": "Alliance Party", 
     "Candidate_Id": "13038", 
     "Count_Number": "8", 
-    "Transfers": "901", 
+    "Transfers": "901.00", 
     "id": 106, 
     "Total_Votes": "7268.87"
 },
@@ -1507,9 +1507,9 @@
     "Party_Name": "Independent", 
     "Candidate_Id": "19746", 
     "Count_Number": "8", 
-    "Transfers": "0", 
+    "Transfers": "0.00", 
     "id": 107, 
-    "Total_Votes": "0"
+    "Total_Votes": "0.00"
 },
 {
     "Candidate_First_Pref_Votes": "1447", 
@@ -1523,7 +1523,7 @@
     "Count_Number": "8", 
     "Transfers": "-2080.64", 
     "id": 108, 
-    "Total_Votes": "0"
+    "Total_Votes": "0.00"
 },
 {
     "Candidate_First_Pref_Votes": "4729", 
@@ -1549,9 +1549,9 @@
     "Party_Name": "Sinn Fein", 
     "Candidate_Id": "19680", 
     "Count_Number": "8", 
-    "Transfers": "0", 
+    "Transfers": "0.00", 
     "id": 110, 
-    "Total_Votes": "0"
+    "Total_Votes": "0.00"
 },
 {
     "Candidate_First_Pref_Votes": "442", 
@@ -1563,9 +1563,9 @@
     "Party_Name": "Cross-Community Labour Alternative", 
     "Candidate_Id": "13041", 
     "Count_Number": "8", 
-    "Transfers": "0", 
+    "Transfers": "0.00", 
     "id": 111, 
-    "Total_Votes": "0"
+    "Total_Votes": "0.00"
 },
 {
     "Candidate_First_Pref_Votes": "5275", 
@@ -1577,7 +1577,7 @@
     "Party_Name": "Ulster Unionist Party", 
     "Candidate_Id": "8116", 
     "Count_Number": "9", 
-    "Transfers": "1209", 
+    "Transfers": "1209.00", 
     "id": 112, 
     "Total_Votes": "7257.62"
 },
@@ -1591,9 +1591,9 @@
     "Party_Name": "NI Conservatives", 
     "Candidate_Id": "19719", 
     "Count_Number": "9", 
-    "Transfers": "0", 
+    "Transfers": "0.00", 
     "id": 113, 
-    "Total_Votes": "0"
+    "Total_Votes": "0.00"
 },
 {
     "Candidate_First_Pref_Votes": "6007", 
@@ -1605,7 +1605,7 @@
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "13032", 
     "Count_Number": "9", 
-    "Transfers": "484", 
+    "Transfers": "484.00", 
     "id": 114, 
     "Total_Votes": "6759.01"
 },
@@ -1633,9 +1633,9 @@
     "Party_Name": "Social Democratic and Labour Party", 
     "Candidate_Id": "19745", 
     "Count_Number": "9", 
-    "Transfers": "0", 
+    "Transfers": "0.00", 
     "id": 116, 
-    "Total_Votes": "0"
+    "Total_Votes": "0.00"
 },
 {
     "Candidate_First_Pref_Votes": "917", 
@@ -1647,9 +1647,9 @@
     "Party_Name": "Traditional Unionist Voice", 
     "Candidate_Id": "13035", 
     "Count_Number": "9", 
-    "Transfers": "0", 
+    "Transfers": "0.00", 
     "id": 117, 
-    "Total_Votes": "0"
+    "Total_Votes": "0.00"
 },
 {
     "Candidate_First_Pref_Votes": "2658", 
@@ -1663,7 +1663,7 @@
     "Count_Number": "9", 
     "Transfers": "-3148.79", 
     "id": 118, 
-    "Total_Votes": "0"
+    "Total_Votes": "0.00"
 },
 {
     "Candidate_First_Pref_Votes": "7610", 
@@ -1675,9 +1675,9 @@
     "Party_Name": "Alliance Party", 
     "Candidate_Id": "2454", 
     "Count_Number": "9", 
-    "Transfers": "0", 
+    "Transfers": "0.00", 
     "id": 119, 
-    "Total_Votes": "6727"
+    "Total_Votes": "6727.00"
 },
 {
     "Candidate_First_Pref_Votes": "5059", 
@@ -1689,7 +1689,7 @@
     "Party_Name": "Alliance Party", 
     "Candidate_Id": "13038", 
     "Count_Number": "9", 
-    "Transfers": "0", 
+    "Transfers": "0.00", 
     "id": 120, 
     "Total_Votes": "7268.87"
 },
@@ -1703,9 +1703,9 @@
     "Party_Name": "Independent", 
     "Candidate_Id": "19746", 
     "Count_Number": "9", 
-    "Transfers": "0", 
+    "Transfers": "0.00", 
     "id": 121, 
-    "Total_Votes": "0"
+    "Total_Votes": "0.00"
 },
 {
     "Candidate_First_Pref_Votes": "1447", 
@@ -1717,9 +1717,9 @@
     "Party_Name": "Green Party", 
     "Candidate_Id": "19699", 
     "Count_Number": "9", 
-    "Transfers": "0", 
+    "Transfers": "0.00", 
     "id": 122, 
-    "Total_Votes": "0"
+    "Total_Votes": "0.00"
 },
 {
     "Candidate_First_Pref_Votes": "4729", 
@@ -1745,9 +1745,9 @@
     "Party_Name": "Sinn Fein", 
     "Candidate_Id": "19680", 
     "Count_Number": "9", 
-    "Transfers": "0", 
+    "Transfers": "0.00", 
     "id": 124, 
-    "Total_Votes": "0"
+    "Total_Votes": "0.00"
 },
 {
     "Candidate_First_Pref_Votes": "442", 
@@ -1759,9 +1759,9 @@
     "Party_Name": "Cross-Community Labour Alternative", 
     "Candidate_Id": "13041", 
     "Count_Number": "9", 
-    "Transfers": "0", 
+    "Transfers": "0.00", 
     "id": 125, 
-    "Total_Votes": "0"
+    "Total_Votes": "0.00"
 },
 {
     "Candidate_First_Pref_Votes": "5275", 
@@ -1773,7 +1773,7 @@
     "Party_Name": "Ulster Unionist Party", 
     "Candidate_Id": "8116", 
     "Count_Number": "10", 
-    "Transfers": "0", 
+    "Transfers": "0.00", 
     "id": 126, 
     "Total_Votes": "7257.62"
 },
@@ -1787,9 +1787,9 @@
     "Party_Name": "NI Conservatives", 
     "Candidate_Id": "19719", 
     "Count_Number": "10", 
-    "Transfers": "0", 
+    "Transfers": "0.00", 
     "id": 127, 
-    "Total_Votes": "0"
+    "Total_Votes": "0.00"
 },
 {
     "Candidate_First_Pref_Votes": "6007", 
@@ -1801,7 +1801,7 @@
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "13032", 
     "Count_Number": "10", 
-    "Transfers": "0", 
+    "Transfers": "0.00", 
     "id": 128, 
     "Total_Votes": "6759.01"
 },
@@ -1815,7 +1815,7 @@
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "19687", 
     "Count_Number": "10", 
-    "Transfers": "98", 
+    "Transfers": "98.00", 
     "id": 129, 
     "Total_Votes": "5093.25"
 },
@@ -1829,9 +1829,9 @@
     "Party_Name": "Social Democratic and Labour Party", 
     "Candidate_Id": "19745", 
     "Count_Number": "10", 
-    "Transfers": "0", 
+    "Transfers": "0.00", 
     "id": 130, 
-    "Total_Votes": "0"
+    "Total_Votes": "0.00"
 },
 {
     "Candidate_First_Pref_Votes": "917", 
@@ -1843,9 +1843,9 @@
     "Party_Name": "Traditional Unionist Voice", 
     "Candidate_Id": "13035", 
     "Count_Number": "10", 
-    "Transfers": "0", 
+    "Transfers": "0.00", 
     "id": 131, 
-    "Total_Votes": "0"
+    "Total_Votes": "0.00"
 },
 {
     "Candidate_First_Pref_Votes": "2658", 
@@ -1857,9 +1857,9 @@
     "Party_Name": "Progressive Unionist Party", 
     "Candidate_Id": "13037", 
     "Count_Number": "10", 
-    "Transfers": "0", 
+    "Transfers": "0.00", 
     "id": 132, 
-    "Total_Votes": "0"
+    "Total_Votes": "0.00"
 },
 {
     "Candidate_First_Pref_Votes": "7610", 
@@ -1871,9 +1871,9 @@
     "Party_Name": "Alliance Party", 
     "Candidate_Id": "2454", 
     "Count_Number": "10", 
-    "Transfers": "0", 
+    "Transfers": "0.00", 
     "id": 133, 
-    "Total_Votes": "6727"
+    "Total_Votes": "6727.00"
 },
 {
     "Candidate_First_Pref_Votes": "5059", 
@@ -1887,7 +1887,7 @@
     "Count_Number": "10", 
     "Transfers": "-541.87", 
     "id": 134, 
-    "Total_Votes": "6727"
+    "Total_Votes": "6727.00"
 },
 {
     "Candidate_First_Pref_Votes": "84", 
@@ -1899,9 +1899,9 @@
     "Party_Name": "Independent", 
     "Candidate_Id": "19746", 
     "Count_Number": "10", 
-    "Transfers": "0", 
+    "Transfers": "0.00", 
     "id": 135, 
-    "Total_Votes": "0"
+    "Total_Votes": "0.00"
 },
 {
     "Candidate_First_Pref_Votes": "1447", 
@@ -1913,9 +1913,9 @@
     "Party_Name": "Green Party", 
     "Candidate_Id": "19699", 
     "Count_Number": "10", 
-    "Transfers": "0", 
+    "Transfers": "0.00", 
     "id": 136, 
-    "Total_Votes": "0"
+    "Total_Votes": "0.00"
 },
 {
     "Candidate_First_Pref_Votes": "4729", 
@@ -1927,7 +1927,7 @@
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "13040", 
     "Count_Number": "10", 
-    "Transfers": "65", 
+    "Transfers": "65.00", 
     "id": 137, 
     "Total_Votes": "5333.26"
 },
@@ -1941,9 +1941,9 @@
     "Party_Name": "Sinn Fein", 
     "Candidate_Id": "19680", 
     "Count_Number": "10", 
-    "Transfers": "0", 
+    "Transfers": "0.00", 
     "id": 138, 
-    "Total_Votes": "0"
+    "Total_Votes": "0.00"
 },
 {
     "Candidate_First_Pref_Votes": "442", 
@@ -1955,9 +1955,9 @@
     "Party_Name": "Cross-Community Labour Alternative", 
     "Candidate_Id": "13041", 
     "Count_Number": "10", 
-    "Transfers": "0", 
+    "Transfers": "0.00", 
     "id": 139, 
-    "Total_Votes": "0"
+    "Total_Votes": "0.00"
 },
 {
     "Candidate_First_Pref_Votes": "5275", 
@@ -1971,7 +1971,7 @@
     "Count_Number": "11", 
     "Transfers": "-530.62", 
     "id": 140, 
-    "Total_Votes": "6727"
+    "Total_Votes": "6727.00"
 },
 {
     "Candidate_First_Pref_Votes": "275", 
@@ -1983,9 +1983,9 @@
     "Party_Name": "NI Conservatives", 
     "Candidate_Id": "19719", 
     "Count_Number": "11", 
-    "Transfers": "0", 
+    "Transfers": "0.00", 
     "id": 141, 
-    "Total_Votes": "0"
+    "Total_Votes": "0.00"
 },
 {
     "Candidate_First_Pref_Votes": "6007", 
@@ -1997,7 +1997,7 @@
     "Party_Name": "Democratic Unionist Party", 
     "Candidate_Id": "13032", 
     "Count_Number": "11", 
-    "Transfers": "0", 
+    "Transfers": "0.00", 
     "id": 142, 
     "Total_Votes": "6759.01"
 },
@@ -2025,9 +2025,9 @@
     "Party_Name": "Social Democratic and Labour Party", 
     "Candidate_Id": "19745", 
     "Count_Number": "11", 
-    "Transfers": "0", 
+    "Transfers": "0.00", 
     "id": 144, 
-    "Total_Votes": "0"
+    "Total_Votes": "0.00"
 },
 {
     "Candidate_First_Pref_Votes": "917", 
@@ -2039,9 +2039,9 @@
     "Party_Name": "Traditional Unionist Voice", 
     "Candidate_Id": "13035", 
     "Count_Number": "11", 
-    "Transfers": "0", 
+    "Transfers": "0.00", 
     "id": 145, 
-    "Total_Votes": "0"
+    "Total_Votes": "0.00"
 },
 {
     "Candidate_First_Pref_Votes": "2658", 
@@ -2053,9 +2053,9 @@
     "Party_Name": "Progressive Unionist Party", 
     "Candidate_Id": "13037", 
     "Count_Number": "11", 
-    "Transfers": "0", 
+    "Transfers": "0.00", 
     "id": 146, 
-    "Total_Votes": "0"
+    "Total_Votes": "0.00"
 },
 {
     "Candidate_First_Pref_Votes": "7610", 
@@ -2067,9 +2067,9 @@
     "Party_Name": "Alliance Party", 
     "Candidate_Id": "2454", 
     "Count_Number": "11", 
-    "Transfers": "0", 
+    "Transfers": "0.00", 
     "id": 147, 
-    "Total_Votes": "6727"
+    "Total_Votes": "6727.00"
 },
 {
     "Candidate_First_Pref_Votes": "5059", 
@@ -2081,9 +2081,9 @@
     "Party_Name": "Alliance Party", 
     "Candidate_Id": "13038", 
     "Count_Number": "11", 
-    "Transfers": "0", 
+    "Transfers": "0.00", 
     "id": 148, 
-    "Total_Votes": "6727"
+    "Total_Votes": "6727.00"
 },
 {
     "Candidate_First_Pref_Votes": "84", 
@@ -2095,9 +2095,9 @@
     "Party_Name": "Independent", 
     "Candidate_Id": "19746", 
     "Count_Number": "11", 
-    "Transfers": "0", 
+    "Transfers": "0.00", 
     "id": 149, 
-    "Total_Votes": "0"
+    "Total_Votes": "0.00"
 },
 {
     "Candidate_First_Pref_Votes": "1447", 
@@ -2109,9 +2109,9 @@
     "Party_Name": "Green Party", 
     "Candidate_Id": "19699", 
     "Count_Number": "11", 
-    "Transfers": "0", 
+    "Transfers": "0.00", 
     "id": 150, 
-    "Total_Votes": "0"
+    "Total_Votes": "0.00"
 },
 {
     "Candidate_First_Pref_Votes": "4729", 
@@ -2137,9 +2137,9 @@
     "Party_Name": "Sinn Fein", 
     "Candidate_Id": "19680", 
     "Count_Number": "11", 
-    "Transfers": "0", 
+    "Transfers": "0.00", 
     "id": 152, 
-    "Total_Votes": "0"
+    "Total_Votes": "0.00"
 },
 {
     "Candidate_First_Pref_Votes": "442", 
@@ -2151,8 +2151,8 @@
     "Party_Name": "Cross-Community Labour Alternative", 
     "Candidate_Id": "13041", 
     "Count_Number": "11", 
-    "Transfers": "0", 
+    "Transfers": "0.00", 
     "id": 153, 
-    "Total_Votes": "0"
+    "Total_Votes": "0.00"
 }
 ]}}
